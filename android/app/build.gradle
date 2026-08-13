@@ -63,9 +63,10 @@ android {
 
     buildTypes {
         release {
-            // Use release signing only when a keystore is provided (CI env vars or local key.properties);
+            // Use release signing only when a keystore file actually exists (CI env vars or local key.properties);
             // otherwise fall back to debug signing so local/APK builds still work.
-            def hasKeystore = System.getenv("KEY_ALIAS") != null || keystoreProperties['storeFile'] != null
+            def releaseStoreFile = signingConfigs.release.storeFile
+            def hasKeystore = (releaseStoreFile != null && releaseStoreFile.exists()) || keystoreProperties['storeFile'] != null
             signingConfig hasKeystore ? signingConfigs.release : signingConfigs.debug
         }
     }

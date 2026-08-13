@@ -15,7 +15,7 @@ jobs:
       KEY_ALIAS: fulafiacbt
       KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
       KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
-      KEYSTORE_PATH: android/app/keystore.jks
+      KEYSTORE_PATH: ${{ github.workspace }}/android/app/keystore.jks
 
     steps:
       - name: Checkout Repository
