@@ -61,72 +61,72 @@ class AppColors {
   static bool isDark = true;
 
   static const _Palette _darkPalette = _Palette(
-    background: Color(0xFF0A1628),
-    surface: Color(0xFF111D35),
-    card: Color(0xFF162040),
-    glassBg: Color(0x331A2A50),
-    glassBorder: Color(0x3300D4FF),
+    background: Color(0xFF16120B),
+    surface: Color(0xFF1E1810),
+    card: Color(0xFF262012),
+    glassBg: Color(0x332B2313),
+    glassBorder: Color(0x33FFD700),
     foreground: Color(0xFFFFFFFF),
     textPrimary: Color(0xFFFFFFFF),
-    textSecondary: Color(0xFF8899BB),
-    textMuted: Color(0xFF556688),
-    muted: Color(0xFF1A2A50),
-    border: Color(0xFF1E3060),
-    divider: Color(0xFF1A2A50),
+    textSecondary: Color(0xFF8B7A55),
+    textMuted: Color(0xFF5C5344),
+    muted: Color(0xFF2B2313),
+    border: Color(0xFF3E321C),
+    divider: Color(0xFF2B2313),
     correctLight: Color(0x3300E676),
     incorrectLight: Color(0x33FF5252),
     warningLight: Color(0x33FFAB40),
     goldLight: Color(0x33FFD700),
-    xpLight: Color(0x33BB86FC),
-    streakLight: Color(0x33FF6B9D),
+    xpLight: Color(0x33FFD166),
+    streakLight: Color(0x33FFB300),
     coinsLight: Color(0x33FFD700),
-    sky: Color(0x3300D4FF),
-    peach: Color(0x33FF6B9D),
-    mint: Color(0x3300E676),
-    lavender: Color(0x33BB86FC),
+    sky: Color(0x33FFD700),
+    peach: Color(0x33FFB300),
+    mint: Color(0x33FFE566),
+    lavender: Color(0x33FFD700),
     darkGradient: LinearGradient(
-      colors: [Color(0xFF0A1628), Color(0xFF111D35)],
+      colors: [Color(0xFF16120B), Color(0xFF1E1810)],
       begin: Alignment.topCenter,
       end: Alignment.bottomCenter,
     ),
     glassGradient: LinearGradient(
-      colors: [Color(0x1A00D4FF), Color(0x0DFFFFFF)],
+      colors: [Color(0x1AFFD700), Color(0x0DFFFFFF)],
       begin: Alignment.topLeft,
       end: Alignment.bottomRight,
     ),
   );
 
   static const _Palette _lightPalette = _Palette(
-    background: Color(0xFFF3F6FB),
+    background: Color(0xFFFBF7EE),
     surface: Color(0xFFFFFFFF),
-    card: Color(0xFFE8EEF7),
-    glassBg: Color(0xFFEAF0FA),
-    glassBorder: Color(0x5900D4FF),
-    foreground: Color(0xFF0F1B33),
-    textPrimary: Color(0xFF0F1B33),
-    textSecondary: Color(0xFF516171),
-    textMuted: Color(0xFF8B98AE),
-    muted: Color(0xFFE2E9F4),
-    border: Color(0xFFD9E2F0),
-    divider: Color(0xFFE6ECF5),
+    card: Color(0xFFF4EBD7),
+    glassBg: Color(0xFFFFF6DE),
+    glassBorder: Color(0x59FFD700),
+    foreground: Color(0xFF241C0E),
+    textPrimary: Color(0xFF241C0E),
+    textSecondary: Color(0xFF6B5D3F),
+    textMuted: Color(0xFF978B6B),
+    muted: Color(0xFFF2E8CF),
+    border: Color(0xFFE4D5A8),
+    divider: Color(0xFFF0E7D0),
     correctLight: Color(0xFFE2F8EC),
     incorrectLight: Color(0xFFFFE9EA),
     warningLight: Color(0xFFFFF3E1),
     goldLight: Color(0xFFFFF4D8),
-    xpLight: Color(0xFFF2E9FF),
-    streakLight: Color(0xFFFFE9F2),
+    xpLight: Color(0xFFFFF0C4),
+    streakLight: Color(0xFFFFF0C4),
     coinsLight: Color(0xFFFFF4D8),
-    sky: Color(0xFFE0F6FF),
-    peach: Color(0xFFFFEAF2),
-    mint: Color(0xFFE2F8EC),
-    lavender: Color(0xFFF2E9FF),
+    sky: Color(0xFFFFF4D8),
+    peach: Color(0xFFFFEDCF),
+    mint: Color(0xFFFFFBE8),
+    lavender: Color(0xFFFFF6D8),
     darkGradient: LinearGradient(
-      colors: [Color(0xFFF6F9FE), Color(0xFFEDF2FA)],
+      colors: [Color(0xFFFFFBF1), Color(0xFFFFF5DE)],
       begin: Alignment.topCenter,
       end: Alignment.bottomCenter,
     ),
     glassGradient: LinearGradient(
-      colors: [Color(0x1400D4FF), Color(0x0DFFFFFF)],
+      colors: [Color(0x14FFD700), Color(0x0DFFFFFF)],
       begin: Alignment.topLeft,
       end: Alignment.bottomRight,
     ),
@@ -134,15 +134,15 @@ class AppColors {
 
   static _Palette get _c => isDark ? _darkPalette : _lightPalette;
 
-  // ── Primary (Cyan) ──
-  static const Color primary = Color(0xFF00D4FF);
-  static const Color primaryLight = Color(0xFF5CE1FF);
-  static const Color primaryDark = Color(0xFF0091B3);
-  static const Color onPrimary = Color(0xFF0A1628);
+  // ── Primary (Gold) ──
+  static const Color primary = Color(0xFFFFD700);
+  static const Color primaryLight = Color(0xFFFFE566);
+  static const Color primaryDark = Color(0xFFB8860B);
+  static const Color onPrimary = Color(0xFF241A00);
 
-  // ── Secondary (Pink) ──
-  static const Color secondary = Color(0xFFFF6B9D);
-  static const Color secondaryLight = Color(0xFFFF9DC2);
+  // ── Secondary (Amber) ──
+  static const Color secondary = Color(0xFFFFB300);
+  static const Color secondaryLight = Color(0xFFFFCA56);
 
   // ── Accent (Gold) ──
   static const Color accent = Color(0xFFFFD700);
@@ -180,9 +180,9 @@ class AppColors {
   // ── Gamification ──
   static const Color gold = Color(0xFFFFD700);
   static Color get goldLight => _c.goldLight;
-  static const Color xp = Color(0xFFBB86FC);
+  static const Color xp = Color(0xFFFFD166);
   static Color get xpLight => _c.xpLight;
-  static const Color streak = Color(0xFFFF6B9D);
+  static const Color streak = Color(0xFFFFB300);
   static Color get streakLight => _c.streakLight;
   static const Color coins = Color(0xFFFFD700);
   static Color get coinsLight => _c.coinsLight;
@@ -197,7 +197,7 @@ class AppColors {
   static Color get sky => _c.sky;
   static Color get mint => _c.mint;
   static Color get lavender => _c.lavender;
-  static const Color cardShadow = Color(0x1A00D4FF);
+  static const Color cardShadow = Color(0x1AFFD700);
 
   // ── Shadows ──
   static final List<BoxShadow> clayShadow = [
@@ -239,7 +239,7 @@ class AppColors {
 
   // ── Gradients ──
   static const LinearGradient primaryGradient = LinearGradient(
-    colors: [Color(0xFF00D4FF), Color(0xFF0091B3)],
+    colors: [Color(0xFFFFD700), Color(0xFFB8860B)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );
@@ -269,7 +269,7 @@ class AppColors {
   );
 
   static const LinearGradient xpGradient = LinearGradient(
-    colors: [Color(0xFFBB86FC), Color(0xFF9C64FC)],
+    colors: [Color(0xFFFFD166), Color(0xFFFFB300)],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
   );

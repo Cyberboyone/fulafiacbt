@@ -118,7 +118,7 @@ class _PracticeResultScreenState extends State<PracticeResultScreen> with Single
                 pw.Column(
                   crossAxisAlignment: pw.CrossAxisAlignment.start,
                   children: [
-                    pw.Text('CBT App - Practice Result', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 20, color: PdfColors.indigo700)),
+                    pw.Text('CBT App - Practice Result', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 20, color: PdfColors.amber700)),
                     pw.SizedBox(height: 4),
                     pw.Text('Powered by Fulafia CBT', style: pw.TextStyle(fontSize: 10, color: PdfColors.grey600)),
                   ],
@@ -133,7 +133,7 @@ class _PracticeResultScreenState extends State<PracticeResultScreen> with Single
               ],
             ),
             pw.SizedBox(height: 20),
-            pw.Divider(color: PdfColors.indigo200),
+            pw.Divider(color: PdfColors.amber200),
             pw.SizedBox(height: 12),
             pw.Container(
               padding: pw.EdgeInsets.all(12),
@@ -181,23 +181,23 @@ class _PracticeResultScreenState extends State<PracticeResultScreen> with Single
               child: pw.Container(
                 padding: pw.EdgeInsets.all(20),
                 decoration: pw.BoxDecoration(
-                  color: PdfColors.indigo50,
+                  color: PdfColors.amber50,
                   borderRadius: pw.BorderRadius.circular(12),
                 ),
                 child: pw.Column(
                   children: [
-                    pw.Text('$_scorePercentage%', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 48, color: PdfColors.indigo700)),
+                    pw.Text('$_scorePercentage%', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 48, color: PdfColors.amber700)),
                     pw.SizedBox(height: 4),
                     pw.Text(
                       _scorePercentage >= 80 ? 'Excellent!' : (_scorePercentage >= 60 ? 'Good Job!' : (_scorePercentage >= 45 ? 'Passed' : 'Keep Practicing')),
-                      style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 14, color: PdfColors.indigo700),
+                      style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 14, color: PdfColors.amber700),
                     ),
                   ],
                 ),
               ),
             ),
             pw.SizedBox(height: 20),
-            pw.Text('Session Summary', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 16, color: PdfColors.indigo700)),
+            pw.Text('Session Summary', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 16, color: PdfColors.amber700)),
             pw.SizedBox(height: 10),
             pw.Table.fromTextArray(
               headerStyle: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 11),

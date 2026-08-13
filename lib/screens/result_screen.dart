@@ -278,7 +278,7 @@ class _ResultScreenState extends State<ResultScreen> with SingleTickerProviderSt
                 pw.Column(
                   crossAxisAlignment: pw.CrossAxisAlignment.start,
                   children: [
-                    pw.Text('CBT App - Exam Result', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 20, color: PdfColors.indigo700)),
+                    pw.Text('CBT App - Exam Result', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 20, color: PdfColors.amber700)),
                     pw.SizedBox(height: 4),
                     pw.Text('Powered by Fulafia CBT', style: pw.TextStyle(fontSize: 10, color: PdfColors.grey600)),
                   ],
@@ -293,7 +293,7 @@ class _ResultScreenState extends State<ResultScreen> with SingleTickerProviderSt
               ],
             ),
             pw.SizedBox(height: 20),
-            pw.Divider(color: PdfColors.indigo200),
+            pw.Divider(color: PdfColors.amber200),
             pw.SizedBox(height: 12),
             pw.Container(
               padding: pw.EdgeInsets.all(12),
@@ -341,16 +341,16 @@ class _ResultScreenState extends State<ResultScreen> with SingleTickerProviderSt
               child: pw.Container(
                 padding: pw.EdgeInsets.all(20),
                 decoration: pw.BoxDecoration(
-                  color: isPerfect ? PdfColors.purple50 : (isPassed ? PdfColors.green50 : PdfColors.red50),
+                  color: isPerfect ? PdfColors.yellow50 : (isPassed ? PdfColors.green50 : PdfColors.red50),
                   borderRadius: pw.BorderRadius.circular(12),
                 ),
                 child: pw.Column(
                   children: [
-                    pw.Text('${widget.scorePercentage}%', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 48, color: PdfColors.indigo700)),
+                    pw.Text('${widget.scorePercentage}%', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 48, color: PdfColors.amber700)),
                     pw.SizedBox(height: 4),
                     pw.Text(
                       isPerfect ? 'PERFECT SCORE' : (isPassed ? 'PASSED' : 'RE-TAKE NEEDED'),
-                      style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 14, color: PdfColors.indigo700),
+                      style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 14, color: PdfColors.amber700),
                     ),
                     pw.SizedBox(height: 2),
                     pw.Text('Pass mark: ${AppConstants.passingScorePercentage}%', style: pw.TextStyle(fontSize: 10, color: PdfColors.grey600)),
@@ -359,7 +359,7 @@ class _ResultScreenState extends State<ResultScreen> with SingleTickerProviderSt
               ),
             ),
             pw.SizedBox(height: 20),
-            pw.Text('Exam Summary', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 16, color: PdfColors.indigo700)),
+            pw.Text('Exam Summary', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 16, color: PdfColors.amber700)),
             pw.SizedBox(height: 10),
             pw.Table.fromTextArray(
               headerStyle: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 11),
