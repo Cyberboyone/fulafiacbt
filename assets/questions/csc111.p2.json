@@ -1,0 +1,509 @@
+{
+  "course_name": "Introduction to Computer Science",
+  "questions": [
+    {
+      "id": "csc111_068",
+      "text": "The first electronic computer was designed and built at the University of Pennsylvania based on ___ technology.",
+      "options": ["Transistor", "Vacuum tube", "Integrated circuit", "Microprocessor"],
+      "correct_index": 1,
+      "explanation": "The first electronic computer was built using vacuum tube technology.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_069",
+      "text": "First generation computers were slow and large, and their main memory was made up of ___.",
+      "options": ["Magnetic cores", "Semiconductor chips", "Vacuum tubes", "Transistors"],
+      "correct_index": 2,
+      "explanation": "First generation main memory was made of vacuum tubes.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_070",
+      "text": "Second generation computers replaced vacuum tubes with ___.",
+      "options": ["Integrated circuits", "Transistors", "Microprocessors", "Vacuum tubes"],
+      "correct_index": 3,
+      "explanation": "Transistors replaced vacuum tubes in the second generation.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_071",
+      "text": "Third generation computers used ___ instead of transistorized circuitry.",
+      "options": ["Integrated circuits", "Vacuum tubes", "Magnetic drums", "Light bulbs"],
+      "correct_index": 0,
+      "explanation": "Integrated circuits replaced transistors in the third generation.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_072",
+      "text": "Fourth generation computers were based on the ___.",
+      "options": ["Integrated circuit", "Vacuum tube", "Microprocessor", "Transistor"],
+      "correct_index": 1,
+      "explanation": "The microprocessor powered fourth generation computers.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_073",
+      "text": "Fifth generation computers are based on ___.",
+      "options": ["Artificial intelligence", "Vacuum tubes", "Punch cards", "Magnetic cores"],
+      "correct_index": 2,
+      "explanation": "Fifth generation computers are based on artificial intelligence.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_074",
+      "text": "Which generation of computers used punched cards for input and magnetic tapes for output?",
+      "options": ["Second", "Third", "First", "Fourth"],
+      "correct_index": 3,
+      "explanation": "First generation computers used punched cards and magnetic tapes.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_075",
+      "text": "High-level languages such as FORTRAN and COBOL were first used in the ___ generation.",
+      "options": ["Second", "Fourth", "Fifth", "Third"],
+      "correct_index": 0,
+      "explanation": "High-level languages such as FORTRAN and COBOL appeared in the second generation.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_076",
+      "text": "A computer accepts data as input and processes it according to a prearranged sequence of instructions called a ___.",
+      "options": ["Cable", "Chip", "Program", "Port"],
+      "correct_index": 2,
+      "explanation": "The instructions a computer follows are called a program.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_077",
+      "text": "Raw facts and figures that on their own have no meaning are called ___.",
+      "options": ["Information", "Output", "Results", "Data"],
+      "correct_index": 3,
+      "explanation": "Data are raw facts and figures that have no meaning by themselves.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_078",
+      "text": "Data that has been processed within a context to give it meaning is called ___.",
+      "options": ["Information", "Input", "Raw data", "Symbols"],
+      "correct_index": 0,
+      "explanation": "Processed data with meaning is information.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_079",
+      "text": "Which of the following is a characteristic of a computer system?",
+      "options": ["Boredom", "Speed", "Tiredness", "IQ"],
+      "correct_index": 1,
+      "explanation": "Speed is one of the common characteristics of a computer system.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_080",
+      "text": "The ability of a computer to perform different types of work is known as ___.",
+      "options": ["Diligence", "Accuracy", "Versatility", "Storage"],
+      "correct_index": 2,
+      "explanation": "Versatility lets one computer perform many different types of work.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_081",
+      "text": "Computers have no ___ of their own.",
+      "options": ["Speed", "Storage", "Memory", "IQ"],
+      "correct_index": 3,
+      "explanation": "Computers do not possess IQ of their own.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_082",
+      "text": "The fastest and most powerful type of computer is the ___.",
+      "options": ["Supercomputer", "Mainframe", "Minicomputer", "Microcomputer"],
+      "correct_index": 0,
+      "explanation": "Supercomputers are the fastest and most powerful computers.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_083",
+      "text": "The chief difference between a supercomputer and a mainframe is that a supercomputer channels all its power into executing ___ as fast as possible.",
+      "options": ["Hundreds of programs", "A few programs", "Data entry tasks", "Printing jobs"],
+      "correct_index": 1,
+      "explanation": "A supercomputer focuses its power on executing a few programs as fast as possible.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_084",
+      "text": "Which computer is a large multi-user system that supports hundreds or thousands of users simultaneously?",
+      "options": ["Microcomputer", "Supercomputer", "Mainframe", "Minicomputer"],
+      "correct_index": 2,
+      "explanation": "Mainframes support hundreds or thousands of users at the same time.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_085",
+      "text": "IBM PC, PS/2 and Apple Macintosh are examples of ___.",
+      "options": ["Mainframes", "Minicomputers", "Supercomputers", "Microcomputers"],
+      "correct_index": 3,
+      "explanation": "IBM PC, PS/2 and Apple Macintosh are examples of microcomputers.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_086",
+      "text": "A microcomputer uses a ___ as its central processing unit.",
+      "options": ["Microprocessor", "Mainframe", "Mail server", "Main memory"],
+      "correct_index": 0,
+      "explanation": "Microcomputers use a microprocessor as their central processing unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_087",
+      "text": "Which type of computer works on numerical data represented by a physical quantity that varies continuously, such as temperature?",
+      "options": ["Digital", "Analog", "Hybrid", "General purpose"],
+      "correct_index": 1,
+      "explanation": "Analog computers measure continuously varying physical quantities.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_088",
+      "text": "Digital computers represent data in ___.",
+      "options": ["Letters and words", "Colors and shades", "0s and 1s", "Musical notes"],
+      "correct_index": 2,
+      "explanation": "Digital computers represent data in binary form using 0s and 1s.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_089",
+      "text": "Which type of computer combines the features of both analog and digital computers?",
+      "options": ["Analog", "Digital", "Micro", "Hybrid"],
+      "correct_index": 3,
+      "explanation": "Hybrid computers combine both analog and digital features.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_090",
+      "text": "A computer designed to perform one specific task and whose program is permanently stored is a ___.",
+      "options": ["Special purpose computer", "General purpose computer", "Microcomputer", "Mainframe"],
+      "correct_index": 0,
+      "explanation": "Special purpose computers perform one specific task.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_091",
+      "text": "Software is a collection of related ___ chained together in function and operation.",
+      "options": ["Programs", "Cables", "Chips", "Ports"],
+      "correct_index": 0,
+      "explanation": "Software is a collection of related programs.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_092",
+      "text": "Computer software is broadly categorized into system software and ___ software.",
+      "options": ["Application", "Utility", "Security", "Network"],
+      "correct_index": 1,
+      "explanation": "The two main categories are system software and application software.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_093",
+      "text": "Software that instructs the computer to perform the tasks necessary to get a job done is ___.",
+      "options": ["System software", "Driver software", "Application software", "Firmware"],
+      "correct_index": 2,
+      "explanation": "Application software helps the computer get jobs done.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_094",
+      "text": "Which type of software controls the performance and function of the computer system?",
+      "options": ["Application software", "Game software", "Web software", "System software"],
+      "correct_index": 3,
+      "explanation": "System software controls the performance and functions of the computer.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_095",
+      "text": "An operating system acts as an interface between the user and the ___.",
+      "options": ["Hardware", "Printer", "Keyboard", "Monitor"],
+      "correct_index": 0,
+      "explanation": "The operating system is the interface between the user and the hardware.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_096",
+      "text": "The process of starting or restarting a computer is called ___.",
+      "options": ["Booting", "Formatting", "Driving", "Charging"],
+      "correct_index": 1,
+      "explanation": "Starting or restarting a computer is called booting.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_097",
+      "text": "GUI stands for ___.",
+      "options": ["Graphical User Interface", "General User Instruction", "Graphic Utility Icon", "Global User Index"],
+      "correct_index": 2,
+      "explanation": "GUI is Graphical User Interface.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_098",
+      "text": "With a graphical user interface, the user interacts with ___.",
+      "options": ["Commands only", "Punch cards", "Binary codes", "Menus and visual images"],
+      "correct_index": 3,
+      "explanation": "A GUI allows interaction through menus and visual images.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_099",
+      "text": "Which type of interface requires a user to type instructions on the keyboard?",
+      "options": ["Command-line interface", "Graphical interface", "Touch interface", "Gesture interface"],
+      "correct_index": 0,
+      "explanation": "A command-line interface requires the user to type commands.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_100",
+      "text": "Memory management optimizes the use of ___.",
+      "options": ["Hard disk space", "RAM", "CD-ROMs", "Printers"],
+      "correct_index": 1,
+      "explanation": "Memory management optimizes the use of RAM.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_101",
+      "text": "Virtual memory is a portion of a storage medium functioning as additional ___.",
+      "options": ["RAM", "ROM", "Cache", "Firmware"],
+      "correct_index": 0,
+      "explanation": "Virtual memory serves as additional RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_102",
+      "text": "A program that assesses and reports information about various computer resources and devices is a ___.",
+      "options": ["Performance monitor", "Virus scanner", "Web browser", "File compression utility"],
+      "correct_index": 1,
+      "explanation": "A performance monitor reports on computer resources and devices.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_103",
+      "text": "A password is a private combination of ___ associated with the user name.",
+      "options": ["Pictures", "Icons", "Characters", "Colors"],
+      "correct_index": 2,
+      "explanation": "A password is a private combination of characters.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_104",
+      "text": "Which operating system organizes and coordinates how multiple users access and share resources on a network?",
+      "options": ["Embedded OS", "Stand-alone OS", "Mobile OS", "Server operating system"],
+      "correct_index": 3,
+      "explanation": "A server operating system coordinates resource sharing on a network.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_105",
+      "text": "Windows 7 and Mac OS X are examples of ___ operating systems.",
+      "options": ["Stand-alone", "Server", "Network", "Embedded"],
+      "correct_index": 0,
+      "explanation": "Windows 7 and Mac OS X are stand-alone operating systems.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_106",
+      "text": "An embedded operating system resides on a ___ chip on a mobile device.",
+      "options": ["RAM", "ROM", "GPU", "CPU"],
+      "correct_index": 1,
+      "explanation": "Embedded operating systems reside on ROM chips.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_107",
+      "text": "A utility program is a type of system software that allows a user to perform ___ tasks.",
+      "options": ["Typing", "Gaming", "Maintenance-type", "Accounting"],
+      "correct_index": 2,
+      "explanation": "Utility programs allow users to perform maintenance-type tasks.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_108",
+      "text": "Which utility performs functions such as copying, renaming, deleting and moving files?",
+      "options": ["Disk defragmenter", "Screen saver", "Media player", "File manager"],
+      "correct_index": 3,
+      "explanation": "A file manager handles file organization tasks.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_109",
+      "text": "Which utility searches for and removes unnecessary files from a hard disk?",
+      "options": ["Disk cleanup", "Backup utility", "Uninstaller", "Compression utility"],
+      "correct_index": 0,
+      "explanation": "Disk cleanup removes unnecessary files from a hard disk.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_110",
+      "text": "A disk defragmenter ___.",
+      "options": ["Deletes all files", "Reorganizes files and unused space for faster access", "Installs programs", "Prints documents"],
+      "correct_index": 1,
+      "explanation": "Defragmenting reorganizes files so data is accessed more quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_111",
+      "text": "Which utility allows users to copy files to another storage medium?",
+      "options": ["Screen saver", "Firewall", "Backup utility", "Media player"],
+      "correct_index": 2,
+      "explanation": "A backup utility copies files to another storage medium.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_112",
+      "text": "A file compression utility ___.",
+      "options": ["Expands file size", "Deletes files", "Encrypts files", "Shrinks the size of files"],
+      "correct_index": 3,
+      "explanation": "File compression shrinks the size of files.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_113",
+      "text": "Compressed files are sometimes called ___ files.",
+      "options": ["Zipped", "Frozen", "Locked", "Packed"],
+      "correct_index": 0,
+      "explanation": "Compressed files are sometimes called zipped files.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_114",
+      "text": "A screen saver causes the screen to show a moving image or blank screen if ___.",
+      "options": ["A file is printed", "No activity occurs for a specified time", "The computer boots", "A program is installed"],
+      "correct_index": 1,
+      "explanation": "Screen savers appear after a specified period of inactivity.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_115",
+      "text": "Which utility removes a program as well as its associated entries in the system files?",
+      "options": ["Installer", "Defragmenter", "Uninstaller", "Firewall"],
+      "correct_index": 2,
+      "explanation": "An uninstaller removes a program and its system file entries.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_116",
+      "text": "A personal firewall detects and protects a personal computer from ___.",
+      "options": ["Heat", "Dust", "Power surges", "Unauthorized intrusions"],
+      "correct_index": 3,
+      "explanation": "A personal firewall blocks unauthorized intrusions.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_117",
+      "text": "Word processing software allows users to ___.",
+      "options": ["Create and manipulate documents", "Edit photos", "Play videos", "Design websites"],
+      "correct_index": 0,
+      "explanation": "Word processing software creates and manipulates documents.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_118",
+      "text": "Spreadsheet software allows users to organize data in ___.",
+      "options": ["Paragraphs", "Rows and columns", "Slides", "Cubes"],
+      "correct_index": 1,
+      "explanation": "Spreadsheets organize data in rows and columns.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_119",
+      "text": "In a spreadsheet, a predefined formula that performs common calculations is called a ___.",
+      "options": ["Macro", "Chart", "Function", "Filter"],
+      "correct_index": 2,
+      "explanation": "A function is a predefined formula for common calculations.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_120",
+      "text": "Which application software allows users to create, access and manage a database?",
+      "options": ["Word processor", "Spreadsheet", "Presentation software", "Database software"],
+      "correct_index": 3,
+      "explanation": "Database software allows users to manage a database.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_121",
+      "text": "Presentation software allows users to create ___.",
+      "options": ["Visual aids for presentations", "Database tables", "Spreadsheet formulas", "Machine code"],
+      "correct_index": 0,
+      "explanation": "Presentation software creates visual aids for presentations.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_122",
+      "text": "A software suite is ___.",
+      "options": ["A single program", "A collection of individual programs available together as a unit", "A type of hardware", "A web page"],
+      "correct_index": 1,
+      "explanation": "A software suite is a collection of programs sold together as a unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_123",
+      "text": "Batch operating systems were designed to control ___ computers.",
+      "options": ["Micro", "Embedded", "Mainframe", "Handheld"],
+      "correct_index": 2,
+      "explanation": "Batch operating systems were designed to control mainframe computers.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_124",
+      "text": "In a time-sharing system, each job is allocated a ___ to use a resource.",
+      "options": ["Whole day", "Extra memory", "Separate disk", "Portion of time"],
+      "correct_index": 3,
+      "explanation": "Time-sharing allocates each job a portion of time to use a resource.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_125",
+      "text": "An operating system that supports two or more processors running programs at the same time is called a ___ operating system.",
+      "options": ["Multiprocessing", "Multiuser", "Multiprogramming", "Multithreading"],
+      "correct_index": 0,
+      "explanation": "A multiprocessing operating system supports two or more processors.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_126",
+      "text": "In distributed systems, jobs are shared between ___.",
+      "options": ["A single computer", "Printers", "Computers that may be thousands of miles apart", "Monitors"],
+      "correct_index": 2,
+      "explanation": "Distributed systems share jobs between computers that may be far apart.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_127",
+      "text": "Which system software defines, creates and maintains a database?",
+      "options": ["Driver", "OS", "Antivirus", "DBMS"],
+      "correct_index": 3,
+      "explanation": "A DBMS defines, creates and maintains databases.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_128",
+      "text": "SQL stands for ___.",
+      "options": ["Structured Query Language", "Structured Quantity Language", "System Query Locator", "Structured Query Locator"],
+      "correct_index": 0,
+      "explanation": "SQL is Structured Query Language.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_129",
+      "text": "The activity of setting up software to work with the computer, printer and other hardware is called ___.",
+      "options": ["Manipulation", "Installation", "Uploading", "Formatting"],
+      "correct_index": 1,
+      "explanation": "Installation sets up software to work with computer hardware.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_130",
+      "text": "Microsoft Word, Excel and PowerPoint are examples of ___.",
+      "options": ["Operating systems", "Drivers", "Application software", "Utilities"],
+      "correct_index": 2,
+      "explanation": "Microsoft Word, Excel and PowerPoint are application software.",
+      "difficulty": 1
+    }
+  ]
+}

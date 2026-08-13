@@ -1,0 +1,2607 @@
+{
+  "course_id": "bly111",
+  "course_name": "General Biology I",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "bly111_001",
+      "text": "Which organelle is known as the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Chloroplast",
+        "Ribosome"
+      ],
+      "correct_index": 1,
+      "explanation": "Mitochondria produce ATP, the energy currency of the cell, through oxidative phosphorylation.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_002",
+      "text": "The site of photosynthesis in plant cells is the?",
+      "options": [
+        "Golgi body",
+        "Lysosome",
+        "Chloroplast",
+        "Mitochondrion"
+      ],
+      "correct_index": 2,
+      "explanation": "Chloroplasts are the organelles where photosynthesis takes place.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_003",
+      "text": "According to the cell theory, all organisms are composed of one or more?",
+      "options": [
+        "Cells",
+        "Organs",
+        "Tissues",
+        "Molecules"
+      ],
+      "correct_index": 0,
+      "explanation": "The cell theory states that all organisms are made of cells.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_004",
+      "text": "The cell theory states that new cells arise only by?",
+      "options": [
+        "Spontaneous generation",
+        "Fusion of gametes",
+        "Division of a previously existing cell",
+        "Chemical reactions in water"
+      ],
+      "correct_index": 2,
+      "explanation": "Cells arise only by division of a previously existing cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_005",
+      "text": "The basic structural and functional unit of a living organism is the?",
+      "options": [
+        "Tissue",
+        "Cell",
+        "Organ",
+        "Organelle"
+      ],
+      "correct_index": 1,
+      "explanation": "The cell is the basic structural and functional unit of life.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_006",
+      "text": "Which of the following is the genetic material of the cell?",
+      "options": [
+        "DNA",
+        "RNA only",
+        "Protein",
+        "Lipid"
+      ],
+      "correct_index": 0,
+      "explanation": "DNA is the genetic material that carries hereditary information.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_007",
+      "text": "Which cell component synthesizes proteins?",
+      "options": [
+        "Golgi body",
+        "Lysosome",
+        "Nucleolus",
+        "Ribosomes"
+      ],
+      "correct_index": 3,
+      "explanation": "Ribosomes are the site of protein synthesis in the cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_008",
+      "text": "The jelly-like fluid inside the cell in which organelles are found is the?",
+      "options": [
+        "Cell sap",
+        "Cytosol only",
+        "Cytoplasm",
+        "Matrix"
+      ],
+      "correct_index": 2,
+      "explanation": "Cytoplasm consists of the jelly-like cytosol plus the cellular components.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_009",
+      "text": "Which four components are common to ALL cells?",
+      "options": [
+        "Cell wall, nucleus, DNA and ribosomes",
+        "Plasma membrane, cytoplasm, DNA and ribosomes",
+        "Capsule, flagellum, pili and plasmid",
+        "Nucleus, mitochondria, chloroplast and vacuole"
+      ],
+      "correct_index": 1,
+      "explanation": "All cells share a plasma membrane, cytoplasm, DNA and ribosomes.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_010",
+      "text": "The outer covering that separates a cell's interior from its surrounding environment is the?",
+      "options": [
+        "Plasma membrane",
+        "Cell wall",
+        "Capsule",
+        "Cuticle"
+      ],
+      "correct_index": 0,
+      "explanation": "The plasma membrane is the outer covering that separates the cell interior from its environment.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_011",
+      "text": "Prokaryotic cells lack a true?",
+      "options": [
+        "Mitochondrion",
+        "Cell membrane",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correct_index": 2,
+      "explanation": "Prokaryotes lack a true nucleus; their DNA lies free in the cytoplasm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_012",
+      "text": "The bacterial cell wall is made of which glycoprotein complex?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Lipid",
+        "Murein"
+      ],
+      "correct_index": 3,
+      "explanation": "The bacterial cell wall is made of murein, also called peptidoglycan.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_013",
+      "text": "Which bacterial structure is very useful for genetic engineering?",
+      "options": [
+        "Plasmid",
+        "Mesosome",
+        "Capsule",
+        "Pilus"
+      ],
+      "correct_index": 0,
+      "explanation": "Plasmids are small circular DNA molecules used in genetic engineering.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_014",
+      "text": "Hair-like protein appendages that help bacterial cells adhere to surfaces are called?",
+      "options": [
+        "Flagella",
+        "Pili",
+        "Capsules",
+        "Plasmids"
+      ],
+      "correct_index": 1,
+      "explanation": "Pili are hair-like proteinaceous appendages that help bacteria stick to surfaces and to each other.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_015",
+      "text": "The thick polysaccharide layer found outside the bacterial cell wall is the?",
+      "options": [
+        "Flagellum",
+        "Pilus",
+        "Mesosome",
+        "Capsule"
+      ],
+      "correct_index": 3,
+      "explanation": "The capsule is a thick polysaccharide layer outside the cell wall of bacteria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_016",
+      "text": "A mass of sticky bacterial cells formed when many capsules fuse together is a?",
+      "options": [
+        "Colony",
+        "Tissue",
+        "Biofilm",
+        "Spore"
+      ],
+      "correct_index": 2,
+      "explanation": "When capsules of many cells fuse together they form a sticky mass called a biofilm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_017",
+      "text": "The flagellum of a prokaryotic cell moves the cell forward by?",
+      "options": [
+        "Beating like an oar",
+        "Rotating in a corkscrew motion",
+        "Squirming",
+        "Jumping"
+      ],
+      "correct_index": 1,
+      "explanation": "The bacterial flagellum rotates in a corkscrew motion that drives the cell forward.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_018",
+      "text": "Mesosomes are formed by infoldings of the?",
+      "options": [
+        "Plasma membrane",
+        "Cell wall",
+        "Nuclear membrane",
+        "Capsule"
+      ],
+      "correct_index": 0,
+      "explanation": "Mesosomes are folded invaginations of the prokaryotic plasma membrane.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_019",
+      "text": "The photosynthetic pigments found in phototrophic bacteria are called?",
+      "options": [
+        "Chlorophyll a",
+        "Bacteriochlorophylls",
+        "Carotenes",
+        "Anthocyanins"
+      ],
+      "correct_index": 1,
+      "explanation": "Bacteriochlorophylls are the photosynthetic pigments of phototrophic bacteria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_020",
+      "text": "The ribosomes of prokaryotic cells are of which type?",
+      "options": [
+        "80S",
+        "60S",
+        "70S",
+        "40S"
+      ],
+      "correct_index": 2,
+      "explanation": "Prokaryotic ribosomes are the smaller 70S type made of 50S and 30S subunits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_021",
+      "text": "The genetic material of a prokaryotic cell consists of?",
+      "options": [
+        "Linear DNA associated with histones",
+        "Circular double-stranded DNA not associated with proteins",
+        "RNA only",
+        "Only plasmids"
+      ],
+      "correct_index": 1,
+      "explanation": "Prokaryotic genetic material is circular double-stranded DNA lying free in the cytoplasm.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_022",
+      "text": "Prokaryotes appeared on Earth approximately how many years ago?",
+      "options": [
+        "About 3500 million years ago",
+        "About 500 million years ago",
+        "About 100 million years ago",
+        "About 50 million years ago"
+      ],
+      "correct_index": 0,
+      "explanation": "Prokaryotes appeared about 3500 million years ago.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_023",
+      "text": "The hallmark of eukaryotic cells is?",
+      "options": [
+        "Lack of a nucleus",
+        "Compartmentalization",
+        "Absence of organelles",
+        "Cell walls made of murein"
+      ],
+      "correct_index": 1,
+      "explanation": "Eukaryotic cells are characterized by compartmentalization into membrane-bounded organelles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_024",
+      "text": "Protista, fungi, plants and animals are all made up of?",
+      "options": [
+        "Prokaryotic cells",
+        "Virus particles",
+        "Eukaryotic cells",
+        "Bacterial cells"
+      ],
+      "correct_index": 2,
+      "explanation": "Protists, fungi, plants and animals are all composed of eukaryotic cells.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_025",
+      "text": "The control center of the eukaryotic cell is the?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "correct_index": 0,
+      "explanation": "The nucleus is the control center that regulates the activities of the cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_026",
+      "text": "The nucleolus is the site of synthesis of?",
+      "options": [
+        "Lipids",
+        "ATP",
+        "Cellulose",
+        "Ribosomal RNA and ribosomal subunits"
+      ],
+      "correct_index": 3,
+      "explanation": "The nucleolus synthesizes ribosomal RNA and ribosomal subunits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_027",
+      "text": "Which structure encloses and separates the contents of the nucleus from the rest of the cell?",
+      "options": [
+        "Plasma membrane",
+        "Nuclear envelope",
+        "Tonoplast",
+        "Cell wall"
+      ],
+      "correct_index": 1,
+      "explanation": "The nuclear envelope (nuclear membrane) encloses the contents of the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_028",
+      "text": "Nuclear pores in the nuclear membrane enable substances to?",
+      "options": [
+        "Keep the nucleus rigid",
+        "Be produced in the nucleus",
+        "Pass into and out of the nucleus",
+        "Form ribosomes"
+      ],
+      "correct_index": 2,
+      "explanation": "Nuclear pores allow substances such as nutrients and waste to move in and out of the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_029",
+      "text": "Which organelle is studded with ribosomes and is the site of protein synthesis?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi body",
+        "Lysosome"
+      ],
+      "correct_index": 0,
+      "explanation": "The rough ER carries ribosomes on its surface and is the site of protein synthesis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_030",
+      "text": "The rough endoplasmic reticulum is rough because of the presence of?",
+      "options": [
+        "Proteins",
+        "Vesicles",
+        "Nuclei",
+        "Ribosomes"
+      ],
+      "correct_index": 3,
+      "explanation": "Ribosomes attached to its surface make the rough ER appear rough.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_031",
+      "text": "Lipid synthesis and drug detoxification occur in the?",
+      "options": [
+        "Rough ER",
+        "Smooth ER",
+        "Golgi body",
+        "Lysosome"
+      ],
+      "correct_index": 1,
+      "explanation": "The smooth ER is the site of lipid synthesis, glycogenolysis and drug detoxification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_032",
+      "text": "The endoplasmic reticulum is connected to which membrane structure?",
+      "options": [
+        "Cell wall",
+        "Vacuole",
+        "Nuclear envelope",
+        "Chloroplast"
+      ],
+      "correct_index": 2,
+      "explanation": "The ER membrane is connected with the nuclear envelope.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_033",
+      "text": "Which organelle packages and sorts proteins for secretion?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosome",
+        "Nucleolus",
+        "Chloroplast"
+      ],
+      "correct_index": 0,
+      "explanation": "The Golgi apparatus packages, processes and sorts secretory materials.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_034",
+      "text": "Lysosomes are organelles that contain?",
+      "options": [
+        "Chlorophyll",
+        "Starch grains",
+        "DNA",
+        "Hydrolytic enzymes"
+      ],
+      "correct_index": 3,
+      "explanation": "Lysosomes contain numerous hydrolytic enzymes that digest materials.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_035",
+      "text": "Lysosomes originate from the?",
+      "options": [
+        "Nucleus",
+        "Golgi bodies",
+        "Ribosomes",
+        "Mitochondria"
+      ],
+      "correct_index": 1,
+      "explanation": "Lysosomes originate from the Golgi bodies.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_036",
+      "text": "Which organelle is bounded by a double membrane, the inner one folded into cristae?",
+      "options": [
+        "Nucleus",
+        "Lysosome",
+        "Mitochondrion",
+        "Vacuole"
+      ],
+      "correct_index": 2,
+      "explanation": "Mitochondria have double membranes; the inner membrane is folded into cristae.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_037",
+      "text": "ATP is produced mainly in which organelle?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Golgi body",
+        "Cell wall"
+      ],
+      "correct_index": 0,
+      "explanation": "Mitochondria synthesize ATP by oxidative phosphorylation.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_038",
+      "text": "The mitochondrial matrix contains?",
+      "options": [
+        "Cellulose",
+        "Chlorophyll",
+        "Tonoplast",
+        "Circular DNA and 55S ribosomes"
+      ],
+      "correct_index": 3,
+      "explanation": "The mitochondrial matrix contains lipids, proteins, circular mtDNA and 55S ribosomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_039",
+      "text": "Which organelles are described as semi-autonomous because they can synthesize some of their own proteins?",
+      "options": [
+        "Ribosomes and lysosomes",
+        "Mitochondria and chloroplasts",
+        "Golgi and ER",
+        "Nucleus and nucleolus"
+      ],
+      "correct_index": 1,
+      "explanation": "Mitochondria and chloroplasts are semi-autonomous because they synthesize some of their own proteins.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_040",
+      "text": "The membrane enclosing each vacuole is called the?",
+      "options": [
+        "Plasmalemma",
+        "Nuclear envelope",
+        "Tonoplast",
+        "Cell wall"
+      ],
+      "correct_index": 2,
+      "explanation": "The vacuolar membrane is called the tonoplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_041",
+      "text": "Which cell structure maintains turgor pressure inside plant cells?",
+      "options": [
+        "Vacuole",
+        "Ribosome",
+        "Golgi body",
+        "Nucleolus"
+      ],
+      "correct_index": 0,
+      "explanation": "The vacuole maintains turgor pressure which keeps plant cells rigid.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_042",
+      "text": "Anthocyanins, the pigments responsible for red, blue and purple colors of flowers, are found in?",
+      "options": [
+        "Mitochondria",
+        "Chloroplasts",
+        "Cell walls",
+        "Vacuoles"
+      ],
+      "correct_index": 3,
+      "explanation": "Anthocyanin pigments are sometimes present in cell vacuoles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_043",
+      "text": "Cell sap, found inside vacuoles, is a solution of?",
+      "options": [
+        "Cellulose and lignin",
+        "Salts, sugars and organic acids",
+        "Proteins only",
+        "Murein"
+      ],
+      "correct_index": 1,
+      "explanation": "Cell sap is a solution of salts, sugars and organic acids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_044",
+      "text": "Tiny strands of cytoplasm that pass through pores in plant cell walls, connecting adjacent cells, are called?",
+      "options": [
+        "Pili",
+        "Flagella",
+        "Plasmodesmata",
+        "Tonoplasts"
+      ],
+      "correct_index": 2,
+      "explanation": "Plasmodesmata are cytoplasmic strands that pass through pores connecting adjacent plant cells.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_045",
+      "text": "The plant cell wall is made of?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Murein",
+        "Glycogen"
+      ],
+      "correct_index": 0,
+      "explanation": "Plant cell walls are made of cellulose.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_046",
+      "text": "The fungal cell wall is made of?",
+      "options": [
+        "Cellulose",
+        "Murein",
+        "Pectin",
+        "Chitin"
+      ],
+      "correct_index": 3,
+      "explanation": "Fungal cell walls contain chitin.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_047",
+      "text": "A plant cell can be divided into two main parts, which are?",
+      "options": [
+        "Nucleus and cytoplasm",
+        "Nucleus and cell wall",
+        "Cell wall and protoplast",
+        "Cytoplasm and vacuole"
+      ],
+      "correct_index": 2,
+      "explanation": "The plant cell is divided into the cell wall and the protoplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_048",
+      "text": "The plasma membrane is a?",
+      "options": [
+        "Protein monolayer",
+        "Polysaccharide layer",
+        "Phospholipid bilayer",
+        "Cellulose layer"
+      ],
+      "correct_index": 2,
+      "explanation": "The plasma membrane is a flexible phospholipid bilayer.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_049",
+      "text": "The plasma membrane is described as differentially permeable because it?",
+      "options": [
+        "Controls the movement of solutes in and out of the cell",
+        "Lets everything pass freely",
+        "Blocks all movement",
+        "Produces ATP"
+      ],
+      "correct_index": 0,
+      "explanation": "A differentially permeable membrane controls the movement of solutes in and out of the cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_050",
+      "text": "Microtubules are made up of which protein?",
+      "options": [
+        "Actin",
+        "Myosin",
+        "Keratin",
+        "Tubulin"
+      ],
+      "correct_index": 3,
+      "explanation": "Microtubules are made of the protein tubulin.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_051",
+      "text": "Microtubules and microfilaments are part of the?",
+      "options": [
+        "Cell wall",
+        "Cytoskeleton",
+        "Nuclear membrane",
+        "Golgi apparatus"
+      ],
+      "correct_index": 1,
+      "explanation": "Microtubules and microfilaments are components of the cytoskeleton.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_052",
+      "text": "Clusters of ribosomes are known as?",
+      "options": [
+        "Single ribosomes",
+        "Cristae",
+        "Polyribosomes (polysomes)",
+        "Vesicles"
+      ],
+      "correct_index": 2,
+      "explanation": "Clusters of ribosomes are called polyribosomes or polysomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_053",
+      "text": "The main functional unit of the chloroplast is the?",
+      "options": [
+        "Grana",
+        "Stroma",
+        "Matrix",
+        "Tonoplast"
+      ],
+      "correct_index": 0,
+      "explanation": "The grana are the main functional units of the chloroplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_054",
+      "text": "The grana of a chloroplast are bathed in a homogeneous matrix called the?",
+      "options": [
+        "Cytosol",
+        "Matrix",
+        "Cell sap",
+        "Stroma"
+      ],
+      "correct_index": 3,
+      "explanation": "The grana are bathed in the stroma, which contains photosynthetic enzymes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_055",
+      "text": "Chloroplasts are a type of?",
+      "options": [
+        "Leucoplast only",
+        "Plastid",
+        "Mitochondrion",
+        "Vacuole"
+      ],
+      "correct_index": 1,
+      "explanation": "Chloroplasts are pigmented plastids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_056",
+      "text": "Chromoplasts are plastids that contain which pigment?",
+      "options": [
+        "Chlorophyll",
+        "Phycobilin",
+        "Carotene",
+        "Murein"
+      ],
+      "correct_index": 2,
+      "explanation": "Chromoplasts contain carotene pigment, giving yellow, orange or red colors.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_057",
+      "text": "Amyloplasts are non-pigmented plastids that store?",
+      "options": [
+        "Starch",
+        "Oil",
+        "Protein",
+        "Water"
+      ],
+      "correct_index": 0,
+      "explanation": "Amyloplasts are leucoplasts that store starch.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_058",
+      "text": "All plastids are derived from which small bodies?",
+      "options": [
+        "Grana",
+        "Stroma",
+        "Cristae",
+        "Proplastids"
+      ],
+      "correct_index": 3,
+      "explanation": "All types of plastids are derived from proplastids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_059",
+      "text": "If the development of a proplastid into a chloroplast is interrupted by lack of light, which structure is formed?",
+      "options": [
+        "Chromoplast",
+        "Etioplast",
+        "Amyloplast",
+        "Elaioplast"
+      ],
+      "correct_index": 1,
+      "explanation": "An etioplast is formed when chloroplast development is interrupted by lack of light.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_060",
+      "text": "Ergastic substances in cells are?",
+      "options": [
+        "Organelles of the cell",
+        "Components of the nucleus",
+        "Products of metabolic activities, such as stored food and wastes",
+        "Genetic materials"
+      ],
+      "correct_index": 2,
+      "explanation": "Ergastic substances are products of metabolic activities, including stored food and wastes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_061",
+      "text": "Which stored food material is synthesized by the chloroplast?",
+      "options": [
+        "Starch",
+        "Fats",
+        "Proteins",
+        "Oils"
+      ],
+      "correct_index": 0,
+      "explanation": "Starch is synthesized by the chloroplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_062",
+      "text": "A group of similar cells that work together to perform a specific function is a?",
+      "options": [
+        "Organ",
+        "Organ system",
+        "Organism",
+        "Tissue"
+      ],
+      "correct_index": 3,
+      "explanation": "A tissue is a group of similar cells working together to perform a specific function.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_063",
+      "text": "The correct order of biological organization from simplest to most complex is?",
+      "options": [
+        "Organ to tissue to cell to system",
+        "Cell to tissue to organ to organ system",
+        "Tissue to cell to organ to system",
+        "Organism to system to organ to tissue"
+      ],
+      "correct_index": 1,
+      "explanation": "Levels of organization run from cell to tissue to organ to organ system.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_064",
+      "text": "Spirogyra is an example of a form of cell organization known as?",
+      "options": [
+        "Colony",
+        "Independent cell",
+        "Filament",
+        "Tissue"
+      ],
+      "correct_index": 2,
+      "explanation": "Spirogyra is a filament, formed by identical cells joined end to end.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_065",
+      "text": "Volvox is an example of a?",
+      "options": [
+        "Colony",
+        "Filament",
+        "Unicellular organism",
+        "Tissue"
+      ],
+      "correct_index": 0,
+      "explanation": "Volvox is a colony of similar cells joined together.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_066",
+      "text": "Which organelle has F1 particles on its inner membrane for ATP synthesis?",
+      "options": [
+        "Chloroplast",
+        "Nucleus",
+        "Golgi body",
+        "Mitochondrion"
+      ],
+      "correct_index": 3,
+      "explanation": "The inner mitochondrial membrane contains F1 particles for ATP synthesis.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_067",
+      "text": "Mitosis produces how many daughter cells from one parent cell?",
+      "options": [
+        "Four",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correct_index": 2,
+      "explanation": "Mitosis produces two daughter cells from a single parent cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_068",
+      "text": "The daughter cells produced by mitosis are?",
+      "options": [
+        "Genetically different from the parent",
+        "Halved in chromosome number",
+        "Genetically identical to the parent cell",
+        "Random in chromosome number"
+      ],
+      "correct_index": 2,
+      "explanation": "Mitosis produces daughter cells identical to one another and to the parent cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_069",
+      "text": "During which stage of mitosis do chromosomes align at the equatorial plate?",
+      "options": [
+        "Metaphase",
+        "Prophase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "correct_index": 0,
+      "explanation": "In metaphase, chromosomes align at the equatorial plate.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_070",
+      "text": "Sister chromatids separate and move toward the poles during which stage of mitosis?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Telophase",
+        "Anaphase"
+      ],
+      "correct_index": 3,
+      "explanation": "In anaphase, the centromeres divide and sister chromatids move to opposite poles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_071",
+      "text": "Gregor Mendel carried out his breeding experiments using which plant?",
+      "options": [
+        "Maize",
+        "Pea plant (Pisum sativum)",
+        "Bean",
+        "Tomato"
+      ],
+      "correct_index": 1,
+      "explanation": "Mendel used the common garden pea plant, Pisum sativum, for his heredity experiments.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_072",
+      "text": "Mendel's findings on heredity were published in which year?",
+      "options": [
+        "1866",
+        "1900",
+        "1859",
+        "1758"
+      ],
+      "correct_index": 0,
+      "explanation": "Mendel's ideas were published in 1866.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_073",
+      "text": "In Mendel's crosses of yellow-seeded and green-seeded peas, the F1 generation always had?",
+      "options": [
+        "Green seeds",
+        "Yellow seeds",
+        "Both colors in a 1:1 ratio",
+        "Wrinkled seeds"
+      ],
+      "correct_index": 1,
+      "explanation": "The F1 generation always produced yellow seeds because yellow is dominant.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_074",
+      "text": "Mendel's F2 generation in a monohybrid cross shows which typical phenotypic ratio?",
+      "options": [
+        "3:1",
+        "1:1",
+        "9:3:3:1",
+        "1:2:1"
+      ],
+      "correct_index": 0,
+      "explanation": "The F2 generation consistently shows a 3:1 ratio of dominant to recessive phenotypes.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_075",
+      "text": "The inherited \"units\" or \"factors\" described by Mendel are now called?",
+      "options": [
+        "Chromosomes",
+        "Genes",
+        "Organelles",
+        "Enzymes"
+      ],
+      "correct_index": 1,
+      "explanation": "Mendel's units of inheritance are now known as genes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_076",
+      "text": "Mendel's first law, stating that the two factors for each trait segregate during gamete formation, is also called the law of?",
+      "options": [
+        "Segregation",
+        "Dominance",
+        "Mutation",
+        "Linkage"
+      ],
+      "correct_index": 0,
+      "explanation": "Mendel's first law is the law of segregation, also known as the law of purity of gametes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_077",
+      "text": "Mendel's second law, which states that each inherited pair of factors separates independently of others, is the law of?",
+      "options": [
+        "Segregation",
+        "Independent assortment",
+        "Codominance",
+        "Incomplete dominance"
+      ],
+      "correct_index": 1,
+      "explanation": "Mendel's second law is the law of independent assortment.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_078",
+      "text": "How many alleles for each trait does an individual inherit from each parent?",
+      "options": [
+        "Two",
+        "Four",
+        "One",
+        "Zero"
+      ],
+      "correct_index": 2,
+      "explanation": "An individual inherits one allele for each trait from each parent.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_079",
+      "text": "An organism that has two identical alleles for a trait is described as?",
+      "options": [
+        "Heterozygous",
+        "Diploid",
+        "Homozygous",
+        "Haploid"
+      ],
+      "correct_index": 2,
+      "explanation": "Having two identical alleles for a trait makes an organism homozygous.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_080",
+      "text": "An organism that has two different alleles for a trait is described as?",
+      "options": [
+        "Heterozygous",
+        "Homozygous",
+        "Monohybrid",
+        "Polyploid"
+      ],
+      "correct_index": 0,
+      "explanation": "Having two different alleles for a trait makes an organism heterozygous.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_081",
+      "text": "The observable physical characteristics of an organism are its?",
+      "options": [
+        "Genotype",
+        "Karyotype",
+        "Genome",
+        "Phenotype"
+      ],
+      "correct_index": 3,
+      "explanation": "The phenotype is the observable physical characteristics of an organism.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_082",
+      "text": "The genetic makeup of an organism is its?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Trait",
+        "Character"
+      ],
+      "correct_index": 0,
+      "explanation": "The genotype is the genetic makeup of an organism.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_083",
+      "text": "The Punnett square technique was invented by which English geneticist?",
+      "options": [
+        "Charles Darwin",
+        "Reginald Punnett",
+        "Gregor Mendel",
+        "Ernst Haeckel"
+      ],
+      "correct_index": 1,
+      "explanation": "Reginald Punnett invented the Punnett square for predicting genotype combinations.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_084",
+      "text": "In a cross between YY and GG pea plants, what percentage of the offspring will be heterozygous (YG)?",
+      "options": [
+        "100%",
+        "50%",
+        "25%",
+        "0%"
+      ],
+      "correct_index": 0,
+      "explanation": "YY x GG gives 100% heterozygous YG offspring.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_085",
+      "text": "If yellow (Y) is dominant over green (G), what percentage of the offspring of a YG x YG cross will have the yellow phenotype?",
+      "options": [
+        "25%",
+        "50%",
+        "100%",
+        "75%"
+      ],
+      "correct_index": 3,
+      "explanation": "A YG x YG cross gives 75% yellow and 25% green phenotypes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_086",
+      "text": "In a YG x YG cross, what is the probability of a GG (homozygous recessive) offspring?",
+      "options": [
+        "75%",
+        "25%",
+        "50%",
+        "100%"
+      ],
+      "correct_index": 1,
+      "explanation": "Each box of a Punnett square represents a 25% chance, so GG offspring occur with 25% probability.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_087",
+      "text": "An allele that masks the effect of another allele in the heterozygous condition is the?",
+      "options": [
+        "Recessive allele",
+        "Mutant allele",
+        "Dominant allele",
+        "Lethal allele"
+      ],
+      "correct_index": 2,
+      "explanation": "The dominant allele masks the expression of the recessive allele.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_088",
+      "text": "A trait that is only expressed when two copies of its allele are present is called?",
+      "options": [
+        "Dominant",
+        "Recessive",
+        "Codominant",
+        "Lethal"
+      ],
+      "correct_index": 1,
+      "explanation": "A recessive trait is expressed only in the homozygous condition.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_089",
+      "text": "Human body cells contain how many pairs of chromosomes?",
+      "options": [
+        "46",
+        "22",
+        "10",
+        "23"
+      ],
+      "correct_index": 3,
+      "explanation": "Human cells contain 23 pairs of chromosomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_090",
+      "text": "Of the 23 pairs of human chromosomes, how many pairs are autosomes?",
+      "options": [
+        "22",
+        "23",
+        "21",
+        "1"
+      ],
+      "correct_index": 0,
+      "explanation": "Humans have 22 pairs of autosomes and 1 pair of sex chromosomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_091",
+      "text": "In mammals, which chromosome combination produces a male?",
+      "options": [
+        "XX",
+        "YY",
+        "XY",
+        "ZW"
+      ],
+      "correct_index": 2,
+      "explanation": "In mammals, XY individuals are male.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_092",
+      "text": "In mammals, which chromosome combination produces a female?",
+      "options": [
+        "XX",
+        "XY",
+        "ZZ",
+        "ZW"
+      ],
+      "correct_index": 0,
+      "explanation": "In mammals, XX individuals are female.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_093",
+      "text": "In birds, which chromosome combination produces a female?",
+      "options": [
+        "XX",
+        "ZZ",
+        "XY",
+        "ZW"
+      ],
+      "correct_index": 3,
+      "explanation": "In birds, the female is the heterogametic sex, ZW.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_094",
+      "text": "Cystic fibrosis, albinism and beta-thalassemia are examples of disorders caused by?",
+      "options": [
+        "Dominant alleles",
+        "Recessive alleles",
+        "Sex-linked genes",
+        "Polyploidy"
+      ],
+      "correct_index": 1,
+      "explanation": "These are recessive disorders that require two copies of the defective allele.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_095",
+      "text": "Huntington disease is an example of a disorder caused by?",
+      "options": [
+        "Recessive allele",
+        "Codominant allele",
+        "Dominant allele",
+        "Missing chromosome"
+      ],
+      "correct_index": 2,
+      "explanation": "Huntington disease is caused by a dominant allele; inheriting one copy causes the disorder.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_096",
+      "text": "If both parents are carriers (Aa) of a recessive disease, what is the chance that a child is affected (aa)?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correct_index": 0,
+      "explanation": "An Aa x Aa cross gives a 25% chance of an aa (affected) child.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_097",
+      "text": "If a carrier (Aa) mates with an affected individual (aa), what is the chance that their child is a healthy carrier?",
+      "options": [
+        "0%",
+        "25%",
+        "100%",
+        "50%"
+      ],
+      "correct_index": 3,
+      "explanation": "An Aa x aa cross gives a 50% chance of a carrier (Aa) child.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_098",
+      "text": "Red and white four-o'clocks producing pink offspring is an example of?",
+      "options": [
+        "Complete dominance",
+        "Incomplete dominance",
+        "Codominance",
+        "Epistasis"
+      ],
+      "correct_index": 1,
+      "explanation": "The pink intermediate phenotype results from incomplete dominance.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_099",
+      "text": "In codominance, both alleles are?",
+      "options": [
+        "Hidden in heterozygotes",
+        "Partially hidden",
+        "Expressed in heterozygous individuals",
+        "Never inherited together"
+      ],
+      "correct_index": 2,
+      "explanation": "In codominance, both alleles are fully expressed in heterozygotes, as in AB blood type.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_100",
+      "text": "The ABO blood group system is controlled by how many alleles?",
+      "options": [
+        "Three (A, B and O)",
+        "Two (A and B)",
+        "Four",
+        "One"
+      ],
+      "correct_index": 0,
+      "explanation": "The ABO blood group is a multiple-allele series of three alleles: A, B and O.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_101",
+      "text": "Traits determined by the combined effect of more than one pair of genes, such as human height, are called?",
+      "options": [
+        "Monogenic traits",
+        "Polygenic traits",
+        "Lethal traits",
+        "Linked traits"
+      ],
+      "correct_index": 1,
+      "explanation": "Human height is a polygenic trait influenced by many genes.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_102",
+      "text": "A single gene producing a variety of effects, as in sickle-cell anemia, is known as?",
+      "options": [
+        "Pleiotropy",
+        "Polygeny",
+        "Epistasis",
+        "Linkage"
+      ],
+      "correct_index": 0,
+      "explanation": "Pleiotropy occurs when a single gene is responsible for a variety of traits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_103",
+      "text": "The subunits that make up a DNA molecule are called?",
+      "options": [
+        "Amino acids",
+        "Nucleotides",
+        "Fatty acids",
+        "Monosaccharides"
+      ],
+      "correct_index": 1,
+      "explanation": "DNA is a chain of subunits called nucleotides.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_104",
+      "text": "The four nitrogenous bases found in DNA are?",
+      "options": [
+        "Adenine, cytosine, guanine and thymine",
+        "Adenine, uracil, cytosine and guanine",
+        "Adenine, thymine, uracil and cytosine",
+        "Guanine, uracil, thymine and cytosine"
+      ],
+      "correct_index": 0,
+      "explanation": "DNA contains the bases adenine, cytosine, guanine and thymine.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_105",
+      "text": "Which sugar is found in DNA?",
+      "options": [
+        "Ribose",
+        "Glucose",
+        "Sucrose",
+        "Deoxyribose"
+      ],
+      "correct_index": 3,
+      "explanation": "DNA contains the sugar deoxyribose.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_106",
+      "text": "Evolution is best defined as change over time in inherited traits of?",
+      "options": [
+        "Individual organisms",
+        "Populations of organisms",
+        "Single cells",
+        "Non-living matter"
+      ],
+      "correct_index": 1,
+      "explanation": "Evolution is the change over time in inherited traits found in populations of organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_107",
+      "text": "The four common mechanisms of evolution are?",
+      "options": [
+        "Natural selection, genetic drift, mutation and gene flow",
+        "Photosynthesis, respiration, growth and movement",
+        "Fission, budding, fragmentation and regeneration",
+        "Mutation, crossing over, fertilization and cloning"
+      ],
+      "correct_index": 0,
+      "explanation": "Natural selection, genetic drift, mutation and gene flow are the four common mechanisms of evolution.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_108",
+      "text": "The theory of natural selection was independently proposed by Darwin and Wallace in which year?",
+      "options": [
+        "1858",
+        "1866",
+        "1900",
+        "1758"
+      ],
+      "correct_index": 0,
+      "explanation": "Darwin and Wallace co-proposed the theory of natural selection in 1858.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_109",
+      "text": "Darwin's famous book, On the Origin of Species, was published in which year?",
+      "options": [
+        "1858",
+        "1866",
+        "1900",
+        "1859"
+      ],
+      "correct_index": 3,
+      "explanation": "Darwin published On the Origin of Species in 1859.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_110",
+      "text": "A mutation is best described as?",
+      "options": [
+        "A change in behavior",
+        "A permanent change in a DNA sequence",
+        "A change in diet",
+        "A change in habitat"
+      ],
+      "correct_index": 1,
+      "explanation": "Mutation is a permanent change in a DNA sequence.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_111",
+      "text": "The word ecology comes from the Greek word \"oikos\", which means?",
+      "options": [
+        "Nature",
+        "Household (home)",
+        "Life",
+        "Earth"
+      ],
+      "correct_index": 1,
+      "explanation": "Oikos means household or home, from which the word ecology is derived.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_112",
+      "text": "The term \"ecology\" was coined in 1866 by which German scientist?",
+      "options": [
+        "Ernst Haeckel",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Carolus Linnaeus"
+      ],
+      "correct_index": 0,
+      "explanation": "Ernst Haeckel coined the word ecology in 1866.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_113",
+      "text": "Ecology is the scientific study of?",
+      "options": [
+        "Only plants",
+        "Only animals",
+        "Rocks and minerals",
+        "The relation of living organisms to each other and their surroundings"
+      ],
+      "correct_index": 3,
+      "explanation": "Ecology studies the relationships of living organisms to each other and their environment.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_114",
+      "text": "The study of a particular single species and its relationship to its environment is called?",
+      "options": [
+        "Synecology",
+        "Autecology",
+        "Paleoecology",
+        "Physiological ecology"
+      ],
+      "correct_index": 1,
+      "explanation": "Autecology is the study of a particular species and its ecology.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_115",
+      "text": "The study of more than one species, that is, a community, is called?",
+      "options": [
+        "Autecology",
+        "Human ecology",
+        "Synecology",
+        "Systems ecology"
+      ],
+      "correct_index": 2,
+      "explanation": "Synecology deals with the study of communities of more than one species.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_116",
+      "text": "Which branch of ecology deals with translating ecological concepts into mathematical models used for prediction?",
+      "options": [
+        "Systems ecology",
+        "Evolutionary ecology",
+        "Geographic ecology",
+        "Autecology"
+      ],
+      "correct_index": 0,
+      "explanation": "Systems ecology translates ecological concepts into mathematical models for prediction.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_117",
+      "text": "The branch of ecology that describes how organisms respond and adjust physiologically to the physical factors of the environment is?",
+      "options": [
+        "Behavioral ecology",
+        "Physiological ecology",
+        "Paleoecology",
+        "Human ecology"
+      ],
+      "correct_index": 1,
+      "explanation": "Physiological ecology deals with physiological responses of organisms to physical environmental factors.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_118",
+      "text": "The zone of life on Earth, or the global sum of all ecosystems, is called the?",
+      "options": [
+        "Lithosphere",
+        "Biosphere",
+        "Hydrosphere",
+        "Atmosphere"
+      ],
+      "correct_index": 1,
+      "explanation": "The biosphere is the global sum of all ecosystems, the zone of life on Earth.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_119",
+      "text": "The largest ecosystem on Earth is the?",
+      "options": [
+        "Forest",
+        "Ocean",
+        "Biosphere",
+        "Desert"
+      ],
+      "correct_index": 2,
+      "explanation": "The biosphere is the largest ecosystem on Earth.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_120",
+      "text": "The outer shell of the Earth's crust that supports life and provides materials for organisms is the?",
+      "options": [
+        "Lithosphere",
+        "Hydrosphere",
+        "Biosphere",
+        "Stratosphere"
+      ],
+      "correct_index": 0,
+      "explanation": "The lithosphere is the outer shell of the Earth's crust which supports life.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_121",
+      "text": "The body of liquid water on or near the surface of the Earth is called the?",
+      "options": [
+        "Lithosphere",
+        "Atmosphere",
+        "Biosphere",
+        "Hydrosphere"
+      ],
+      "correct_index": 3,
+      "explanation": "The hydrosphere is the body of liquid on or near the Earth's surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_122",
+      "text": "Water covers approximately what percentage of the Earth's surface?",
+      "options": [
+        "50%",
+        "71%",
+        "29%",
+        "96%"
+      ],
+      "correct_index": 1,
+      "explanation": "Water covers about 71% of the Earth's surface.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_123",
+      "text": "The role and position (the \"job\") of a species in nature is its?",
+      "options": [
+        "Habitat",
+        "Biome",
+        "Ecosystem",
+        "Niche"
+      ],
+      "correct_index": 3,
+      "explanation": "The niche is the functional role and position of a species in its ecosystem.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_124",
+      "text": "The place where a plant or animal normally lives is its?",
+      "options": [
+        "Habitat",
+        "Niche",
+        "Population",
+        "Community"
+      ],
+      "correct_index": 0,
+      "explanation": "A habitat is the place where a plant or animal normally lives.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_125",
+      "text": "A group of organisms of the same species inhabiting a specific geographical locality at a particular time is a?",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Biome",
+        "Population"
+      ],
+      "correct_index": 3,
+      "explanation": "A population is a group of organisms of the same species in a locality at a particular time.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_126",
+      "text": "An assemblage of different species that interact with one another in a common area is a?",
+      "options": [
+        "Community",
+        "Population",
+        "Species",
+        "Tissue"
+      ],
+      "correct_index": 0,
+      "explanation": "A community is an assemblage of species interacting in a common area.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_127",
+      "text": "The number of species in a community is called?",
+      "options": [
+        "Evenness",
+        "Species richness",
+        "Biomass",
+        "Productivity"
+      ],
+      "correct_index": 1,
+      "explanation": "Species richness is the number of species in a community.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_128",
+      "text": "The relative abundance of the different species in a community is called?",
+      "options": [
+        "Evenness",
+        "Richness",
+        "Density",
+        "Frequency"
+      ],
+      "correct_index": 0,
+      "explanation": "Species evenness is the measure of the relative abundance of different species.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_129",
+      "text": "The Shannon-Wiener index is a commonly applied measure of?",
+      "options": [
+        "Population growth",
+        "Species diversity",
+        "Biomass",
+        "Energy flow"
+      ],
+      "correct_index": 1,
+      "explanation": "The Shannon-Wiener index is used to measure species diversity.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_130",
+      "text": "Green plants that convert CO2, water and solar energy into food by photosynthesis are described as?",
+      "options": [
+        "Decomposers",
+        "Consumers",
+        "Carnivores",
+        "Primary producers"
+      ],
+      "correct_index": 3,
+      "explanation": "Green plants are primary producers that fix and store energy by photosynthesis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_131",
+      "text": "Organisms that break down dead organic matter into mineral components used by plants are?",
+      "options": [
+        "Decomposers",
+        "Producers",
+        "Herbivores",
+        "Carnivores"
+      ],
+      "correct_index": 0,
+      "explanation": "Decomposers, mainly fungi and bacteria, break down dead organic matter.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_132",
+      "text": "A linear feeding relationship that shows what eats what is called a?",
+      "options": [
+        "Food chain",
+        "Food web",
+        "Trophic level",
+        "Energy pyramid"
+      ],
+      "correct_index": 0,
+      "explanation": "A food chain is a linear feeding relationship showing what eats what.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_133",
+      "text": "A complex network of feeding relationships in a community is called a?",
+      "options": [
+        "Food chain",
+        "Pyramid",
+        "Food web",
+        "Niche"
+      ],
+      "correct_index": 2,
+      "explanation": "A food web is a complex feeding relationship of species in a community.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_134",
+      "text": "Which organisms occupy the first trophic level of a food chain?",
+      "options": [
+        "Primary consumers",
+        "Producers",
+        "Secondary consumers",
+        "Decomposers"
+      ],
+      "correct_index": 1,
+      "explanation": "Producers (green plants) always occupy the first trophic level.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_135",
+      "text": "As energy moves from one trophic level to the next, each higher level typically contains what percentage of the energy of the level below it?",
+      "options": [
+        "About 50%",
+        "About 25%",
+        "Less than 10%",
+        "About 90%"
+      ],
+      "correct_index": 2,
+      "explanation": "Each succeeding trophic level contains less than 10% of the energy of the level below.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_136",
+      "text": "For animal consumers, energy for maintenance usually constitutes what proportion of the assimilated energy?",
+      "options": [
+        "Less than 10%",
+        "Exactly 50%",
+        "About 25%",
+        "More than 90%"
+      ],
+      "correct_index": 3,
+      "explanation": "Energy for maintenance 'R' usually makes up more than 90% of the assimilated energy in animal consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_137",
+      "text": "The collection of stamens forming the male reproductive organs of a flower is called the?",
+      "options": [
+        "Gynoecium",
+        "Androecium",
+        "Perianth",
+        "Corolla"
+      ],
+      "correct_index": 1,
+      "explanation": "The androecium is the collection of stamens, the male organs of the flower.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_138",
+      "text": "The collection of carpels forming the female reproductive organs of a flower is the?",
+      "options": [
+        "Androecium",
+        "Calyx",
+        "Gynoecium",
+        "Corolla"
+      ],
+      "correct_index": 2,
+      "explanation": "The gynoecium is the collection of carpels, the female organs of the flower.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_139",
+      "text": "A stamen is made up of which two parts?",
+      "options": [
+        "Anther and filament",
+        "Stigma and style",
+        "Ovary and ovule",
+        "Sepal and petal"
+      ],
+      "correct_index": 0,
+      "explanation": "A stamen consists of an anther and a filament.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_140",
+      "text": "Pollen grains are produced in which part of the stamen?",
+      "options": [
+        "Filament",
+        "Style",
+        "Stigma",
+        "Anther"
+      ],
+      "correct_index": 3,
+      "explanation": "The anther contains the pollen sacs in which pollen is made.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_141",
+      "text": "Which part of the carpel receives pollen grains during pollination?",
+      "options": [
+        "Stigma",
+        "Ovary",
+        "Filament",
+        "Anther"
+      ],
+      "correct_index": 0,
+      "explanation": "The stigma is the part of the carpel that receives pollen grains.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_142",
+      "text": "The stalk that bears the stigma in a suitable position in the flower is the?",
+      "options": [
+        "Filament",
+        "Style",
+        "Pedicel",
+        "Receptacle"
+      ],
+      "correct_index": 1,
+      "explanation": "The style bears the stigma in a suitable position to receive pollen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_143",
+      "text": "The swollen hollow base of the carpel that contains one or more ovules is the?",
+      "options": [
+        "Ovary",
+        "Anther",
+        "Style",
+        "Receptacle"
+      ],
+      "correct_index": 0,
+      "explanation": "The ovary is the swollen base of the carpel containing the ovules.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_144",
+      "text": "After fertilization, the ovule develops into the?",
+      "options": [
+        "Fruit",
+        "Seed",
+        "Endosperm",
+        "Pollen grain"
+      ],
+      "correct_index": 1,
+      "explanation": "Following fertilization, the ovule becomes the seed.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_145",
+      "text": "After fertilization, the ovary of a flower develops into the?",
+      "options": [
+        "Fruit",
+        "Seed",
+        "Ovule",
+        "Embryo"
+      ],
+      "correct_index": 0,
+      "explanation": "After fertilization, the ovary develops into the fruit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_146",
+      "text": "The collection of sepals is called the?",
+      "options": [
+        "Corolla",
+        "Perianth",
+        "Calyx",
+        "Androecium"
+      ],
+      "correct_index": 2,
+      "explanation": "The calyx is the collection of sepals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_147",
+      "text": "The collection of petals of a flower is called the?",
+      "options": [
+        "Corolla",
+        "Calyx",
+        "Gynoecium",
+        "Receptacle"
+      ],
+      "correct_index": 0,
+      "explanation": "The corolla is the collection of petals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_148",
+      "text": "The transfer of pollen grains from the anther to the stigma is called?",
+      "options": [
+        "Fertilization",
+        "Pollination",
+        "Germination",
+        "Dispersal"
+      ],
+      "correct_index": 1,
+      "explanation": "Pollination is the transfer of pollen grains from the anther to the stigma.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_149",
+      "text": "Self-pollination is the transfer of pollen from the anther to?",
+      "options": [
+        "A stigma of another plant only",
+        "A stigma of the same flower or a flower of the same plant",
+        "The ovary of any flower",
+        "The soil"
+      ],
+      "correct_index": 1,
+      "explanation": "Self-pollination transfers pollen to the stigma of the same flower or the same plant.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_150",
+      "text": "Cross-pollination is the transfer of pollen from the anthers of?",
+      "options": [
+        "One plant to the stigma of another plant",
+        "One flower to its own stigma",
+        "One anther to the other anther",
+        "The same flower only"
+      ],
+      "correct_index": 0,
+      "explanation": "Cross-pollination transfers pollen from one plant to the stigma of another plant.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_151",
+      "text": "The fusion of the male and female gametes is called?",
+      "options": [
+        "Pollination",
+        "Germination",
+        "Fertilization",
+        "Dispersal"
+      ],
+      "correct_index": 2,
+      "explanation": "Fertilization is the fusion of male and female gametes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_152",
+      "text": "In flowering plants, the second male nucleus fuses with the diploid nucleus to form the?",
+      "options": [
+        "Zygote",
+        "Embryo",
+        "Primary endosperm nucleus",
+        "Pollen tube"
+      ],
+      "correct_index": 2,
+      "explanation": "The second male nucleus fuses with the diploid nucleus to form the triploid primary endosperm nucleus.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_153",
+      "text": "Double fertilization, which occurs only in flowering plants, leads to the formation of which two structures in the seed?",
+      "options": [
+        "Embryo and endosperm",
+        "Testa and cotyledon",
+        "Root and shoot",
+        "Pollen and ovule"
+      ],
+      "correct_index": 0,
+      "explanation": "Double fertilization produces the embryo and the endosperm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_154",
+      "text": "A collection of flowers borne on the same stalk is an?",
+      "options": [
+        "Inflorescence",
+        "Receptacle",
+        "Pedicel",
+        "Ovary"
+      ],
+      "correct_index": 0,
+      "explanation": "An inflorescence is a collection of flowers borne on the same stalk.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_155",
+      "text": "The topmost part of the flower stalk from which the other parts of the flower arise is the?",
+      "options": [
+        "Receptacle",
+        "Pedicel",
+        "Style",
+        "Filament"
+      ],
+      "correct_index": 0,
+      "explanation": "The receptacle is the topmost part of the flower stalk from which flower parts arise.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_156",
+      "text": "A flower that has both male and female reproductive organs is described as?",
+      "options": [
+        "Dioecious",
+        "Asexual",
+        "Hermaphrodite (bisexual)",
+        "Sterile"
+      ],
+      "correct_index": 2,
+      "explanation": "Hermaphrodite or bisexual plants have both male and female sex organs.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_157",
+      "text": "Plants in which the male and female sex organs are borne on separate plants, such as yew and willow, are called?",
+      "options": [
+        "Monoecious",
+        "Dioecious",
+        "Hermaphrodite",
+        "Bisexual"
+      ],
+      "correct_index": 1,
+      "explanation": "Dioecious plants bear male and female organs on separate plants.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_158",
+      "text": "Plants that bear separate male and female flowers on the same plant, such as oak and hazel, are called?",
+      "options": [
+        "Dioecious",
+        "Unisexual",
+        "Monoecious",
+        "Sterile"
+      ],
+      "correct_index": 2,
+      "explanation": "Monoecious plants bear separate male and female flowers on the same plant.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_159",
+      "text": "Which artificial propagation method transfers a scion onto the lower part of another plant (the stock)?",
+      "options": [
+        "Grafting",
+        "Layering",
+        "Cutting",
+        "Budding"
+      ],
+      "correct_index": 0,
+      "explanation": "Grafting is the transfer of one plant (scion) onto the lower part of another plant (stock).",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_160",
+      "text": "The cloning or propagation of plants by tissue culture is called?",
+      "options": [
+        "Grafting",
+        "Micropropagation",
+        "Layering",
+        "Fragmentation"
+      ],
+      "correct_index": 1,
+      "explanation": "Micropropagation is the cloning of plants by tissue culture.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_161",
+      "text": "New plants produced from bulbs, corms, rhizomes and tubers are a result of?",
+      "options": [
+        "Sexual reproduction",
+        "Vegetative propagation",
+        "Fertilization",
+        "Pollination"
+      ],
+      "correct_index": 1,
+      "explanation": "Vegetative propagation produces new plants from vegetative parts such as bulbs, corms and rhizomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_162",
+      "text": "Genetically identical offspring produced from a single parent are referred to as?",
+      "options": [
+        "Hybrids",
+        "Clones",
+        "Mutants",
+        "Gametes"
+      ],
+      "correct_index": 1,
+      "explanation": "Identical offspring from a single parent are referred to as clones.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_163",
+      "text": "In budding, the new plant develops from an outgrowth on the parent body called a?",
+      "options": [
+        "Bud",
+        "Root",
+        "Seed",
+        "Spore"
+      ],
+      "correct_index": 0,
+      "explanation": "Budding occurs when a new plant develops from an outgrowth called a bud.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_164",
+      "text": "In the lupin flower, the uppermost petal is called the?",
+      "options": [
+        "Keel",
+        "Wing",
+        "Banner",
+        "Standard"
+      ],
+      "correct_index": 3,
+      "explanation": "The uppermost petal of the lupin flower is the standard.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_165",
+      "text": "In the lupin flower, the two partly joined petals forming a boat-shaped structure are the?",
+      "options": [
+        "Standards",
+        "Keel",
+        "Wings",
+        "Sepals"
+      ],
+      "correct_index": 2,
+      "explanation": "The two partly joined side petals of the lupin are the wings.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_166",
+      "text": "The ovary located above the other flower parts, as in a hypogynous flower, is described as?",
+      "options": [
+        "Inferior",
+        "Superior",
+        "Perigynous",
+        "Median"
+      ],
+      "correct_index": 1,
+      "explanation": "A superior ovary is located above the other flower parts as in a hypogynous flower.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_167",
+      "text": "Which of the following is a feature of all living organisms?",
+      "options": [
+        "Movement",
+        "Crystallization",
+        "Evaporation",
+        "Magnetism"
+      ],
+      "correct_index": 0,
+      "explanation": "Movement is one of the features shared by all living organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_168",
+      "text": "The four major categories of biological macromolecules are?",
+      "options": [
+        "Water, salts, gases and minerals",
+        "Nucleic acids, proteins, carbohydrates and lipids",
+        "Sugars, amino acids, fatty acids and bases",
+        "Vitamins, enzymes, hormones and pigments"
+      ],
+      "correct_index": 1,
+      "explanation": "The four major biological macromolecules are nucleic acids, proteins, carbohydrates and lipids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_169",
+      "text": "The essential chemical processes by which organisms acquire nutrients and obtain energy are together called?",
+      "options": [
+        "Metabolism",
+        "Irritability",
+        "Adaptation",
+        "Pollination"
+      ],
+      "correct_index": 0,
+      "explanation": "Metabolism is the set of essential chemical processes in living organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_170",
+      "text": "Metabolism is often viewed as the interaction of which two types of reactions?",
+      "options": [
+        "Photosynthetic and respiratory",
+        "Anabolic and catabolic",
+        "Endothermic and exothermic",
+        "Synthesis and hydrolysis only"
+      ],
+      "correct_index": 1,
+      "explanation": "Metabolism is the interaction of breaking (catabolic) and building (anabolic) reactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_171",
+      "text": "The study of complex metabolic functions is called?",
+      "options": [
+        "Physiology",
+        "Ecology",
+        "Taxonomy",
+        "Genetics"
+      ],
+      "correct_index": 0,
+      "explanation": "The study of complex metabolic functions is physiology.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_172",
+      "text": "The transformation that occurs from one developmental stage to another, such as from larva to adult, is called?",
+      "options": [
+        "Mutation",
+        "Germination",
+        "Metamorphosis",
+        "Pollination"
+      ],
+      "correct_index": 2,
+      "explanation": "The transformation from one stage to another is called metamorphosis.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_173",
+      "text": "The property of organisms to respond to environmental stimuli is called?",
+      "options": [
+        "Irritability",
+        "Heredity",
+        "Metabolism",
+        "Growth"
+      ],
+      "correct_index": 0,
+      "explanation": "All organisms respond to environmental stimuli, a property called irritability.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_174",
+      "text": "The faithful transmission of traits from parents to offspring is called?",
+      "options": [
+        "Variation",
+        "Heredity",
+        "Mutation",
+        "Selection"
+      ],
+      "correct_index": 1,
+      "explanation": "Heredity is the faithful transmission of traits from parents to offspring.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_175",
+      "text": "The production of differences among the traits of different individuals is called?",
+      "options": [
+        "Variation",
+        "Heredity",
+        "Cloning",
+        "Regeneration"
+      ],
+      "correct_index": 0,
+      "explanation": "Variation is the production of differences among the traits of different individuals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_176",
+      "text": "The process by which one species splits into two or more different species is called?",
+      "options": [
+        "Mutation",
+        "Speciation",
+        "Pollination",
+        "Adaptation"
+      ],
+      "correct_index": 1,
+      "explanation": "Speciation is the process by which a species splits into new species.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_177",
+      "text": "Who is regarded as the Father of Biological Classification?",
+      "options": [
+        "Charles Darwin",
+        "Aristotle",
+        "Gregor Mendel",
+        "John Ray"
+      ],
+      "correct_index": 1,
+      "explanation": "Aristotle is considered the Father of Biological Classification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_178",
+      "text": "Carolus Linnaeus is known as the father of?",
+      "options": [
+        "Ecology",
+        "Genetics",
+        "Taxonomy",
+        "Evolution"
+      ],
+      "correct_index": 2,
+      "explanation": "Linnaeus is called the Father of Taxonomy.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_179",
+      "text": "Linnaeus published his famous book, Systema Naturae, in which year?",
+      "options": [
+        "1758",
+        "1859",
+        "1866",
+        "1900"
+      ],
+      "correct_index": 0,
+      "explanation": "Linnaeus published Systema Naturae in 1758.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_180",
+      "text": "The system of naming organisms using two Latinized names (genus and species) is called?",
+      "options": [
+        "Binomial nomenclature",
+        "Hierarchical classification",
+        "Phylogeny",
+        "Cladistics"
+      ],
+      "correct_index": 0,
+      "explanation": "Linnaeus introduced binomial nomenclature: a two-word Latinized name for each species.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_181",
+      "text": "In binomial nomenclature, the first word of the name indicates the?",
+      "options": [
+        "Species",
+        "Family",
+        "Order",
+        "Genus"
+      ],
+      "correct_index": 3,
+      "explanation": "The first word of a binomial name gives the genus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_182",
+      "text": "In binomial nomenclature, the second word of the name indicates the?",
+      "options": [
+        "Genus",
+        "Species",
+        "Class",
+        "Kingdom"
+      ],
+      "correct_index": 1,
+      "explanation": "The second word of a binomial name gives the species.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_183",
+      "text": "John Ray provided the first good definition of a species as?",
+      "options": [
+        "A reproducing unit",
+        "A group with similar looks",
+        "A feeding group",
+        "A habitat group"
+      ],
+      "correct_index": 0,
+      "explanation": "John Ray defined the species as a reproducing unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_184",
+      "text": "Which scientist's work marked the beginning of the use of phylogeny in systematics?",
+      "options": [
+        "Cuvier",
+        "Lamarck",
+        "Mayr",
+        "Ray"
+      ],
+      "correct_index": 1,
+      "explanation": "Lamarck arranged animals according to evolution, beginning the use of phylogeny in systematics.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_185",
+      "text": "Which scientist insisted that extinct fossil forms should be included in the table of classification?",
+      "options": [
+        "Cuvier",
+        "Lamarck",
+        "Linnaeus",
+        "Darwin"
+      ],
+      "correct_index": 0,
+      "explanation": "Cuvier insisted that extinct fossil forms be included in classification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_186",
+      "text": "The largest phylum in the animal kingdom is?",
+      "options": [
+        "Chordata",
+        "Mollusca",
+        "Arthropoda",
+        "Annelida"
+      ],
+      "correct_index": 2,
+      "explanation": "Arthropoda is the largest phylum, containing over 90% of known animal species.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_187",
+      "text": "Which class of the phylum Arthropoda is the most successful and diverse group of animals?",
+      "options": [
+        "Crustacea",
+        "Arachnida",
+        "Chilopoda",
+        "Insecta"
+      ],
+      "correct_index": 3,
+      "explanation": "Insects (Insecta) number about 750,000 species, making them the most diverse animal group.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_188",
+      "text": "Members of which phylum are known as sponges?",
+      "options": [
+        "Cnidaria",
+        "Porifera",
+        "Platyhelminthes",
+        "Echinodermata"
+      ],
+      "correct_index": 1,
+      "explanation": "Sponges belong to the phylum Porifera.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_189",
+      "text": "Which phylum is distinguished by the presence of a notochord, a dorsal tubular nerve cord and gill slits in the pharynx?",
+      "options": [
+        "Annelida",
+        "Mollusca",
+        "Chordata",
+        "Arthropoda"
+      ],
+      "correct_index": 2,
+      "explanation": "Chordates are distinguished by a notochord, dorsal tubular nerve cord and pharyngeal gill slits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_190",
+      "text": "Fungi are organisms that?",
+      "options": [
+        "Photosynthesize like plants",
+        "Lack chlorophyll and are heterotrophic",
+        "Have cell walls of cellulose",
+        "Are prokaryotic"
+      ],
+      "correct_index": 1,
+      "explanation": "Fungi lack chlorophyll and are therefore heterotrophic like animals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_191",
+      "text": "Fungi consist of fine tubular branching threads called?",
+      "options": [
+        "Hyphae",
+        "Rhizoids",
+        "Stolons",
+        "Mycelia"
+      ],
+      "correct_index": 0,
+      "explanation": "The body of a fungus consists of tubular threads called hyphae.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_192",
+      "text": "Mosses and liverworts belong to which plant division?",
+      "options": [
+        "Pteridophytes",
+        "Spermatophytes",
+        "Thallophytes",
+        "Bryophytes"
+      ],
+      "correct_index": 3,
+      "explanation": "Mosses and liverworts are bryophytes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_193",
+      "text": "Which group of plants has no true roots and no vascular tissues, and is anchored by rhizoids?",
+      "options": [
+        "Gymnosperms",
+        "Mosses (bryophytes)",
+        "Ferns",
+        "Angiosperms"
+      ],
+      "correct_index": 1,
+      "explanation": "Mosses have no true roots or vascular tissues and are anchored by rhizoids.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_194",
+      "text": "Ferns, which have true roots, feathery leaves, underground stems and vascular tissues, belong to which division?",
+      "options": [
+        "Pteridophytes",
+        "Bryophytes",
+        "Gymnosperms",
+        "Thallophytes"
+      ],
+      "correct_index": 0,
+      "explanation": "Ferns are pteridophytes, the earliest known vascular plants.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_195",
+      "text": "Gymnosperms such as pines bear their seeds?",
+      "options": [
+        "Inside a fruit",
+        "Enclosed in an ovary",
+        "Naked (exposed)",
+        "In the root"
+      ],
+      "correct_index": 2,
+      "explanation": "Gymnosperms bear naked seeds, not enclosed in an ovary.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_196",
+      "text": "Angiosperms are seed-bearing plants whose seeds are?",
+      "options": [
+        "Naked",
+        "Enclosed in an ovary",
+        "Produced in cones",
+        "Produced on megasporophylls"
+      ],
+      "correct_index": 1,
+      "explanation": "Angiosperm seeds are enclosed in an ovary, giving more protection.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_197",
+      "text": "A close relationship between two organisms of different species in which both partners benefit is called?",
+      "options": [
+        "Commensalism",
+        "Parasitism",
+        "Predation",
+        "Symbiosis"
+      ],
+      "correct_index": 3,
+      "explanation": "Symbiosis is a close relationship in which both partners benefit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_198",
+      "text": "A relationship in which one organism benefits while the other is neither benefited nor harmed is called?",
+      "options": [
+        "Symbiosis",
+        "Commensalism",
+        "Parasitism",
+        "Predation"
+      ],
+      "correct_index": 1,
+      "explanation": "Commensalism is a positive-neutral relationship where one partner is unaffected.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_199",
+      "text": "An organism that lives in or on another organism, called the host, and feeds at its expense is a?",
+      "options": [
+        "Predator",
+        "Parasite",
+        "Commensal",
+        "Producer"
+      ],
+      "correct_index": 1,
+      "explanation": "A parasite lives in or on the host and feeds at the host's expense.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_200",
+      "text": "The relationship in which one organism hunts, kills and directly feeds on another organism (the prey) is called?",
+      "options": [
+        "Predation",
+        "Competition",
+        "Saprophytism",
+        "Mutualism"
+      ],
+      "correct_index": 0,
+      "explanation": "Predation is the relationship in which a predator hunts, kills and feeds on its prey.",
+      "difficulty": 1
+    }
+  ]
+}

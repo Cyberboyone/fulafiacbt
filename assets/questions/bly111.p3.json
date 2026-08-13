@@ -1,0 +1,517 @@
+{
+  "course_name": "General Biology I",
+  "questions": [
+    {
+      "id": "bly111_137",
+      "text": "The collection of stamens forming the male reproductive organs of a flower is called the?",
+      "options": ["Gynoecium", "Androecium", "Perianth", "Corolla"],
+      "correct_index": 1,
+      "explanation": "The androecium is the collection of stamens, the male organs of the flower.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_138",
+      "text": "The collection of carpels forming the female reproductive organs of a flower is the?",
+      "options": ["Androecium", "Calyx", "Gynoecium", "Corolla"],
+      "correct_index": 2,
+      "explanation": "The gynoecium is the collection of carpels, the female organs of the flower.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_139",
+      "text": "A stamen is made up of which two parts?",
+      "options": ["Anther and filament", "Stigma and style", "Ovary and ovule", "Sepal and petal"],
+      "correct_index": 0,
+      "explanation": "A stamen consists of an anther and a filament.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_140",
+      "text": "Pollen grains are produced in which part of the stamen?",
+      "options": ["Filament", "Style", "Stigma", "Anther"],
+      "correct_index": 3,
+      "explanation": "The anther contains the pollen sacs in which pollen is made.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_141",
+      "text": "Which part of the carpel receives pollen grains during pollination?",
+      "options": ["Stigma", "Ovary", "Filament", "Anther"],
+      "correct_index": 0,
+      "explanation": "The stigma is the part of the carpel that receives pollen grains.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_142",
+      "text": "The stalk that bears the stigma in a suitable position in the flower is the?",
+      "options": ["Filament", "Style", "Pedicel", "Receptacle"],
+      "correct_index": 1,
+      "explanation": "The style bears the stigma in a suitable position to receive pollen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_143",
+      "text": "The swollen hollow base of the carpel that contains one or more ovules is the?",
+      "options": ["Ovary", "Anther", "Style", "Receptacle"],
+      "correct_index": 0,
+      "explanation": "The ovary is the swollen base of the carpel containing the ovules.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_144",
+      "text": "After fertilization, the ovule develops into the?",
+      "options": ["Fruit", "Seed", "Endosperm", "Pollen grain"],
+      "correct_index": 1,
+      "explanation": "Following fertilization, the ovule becomes the seed.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_145",
+      "text": "After fertilization, the ovary of a flower develops into the?",
+      "options": ["Fruit", "Seed", "Ovule", "Embryo"],
+      "correct_index": 0,
+      "explanation": "After fertilization, the ovary develops into the fruit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_146",
+      "text": "The collection of sepals is called the?",
+      "options": ["Corolla", "Perianth", "Calyx", "Androecium"],
+      "correct_index": 2,
+      "explanation": "The calyx is the collection of sepals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_147",
+      "text": "The collection of petals of a flower is called the?",
+      "options": ["Corolla", "Calyx", "Gynoecium", "Receptacle"],
+      "correct_index": 0,
+      "explanation": "The corolla is the collection of petals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_148",
+      "text": "The transfer of pollen grains from the anther to the stigma is called?",
+      "options": ["Fertilization", "Pollination", "Germination", "Dispersal"],
+      "correct_index": 1,
+      "explanation": "Pollination is the transfer of pollen grains from the anther to the stigma.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_149",
+      "text": "Self-pollination is the transfer of pollen from the anther to?",
+      "options": ["A stigma of another plant only", "A stigma of the same flower or a flower of the same plant", "The ovary of any flower", "The soil"],
+      "correct_index": 1,
+      "explanation": "Self-pollination transfers pollen to the stigma of the same flower or the same plant.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_150",
+      "text": "Cross-pollination is the transfer of pollen from the anthers of?",
+      "options": ["One plant to the stigma of another plant", "One flower to its own stigma", "One anther to the other anther", "The same flower only"],
+      "correct_index": 0,
+      "explanation": "Cross-pollination transfers pollen from one plant to the stigma of another plant.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_151",
+      "text": "The fusion of the male and female gametes is called?",
+      "options": ["Pollination", "Germination", "Fertilization", "Dispersal"],
+      "correct_index": 2,
+      "explanation": "Fertilization is the fusion of male and female gametes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_152",
+      "text": "In flowering plants, the second male nucleus fuses with the diploid nucleus to form the?",
+      "options": ["Zygote", "Embryo", "Primary endosperm nucleus", "Pollen tube"],
+      "correct_index": 2,
+      "explanation": "The second male nucleus fuses with the diploid nucleus to form the triploid primary endosperm nucleus.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_153",
+      "text": "Double fertilization, which occurs only in flowering plants, leads to the formation of which two structures in the seed?",
+      "options": ["Embryo and endosperm", "Testa and cotyledon", "Root and shoot", "Pollen and ovule"],
+      "correct_index": 0,
+      "explanation": "Double fertilization produces the embryo and the endosperm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_154",
+      "text": "A collection of flowers borne on the same stalk is an?",
+      "options": ["Inflorescence", "Receptacle", "Pedicel", "Ovary"],
+      "correct_index": 0,
+      "explanation": "An inflorescence is a collection of flowers borne on the same stalk.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_155",
+      "text": "The topmost part of the flower stalk from which the other parts of the flower arise is the?",
+      "options": ["Receptacle", "Pedicel", "Style", "Filament"],
+      "correct_index": 0,
+      "explanation": "The receptacle is the topmost part of the flower stalk from which flower parts arise.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_156",
+      "text": "A flower that has both male and female reproductive organs is described as?",
+      "options": ["Dioecious", "Asexual", "Hermaphrodite (bisexual)", "Sterile"],
+      "correct_index": 2,
+      "explanation": "Hermaphrodite or bisexual plants have both male and female sex organs.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_157",
+      "text": "Plants in which the male and female sex organs are borne on separate plants, such as yew and willow, are called?",
+      "options": ["Monoecious", "Dioecious", "Hermaphrodite", "Bisexual"],
+      "correct_index": 1,
+      "explanation": "Dioecious plants bear male and female organs on separate plants.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_158",
+      "text": "Plants that bear separate male and female flowers on the same plant, such as oak and hazel, are called?",
+      "options": ["Dioecious", "Unisexual", "Monoecious", "Sterile"],
+      "correct_index": 2,
+      "explanation": "Monoecious plants bear separate male and female flowers on the same plant.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_159",
+      "text": "Which artificial propagation method transfers a scion onto the lower part of another plant (the stock)?",
+      "options": ["Grafting", "Layering", "Cutting", "Budding"],
+      "correct_index": 0,
+      "explanation": "Grafting is the transfer of one plant (scion) onto the lower part of another plant (stock).",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_160",
+      "text": "The cloning or propagation of plants by tissue culture is called?",
+      "options": ["Grafting", "Micropropagation", "Layering", "Fragmentation"],
+      "correct_index": 1,
+      "explanation": "Micropropagation is the cloning of plants by tissue culture.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_161",
+      "text": "New plants produced from bulbs, corms, rhizomes and tubers are a result of?",
+      "options": ["Sexual reproduction", "Vegetative propagation", "Fertilization", "Pollination"],
+      "correct_index": 1,
+      "explanation": "Vegetative propagation produces new plants from vegetative parts such as bulbs, corms and rhizomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_162",
+      "text": "Genetically identical offspring produced from a single parent are referred to as?",
+      "options": ["Hybrids", "Clones", "Mutants", "Gametes"],
+      "correct_index": 1,
+      "explanation": "Identical offspring from a single parent are referred to as clones.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_163",
+      "text": "In budding, the new plant develops from an outgrowth on the parent body called a?",
+      "options": ["Bud", "Root", "Seed", "Spore"],
+      "correct_index": 0,
+      "explanation": "Budding occurs when a new plant develops from an outgrowth called a bud.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_164",
+      "text": "In the lupin flower, the uppermost petal is called the?",
+      "options": ["Keel", "Wing", "Banner", "Standard"],
+      "correct_index": 3,
+      "explanation": "The uppermost petal of the lupin flower is the standard.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_165",
+      "text": "In the lupin flower, the two partly joined petals forming a boat-shaped structure are the?",
+      "options": ["Standards", "Keel", "Wings", "Sepals"],
+      "correct_index": 2,
+      "explanation": "The two partly joined side petals of the lupin are the wings.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_166",
+      "text": "The ovary located above the other flower parts, as in a hypogynous flower, is described as?",
+      "options": ["Inferior", "Superior", "Perigynous", "Median"],
+      "correct_index": 1,
+      "explanation": "A superior ovary is located above the other flower parts as in a hypogynous flower.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_167",
+      "text": "Which of the following is a feature of all living organisms?",
+      "options": ["Movement", "Crystallization", "Evaporation", "Magnetism"],
+      "correct_index": 0,
+      "explanation": "Movement is one of the features shared by all living organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_168",
+      "text": "The four major categories of biological macromolecules are?",
+      "options": ["Water, salts, gases and minerals", "Nucleic acids, proteins, carbohydrates and lipids", "Sugars, amino acids, fatty acids and bases", "Vitamins, enzymes, hormones and pigments"],
+      "correct_index": 1,
+      "explanation": "The four major biological macromolecules are nucleic acids, proteins, carbohydrates and lipids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_169",
+      "text": "The essential chemical processes by which organisms acquire nutrients and obtain energy are together called?",
+      "options": ["Metabolism", "Irritability", "Adaptation", "Pollination"],
+      "correct_index": 0,
+      "explanation": "Metabolism is the set of essential chemical processes in living organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_170",
+      "text": "Metabolism is often viewed as the interaction of which two types of reactions?",
+      "options": ["Photosynthetic and respiratory", "Anabolic and catabolic", "Endothermic and exothermic", "Synthesis and hydrolysis only"],
+      "correct_index": 1,
+      "explanation": "Metabolism is the interaction of breaking (catabolic) and building (anabolic) reactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_171",
+      "text": "The study of complex metabolic functions is called?",
+      "options": ["Physiology", "Ecology", "Taxonomy", "Genetics"],
+      "correct_index": 0,
+      "explanation": "The study of complex metabolic functions is physiology.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_172",
+      "text": "The transformation that occurs from one developmental stage to another, such as from larva to adult, is called?",
+      "options": ["Mutation", "Germination", "Metamorphosis", "Pollination"],
+      "correct_index": 2,
+      "explanation": "The transformation from one stage to another is called metamorphosis.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_173",
+      "text": "The property of organisms to respond to environmental stimuli is called?",
+      "options": ["Irritability", "Heredity", "Metabolism", "Growth"],
+      "correct_index": 0,
+      "explanation": "All organisms respond to environmental stimuli, a property called irritability.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_174",
+      "text": "The faithful transmission of traits from parents to offspring is called?",
+      "options": ["Variation", "Heredity", "Mutation", "Selection"],
+      "correct_index": 1,
+      "explanation": "Heredity is the faithful transmission of traits from parents to offspring.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_175",
+      "text": "The production of differences among the traits of different individuals is called?",
+      "options": ["Variation", "Heredity", "Cloning", "Regeneration"],
+      "correct_index": 0,
+      "explanation": "Variation is the production of differences among the traits of different individuals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_176",
+      "text": "The process by which one species splits into two or more different species is called?",
+      "options": ["Mutation", "Speciation", "Pollination", "Adaptation"],
+      "correct_index": 1,
+      "explanation": "Speciation is the process by which a species splits into new species.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_177",
+      "text": "Who is regarded as the Father of Biological Classification?",
+      "options": ["Charles Darwin", "Aristotle", "Gregor Mendel", "John Ray"],
+      "correct_index": 1,
+      "explanation": "Aristotle is considered the Father of Biological Classification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_178",
+      "text": "Carolus Linnaeus is known as the father of?",
+      "options": ["Ecology", "Genetics", "Taxonomy", "Evolution"],
+      "correct_index": 2,
+      "explanation": "Linnaeus is called the Father of Taxonomy.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_179",
+      "text": "Linnaeus published his famous book, Systema Naturae, in which year?",
+      "options": ["1758", "1859", "1866", "1900"],
+      "correct_index": 0,
+      "explanation": "Linnaeus published Systema Naturae in 1758.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_180",
+      "text": "The system of naming organisms using two Latinized names (genus and species) is called?",
+      "options": ["Binomial nomenclature", "Hierarchical classification", "Phylogeny", "Cladistics"],
+      "correct_index": 0,
+      "explanation": "Linnaeus introduced binomial nomenclature: a two-word Latinized name for each species.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_181",
+      "text": "In binomial nomenclature, the first word of the name indicates the?",
+      "options": ["Species", "Family", "Order", "Genus"],
+      "correct_index": 3,
+      "explanation": "The first word of a binomial name gives the genus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_182",
+      "text": "In binomial nomenclature, the second word of the name indicates the?",
+      "options": ["Genus", "Species", "Class", "Kingdom"],
+      "correct_index": 1,
+      "explanation": "The second word of a binomial name gives the species.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_183",
+      "text": "John Ray provided the first good definition of a species as?",
+      "options": ["A reproducing unit", "A group with similar looks", "A feeding group", "A habitat group"],
+      "correct_index": 0,
+      "explanation": "John Ray defined the species as a reproducing unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_184",
+      "text": "Which scientist's work marked the beginning of the use of phylogeny in systematics?",
+      "options": ["Cuvier", "Lamarck", "Mayr", "Ray"],
+      "correct_index": 1,
+      "explanation": "Lamarck arranged animals according to evolution, beginning the use of phylogeny in systematics.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_185",
+      "text": "Which scientist insisted that extinct fossil forms should be included in the table of classification?",
+      "options": ["Cuvier", "Lamarck", "Linnaeus", "Darwin"],
+      "correct_index": 0,
+      "explanation": "Cuvier insisted that extinct fossil forms be included in classification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_186",
+      "text": "The largest phylum in the animal kingdom is?",
+      "options": ["Chordata", "Mollusca", "Arthropoda", "Annelida"],
+      "correct_index": 2,
+      "explanation": "Arthropoda is the largest phylum, containing over 90% of known animal species.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_187",
+      "text": "Which class of the phylum Arthropoda is the most successful and diverse group of animals?",
+      "options": ["Crustacea", "Arachnida", "Chilopoda", "Insecta"],
+      "correct_index": 3,
+      "explanation": "Insects (Insecta) number about 750,000 species, making them the most diverse animal group.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_188",
+      "text": "Members of which phylum are known as sponges?",
+      "options": ["Cnidaria", "Porifera", "Platyhelminthes", "Echinodermata"],
+      "correct_index": 1,
+      "explanation": "Sponges belong to the phylum Porifera.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_189",
+      "text": "Which phylum is distinguished by the presence of a notochord, a dorsal tubular nerve cord and gill slits in the pharynx?",
+      "options": ["Annelida", "Mollusca", "Chordata", "Arthropoda"],
+      "correct_index": 2,
+      "explanation": "Chordates are distinguished by a notochord, dorsal tubular nerve cord and pharyngeal gill slits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_190",
+      "text": "Fungi are organisms that?",
+      "options": ["Photosynthesize like plants", "Lack chlorophyll and are heterotrophic", "Have cell walls of cellulose", "Are prokaryotic"],
+      "correct_index": 1,
+      "explanation": "Fungi lack chlorophyll and are therefore heterotrophic like animals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_191",
+      "text": "Fungi consist of fine tubular branching threads called?",
+      "options": ["Hyphae", "Rhizoids", "Stolons", "Mycelia"],
+      "correct_index": 0,
+      "explanation": "The body of a fungus consists of tubular threads called hyphae.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_192",
+      "text": "Mosses and liverworts belong to which plant division?",
+      "options": ["Pteridophytes", "Spermatophytes", "Thallophytes", "Bryophytes"],
+      "correct_index": 3,
+      "explanation": "Mosses and liverworts are bryophytes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_193",
+      "text": "Which group of plants has no true roots and no vascular tissues, and is anchored by rhizoids?",
+      "options": ["Gymnosperms", "Mosses (bryophytes)", "Ferns", "Angiosperms"],
+      "correct_index": 1,
+      "explanation": "Mosses have no true roots or vascular tissues and are anchored by rhizoids.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_194",
+      "text": "Ferns, which have true roots, feathery leaves, underground stems and vascular tissues, belong to which division?",
+      "options": ["Pteridophytes", "Bryophytes", "Gymnosperms", "Thallophytes"],
+      "correct_index": 0,
+      "explanation": "Ferns are pteridophytes, the earliest known vascular plants.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_195",
+      "text": "Gymnosperms such as pines bear their seeds?",
+      "options": ["Inside a fruit", "Enclosed in an ovary", "Naked (exposed)", "In the root"],
+      "correct_index": 2,
+      "explanation": "Gymnosperms bear naked seeds, not enclosed in an ovary.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_196",
+      "text": "Angiosperms are seed-bearing plants whose seeds are?",
+      "options": ["Naked", "Enclosed in an ovary", "Produced in cones", "Produced on megasporophylls"],
+      "correct_index": 1,
+      "explanation": "Angiosperm seeds are enclosed in an ovary, giving more protection.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_197",
+      "text": "A close relationship between two organisms of different species in which both partners benefit is called?",
+      "options": ["Commensalism", "Parasitism", "Predation", "Symbiosis"],
+      "correct_index": 3,
+      "explanation": "Symbiosis is a close relationship in which both partners benefit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_198",
+      "text": "A relationship in which one organism benefits while the other is neither benefited nor harmed is called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "correct_index": 1,
+      "explanation": "Commensalism is a positive-neutral relationship where one partner is unaffected.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_199",
+      "text": "An organism that lives in or on another organism, called the host, and feeds at its expense is a?",
+      "options": ["Predator", "Parasite", "Commensal", "Producer"],
+      "correct_index": 1,
+      "explanation": "A parasite lives in or on the host and feeds at the host's expense.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_200",
+      "text": "The relationship in which one organism hunts, kills and directly feeds on another organism (the prey) is called?",
+      "options": ["Predation", "Competition", "Saprophytism", "Mutualism"],
+      "correct_index": 0,
+      "explanation": "Predation is the relationship in which a predator hunts, kills and feeds on its prey.",
+      "difficulty": 1
+    }
+  ]
+}

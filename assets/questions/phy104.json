@@ -1,0 +1,2607 @@
+{
+  "course_id": "phy104",
+  "course_name": "Vibration, Waves & Optics",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "phy104_001",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_002",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_003",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_004",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_005",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_006",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_007",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_008",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_009",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_010",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_011",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_012",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_013",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_014",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_015",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_016",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_017",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_018",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_019",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_020",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_021",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_022",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_023",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_024",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_025",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_026",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_027",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_028",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_029",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_030",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_031",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_032",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_033",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_034",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_035",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_036",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_037",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_038",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_039",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_040",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_041",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_042",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_043",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_044",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_045",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_046",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_047",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_048",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_049",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_050",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_051",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_052",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_053",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_054",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_055",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_056",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_057",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_058",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_059",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_060",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_061",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_062",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_063",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_064",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_065",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_066",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_067",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_068",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_069",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_070",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_071",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_072",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_073",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_074",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_075",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_076",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_077",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_078",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_079",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_080",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_081",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_082",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_083",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_084",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_085",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_086",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_087",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_088",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_089",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_090",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_091",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_092",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_093",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_094",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_095",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_096",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_097",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_098",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_099",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_100",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_101",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_102",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_103",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_104",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_105",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_106",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_107",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_108",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_109",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_110",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_111",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_112",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_113",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_114",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_115",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_116",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_117",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_118",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_119",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_120",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_121",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_122",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_123",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_124",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_125",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_126",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_127",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_128",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_129",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_130",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_131",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_132",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_133",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_134",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_135",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_136",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_137",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_138",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_139",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_140",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_141",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_142",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_143",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_144",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_145",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_146",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_147",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_148",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_149",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_150",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_151",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_152",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_153",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_154",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_155",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_156",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_157",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_158",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_159",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_160",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_161",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_162",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_163",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_164",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_165",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_166",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_167",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_168",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_169",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_170",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_171",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_172",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_173",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_174",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_175",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_176",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_177",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_178",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_179",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_180",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_181",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_182",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_183",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_184",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_185",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_186",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_187",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_188",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_189",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_190",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_191",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_192",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_193",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_194",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_195",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_196",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_197",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_198",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_199",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy104_200",
+      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "options": [
+        "Vibration, Waves & Optics concept A",
+        "Vibration, Waves & Optics concept B",
+        "Vibration, Waves & Optics concept C",
+        "Vibration, Waves & Optics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on vibration, waves & optics material.",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143891078908",
+    "project_id": "cbt-apps-4e597",
+    "storage_bucket": "cbt-apps-4e597.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143891078908:android:d3daa259aca64bc1fb8179",
+        "android_client_info": {
+          "package_name": "com.nakudin.cbtapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DiHu7xD-VlDSvGaSBdBjTKOrl2Xlygk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

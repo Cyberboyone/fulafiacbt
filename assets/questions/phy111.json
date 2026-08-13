@@ -1,0 +1,2607 @@
+{
+  "course_id": "phy111",
+  "course_name": "General Physics I",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "phy111_001",
+      "text": "Which physical quantity is the measure of the inertia of a body?",
+      "options": [
+        "Weight",
+        "Volume",
+        "Mass",
+        "Density"
+      ],
+      "correct_index": 2,
+      "explanation": "Mass is the measure of the inertia of a body.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_002",
+      "text": "The SI unit of force is the ___.",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correct_index": 0,
+      "explanation": "Force is measured in newtons (N).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_003",
+      "text": "Newton's second law of motion is expressed mathematically as ___.",
+      "options": [
+        "F = mv",
+        "F = ma",
+        "F = m/a",
+        "F = mg"
+      ],
+      "correct_index": 1,
+      "explanation": "The second law gives F = ma.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_004",
+      "text": "One newton is the force that gives a mass of 1 kg an acceleration of ___.",
+      "options": [
+        "0.1 m/s²",
+        "10 m/s²",
+        "9.8 m/s²",
+        "1 m/s²"
+      ],
+      "correct_index": 3,
+      "explanation": "F = ma = 1 kg × 1 m/s² = 1 N.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_005",
+      "text": "Newton's first law of motion is also called the law of ___.",
+      "options": [
+        "Gravitation",
+        "Inertia",
+        "Momentum",
+        "Impulse"
+      ],
+      "correct_index": 1,
+      "explanation": "The first law is known as the law of inertia.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_006",
+      "text": "A book on a table stays there until it is pushed or pulled. This illustrates Newton's ___.",
+      "options": [
+        "second law",
+        "third law",
+        "law of universal gravitation",
+        "first law"
+      ],
+      "correct_index": 3,
+      "explanation": "The first law says a body at rest stays at rest unless a force acts on it.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_007",
+      "text": "Newton's third law states that for every action there is ___.",
+      "options": [
+        "an equal and opposite reaction",
+        "an equal and parallel reaction",
+        "an unequal and opposite reaction",
+        "an independent reaction"
+      ],
+      "correct_index": 0,
+      "explanation": "Action and reaction are equal in magnitude and opposite in direction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_008",
+      "text": "Which of the following is an application of Newton's third law?",
+      "options": [
+        "Expansion of a bridge",
+        "Capillary rise of water",
+        "The recoil of a gun",
+        "Evaporation of a liquid"
+      ],
+      "correct_index": 2,
+      "explanation": "The recoil of a gun is a classic example of action and reaction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_009",
+      "text": "Linear momentum is the product of ___.",
+      "options": [
+        "force and time",
+        "mass and velocity",
+        "force and distance",
+        "mass and acceleration"
+      ],
+      "correct_index": 1,
+      "explanation": "Momentum p = mv.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_010",
+      "text": "The SI unit of linear momentum is ___.",
+      "options": [
+        "kg m s⁻¹",
+        "kg m² s⁻¹",
+        "kg m² s⁻²",
+        "N m"
+      ],
+      "correct_index": 0,
+      "explanation": "Momentum = mass × velocity, so its unit is kg m s⁻¹.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_011",
+      "text": "Impulse is the product of ___.",
+      "options": [
+        "mass and velocity",
+        "force and time",
+        "force and distance",
+        "mass and acceleration"
+      ],
+      "correct_index": 1,
+      "explanation": "Impulse = force × time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_012",
+      "text": "The impulse of a force is numerically equal to the ___.",
+      "options": [
+        "change in velocity",
+        "change in kinetic energy",
+        "change in momentum",
+        "change in mass"
+      ],
+      "correct_index": 2,
+      "explanation": "Ft = mv − mu, the change in momentum.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_013",
+      "text": "The SI unit of impulse is the ___.",
+      "options": [
+        "joule (J)",
+        "watt (W)",
+        "pascal (Pa)",
+        "newton second (N s)"
+      ],
+      "correct_index": 3,
+      "explanation": "Impulse = force × time, hence N s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_014",
+      "text": "Linear momentum is conserved in a collision provided ___.",
+      "options": [
+        "the bodies are perfectly elastic",
+        "the collision is head-on",
+        "no external force acts on the system",
+        "the colliding bodies have equal masses"
+      ],
+      "correct_index": 2,
+      "explanation": "Conservation of momentum holds when no external force acts on the system.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_015",
+      "text": "In an elastic collision, besides momentum, which quantity is conserved?",
+      "options": [
+        "Potential energy",
+        "Temperature",
+        "Heat",
+        "Kinetic energy"
+      ],
+      "correct_index": 3,
+      "explanation": "In an elastic collision both kinetic energy and momentum are conserved.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_016",
+      "text": "When two bodies collide and stick together, the collision is said to be ___.",
+      "options": [
+        "perfectly elastic",
+        "perfectly inelastic",
+        "glancing",
+        "explosive"
+      ],
+      "correct_index": 1,
+      "explanation": "Sticking together means a perfectly inelastic collision.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_017",
+      "text": "The coefficient of restitution of a perfectly elastic collision is ___.",
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "2"
+      ],
+      "correct_index": 0,
+      "explanation": "e = 1 for a perfectly elastic collision.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_018",
+      "text": "The coefficient of restitution of a perfectly inelastic collision is ___.",
+      "options": [
+        "1",
+        "2",
+        "0.5",
+        "0"
+      ],
+      "correct_index": 3,
+      "explanation": "e = 0 for a perfectly inelastic collision.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_019",
+      "text": "Speed is the rate of change of ___ with time.",
+      "options": [
+        "velocity",
+        "displacement",
+        "distance",
+        "momentum"
+      ],
+      "correct_index": 2,
+      "explanation": "Speed = distance travelled ÷ time taken.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_020",
+      "text": "The unit of speed is ___.",
+      "options": [
+        "m s⁻²",
+        "m s⁻¹",
+        "m² s⁻¹",
+        "N m"
+      ],
+      "correct_index": 1,
+      "explanation": "Speed is distance over time, measured in m s⁻¹.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_021",
+      "text": "Velocity is the rate of change of ___ with time.",
+      "options": [
+        "displacement",
+        "distance",
+        "area",
+        "mass"
+      ],
+      "correct_index": 0,
+      "explanation": "Velocity = displacement ÷ time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_022",
+      "text": "Which of the following is a vector quantity?",
+      "options": [
+        "Distance",
+        "Speed",
+        "Displacement",
+        "Time"
+      ],
+      "correct_index": 2,
+      "explanation": "Displacement has both magnitude and direction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_023",
+      "text": "Which of the following is a scalar quantity?",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Displacement",
+        "Force"
+      ],
+      "correct_index": 0,
+      "explanation": "Speed is described by magnitude only.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_024",
+      "text": "Acceleration is the rate of change of ___ with time.",
+      "options": [
+        "position",
+        "velocity",
+        "distance",
+        "mass"
+      ],
+      "correct_index": 1,
+      "explanation": "Acceleration = change in velocity ÷ time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_025",
+      "text": "The unit of acceleration is ___.",
+      "options": [
+        "m s⁻¹",
+        "m s²",
+        "m² s⁻¹",
+        "m s⁻²"
+      ],
+      "correct_index": 3,
+      "explanation": "Acceleration is velocity per unit time, giving m s⁻².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_026",
+      "text": "A negative acceleration is called ___.",
+      "options": [
+        "uniform acceleration",
+        "instantaneous speed",
+        "retardation (deceleration)",
+        "free fall"
+      ],
+      "correct_index": 2,
+      "explanation": "Negative acceleration is retardation or deceleration.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_027",
+      "text": "The acceleration due to gravity on the surface of the earth is about ___.",
+      "options": [
+        "9.8 m/s²",
+        "8.9 m/s²",
+        "98 m/s²",
+        "1.96 m/s²"
+      ],
+      "correct_index": 0,
+      "explanation": "g ≈ 9.8 m/s² (9.81 m/s²).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_028",
+      "text": "For a body thrown vertically upward, the acceleration due to gravity is taken to be ___.",
+      "options": [
+        "positive",
+        "zero",
+        "infinite",
+        "negative"
+      ],
+      "correct_index": 3,
+      "explanation": "For upward motion g is negative.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_029",
+      "text": "At its maximum height, the velocity of a body thrown vertically upward is ___.",
+      "options": [
+        "maximum",
+        "zero",
+        "equal to the initial velocity",
+        "equal to g"
+      ],
+      "correct_index": 1,
+      "explanation": "At maximum height the body is momentarily at rest, v = 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_030",
+      "text": "The first equation of motion under constant acceleration is ___.",
+      "options": [
+        "v = u + at",
+        "s = ut + ½at²",
+        "v² = u² + 2as",
+        "s = (u + v)t"
+      ],
+      "correct_index": 0,
+      "explanation": "v = u + at is the first equation of motion.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_031",
+      "text": "The second equation of motion is ___.",
+      "options": [
+        "v = u + at",
+        "v² = u² + 2as",
+        "v = u + gt",
+        "s = ut + ½at²"
+      ],
+      "correct_index": 3,
+      "explanation": "s = ut + ½at² is the second equation of motion.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_032",
+      "text": "The third equation of motion is ___.",
+      "options": [
+        "v = u + at",
+        "v² = u² + 2as",
+        "s = ut + ½at²",
+        "ω = ω₀ + αt"
+      ],
+      "correct_index": 1,
+      "explanation": "v² = u² + 2as is the third equation of motion.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_033",
+      "text": "A body that covers equal displacements in equal intervals of time moves with ___.",
+      "options": [
+        "variable velocity",
+        "average velocity",
+        "uniform velocity",
+        "instantaneous velocity"
+      ],
+      "correct_index": 2,
+      "explanation": "Equal displacements in equal times mean uniform velocity.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_034",
+      "text": "If v = u + at with u = 0, a = 2 m/s² and t = 3 s, the value of v is ___.",
+      "options": [
+        "6 m/s",
+        "3 m/s",
+        "2 m/s",
+        "9 m/s"
+      ],
+      "correct_index": 0,
+      "explanation": "v = 0 + 2 × 3 = 6 m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_035",
+      "text": "Using s = ut + ½at² with u = 0, a = 4 m/s² and t = 2 s gives s = ___.",
+      "options": [
+        "4 m",
+        "8 m",
+        "16 m",
+        "24 m"
+      ],
+      "correct_index": 1,
+      "explanation": "s = ½ × 4 × 2² = 8 m.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_036",
+      "text": "A speed of 50 km/h is approximately equal to ___.",
+      "options": [
+        "5 m/s",
+        "50 m/s",
+        "13.9 m/s",
+        "500 m/s"
+      ],
+      "correct_index": 2,
+      "explanation": "50 × 1000 ÷ 3600 ≈ 13.9 m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_037",
+      "text": "A car moves at 60 m/s and a motorbike ahead of it moves at 95 m/s in the same direction. The velocity of the bike relative to the car is ___.",
+      "options": [
+        "155 m/s",
+        "60 m/s",
+        "95 m/s",
+        "35 m/s"
+      ],
+      "correct_index": 3,
+      "explanation": "V_relative = 95 − 60 = 35 m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_038",
+      "text": "Work done = force × ___ measured in the direction of the force.",
+      "options": [
+        "time",
+        "displacement",
+        "acceleration",
+        "mass"
+      ],
+      "correct_index": 1,
+      "explanation": "Work = force × displacement in the direction of the force.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_039",
+      "text": "The SI unit of work is the ___.",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Kilogram"
+      ],
+      "correct_index": 0,
+      "explanation": "Work is measured in joules (J).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_040",
+      "text": "When the displacement is perpendicular to the applied force (θ = 90°), the work done is ___.",
+      "options": [
+        "maximum",
+        "equal to F × s",
+        "zero",
+        "negative"
+      ],
+      "correct_index": 2,
+      "explanation": "W = Fs cos 90° = 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_041",
+      "text": "The kinetic energy of a body of mass m moving with velocity v is ___.",
+      "options": [
+        "mv²",
+        "mgh",
+        "F × s",
+        "½mv²"
+      ],
+      "correct_index": 3,
+      "explanation": "KE = ½mv².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_042",
+      "text": "The gravitational potential energy of a mass m at a height h is ___.",
+      "options": [
+        "½mv²",
+        "mgh",
+        "½kx²",
+        "F × s"
+      ],
+      "correct_index": 1,
+      "explanation": "PE = mgh.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_043",
+      "text": "The elastic potential energy stored in a stretched spring of force constant k and extension x is ___.",
+      "options": [
+        "½kx²",
+        "kx",
+        "mgx",
+        "Fh"
+      ],
+      "correct_index": 0,
+      "explanation": "Elastic PE = ½kx².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_044",
+      "text": "Energy is the ___ of a body.",
+      "options": [
+        "amount of matter",
+        "momentum",
+        "ability to do work",
+        "power"
+      ],
+      "correct_index": 2,
+      "explanation": "Energy is the ability to do work.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_045",
+      "text": "The work-energy theorem states that the net work done on a body equals its change in ___.",
+      "options": [
+        "potential energy",
+        "momentum",
+        "force",
+        "kinetic energy"
+      ],
+      "correct_index": 3,
+      "explanation": "W_net = ΔKE.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_046",
+      "text": "Power is the ___.",
+      "options": [
+        "force times distance",
+        "rate of doing work",
+        "mass times velocity",
+        "energy times time"
+      ],
+      "correct_index": 1,
+      "explanation": "Power = work done per unit time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_047",
+      "text": "The SI unit of power is the ___.",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correct_index": 0,
+      "explanation": "Power is measured in watts (W).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_048",
+      "text": "One horse power (hp) is equal to ___.",
+      "options": [
+        "100 W",
+        "7.46 W",
+        "746 W",
+        "7460 W"
+      ],
+      "correct_index": 2,
+      "explanation": "1 hp = 746 watts.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_049",
+      "text": "The instantaneous power delivered by a force F to a body moving with velocity v is ___.",
+      "options": [
+        "P = F/t",
+        "P = Fv",
+        "P = mgh",
+        "P = Fs"
+      ],
+      "correct_index": 1,
+      "explanation": "P = dW/dt = Fv.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_050",
+      "text": "When only conservative forces act on a system, the total mechanical energy ___.",
+      "options": [
+        "remains constant",
+        "increases continuously",
+        "decreases continuously",
+        "is always zero"
+      ],
+      "correct_index": 0,
+      "explanation": "Mechanical energy is conserved when only conservative forces act.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_051",
+      "text": "Which of the following is NOT a fundamental (base) quantity?",
+      "options": [
+        "Length",
+        "Mass",
+        "Velocity",
+        "Time"
+      ],
+      "correct_index": 2,
+      "explanation": "Velocity is a derived quantity.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_052",
+      "text": "The SI unit of length is the ___.",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Second",
+        "Kelvin"
+      ],
+      "correct_index": 0,
+      "explanation": "Length is measured in metres (m).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_053",
+      "text": "The SI unit of mass is the ___.",
+      "options": [
+        "Gram",
+        "Newton",
+        "Pound",
+        "Kilogram"
+      ],
+      "correct_index": 3,
+      "explanation": "Mass is measured in kilograms (kg).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_054",
+      "text": "The SI unit of time is the ___.",
+      "options": [
+        "Minute",
+        "Second",
+        "Hour",
+        "Kelvin"
+      ],
+      "correct_index": 1,
+      "explanation": "Time is measured in seconds (s).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_055",
+      "text": "The SI unit of temperature is the ___.",
+      "options": [
+        "Kelvin",
+        "Degree Celsius",
+        "Degree Fahrenheit",
+        "Joule"
+      ],
+      "correct_index": 0,
+      "explanation": "Kelvin (K) is the SI unit of temperature.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_056",
+      "text": "How many fundamental (base) quantities are there in the SI system?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "There are seven fundamental quantities.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_057",
+      "text": "The dimension of length is written as ___.",
+      "options": [
+        "[M]",
+        "[L]",
+        "[T]",
+        "[ML]"
+      ],
+      "correct_index": 1,
+      "explanation": "Length has dimension [L].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_058",
+      "text": "The dimension of mass is written as ___.",
+      "options": [
+        "[M]",
+        "[L]",
+        "[T]",
+        "[ML]"
+      ],
+      "correct_index": 0,
+      "explanation": "Mass has dimension [M].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_059",
+      "text": "The dimension of time is written as ___.",
+      "options": [
+        "[L]",
+        "[M]",
+        "[MLT⁻²]",
+        "[T]"
+      ],
+      "correct_index": 3,
+      "explanation": "Time has dimension [T].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_060",
+      "text": "The dimension of force is ___.",
+      "options": [
+        "[MLT⁻¹]",
+        "[MLT⁻²]",
+        "[ML²T⁻²]",
+        "[ML⁻¹T⁻²]"
+      ],
+      "correct_index": 1,
+      "explanation": "Force = mass × acceleration, giving [MLT⁻²].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_061",
+      "text": "The dimension of velocity is ___.",
+      "options": [
+        "[LT⁻¹]",
+        "[LT⁻²]",
+        "[L²T⁻¹]",
+        "[MLT⁻¹]"
+      ],
+      "correct_index": 0,
+      "explanation": "Velocity = length/time, giving [LT⁻¹].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_062",
+      "text": "The dimension of acceleration is ___.",
+      "options": [
+        "[LT⁻¹]",
+        "[L²T⁻²]",
+        "[LT⁻²]",
+        "[MT⁻²]"
+      ],
+      "correct_index": 2,
+      "explanation": "Acceleration is velocity per unit time, giving [LT⁻²].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_063",
+      "text": "The dimension of density is ___.",
+      "options": [
+        "[ML³]",
+        "[M⁻¹L³]",
+        "[ML⁻²]",
+        "[ML⁻³]"
+      ],
+      "correct_index": 3,
+      "explanation": "Density = mass/volume, giving [ML⁻³].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_064",
+      "text": "The dimension of pressure (stress) is ___.",
+      "options": [
+        "[MLT⁻²]",
+        "[ML⁻¹T⁻²]",
+        "[L⁻¹T⁻²]",
+        "[ML⁻²T⁻²]"
+      ],
+      "correct_index": 1,
+      "explanation": "Pressure = force/area, giving [ML⁻¹T⁻²].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_065",
+      "text": "Which of the following quantities is dimensionless?",
+      "options": [
+        "Angle (trigonometric function)",
+        "Force",
+        "Density",
+        "Velocity"
+      ],
+      "correct_index": 0,
+      "explanation": "Angles and trigonometric functions have no dimension.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_066",
+      "text": "The magnitude of a unit vector is ___.",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "10"
+      ],
+      "correct_index": 2,
+      "explanation": "A unit vector has magnitude 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_067",
+      "text": "By definition, one metre is the distance travelled by light in a vacuum in ___.",
+      "options": [
+        "1/299 792 458 second",
+        "1/100 000 second",
+        "1 second",
+        "1/9 192 631 770 second"
+      ],
+      "correct_index": 0,
+      "explanation": "The metre is defined using the distance light travels in 1/299 792 458 s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_068",
+      "text": "A vector quantity is fully described by ___.",
+      "options": [
+        "magnitude only",
+        "magnitude and direction",
+        "direction only",
+        "a unit"
+      ],
+      "correct_index": 1,
+      "explanation": "Vectors have both magnitude and direction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_069",
+      "text": "The dimension of area is ___.",
+      "options": [
+        "[L²]",
+        "[L³]",
+        "[L]",
+        "[LT]"
+      ],
+      "correct_index": 0,
+      "explanation": "Area = length × breadth, giving [L²].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_070",
+      "text": "The dimension of volume is ___.",
+      "options": [
+        "[L²]",
+        "[L⁴]",
+        "[L³]",
+        "[M³]"
+      ],
+      "correct_index": 2,
+      "explanation": "Volume = length cubed, giving [L³].",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_071",
+      "text": "Density is defined as the ___.",
+      "options": [
+        "force per unit area",
+        "weight per unit area",
+        "mass per unit volume",
+        "volume per unit mass"
+      ],
+      "correct_index": 2,
+      "explanation": "Density = mass ÷ volume.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_072",
+      "text": "The SI unit of density is ___.",
+      "options": [
+        "kg/m³",
+        "N/m²",
+        "kg/m²",
+        "m³/kg"
+      ],
+      "correct_index": 0,
+      "explanation": "Density is measured in kg/m³.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_073",
+      "text": "The density of water is ___.",
+      "options": [
+        "100 kg/m³",
+        "10 kg/m³",
+        "10 000 kg/m³",
+        "1000 kg/m³"
+      ],
+      "correct_index": 3,
+      "explanation": "Water has a density of 1000 kg/m³.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_074",
+      "text": "The square metre (m²) is the SI unit of ___.",
+      "options": [
+        "Volume",
+        "Area",
+        "Velocity",
+        "Density"
+      ],
+      "correct_index": 1,
+      "explanation": "Area is measured in square metres.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_075",
+      "text": "A physical quantity is expressed as its magnitude multiplied by its ___.",
+      "options": [
+        "dimension",
+        "temperature",
+        "unit",
+        "weight"
+      ],
+      "correct_index": 2,
+      "explanation": "Measurement = magnitude × unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_076",
+      "text": "The horizontal component of a vector A making an angle θ with the x-axis is ___.",
+      "options": [
+        "A cos θ",
+        "A sin θ",
+        "A tan θ",
+        "A/θ"
+      ],
+      "correct_index": 0,
+      "explanation": "Ax = A cos θ.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_077",
+      "text": "The vertical component of a vector A is ___.",
+      "options": [
+        "A cos θ",
+        "A tan θ",
+        "A",
+        "A sin θ"
+      ],
+      "correct_index": 3,
+      "explanation": "Ay = A sin θ.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_078",
+      "text": "The magnitude of a vector with components Ax and Ay is ___.",
+      "options": [
+        "Ax + Ay",
+        "√(Ax² + Ay²)",
+        "Ax² + Ay²",
+        "Ax² − Ay²"
+      ],
+      "correct_index": 1,
+      "explanation": "|A| = √(Ax² + Ay²) by Pythagoras' theorem.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_079",
+      "text": "2π radians is equal to ___.",
+      "options": [
+        "180°",
+        "90°",
+        "45°",
+        "360°"
+      ],
+      "correct_index": 3,
+      "explanation": "2π rad = 360° = 1 revolution.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_080",
+      "text": "The sum of the squares of the direction cosines of a vector equals ___.",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "10"
+      ],
+      "correct_index": 0,
+      "explanation": "cos²α + cos²β + cos²γ = 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_081",
+      "text": "The SI unit of angular displacement is the ___.",
+      "options": [
+        "Degree",
+        "Radian",
+        "Revolution",
+        "Gradian"
+      ],
+      "correct_index": 1,
+      "explanation": "Angular displacement is measured in radians.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_082",
+      "text": "Angular velocity is the rate of change of ___ with time.",
+      "options": [
+        "angular displacement",
+        "linear displacement",
+        "linear velocity",
+        "angular acceleration"
+      ],
+      "correct_index": 0,
+      "explanation": "Angular velocity = angular displacement ÷ time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_083",
+      "text": "The unit of angular velocity is ___.",
+      "options": [
+        "rad/s",
+        "m/s",
+        "rad/s²",
+        "m/s²"
+      ],
+      "correct_index": 2,
+      "explanation": "Angular velocity is measured in rad/s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_084",
+      "text": "The relationship between linear velocity v and angular velocity ω is ___.",
+      "options": [
+        "v = ω/r",
+        "v = r/ω",
+        "v = ωr²",
+        "v = ωr"
+      ],
+      "correct_index": 3,
+      "explanation": "v = ωr.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_085",
+      "text": "Angular acceleration is the rate of change of ___ with time.",
+      "options": [
+        "angular displacement",
+        "angular velocity",
+        "linear velocity",
+        "radius"
+      ],
+      "correct_index": 1,
+      "explanation": "Angular acceleration = change in angular velocity ÷ time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_086",
+      "text": "The unit of angular acceleration is ___.",
+      "options": [
+        "rad/s²",
+        "rad/s",
+        "m/s²",
+        "m²/s"
+      ],
+      "correct_index": 0,
+      "explanation": "Angular acceleration is measured in rad/s².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_087",
+      "text": "The circular-motion analogue of the equation v = u + at is ___.",
+      "options": [
+        "ω = ω₀ − αt",
+        "θ = ω₀t + ½αt²",
+        "ω = ω₀ + αt",
+        "ω² = ω₀² + 2αθ"
+      ],
+      "correct_index": 2,
+      "explanation": "ω = ω₀ + αt is the analogue of v = u + at.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_088",
+      "text": "Centripetal acceleration is given by ___.",
+      "options": [
+        "v/r",
+        "v²r",
+        "vr",
+        "v²/r"
+      ],
+      "correct_index": 3,
+      "explanation": "ac = v²/r.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_089",
+      "text": "Centripetal acceleration can also be expressed as ___.",
+      "options": [
+        "rω",
+        "rω²",
+        "ω²/r",
+        "r²ω"
+      ],
+      "correct_index": 1,
+      "explanation": "ac = rω² since v = ωr.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_090",
+      "text": "The centripetal force acting on a mass m moving with speed v in a circle of radius r is ___.",
+      "options": [
+        "mv²/r",
+        "mv²r",
+        "mv/r",
+        "mvr"
+      ],
+      "correct_index": 0,
+      "explanation": "Fc = mv²/r.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_091",
+      "text": "Centripetal force on a body in circular motion always acts ___.",
+      "options": [
+        "away from the centre",
+        "along the tangent",
+        "parallel to the velocity",
+        "towards the centre of the circle"
+      ],
+      "correct_index": 3,
+      "explanation": "Centripetal force is directed towards the centre.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_092",
+      "text": "The force that appears to act on a body in circular motion away from the centre is the ___.",
+      "options": [
+        "centripetal force",
+        "frictional force",
+        "centrifugal force",
+        "gravitational force"
+      ],
+      "correct_index": 2,
+      "explanation": "Centrifugal force acts away from the centre of rotation.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_093",
+      "text": "One complete revolution of a body in a circular path equals ___.",
+      "options": [
+        "π radians",
+        "2π radians",
+        "4π radians",
+        "360 radians"
+      ],
+      "correct_index": 1,
+      "explanation": "A full circle is 2π radians.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_094",
+      "text": "For a body making one revolution in time T, its angular velocity ω is ___.",
+      "options": [
+        "2π/T",
+        "T/2π",
+        "2πT",
+        "ω/2π"
+      ],
+      "correct_index": 0,
+      "explanation": "ω = 2π/T.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_095",
+      "text": "The frequency f of an oscillation is related to its period T by ___.",
+      "options": [
+        "f = T",
+        "f = 2πT",
+        "f = T²",
+        "f = 1/T"
+      ],
+      "correct_index": 3,
+      "explanation": "Frequency is the reciprocal of the period.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_096",
+      "text": "The relationship between angular velocity and frequency is ___.",
+      "options": [
+        "ω = 2π/f",
+        "ω = f/2π",
+        "ω = 2πf",
+        "ω = 2πf²"
+      ],
+      "correct_index": 2,
+      "explanation": "ω = 2πf.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_097",
+      "text": "If the speed of a body moving in a circle of fixed radius is doubled, the centripetal force becomes ___.",
+      "options": [
+        "twice its original value",
+        "four times its original value",
+        "half its original value",
+        "the same"
+      ],
+      "correct_index": 1,
+      "explanation": "F ∝ v², so doubling v makes the force 4 times as large.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_098",
+      "text": "The work done by the centripetal force on a body moving round a circle is ___.",
+      "options": [
+        "zero",
+        "equal to mv²",
+        "maximum",
+        "equal to mgh"
+      ],
+      "correct_index": 0,
+      "explanation": "Centripetal force is perpendicular to the displacement, so it does no work.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_099",
+      "text": "A car rounding a circular race track is kept on the track by the ___.",
+      "options": [
+        "centrifugal force",
+        "weight of the car",
+        "centripetal force",
+        "engine thrust"
+      ],
+      "correct_index": 2,
+      "explanation": "The centripetal force pulls the car towards the centre of the track.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_100",
+      "text": "The device used in industry and hospitals to separate heavier liquids from lighter ones by spinning is the ___.",
+      "options": [
+        "thermometer",
+        "calorimeter",
+        "barometer",
+        "centrifuge"
+      ],
+      "correct_index": 3,
+      "explanation": "A centrifuge uses centrifugal force to separate liquids of different densities.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_101",
+      "text": "In simple harmonic motion, the acceleration of the body is proportional to ___.",
+      "options": [
+        "its displacement from equilibrium",
+        "its velocity",
+        "the square of its amplitude",
+        "the time"
+      ],
+      "correct_index": 0,
+      "explanation": "a = −ω²x, so acceleration is proportional to displacement.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_102",
+      "text": "The maximum displacement of an oscillating body from its equilibrium position is its ___.",
+      "options": [
+        "frequency",
+        "amplitude",
+        "period",
+        "phase"
+      ],
+      "correct_index": 1,
+      "explanation": "Amplitude is the maximum displacement from equilibrium.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_103",
+      "text": "The time taken for one complete vibration of an oscillating body is its ___.",
+      "options": [
+        "frequency",
+        "amplitude",
+        "period",
+        "wavelength"
+      ],
+      "correct_index": 2,
+      "explanation": "Period is the time for one complete vibration.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_104",
+      "text": "The number of complete oscillations made per unit time is the ___.",
+      "options": [
+        "amplitude",
+        "period",
+        "displacement",
+        "frequency"
+      ],
+      "correct_index": 3,
+      "explanation": "Frequency is the number of vibrations per unit time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_105",
+      "text": "The period of a simple pendulum of length l is ___.",
+      "options": [
+        "T = 2π√(l/g)",
+        "T = 2π√(g/l)",
+        "T = 2π(l/g)",
+        "T = √(l/g)"
+      ],
+      "correct_index": 0,
+      "explanation": "T = 2π√(l/g).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_106",
+      "text": "The period of a mass m oscillating on a spring of force constant k is ___.",
+      "options": [
+        "T = 2π√(k/m)",
+        "T = 2π√(m/k)",
+        "T = 2π(m/k)",
+        "T = √(m/k)"
+      ],
+      "correct_index": 1,
+      "explanation": "T = 2π√(m/k).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_107",
+      "text": "The maximum velocity of a body performing SHM with amplitude A and angular velocity ω is ___.",
+      "options": [
+        "ω²A",
+        "A/ω",
+        "2ωA",
+        "ωA"
+      ],
+      "correct_index": 3,
+      "explanation": "v_max = ωA.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_108",
+      "text": "The total energy of a body performing SHM is proportional to ___.",
+      "options": [
+        "the amplitude",
+        "the cube of its amplitude",
+        "the square of its amplitude",
+        "its velocity"
+      ],
+      "correct_index": 2,
+      "explanation": "E = ½mω²A², so E ∝ A².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_109",
+      "text": "At the equilibrium position of a body performing SHM, its acceleration is ___.",
+      "options": [
+        "zero",
+        "maximum",
+        "equal to g",
+        "half of maximum"
+      ],
+      "correct_index": 0,
+      "explanation": "a = −ω²x and x = 0 at equilibrium, so a = 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_110",
+      "text": "A body moves in a circle of radius 3 m with angular velocity 2 rad/s. Its linear speed is ___.",
+      "options": [
+        "1.5 m/s",
+        "6 m/s",
+        "5 m/s",
+        "9 m/s"
+      ],
+      "correct_index": 1,
+      "explanation": "v = ωr = 2 × 3 = 6 m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_111",
+      "text": "Newton's law of universal gravitation states that the force between two masses is ___.",
+      "options": [
+        "proportional to the sum of the masses",
+        "proportional to the product of the masses and inversely proportional to the square of the distance between them",
+        "inversely proportional to the product of the masses",
+        "independent of the distance between them"
+      ],
+      "correct_index": 1,
+      "explanation": "F = GMm/r².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_112",
+      "text": "In the equation F = GMm/r², the symbol G stands for the ___.",
+      "options": [
+        "acceleration due to gravity",
+        "gravitational potential",
+        "universal gravitational constant",
+        "escape velocity"
+      ],
+      "correct_index": 2,
+      "explanation": "G is the universal gravitational constant.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_113",
+      "text": "The value of the universal gravitational constant G is about ___.",
+      "options": [
+        "6.67 × 10⁻¹¹ N m²/kg²",
+        "9.8 × 10⁻¹¹ N m²/kg²",
+        "6.67 × 10¹¹ N m²/kg²",
+        "6.67 × 10⁻¹¹ kg m/s²"
+      ],
+      "correct_index": 0,
+      "explanation": "G = 6.67 × 10⁻¹¹ N m²/kg².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_114",
+      "text": "The gravitational force between any two masses is always ___.",
+      "options": [
+        "repulsive",
+        "attractive",
+        "both attractive and repulsive",
+        "zero"
+      ],
+      "correct_index": 1,
+      "explanation": "Gravitation is always an attractive force.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_115",
+      "text": "The equation g = GM/r² gives the ___.",
+      "options": [
+        "acceleration due to gravity at the earth's surface",
+        "mass of the earth",
+        "radius of the earth",
+        "period of the earth"
+      ],
+      "correct_index": 0,
+      "explanation": "g = GM/r² is the gravitational field strength on the surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_116",
+      "text": "The weight w of a body of mass m is given by ___.",
+      "options": [
+        "w = m/g",
+        "w = g/m",
+        "w = m + g",
+        "w = mg"
+      ],
+      "correct_index": 3,
+      "explanation": "Weight = mass × acceleration due to gravity.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_117",
+      "text": "The gravitational potential at a point a distance r from the centre of mass M is ___.",
+      "options": [
+        "V = GM/r",
+        "V = −GM/r²",
+        "V = −GM/r",
+        "V = GM/r²"
+      ],
+      "correct_index": 2,
+      "explanation": "V = −GM/r, taking the potential at infinity as zero.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_118",
+      "text": "The escape velocity from the earth's surface is given by ___.",
+      "options": [
+        "√(gr)",
+        "2gr",
+        "√(g/r)",
+        "√(2gr)"
+      ],
+      "correct_index": 3,
+      "explanation": "v_e = √(2gr).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_119",
+      "text": "The escape velocity from the surface of the earth is approximately ___.",
+      "options": [
+        "11 km/s",
+        "8 km/s",
+        "22 km/s",
+        "1.1 km/s"
+      ],
+      "correct_index": 0,
+      "explanation": "With g = 9.8 m/s² and r = 6.4 × 10⁶ m, v_e ≈ 11 km/s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_120",
+      "text": "Gravitational field strength is defined as the ___.",
+      "options": [
+        "energy per unit mass",
+        "weight per unit volume",
+        "force per unit mass at a point in the field",
+        "force per unit area"
+      ],
+      "correct_index": 2,
+      "explanation": "Field strength = force per unit mass.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_121",
+      "text": "Kepler's first law states that planets move in ___ orbits with the Sun at one focus.",
+      "options": [
+        "circular",
+        "parabolic",
+        "hyperbolic",
+        "elliptical"
+      ],
+      "correct_index": 3,
+      "explanation": "Planetary orbits are ellipses.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_122",
+      "text": "Kepler's second law states that a line from the Sun to a planet ___.",
+      "options": [
+        "sweeps equal angles in equal times",
+        "sweeps out equal areas in equal times",
+        "covers equal distances in equal times",
+        "is always the same length"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal areas are swept out in equal times.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_123",
+      "text": "Kepler's third law states that the square of the period of a planet is proportional to ___.",
+      "options": [
+        "the cube of its mean distance from the Sun",
+        "its mean distance from the Sun",
+        "the square of its mean distance",
+        "its orbital speed"
+      ],
+      "correct_index": 0,
+      "explanation": "T² ∝ r³.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_124",
+      "text": "The gravitational force between two bodies separated by a distance r is 100 N. If the separation is doubled, the force becomes ___.",
+      "options": [
+        "50 N",
+        "200 N",
+        "25 N",
+        "100 N"
+      ],
+      "correct_index": 2,
+      "explanation": "F ∝ 1/r², so 100/4 = 25 N.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_125",
+      "text": "If one of two attracting masses is halved while the distance stays constant, the gravitational force becomes ___.",
+      "options": [
+        "twice the original",
+        "half of the original",
+        "one quarter of the original",
+        "unchanged"
+      ],
+      "correct_index": 1,
+      "explanation": "F ∝ m, so halving one mass halves the force.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_126",
+      "text": "Which planet in the solar system has the most eccentric orbit?",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Mercury"
+      ],
+      "correct_index": 3,
+      "explanation": "Mercury has the most eccentric orbit.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_127",
+      "text": "The weight of a body of mass 1 kg on the earth's surface is about ___.",
+      "options": [
+        "1 N",
+        "6.67 N",
+        "9.8 N",
+        "98 N"
+      ],
+      "correct_index": 2,
+      "explanation": "w = mg = 1 × 9.8 = 9.8 N.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_128",
+      "text": "The gravitational constant G was first measured in the laboratory by ___.",
+      "options": [
+        "Cavendish",
+        "Newton",
+        "Kepler",
+        "Galileo"
+      ],
+      "correct_index": 0,
+      "explanation": "Cavendish measured G in 1798.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_129",
+      "text": "A satellite moving in a circular orbit of radius r around the earth has orbital speed ___.",
+      "options": [
+        "√(2gr)",
+        "2gr",
+        "√(g/r)",
+        "√(gr)"
+      ],
+      "correct_index": 3,
+      "explanation": "v_s = √(gr).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_130",
+      "text": "A body weighing 560 N on the earth's surface is moved to a distance from the earth's centre equal to twice the earth's radius. Its weight there is ___.",
+      "options": [
+        "70 N",
+        "140 N",
+        "280 N",
+        "560 N"
+      ],
+      "correct_index": 1,
+      "explanation": "g falls by a factor of 4, so 560/4 = 140 N.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_131",
+      "text": "Elasticity is the property of a material to ___.",
+      "options": [
+        "return to its original shape and size when the deforming force is removed",
+        "flow freely when a force is applied",
+        "remain permanently deformed when stretched",
+        "resist all changes in shape"
+      ],
+      "correct_index": 0,
+      "explanation": "An elastic material regains its original shape when the load is removed.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_132",
+      "text": "Hooke's law states that, within the elastic limit, the applied force F is proportional to the ___.",
+      "options": [
+        "mass of the wire",
+        "extension (deformation) produced",
+        "temperature of the body",
+        "original length of the wire"
+      ],
+      "correct_index": 1,
+      "explanation": "F ∝ e, so F = ke.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_133",
+      "text": "In Hooke's law F = kx, the constant k is called the ___.",
+      "options": [
+        "coefficient of friction",
+        "elastic limit",
+        "coefficient of restitution",
+        "force (stiffness) constant of the spring"
+      ],
+      "correct_index": 3,
+      "explanation": "k is the force (stiffness) constant of the spring.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_134",
+      "text": "Stress is defined as the ___.",
+      "options": [
+        "extension per unit length",
+        "force times displacement",
+        "force per unit area (restoring force per unit area)",
+        "work done per unit mass"
+      ],
+      "correct_index": 2,
+      "explanation": "Stress = force per unit area.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_135",
+      "text": "Strain is defined as the ___.",
+      "options": [
+        "extension per unit original length",
+        "force per unit area",
+        "force per unit length",
+        "work done per unit volume"
+      ],
+      "correct_index": 0,
+      "explanation": "Strain = extension ÷ original length.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_136",
+      "text": "Strain is a quantity that is ___.",
+      "options": [
+        "measured in newtons",
+        "measured in N/m²",
+        "dimensionless",
+        "measured in metres"
+      ],
+      "correct_index": 2,
+      "explanation": "Strain is a ratio of lengths, so it has no unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_137",
+      "text": "Young's modulus is the ratio of ___.",
+      "options": [
+        "force to acceleration",
+        "tensile stress to tensile strain",
+        "pressure to volume",
+        "energy to time"
+      ],
+      "correct_index": 1,
+      "explanation": "Young's modulus = tensile stress ÷ tensile strain.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_138",
+      "text": "The strain energy stored in a stretched wire is given by ___.",
+      "options": [
+        "Fe",
+        "Fe²",
+        "F/2e",
+        "½Fe (that is, ½ke²)"
+      ],
+      "correct_index": 3,
+      "explanation": "Strain energy = ½Fe = ½ke².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_139",
+      "text": "Strain energy per unit volume of a stretched material equals ___.",
+      "options": [
+        "stress × strain",
+        "½ × stress × strain",
+        "stress ÷ strain",
+        "½ × stress × strain²"
+      ],
+      "correct_index": 1,
+      "explanation": "E_v = ½ × stress × strain.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_140",
+      "text": "The three elastic moduli are Young's modulus, bulk modulus and ___.",
+      "options": [
+        "shear modulus (modulus of rigidity)",
+        "Poisson's ratio",
+        "coefficient of restitution",
+        "coefficient of expansion"
+      ],
+      "correct_index": 0,
+      "explanation": "The three moduli are Young's, bulk and shear moduli.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_141",
+      "text": "Tensile (normal) stress acts ___ to the plane of the surface.",
+      "options": [
+        "parallel",
+        "at 45°",
+        "along the tangent",
+        "perpendicular (normal)"
+      ],
+      "correct_index": 3,
+      "explanation": "Normal (tensile) stress acts perpendicular to the surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_142",
+      "text": "Shear stress acts ___ to the plane of the surface.",
+      "options": [
+        "perpendicular",
+        "normal",
+        "parallel (tangential)",
+        "at right angles"
+      ],
+      "correct_index": 2,
+      "explanation": "Shear stress acts parallel (tangentially) to the surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_143",
+      "text": "Pressure is defined as the ___.",
+      "options": [
+        "force acting perpendicularly per unit area",
+        "mass per unit volume",
+        "force times distance",
+        "weight per unit volume"
+      ],
+      "correct_index": 0,
+      "explanation": "Pressure = perpendicular force per unit area.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_144",
+      "text": "The SI unit of pressure is the ___.",
+      "options": [
+        "newton (N)",
+        "watt (W)",
+        "pascal (Pa)",
+        "joule (J)"
+      ],
+      "correct_index": 2,
+      "explanation": "Pa = N/m² (one newton per square metre).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_145",
+      "text": "The hydrostatic pressure at a depth h in a liquid of density ρ is given by ___.",
+      "options": [
+        "P = ρgh",
+        "P = ρg/h",
+        "P = ρh/g",
+        "P = mgh"
+      ],
+      "correct_index": 0,
+      "explanation": "P = ρgh.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_146",
+      "text": "In a liquid at rest, the pressure ___ with depth.",
+      "options": [
+        "decreases",
+        "remains constant",
+        "increases",
+        "becomes zero"
+      ],
+      "correct_index": 2,
+      "explanation": "Pressure in a liquid increases with depth.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_147",
+      "text": "The relative density of a substance is the ratio of its density to the density of ___.",
+      "options": [
+        "water",
+        "air",
+        "mercury",
+        "alcohol"
+      ],
+      "correct_index": 0,
+      "explanation": "Relative density is measured against the density of water.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_148",
+      "text": "Archimedes' principle states that the upthrust on a body immersed in a fluid is equal to ___.",
+      "options": [
+        "the weight of the body",
+        "the volume of the body",
+        "the density of the fluid",
+        "the weight of the fluid displaced by the body"
+      ],
+      "correct_index": 3,
+      "explanation": "Upthrust equals the weight of the fluid displaced.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_149",
+      "text": "A body floats in a liquid when the buoyant force is ___.",
+      "options": [
+        "less than its weight",
+        "equal to zero",
+        "greater than or equal to its weight",
+        "independent of its weight"
+      ],
+      "correct_index": 2,
+      "explanation": "The body floats when buoyancy is at least as large as its weight.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_150",
+      "text": "A body sinks in a liquid when its ___.",
+      "options": [
+        "weight is greater than the buoyant force",
+        "weight is less than the buoyant force",
+        "volume is small",
+        "density is small"
+      ],
+      "correct_index": 0,
+      "explanation": "The body sinks when mg > buoyant force.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_151",
+      "text": "In laminar (streamline) flow, the fluid moves ___.",
+      "options": [
+        "irregularly with intermixing of layers",
+        "smoothly in parallel layers without intermixing",
+        "always with turbulence",
+        "only in curved paths"
+      ],
+      "correct_index": 1,
+      "explanation": "Laminar flow is smooth parallel-layer flow below the critical velocity.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_152",
+      "text": "Turbulent flow occurs when the velocity of a fluid ___.",
+      "options": [
+        "is below the critical velocity",
+        "is exactly zero",
+        "is very small",
+        "exceeds the critical velocity"
+      ],
+      "correct_index": 3,
+      "explanation": "Above the critical velocity the flow becomes turbulent.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_153",
+      "text": "For a Reynolds number Re less than 2000, the flow is ___.",
+      "options": [
+        "turbulent",
+        "transitional",
+        "laminar",
+        "compressible"
+      ],
+      "correct_index": 2,
+      "explanation": "Re < 2000 gives laminar flow.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_154",
+      "text": "For a Reynolds number Re greater than 4000, the flow is ___.",
+      "options": [
+        "laminar",
+        "turbulent",
+        "transitional",
+        "streamline"
+      ],
+      "correct_index": 1,
+      "explanation": "Re > 4000 gives turbulent flow.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_155",
+      "text": "Viscosity is a measure of a fluid's ___.",
+      "options": [
+        "resistance to flow",
+        "temperature",
+        "density",
+        "surface area"
+      ],
+      "correct_index": 0,
+      "explanation": "Viscosity measures the fluid's resistance to flow.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_156",
+      "text": "When the temperature of a liquid increases, its viscosity ___.",
+      "options": [
+        "increases",
+        "remains constant",
+        "decreases",
+        "doubles"
+      ],
+      "correct_index": 2,
+      "explanation": "Viscosity decreases as temperature increases.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_157",
+      "text": "Stokes' law gives the viscous drag on a sphere of radius r moving with velocity v in a fluid of viscosity η as ___.",
+      "options": [
+        "F = 4πηrv",
+        "F = 6πηr²v",
+        "F = 6πrv/η",
+        "F = 6πηrv"
+      ],
+      "correct_index": 3,
+      "explanation": "F = 6πηrv.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_158",
+      "text": "At terminal velocity, the acceleration of a falling sphere through a viscous liquid is ___.",
+      "options": [
+        "maximum",
+        "equal to g",
+        "zero",
+        "half of g"
+      ],
+      "correct_index": 2,
+      "explanation": "At terminal velocity the net force is zero, so a = 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_159",
+      "text": "Terminal velocity is reached when the viscous drag on the falling body just balances the ___.",
+      "options": [
+        "weight (and upthrust) acting on it",
+        "volume of the body",
+        "density of the liquid",
+        "radius of the body"
+      ],
+      "correct_index": 0,
+      "explanation": "At terminal velocity, viscous drag balances weight and upthrust.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_160",
+      "text": "Surface tension is the force acting ___ per unit length of an imaginary line drawn on the liquid surface.",
+      "options": [
+        "normal to the surface",
+        "at 45° to the surface",
+        "vertically upward",
+        "tangentially to the surface"
+      ],
+      "correct_index": 3,
+      "explanation": "Surface tension acts tangentially to the liquid surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_161",
+      "text": "The SI unit of surface tension is ___.",
+      "options": [
+        "N/m²",
+        "N/m",
+        "N s",
+        "J/m²"
+      ],
+      "correct_index": 1,
+      "explanation": "Surface tension = force per unit length, measured in N/m.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_162",
+      "text": "The surface of a liquid behaves like ___.",
+      "options": [
+        "a solid sheet",
+        "a stretched elastic skin",
+        "a magnetic membrane",
+        "a rigid plate"
+      ],
+      "correct_index": 1,
+      "explanation": "Surface tension makes the liquid surface act like a stretched elastic skin.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_163",
+      "text": "Surface tension of a liquid ___ when its temperature increases.",
+      "options": [
+        "decreases",
+        "increases",
+        "remains the same",
+        "doubles"
+      ],
+      "correct_index": 0,
+      "explanation": "Heating weakens the intermolecular forces, lowering surface tension.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_164",
+      "text": "Adding soap or detergent to water ___ its surface tension.",
+      "options": [
+        "raises",
+        "does not affect",
+        "triples",
+        "lowers"
+      ],
+      "correct_index": 3,
+      "explanation": "Soap (an impurity) lowers the surface tension of water.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_165",
+      "text": "The excess pressure inside a liquid drop of surface tension γ and radius r is ___.",
+      "options": [
+        "γ/r",
+        "4γ/r",
+        "2γ/r",
+        "γr/2"
+      ],
+      "correct_index": 2,
+      "explanation": "A liquid drop has one surface, so excess pressure = 2γ/r.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_166",
+      "text": "Because a soap bubble has two liquid surfaces, its excess pressure is ___.",
+      "options": [
+        "2γ/r",
+        "4γ/r",
+        "γ/r",
+        "γr"
+      ],
+      "correct_index": 1,
+      "explanation": "A soap bubble has two surfaces, giving excess pressure = 4γ/r.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_167",
+      "text": "Adhesion is the force of attraction between molecules of ___.",
+      "options": [
+        "the same substance only",
+        "a gas and a vacuum",
+        "identical liquids",
+        "two different substances"
+      ],
+      "correct_index": 3,
+      "explanation": "Adhesion acts between unlike substances, e.g. water and glass.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_168",
+      "text": "Cohesion is the force of attraction between molecules of ___.",
+      "options": [
+        "the same substance",
+        "different substances",
+        "water and glass",
+        "air and water"
+      ],
+      "correct_index": 0,
+      "explanation": "Cohesion acts between identical molecules.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_169",
+      "text": "Water rises in a narrow glass capillary tube mainly because of the ___.",
+      "options": [
+        "weight of the water",
+        "cohesive force between water molecules",
+        "adhesive force between water and glass",
+        "pressure of the atmosphere"
+      ],
+      "correct_index": 2,
+      "explanation": "Capillary rise is due to adhesion between water and glass.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_170",
+      "text": "Water rises 2 cm in a capillary tube of radius r. In a tube of radius r/3, the same water will rise to ___.",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "1 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "hr is constant, so h₂ = 3 × 2 = 6 cm.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_171",
+      "text": "Most solids and liquids ___ when their temperature is increased.",
+      "options": [
+        "expand",
+        "contract",
+        "remain unchanged",
+        "evaporate"
+      ],
+      "correct_index": 0,
+      "explanation": "Heating increases molecular vibration, so solids and liquids expand.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_172",
+      "text": "The increase in length of a solid rod on heating is given by ___.",
+      "options": [
+        "ΔL = αLi/ΔT",
+        "ΔL = αLiΔT",
+        "ΔL = αΔT",
+        "ΔL = LiΔT"
+      ],
+      "correct_index": 1,
+      "explanation": "ΔL = αLiΔT.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_173",
+      "text": "The coefficient of linear expansion α is measured in ___.",
+      "options": [
+        "metres",
+        "metres per second",
+        "newtons",
+        "per degree Celsius (1/°C)"
+      ],
+      "correct_index": 3,
+      "explanation": "The unit of α is 1/°C.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_174",
+      "text": "The coefficient of area (superficial) expansion of a solid is related to its linear expansivity α by ___.",
+      "options": [
+        "β = α",
+        "β = 3α",
+        "β = 2α",
+        "β = α/2"
+      ],
+      "correct_index": 2,
+      "explanation": "Area expansivity = 2α.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_175",
+      "text": "The coefficient of volume (cubic) expansion of a solid is related to its linear expansivity α by ___.",
+      "options": [
+        "γ = α",
+        "γ = 3α",
+        "γ = 2α",
+        "γ = α/3"
+      ],
+      "correct_index": 1,
+      "explanation": "Cubic expansivity = 3α.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_176",
+      "text": "The increase in volume of a liquid on heating is given by ___.",
+      "options": [
+        "ΔV = βViΔT",
+        "ΔV = βVi/ΔT",
+        "ΔV = βΔT",
+        "ΔV = ViΔT"
+      ],
+      "correct_index": 0,
+      "explanation": "ΔV = βViΔT.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_177",
+      "text": "A brass rod 3 cm long at 0°C (α = 1.8 × 10⁻⁵/°C) is heated to 100°C. Its increase in length is ___.",
+      "options": [
+        "0.54 cm",
+        "0.054 cm",
+        "0.0054 cm",
+        "5.4 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "ΔL = 1.8×10⁻⁵ × 3 × 100 = 0.0054 cm.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_178",
+      "text": "10 litres of mercury (β = 1.8 × 10⁻⁴/°C) is heated through 30°C. Its increase in volume is ___.",
+      "options": [
+        "0.54 L",
+        "5.4 L",
+        "0.0054 L",
+        "0.054 L"
+      ],
+      "correct_index": 3,
+      "explanation": "ΔV = 1.8×10⁻⁴ × 10 × 30 = 0.054 L.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_179",
+      "text": "A bimetallic strip is commonly used in a ___.",
+      "options": [
+        "thermometer",
+        "thermostat",
+        "barometer",
+        "hydrometer"
+      ],
+      "correct_index": 1,
+      "explanation": "Bimetallic strips are used in thermostats.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_180",
+      "text": "Gaps are left between railway rails mainly to ___.",
+      "options": [
+        "allow for the contraction of trains",
+        "reduce friction",
+        "save material",
+        "allow for the expansion of the rails when heated"
+      ],
+      "correct_index": 3,
+      "explanation": "The gaps accommodate thermal expansion of the rails.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_181",
+      "text": "Heat is best described as ___.",
+      "options": [
+        "thermal energy in transit from a hotter body to a colder body",
+        "the total kinetic energy of a body",
+        "the temperature of a body",
+        "the internal energy stored in a body"
+      ],
+      "correct_index": 0,
+      "explanation": "Heat is thermal energy in transit due to a temperature difference.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_182",
+      "text": "Heat always flows from the body at ___.",
+      "options": [
+        "lower temperature to the body at higher temperature",
+        "the same temperature to a colder one",
+        "higher temperature to the body at lower temperature",
+        "any direction randomly"
+      ],
+      "correct_index": 2,
+      "explanation": "Heat flows from hot to cold.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_183",
+      "text": "The SI unit of heat is the ___.",
+      "options": [
+        "calorie (cal)",
+        "joule (J)",
+        "degree Celsius",
+        "watt (W)"
+      ],
+      "correct_index": 1,
+      "explanation": "Heat is measured in joules (J).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_184",
+      "text": "1 calorie is approximately equal to ___.",
+      "options": [
+        "1 J",
+        "10 J",
+        "0.24 J",
+        "4.19 J (about 4.2 J)"
+      ],
+      "correct_index": 3,
+      "explanation": "1 cal = 4.19 J.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_185",
+      "text": "Temperature is a measure of the ___ of a body.",
+      "options": [
+        "amount of heat",
+        "total energy",
+        "degree of hotness or coldness",
+        "mass"
+      ],
+      "correct_index": 2,
+      "explanation": "Temperature measures hotness or coldness.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_186",
+      "text": "The zeroth law of thermodynamics states that if A and B are each in thermal equilibrium with C, then ___.",
+      "options": [
+        "A and B cannot be in equilibrium",
+        "A and B are in thermal equilibrium with each other",
+        "heat flows from A to B",
+        "C is hotter than both"
+      ],
+      "correct_index": 1,
+      "explanation": "Thermal equilibrium is transitive by the zeroth law.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_187",
+      "text": "On the Celsius scale, the lower fixed point is ___.",
+      "options": [
+        "0°C",
+        "−273°C",
+        "32°C",
+        "100°C"
+      ],
+      "correct_index": 0,
+      "explanation": "The ice point is 0°C.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_188",
+      "text": "On the Fahrenheit scale, the upper fixed point is ___.",
+      "options": [
+        "100°F",
+        "180°F",
+        "32°F",
+        "212°F"
+      ],
+      "correct_index": 3,
+      "explanation": "The steam point is 212°F.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_189",
+      "text": "The fundamental interval on the Fahrenheit scale is ___.",
+      "options": [
+        "100 degrees",
+        "212 degrees",
+        "180 degrees",
+        "273 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "212 − 32 = 180 degrees.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_190",
+      "text": "The SI unit of thermodynamic temperature is the ___.",
+      "options": [
+        "kelvin (K)",
+        "degree Celsius (°C)",
+        "degree Fahrenheit (°F)",
+        "joule (J)"
+      ],
+      "correct_index": 0,
+      "explanation": "Kelvin (K) is the SI unit of temperature.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_191",
+      "text": "A temperature of 20°C is equal to about ___.",
+      "options": [
+        "273 K",
+        "20 K",
+        "100 K",
+        "293 K"
+      ],
+      "correct_index": 3,
+      "explanation": "T(K) = 20 + 273 = 293 K.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_192",
+      "text": "A temperature of 50°C is equal to ___ on the Fahrenheit scale.",
+      "options": [
+        "82°F",
+        "122°F",
+        "212°F",
+        "90°F"
+      ],
+      "correct_index": 1,
+      "explanation": "T_F = (9/5 × 50) + 32 = 122°F.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy111_193",
+      "text": "Absolute zero (0 K) is equal to about ___.",
+      "options": [
+        "0°C",
+        "−100°C",
+        "−273°C",
+        "273°C"
+      ],
+      "correct_index": 2,
+      "explanation": "0 K = −273°C.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_194",
+      "text": "The triple point of water is defined as ___.",
+      "options": [
+        "273.16 K",
+        "373.16 K",
+        "0 K",
+        "100 K"
+      ],
+      "correct_index": 0,
+      "explanation": "The triple point of water is 273.16 K.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_195",
+      "text": "Latent heat of fusion is the heat required to change ___ at constant temperature.",
+      "options": [
+        "a liquid to a vapour",
+        "a gas to a solid",
+        "a liquid to a solid",
+        "a solid to a liquid"
+      ],
+      "correct_index": 3,
+      "explanation": "Fusion is the solid-to-liquid change.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_196",
+      "text": "Latent heat of vaporization is the heat required to change ___ at constant temperature.",
+      "options": [
+        "a solid to a liquid",
+        "a liquid to a vapour",
+        "a gas to a liquid",
+        "a solid to a solid"
+      ],
+      "correct_index": 1,
+      "explanation": "Vaporization is the liquid-to-vapour change.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_197",
+      "text": "During melting or boiling of a pure substance, its temperature ___.",
+      "options": [
+        "increases continuously",
+        "decreases",
+        "remains constant",
+        "doubles"
+      ],
+      "correct_index": 2,
+      "explanation": "Temperature stays constant during a change of state.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_198",
+      "text": "The main mode of heat transfer in solids is ___.",
+      "options": [
+        "convection",
+        "radiation",
+        "evaporation",
+        "conduction"
+      ],
+      "correct_index": 3,
+      "explanation": "Conduction is the main mode of heat transfer in solids.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_199",
+      "text": "The main mode of heat transfer in fluids (liquids and gases) is ___.",
+      "options": [
+        "conduction",
+        "radiation",
+        "reflection",
+        "convection"
+      ],
+      "correct_index": 3,
+      "explanation": "Convection by moving fluid particles dominates in fluids.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy111_200",
+      "text": "Heat from the sun reaches the earth by ___.",
+      "options": [
+        "conduction",
+        "convection",
+        "reflection",
+        "radiation"
+      ],
+      "correct_index": 3,
+      "explanation": "Radiant heat travels through space at the speed of light.",
+      "difficulty": 1
+    }
+  ]
+}

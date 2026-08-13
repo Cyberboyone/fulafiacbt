@@ -1,0 +1,2607 @@
+{
+  "course_id": "chm121",
+  "course_name": "Introductory Inorganic Chemistry",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "chm121_001",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_002",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_003",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_004",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_005",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_006",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_007",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_008",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_009",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_010",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_011",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_012",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_013",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_014",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_015",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_016",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_017",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_018",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_019",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_020",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_021",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_022",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_023",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_024",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_025",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_026",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_027",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_028",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_029",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_030",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_031",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_032",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_033",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_034",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_035",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_036",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_037",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_038",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_039",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_040",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_041",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_042",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_043",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_044",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_045",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_046",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_047",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_048",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_049",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_050",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_051",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_052",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_053",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_054",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_055",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_056",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_057",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_058",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_059",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_060",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_061",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_062",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_063",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_064",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_065",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_066",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_067",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_068",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_069",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_070",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_071",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_072",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_073",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_074",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_075",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_076",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_077",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_078",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_079",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_080",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_081",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_082",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_083",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_084",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_085",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_086",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_087",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_088",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_089",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_090",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_091",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_092",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_093",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_094",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_095",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_096",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_097",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_098",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_099",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_100",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_101",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_102",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_103",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_104",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_105",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_106",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_107",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_108",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_109",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_110",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_111",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_112",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_113",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_114",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_115",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_116",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_117",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_118",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_119",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_120",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_121",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_122",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_123",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_124",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_125",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_126",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_127",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_128",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_129",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_130",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_131",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_132",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_133",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_134",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_135",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_136",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_137",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_138",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_139",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_140",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_141",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_142",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_143",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_144",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_145",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_146",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_147",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_148",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_149",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_150",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_151",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_152",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_153",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_154",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_155",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_156",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_157",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_158",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_159",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_160",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_161",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_162",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_163",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_164",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_165",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_166",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_167",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_168",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_169",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_170",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_171",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_172",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_173",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_174",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_175",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_176",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_177",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_178",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_179",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_180",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_181",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_182",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_183",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_184",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_185",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_186",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_187",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_188",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_189",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_190",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_191",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_192",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_193",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_194",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_195",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_196",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_197",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_198",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_199",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm121_200",
+      "text": "In Introductory Inorganic Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Inorganic Chemistry concept A",
+        "Introductory Inorganic Chemistry concept B",
+        "Introductory Inorganic Chemistry concept C",
+        "Introductory Inorganic Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory inorganic chemistry material.",
+      "difficulty": 1
+    }
+  ]
+}

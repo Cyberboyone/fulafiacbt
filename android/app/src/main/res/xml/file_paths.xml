@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="shared_files" path="Documents/"/>
+    <cache-path name="cache_files" path="cbt_cache/"/>
+    <files-path name="app_files" path="."/>
+</paths>

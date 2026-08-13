@@ -1,0 +1,2607 @@
+{
+  "course_id": "chem111",
+  "course_name": "Introductory Physical Chemistry",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "chem111_001",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_002",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_003",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_004",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_005",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_006",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_007",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_008",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_009",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_010",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_011",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_012",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_013",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_014",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_015",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_016",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_017",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_018",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_019",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_020",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_021",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_022",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_023",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_024",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_025",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_026",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_027",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_028",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_029",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_030",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_031",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_032",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_033",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_034",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_035",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_036",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_037",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_038",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_039",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_040",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_041",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_042",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_043",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_044",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_045",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_046",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_047",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_048",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_049",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_050",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_051",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_052",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_053",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_054",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_055",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_056",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_057",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_058",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_059",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_060",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_061",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_062",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_063",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_064",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_065",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_066",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_067",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_068",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_069",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_070",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_071",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_072",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_073",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_074",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_075",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_076",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_077",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_078",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_079",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_080",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_081",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_082",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_083",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_084",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_085",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_086",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_087",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_088",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_089",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_090",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_091",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_092",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_093",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_094",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_095",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_096",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_097",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_098",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_099",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_100",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_101",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_102",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_103",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_104",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_105",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_106",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_107",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_108",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_109",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_110",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_111",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_112",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_113",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_114",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_115",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_116",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_117",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_118",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_119",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_120",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_121",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_122",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_123",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_124",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_125",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_126",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_127",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_128",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_129",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_130",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_131",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_132",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_133",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_134",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_135",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_136",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_137",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_138",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_139",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_140",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_141",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_142",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_143",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_144",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_145",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_146",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_147",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_148",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_149",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_150",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_151",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_152",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_153",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_154",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_155",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_156",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_157",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_158",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_159",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_160",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_161",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_162",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_163",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_164",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_165",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_166",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_167",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_168",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_169",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_170",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_171",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_172",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_173",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_174",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_175",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_176",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_177",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_178",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_179",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_180",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_181",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_182",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_183",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_184",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_185",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_186",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_187",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_188",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_189",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_190",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_191",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_192",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_193",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_194",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_195",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_196",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_197",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_198",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_199",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chem111_200",
+      "text": "In Introductory Physical Chemistry, which of the following is correct?",
+      "options": [
+        "Introductory Physical Chemistry concept A",
+        "Introductory Physical Chemistry concept B",
+        "Introductory Physical Chemistry concept C",
+        "Introductory Physical Chemistry concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on introductory physical chemistry material.",
+      "difficulty": 1
+    }
+  ]
+}

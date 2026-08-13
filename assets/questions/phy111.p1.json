@@ -1,0 +1,562 @@
+{"course_name": "General Physics I", "questions": [
+{
+"id": "phy111_001",
+"text": "Which physical quantity is the measure of the inertia of a body?",
+"options": ["Weight", "Volume", "Mass", "Density"],
+"correct_index": 2,
+"explanation": "Mass is the measure of the inertia of a body.",
+"difficulty": 1
+},
+{
+"id": "phy111_002",
+"text": "The SI unit of force is the ___.",
+"options": ["Newton", "Joule", "Watt", "Pascal"],
+"correct_index": 0,
+"explanation": "Force is measured in newtons (N).",
+"difficulty": 1
+},
+{
+"id": "phy111_003",
+"text": "Newton's second law of motion is expressed mathematically as ___.",
+"options": ["F = mv", "F = ma", "F = m/a", "F = mg"],
+"correct_index": 1,
+"explanation": "The second law gives F = ma.",
+"difficulty": 1
+},
+{
+"id": "phy111_004",
+"text": "One newton is the force that gives a mass of 1 kg an acceleration of ___.",
+"options": ["0.1 m/s²", "10 m/s²", "9.8 m/s²", "1 m/s²"],
+"correct_index": 3,
+"explanation": "F = ma = 1 kg × 1 m/s² = 1 N.",
+"difficulty": 1
+},
+{
+"id": "phy111_005",
+"text": "Newton's first law of motion is also called the law of ___.",
+"options": ["Gravitation", "Inertia", "Momentum", "Impulse"],
+"correct_index": 1,
+"explanation": "The first law is known as the law of inertia.",
+"difficulty": 1
+},
+{
+"id": "phy111_006",
+"text": "A book on a table stays there until it is pushed or pulled. This illustrates Newton's ___.",
+"options": ["second law", "third law", "law of universal gravitation", "first law"],
+"correct_index": 3,
+"explanation": "The first law says a body at rest stays at rest unless a force acts on it.",
+"difficulty": 1
+},
+{
+"id": "phy111_007",
+"text": "Newton's third law states that for every action there is ___.",
+"options": ["an equal and opposite reaction", "an equal and parallel reaction", "an unequal and opposite reaction", "an independent reaction"],
+"correct_index": 0,
+"explanation": "Action and reaction are equal in magnitude and opposite in direction.",
+"difficulty": 1
+},
+{
+"id": "phy111_008",
+"text": "Which of the following is an application of Newton's third law?",
+"options": ["Expansion of a bridge", "Capillary rise of water", "The recoil of a gun", "Evaporation of a liquid"],
+"correct_index": 2,
+"explanation": "The recoil of a gun is a classic example of action and reaction.",
+"difficulty": 1
+},
+{
+"id": "phy111_009",
+"text": "Linear momentum is the product of ___.",
+"options": ["force and time", "mass and velocity", "force and distance", "mass and acceleration"],
+"correct_index": 1,
+"explanation": "Momentum p = mv.",
+"difficulty": 1
+},
+{
+"id": "phy111_010",
+"text": "The SI unit of linear momentum is ___.",
+"options": ["kg m s⁻¹", "kg m² s⁻¹", "kg m² s⁻²", "N m"],
+"correct_index": 0,
+"explanation": "Momentum = mass × velocity, so its unit is kg m s⁻¹.",
+"difficulty": 1
+},
+{
+"id": "phy111_011",
+"text": "Impulse is the product of ___.",
+"options": ["mass and velocity", "force and time", "force and distance", "mass and acceleration"],
+"correct_index": 1,
+"explanation": "Impulse = force × time.",
+"difficulty": 1
+},
+{
+"id": "phy111_012",
+"text": "The impulse of a force is numerically equal to the ___.",
+"options": ["change in velocity", "change in kinetic energy", "change in momentum", "change in mass"],
+"correct_index": 2,
+"explanation": "Ft = mv − mu, the change in momentum.",
+"difficulty": 1
+},
+{
+"id": "phy111_013",
+"text": "The SI unit of impulse is the ___.",
+"options": ["joule (J)", "watt (W)", "pascal (Pa)", "newton second (N s)"],
+"correct_index": 3,
+"explanation": "Impulse = force × time, hence N s.",
+"difficulty": 1
+},
+{
+"id": "phy111_014",
+"text": "Linear momentum is conserved in a collision provided ___.",
+"options": ["the bodies are perfectly elastic", "the collision is head-on", "no external force acts on the system", "the colliding bodies have equal masses"],
+"correct_index": 2,
+"explanation": "Conservation of momentum holds when no external force acts on the system.",
+"difficulty": 1
+},
+{
+"id": "phy111_015",
+"text": "In an elastic collision, besides momentum, which quantity is conserved?",
+"options": ["Potential energy", "Temperature", "Heat", "Kinetic energy"],
+"correct_index": 3,
+"explanation": "In an elastic collision both kinetic energy and momentum are conserved.",
+"difficulty": 1
+},
+{
+"id": "phy111_016",
+"text": "When two bodies collide and stick together, the collision is said to be ___.",
+"options": ["perfectly elastic", "perfectly inelastic", "glancing", "explosive"],
+"correct_index": 1,
+"explanation": "Sticking together means a perfectly inelastic collision.",
+"difficulty": 1
+},
+{
+"id": "phy111_017",
+"text": "The coefficient of restitution of a perfectly elastic collision is ___.",
+"options": ["1", "0", "0.5", "2"],
+"correct_index": 0,
+"explanation": "e = 1 for a perfectly elastic collision.",
+"difficulty": 1
+},
+{
+"id": "phy111_018",
+"text": "The coefficient of restitution of a perfectly inelastic collision is ___.",
+"options": ["1", "2", "0.5", "0"],
+"correct_index": 3,
+"explanation": "e = 0 for a perfectly inelastic collision.",
+"difficulty": 1
+},
+{
+"id": "phy111_019",
+"text": "Speed is the rate of change of ___ with time.",
+"options": ["velocity", "displacement", "distance", "momentum"],
+"correct_index": 2,
+"explanation": "Speed = distance travelled ÷ time taken.",
+"difficulty": 1
+},
+{
+"id": "phy111_020",
+"text": "The unit of speed is ___.",
+"options": ["m s⁻²", "m s⁻¹", "m² s⁻¹", "N m"],
+"correct_index": 1,
+"explanation": "Speed is distance over time, measured in m s⁻¹.",
+"difficulty": 1
+},
+{
+"id": "phy111_021",
+"text": "Velocity is the rate of change of ___ with time.",
+"options": ["displacement", "distance", "area", "mass"],
+"correct_index": 0,
+"explanation": "Velocity = displacement ÷ time.",
+"difficulty": 1
+},
+{
+"id": "phy111_022",
+"text": "Which of the following is a vector quantity?",
+"options": ["Distance", "Speed", "Displacement", "Time"],
+"correct_index": 2,
+"explanation": "Displacement has both magnitude and direction.",
+"difficulty": 1
+},
+{
+"id": "phy111_023",
+"text": "Which of the following is a scalar quantity?",
+"options": ["Speed", "Velocity", "Displacement", "Force"],
+"correct_index": 0,
+"explanation": "Speed is described by magnitude only.",
+"difficulty": 1
+},
+{
+"id": "phy111_024",
+"text": "Acceleration is the rate of change of ___ with time.",
+"options": ["position", "velocity", "distance", "mass"],
+"correct_index": 1,
+"explanation": "Acceleration = change in velocity ÷ time.",
+"difficulty": 1
+},
+{
+"id": "phy111_025",
+"text": "The unit of acceleration is ___.",
+"options": ["m s⁻¹", "m s²", "m² s⁻¹", "m s⁻²"],
+"correct_index": 3,
+"explanation": "Acceleration is velocity per unit time, giving m s⁻².",
+"difficulty": 1
+},
+{
+"id": "phy111_026",
+"text": "A negative acceleration is called ___.",
+"options": ["uniform acceleration", "instantaneous speed", "retardation (deceleration)", "free fall"],
+"correct_index": 2,
+"explanation": "Negative acceleration is retardation or deceleration.",
+"difficulty": 1
+},
+{
+"id": "phy111_027",
+"text": "The acceleration due to gravity on the surface of the earth is about ___.",
+"options": ["9.8 m/s²", "8.9 m/s²", "98 m/s²", "1.96 m/s²"],
+"correct_index": 0,
+"explanation": "g ≈ 9.8 m/s² (9.81 m/s²).",
+"difficulty": 1
+},
+{
+"id": "phy111_028",
+"text": "For a body thrown vertically upward, the acceleration due to gravity is taken to be ___.",
+"options": ["positive", "zero", "infinite", "negative"],
+"correct_index": 3,
+"explanation": "For upward motion g is negative.",
+"difficulty": 1
+},
+{
+"id": "phy111_029",
+"text": "At its maximum height, the velocity of a body thrown vertically upward is ___.",
+"options": ["maximum", "zero", "equal to the initial velocity", "equal to g"],
+"correct_index": 1,
+"explanation": "At maximum height the body is momentarily at rest, v = 0.",
+"difficulty": 1
+},
+{
+"id": "phy111_030",
+"text": "The first equation of motion under constant acceleration is ___.",
+"options": ["v = u + at", "s = ut + ½at²", "v² = u² + 2as", "s = (u + v)t"],
+"correct_index": 0,
+"explanation": "v = u + at is the first equation of motion.",
+"difficulty": 1
+},
+{
+"id": "phy111_031",
+"text": "The second equation of motion is ___.",
+"options": ["v = u + at", "v² = u² + 2as", "v = u + gt", "s = ut + ½at²"],
+"correct_index": 3,
+"explanation": "s = ut + ½at² is the second equation of motion.",
+"difficulty": 1
+},
+{
+"id": "phy111_032",
+"text": "The third equation of motion is ___.",
+"options": ["v = u + at", "v² = u² + 2as", "s = ut + ½at²", "ω = ω₀ + αt"],
+"correct_index": 1,
+"explanation": "v² = u² + 2as is the third equation of motion.",
+"difficulty": 1
+},
+{
+"id": "phy111_033",
+"text": "A body that covers equal displacements in equal intervals of time moves with ___.",
+"options": ["variable velocity", "average velocity", "uniform velocity", "instantaneous velocity"],
+"correct_index": 2,
+"explanation": "Equal displacements in equal times mean uniform velocity.",
+"difficulty": 1
+},
+{
+"id": "phy111_034",
+"text": "If v = u + at with u = 0, a = 2 m/s² and t = 3 s, the value of v is ___.",
+"options": ["6 m/s", "3 m/s", "2 m/s", "9 m/s"],
+"correct_index": 0,
+"explanation": "v = 0 + 2 × 3 = 6 m/s.",
+"difficulty": 2
+},
+{
+"id": "phy111_035",
+"text": "Using s = ut + ½at² with u = 0, a = 4 m/s² and t = 2 s gives s = ___.",
+"options": ["4 m", "8 m", "16 m", "24 m"],
+"correct_index": 1,
+"explanation": "s = ½ × 4 × 2² = 8 m.",
+"difficulty": 2
+},
+{
+"id": "phy111_036",
+"text": "A speed of 50 km/h is approximately equal to ___.",
+"options": ["5 m/s", "50 m/s", "13.9 m/s", "500 m/s"],
+"correct_index": 2,
+"explanation": "50 × 1000 ÷ 3600 ≈ 13.9 m/s.",
+"difficulty": 2
+},
+{
+"id": "phy111_037",
+"text": "A car moves at 60 m/s and a motorbike ahead of it moves at 95 m/s in the same direction. The velocity of the bike relative to the car is ___.",
+"options": ["155 m/s", "60 m/s", "95 m/s", "35 m/s"],
+"correct_index": 3,
+"explanation": "V_relative = 95 − 60 = 35 m/s.",
+"difficulty": 2
+},
+{
+"id": "phy111_038",
+"text": "Work done = force × ___ measured in the direction of the force.",
+"options": ["time", "displacement", "acceleration", "mass"],
+"correct_index": 1,
+"explanation": "Work = force × displacement in the direction of the force.",
+"difficulty": 1
+},
+{
+"id": "phy111_039",
+"text": "The SI unit of work is the ___.",
+"options": ["Joule", "Newton", "Watt", "Kilogram"],
+"correct_index": 0,
+"explanation": "Work is measured in joules (J).",
+"difficulty": 1
+},
+{
+"id": "phy111_040",
+"text": "When the displacement is perpendicular to the applied force (θ = 90°), the work done is ___.",
+"options": ["maximum", "equal to F × s", "zero", "negative"],
+"correct_index": 2,
+"explanation": "W = Fs cos 90° = 0.",
+"difficulty": 1
+},
+{
+"id": "phy111_041",
+"text": "The kinetic energy of a body of mass m moving with velocity v is ___.",
+"options": ["mv²", "mgh", "F × s", "½mv²"],
+"correct_index": 3,
+"explanation": "KE = ½mv².",
+"difficulty": 1
+},
+{
+"id": "phy111_042",
+"text": "The gravitational potential energy of a mass m at a height h is ___.",
+"options": ["½mv²", "mgh", "½kx²", "F × s"],
+"correct_index": 1,
+"explanation": "PE = mgh.",
+"difficulty": 1
+},
+{
+"id": "phy111_043",
+"text": "The elastic potential energy stored in a stretched spring of force constant k and extension x is ___.",
+"options": ["½kx²", "kx", "mgx", "Fh"],
+"correct_index": 0,
+"explanation": "Elastic PE = ½kx².",
+"difficulty": 1
+},
+{
+"id": "phy111_044",
+"text": "Energy is the ___ of a body.",
+"options": ["amount of matter", "momentum", "ability to do work", "power"],
+"correct_index": 2,
+"explanation": "Energy is the ability to do work.",
+"difficulty": 1
+},
+{
+"id": "phy111_045",
+"text": "The work-energy theorem states that the net work done on a body equals its change in ___.",
+"options": ["potential energy", "momentum", "force", "kinetic energy"],
+"correct_index": 3,
+"explanation": "W_net = ΔKE.",
+"difficulty": 1
+},
+{
+"id": "phy111_046",
+"text": "Power is the ___.",
+"options": ["force times distance", "rate of doing work", "mass times velocity", "energy times time"],
+"correct_index": 1,
+"explanation": "Power = work done per unit time.",
+"difficulty": 1
+},
+{
+"id": "phy111_047",
+"text": "The SI unit of power is the ___.",
+"options": ["Watt", "Joule", "Newton", "Pascal"],
+"correct_index": 0,
+"explanation": "Power is measured in watts (W).",
+"difficulty": 1
+},
+{
+"id": "phy111_048",
+"text": "One horse power (hp) is equal to ___.",
+"options": ["100 W", "7.46 W", "746 W", "7460 W"],
+"correct_index": 2,
+"explanation": "1 hp = 746 watts.",
+"difficulty": 1
+},
+{
+"id": "phy111_049",
+"text": "The instantaneous power delivered by a force F to a body moving with velocity v is ___.",
+"options": ["P = F/t", "P = Fv", "P = mgh", "P = Fs"],
+"correct_index": 1,
+"explanation": "P = dW/dt = Fv.",
+"difficulty": 1
+},
+{
+"id": "phy111_050",
+"text": "When only conservative forces act on a system, the total mechanical energy ___.",
+"options": ["remains constant", "increases continuously", "decreases continuously", "is always zero"],
+"correct_index": 0,
+"explanation": "Mechanical energy is conserved when only conservative forces act.",
+"difficulty": 1
+},
+{
+"id": "phy111_051",
+"text": "Which of the following is NOT a fundamental (base) quantity?",
+"options": ["Length", "Mass", "Velocity", "Time"],
+"correct_index": 2,
+"explanation": "Velocity is a derived quantity.",
+"difficulty": 1
+},
+{
+"id": "phy111_052",
+"text": "The SI unit of length is the ___.",
+"options": ["Metre", "Kilogram", "Second", "Kelvin"],
+"correct_index": 0,
+"explanation": "Length is measured in metres (m).",
+"difficulty": 1
+},
+{
+"id": "phy111_053",
+"text": "The SI unit of mass is the ___.",
+"options": ["Gram", "Newton", "Pound", "Kilogram"],
+"correct_index": 3,
+"explanation": "Mass is measured in kilograms (kg).",
+"difficulty": 1
+},
+{
+"id": "phy111_054",
+"text": "The SI unit of time is the ___.",
+"options": ["Minute", "Second", "Hour", "Kelvin"],
+"correct_index": 1,
+"explanation": "Time is measured in seconds (s).",
+"difficulty": 1
+},
+{
+"id": "phy111_055",
+"text": "The SI unit of temperature is the ___.",
+"options": ["Kelvin", "Degree Celsius", "Degree Fahrenheit", "Joule"],
+"correct_index": 0,
+"explanation": "Kelvin (K) is the SI unit of temperature.",
+"difficulty": 1
+},
+{
+"id": "phy111_056",
+"text": "How many fundamental (base) quantities are there in the SI system?",
+"options": ["5", "6", "7", "3"],
+"correct_index": 2,
+"explanation": "There are seven fundamental quantities.",
+"difficulty": 1
+},
+{
+"id": "phy111_057",
+"text": "The dimension of length is written as ___.",
+"options": ["[M]", "[L]", "[T]", "[ML]"],
+"correct_index": 1,
+"explanation": "Length has dimension [L].",
+"difficulty": 1
+},
+{
+"id": "phy111_058",
+"text": "The dimension of mass is written as ___.",
+"options": ["[M]", "[L]", "[T]", "[ML]"],
+"correct_index": 0,
+"explanation": "Mass has dimension [M].",
+"difficulty": 1
+},
+{
+"id": "phy111_059",
+"text": "The dimension of time is written as ___.",
+"options": ["[L]", "[M]", "[MLT⁻²]", "[T]"],
+"correct_index": 3,
+"explanation": "Time has dimension [T].",
+"difficulty": 1
+},
+{
+"id": "phy111_060",
+"text": "The dimension of force is ___.",
+"options": ["[MLT⁻¹]", "[MLT⁻²]", "[ML²T⁻²]", "[ML⁻¹T⁻²]"],
+"correct_index": 1,
+"explanation": "Force = mass × acceleration, giving [MLT⁻²].",
+"difficulty": 1
+},
+{
+"id": "phy111_061",
+"text": "The dimension of velocity is ___.",
+"options": ["[LT⁻¹]", "[LT⁻²]", "[L²T⁻¹]", "[MLT⁻¹]"],
+"correct_index": 0,
+"explanation": "Velocity = length/time, giving [LT⁻¹].",
+"difficulty": 1
+},
+{
+"id": "phy111_062",
+"text": "The dimension of acceleration is ___.",
+"options": ["[LT⁻¹]", "[L²T⁻²]", "[LT⁻²]", "[MT⁻²]"],
+"correct_index": 2,
+"explanation": "Acceleration is velocity per unit time, giving [LT⁻²].",
+"difficulty": 1
+},
+{
+"id": "phy111_063",
+"text": "The dimension of density is ___.",
+"options": ["[ML³]", "[M⁻¹L³]", "[ML⁻²]", "[ML⁻³]"],
+"correct_index": 3,
+"explanation": "Density = mass/volume, giving [ML⁻³].",
+"difficulty": 1
+},
+{
+"id": "phy111_064",
+"text": "The dimension of pressure (stress) is ___.",
+"options": ["[MLT⁻²]", "[ML⁻¹T⁻²]", "[L⁻¹T⁻²]", "[ML⁻²T⁻²]"],
+"correct_index": 1,
+"explanation": "Pressure = force/area, giving [ML⁻¹T⁻²].",
+"difficulty": 1
+},
+{
+"id": "phy111_065",
+"text": "Which of the following quantities is dimensionless?",
+"options": ["Angle (trigonometric function)", "Force", "Density", "Velocity"],
+"correct_index": 0,
+"explanation": "Angles and trigonometric functions have no dimension.",
+"difficulty": 1
+},
+{
+"id": "phy111_066",
+"text": "The magnitude of a unit vector is ___.",
+"options": ["0", "2", "1", "10"],
+"correct_index": 2,
+"explanation": "A unit vector has magnitude 1.",
+"difficulty": 1
+},
+{
+"id": "phy111_067",
+"text": "By definition, one metre is the distance travelled by light in a vacuum in ___.",
+"options": ["1/299 792 458 second", "1/100 000 second", "1 second", "1/9 192 631 770 second"],
+"correct_index": 0,
+"explanation": "The metre is defined using the distance light travels in 1/299 792 458 s.",
+"difficulty": 1
+},
+{
+"id": "phy111_068",
+"text": "A vector quantity is fully described by ___.",
+"options": ["magnitude only", "magnitude and direction", "direction only", "a unit"],
+"correct_index": 1,
+"explanation": "Vectors have both magnitude and direction.",
+"difficulty": 1
+},
+{
+"id": "phy111_069",
+"text": "The dimension of area is ___.",
+"options": ["[L²]", "[L³]", "[L]", "[LT]"],
+"correct_index": 0,
+"explanation": "Area = length × breadth, giving [L²].",
+"difficulty": 1
+},
+{
+"id": "phy111_070",
+"text": "The dimension of volume is ___.",
+"options": ["[L²]", "[L⁴]", "[L³]", "[M³]"],
+"correct_index": 2,
+"explanation": "Volume = length cubed, giving [L³].",
+"difficulty": 1
+}
+]}

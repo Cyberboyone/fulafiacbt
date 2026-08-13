@@ -1,0 +1,541 @@
+{
+  "course_name": "Introduction to Computer Science",
+  "questions": [
+    {
+      "id": "csc111_001",
+      "text": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Common Processing Unit"],
+      "correct_index": 0,
+      "explanation": "CPU is the abbreviation for Central Processing Unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_002",
+      "text": "Another name for the processor is the ___.",
+      "options": ["Control unit", "CPU", "Register", "Main memory"],
+      "correct_index": 1,
+      "explanation": "The processor is also commonly called the CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_003",
+      "text": "The main circuit board of the system unit is called the ___.",
+      "options": ["Processor", "Register", "Motherboard", "Hard disk"],
+      "correct_index": 2,
+      "explanation": "The motherboard is the main circuit board of the system unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_004",
+      "text": "The component of the processor that directs and coordinates most of the operations in the computer is the ___.",
+      "options": ["Arithmetic logic unit", "Register", "Cache", "Control unit"],
+      "correct_index": 3,
+      "explanation": "The control unit directs and coordinates operations in the computer.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_005",
+      "text": "ALU stands for ___.",
+      "options": ["Arithmetic Logic Unit", "Advanced Logic Unit", "Arithmetic Language Unit", "Automatic Logic Unit"],
+      "correct_index": 0,
+      "explanation": "ALU is the Arithmetic Logic Unit of the processor.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_006",
+      "text": "Small, high-speed storage locations inside the processor that temporarily hold data and instructions are called ___.",
+      "options": ["Flash drives", "Registers", "Heat sinks", "Cables"],
+      "correct_index": 1,
+      "explanation": "Registers are small high-speed storage locations inside the processor.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_007",
+      "text": "RAM chips usually reside on a ___.",
+      "options": ["Memory slot", "Memory chip", "Memory module", "RAM slot"],
+      "correct_index": 2,
+      "explanation": "RAM chips are typically mounted on a memory module.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_008",
+      "text": "Which component interprets and carries out the basic instructions that operate a computer?",
+      "options": ["Main memory", "Hard disk", "Monitor", "Processor"],
+      "correct_index": 3,
+      "explanation": "The processor interprets and carries out basic instructions.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_009",
+      "text": "ASCII stands for ___.",
+      "options": ["American Standard Code for Information Interchange", "American Standard Conduct Information Interchange", "American System Code for Intelligent Interchange", "American Standard Code for Internet Interchange"],
+      "correct_index": 0,
+      "explanation": "ASCII is the American Standard Code for Information Interchange.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_010",
+      "text": "A ___ is a small program that tells the operating system how to communicate with a specific device.",
+      "options": ["Utility program", "Driver", "Troubleshooter", "File program"],
+      "correct_index": 1,
+      "explanation": "A driver tells the operating system how to communicate with a device.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_011",
+      "text": "A(n) ___ enhances the functions of the components of the system unit and provides connections to peripherals.",
+      "options": ["Expansion slot", "Connector", "Adapter card", "System bus"],
+      "correct_index": 2,
+      "explanation": "An adapter card adds functions and provides connections to peripherals.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_012",
+      "text": "Which of the following is NOT an input device?",
+      "options": ["Joystick", "Mouse", "Scanner", "Printer"],
+      "correct_index": 3,
+      "explanation": "A printer is an output device, not an input device.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_013",
+      "text": "Which of the following is NOT an output device?",
+      "options": ["Mouse", "Printer", "Monitor", "Speaker"],
+      "correct_index": 0,
+      "explanation": "A mouse is an input device, not an output device.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_014",
+      "text": "The keyboard is divided into the typing area, the numeric keypad and the ___ keys.",
+      "options": ["Cursor", "Function", "Enter", "Shift"],
+      "correct_index": 1,
+      "explanation": "The three main keyboard areas include the function keys.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_015",
+      "text": "A keyboard designed to minimize strain on the hands and wrists is called a(n) ___ keyboard.",
+      "options": ["Portable", "Folded", "Ergonomic", "Wireless"],
+      "correct_index": 2,
+      "explanation": "An ergonomic keyboard reduces strain on hands and wrists.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_016",
+      "text": "Which pointing device is stationary and has a ball on its top?",
+      "options": ["Mouse", "Touchpad", "Joystick", "Trackball"],
+      "correct_index": 3,
+      "explanation": "A trackball stays stationary and its ball is rotated to move the pointer.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_017",
+      "text": "A small, flat, rectangular pointing device sensitive to pressure and motion is called a ___.",
+      "options": ["Touchpad", "Trackball", "Mouse", "Light pen"],
+      "correct_index": 0,
+      "explanation": "A touchpad is a flat, pressure- and motion-sensitive pointing device.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_018",
+      "text": "Which input device is a vertical lever mounted on a base?",
+      "options": ["Trackball", "Joystick", "Light pen", "Touch screen"],
+      "correct_index": 1,
+      "explanation": "A joystick is a vertical lever mounted on a base.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_019",
+      "text": "A handheld input device that contains a light source or can detect light is called a ___.",
+      "options": ["Stylus", "Mouse", "Light pen", "Bar code scanner"],
+      "correct_index": 2,
+      "explanation": "A light pen contains a light source or can detect light.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_020",
+      "text": "Which device captures data directly from a source document?",
+      "options": ["Printer", "Speaker", "Plotter", "Scanner"],
+      "correct_index": 3,
+      "explanation": "A scanner captures data directly from a source document.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_021",
+      "text": "MICR stands for ___.",
+      "options": ["Magnetic Ink Character Recognition", "Mark Identity Code Reader", "Micro Ink Character Reader", "Magnetic Index Code Reader"],
+      "correct_index": 0,
+      "explanation": "MICR is Magnetic Ink Character Recognition.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_022",
+      "text": "Which scanner uses laser beams to read bar codes?",
+      "options": ["MICR reader", "Bar code scanner", "OMR device", "OCR device"],
+      "correct_index": 1,
+      "explanation": "A bar code scanner reads bar codes using laser beams.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_023",
+      "text": "A bar code consists of a set of ___ of different widths.",
+      "options": ["Horizontal lines and dots", "Colored circles and squares", "Vertical lines and spaces", "Diagonal stripes and dots"],
+      "correct_index": 2,
+      "explanation": "Bar codes use vertical lines and spaces of different widths.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_024",
+      "text": "Which device reads text printed with magnetized ink and is used almost exclusively by the banking industry?",
+      "options": ["OMR reader", "OCR device", "Bar code scanner", "MICR reader"],
+      "correct_index": 3,
+      "explanation": "The banking industry uses MICR readers for check processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_025",
+      "text": "Which device is used to input music and sound effects from an electronic piano keyboard?",
+      "options": ["MIDI", "MICR reader", "Plotter", "Projector"],
+      "correct_index": 0,
+      "explanation": "MIDI devices input music and sound effects.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_026",
+      "text": "Voice input is entered into a computer using a ___.",
+      "options": ["Speaker", "Monitor", "Microphone", "Plotter"],
+      "correct_index": 2,
+      "explanation": "A microphone is used for voice input.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_027",
+      "text": "Which component of a digital camera adjusts the quality of a captured image?",
+      "options": ["CCD", "Lens", "Battery", "Digital signal processor (DSP)"],
+      "correct_index": 3,
+      "explanation": "The DSP adjusts the quality of the digital image.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_028",
+      "text": "The sharpness and clarity of an image is called ___.",
+      "options": ["Resolution", "Brightness", "Contrast", "Volume"],
+      "correct_index": 0,
+      "explanation": "Resolution describes the sharpness and clarity of an image.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_029",
+      "text": "A single point in an electronic image is called a ___.",
+      "options": ["Dot pitch", "Pixel", "Cluster", "Frame"],
+      "correct_index": 1,
+      "explanation": "A pixel is a single point in an electronic image.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_030",
+      "text": "Which expansion card converts an analog video signal into a digital signal that the computer understands?",
+      "options": ["Sound card", "Network card", "Video capture card", "USB drive"],
+      "correct_index": 2,
+      "explanation": "A video capture card converts analog video into digital signals.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_031",
+      "text": "A video camera whose output displays on a Web page is called a ___.",
+      "options": ["Digital camera", "Camcorder", "Video recorder", "Web cam"],
+      "correct_index": 3,
+      "explanation": "A Web cam displays its output on a Web page.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_032",
+      "text": "Output is data that has been ___.",
+      "options": ["Processed into a useful form", "Collected from a source", "Stored on a disk", "Printed on paper"],
+      "correct_index": 0,
+      "explanation": "Output is data that has been processed into a useful form.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_033",
+      "text": "Which of the following displays text and graphics on the screen?",
+      "options": ["Printer", "Monitor", "Scanner", "Keyboard"],
+      "correct_index": 1,
+      "explanation": "A monitor is a display device for text and graphics.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_034",
+      "text": "LCD stands for ___.",
+      "options": ["Light Crystal Display", "Liquid Cathode Display", "Liquid Crystal Display", "Long Crystal Device"],
+      "correct_index": 2,
+      "explanation": "LCD is Liquid Crystal Display.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_035",
+      "text": "Which unit is used to measure the brightness of a display?",
+      "options": ["Pixels", "Hertz", "Dots", "Nits"],
+      "correct_index": 3,
+      "explanation": "Nits are used to measure display brightness.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_036",
+      "text": "CRT stands for ___.",
+      "options": ["Cathode-Ray Tube", "Cathode-Ray Type", "Cathode-Ray Time", "Color Ray Tube"],
+      "correct_index": 0,
+      "explanation": "CRT is Cathode-Ray Tube.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_037",
+      "text": "Which type of printer sprays tiny drops of liquid ink onto paper?",
+      "options": ["Laser printer", "Ink-jet printer", "Thermal printer", "Dot-matrix printer"],
+      "correct_index": 1,
+      "explanation": "Ink-jet printers spray tiny drops of liquid ink.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_038",
+      "text": "Printed information is also called a ___.",
+      "options": ["Soft copy", "E-copy", "Hard copy", "Memory copy"],
+      "correct_index": 2,
+      "explanation": "Printed output is called a hard copy or printout.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_039",
+      "text": "Which printer produces printed images when tiny wire pins strike an inked ribbon?",
+      "options": ["Ink-jet printer", "Thermal printer", "Laser printer", "Dot-matrix printer"],
+      "correct_index": 3,
+      "explanation": "A dot-matrix printer uses wire pins that strike an inked ribbon.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_040",
+      "text": "A single device that prints, scans, copies and sometimes faxes is called a ___.",
+      "options": ["Multifunction peripheral", "Multifax printer", "Scanner", "Mobile printer"],
+      "correct_index": 0,
+      "explanation": "A multifunction peripheral is an all-in-one device.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_041",
+      "text": "Which printer generates images by pushing electrically heated pins against heat-sensitive paper?",
+      "options": ["Ink-jet printer", "Thermal printer", "Dot-matrix printer", "Line printer"],
+      "correct_index": 1,
+      "explanation": "Thermal printers use heated pins and heat-sensitive paper.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_042",
+      "text": "Which device is used to produce high-quality drawings?",
+      "options": ["Scanner", "Camera", "Plotter", "Printer"],
+      "correct_index": 2,
+      "explanation": "Plotters are used to produce high-quality drawings.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_043",
+      "text": "Which of the following is an audio output device?",
+      "options": ["Microphone", "Scanner", "Keyboard", "Speaker"],
+      "correct_index": 3,
+      "explanation": "Speakers are audio output devices.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_044",
+      "text": "A device that takes the images on a computer screen and projects them on a larger screen is a ___.",
+      "options": ["Data projector", "Interactive whiteboard", "Flatbed scanner", "Touchpad"],
+      "correct_index": 0,
+      "explanation": "A data projector projects computer screen images onto a larger screen.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_045",
+      "text": "A touch-sensitive device resembling a dry-erase board that displays the image on a connected computer screen is a(n) ___.",
+      "options": ["Data projector", "Interactive whiteboard", "Flatbed scanner", "Light pen"],
+      "correct_index": 1,
+      "explanation": "An interactive whiteboard is a touch-sensitive display board.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_046",
+      "text": "Storage capacity is the number of ___ a storage medium can hold.",
+      "options": ["Pixels", "Watts", "Bytes", "Colors"],
+      "correct_index": 2,
+      "explanation": "Capacity is the number of bytes a storage medium can hold.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_047",
+      "text": "The amount of time it takes a storage device to locate an item on a storage medium is the ___.",
+      "options": ["Transfer rate", "Boot time", "Response time", "Access time"],
+      "correct_index": 3,
+      "explanation": "Access time measures how long it takes to locate an item.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_048",
+      "text": "A hard disk stores data on inflexible circular plates called ___.",
+      "options": ["Platters", "Lasers", "Sectors", "Cartridges"],
+      "correct_index": 0,
+      "explanation": "Hard disks use circular platters coated with magnetic particles.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_049",
+      "text": "Formatting divides a disk into ___ so that data can be stored and located.",
+      "options": ["Pages and lines", "Tracks and sectors", "Tiles and cells", "Frames and blocks"],
+      "correct_index": 1,
+      "explanation": "Formatting divides a disk into tracks and sectors.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_050",
+      "text": "Which type of storage is solid state media and contains no moving parts?",
+      "options": ["Hard disk", "Magnetic tape", "Flash memory", "Optical disc"],
+      "correct_index": 2,
+      "explanation": "Flash memory is solid state media with no moving parts.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_051",
+      "text": "A USB flash drive plugs into a ___ port.",
+      "options": ["USB", "Printer", "Power", "Audio"],
+      "correct_index": 0,
+      "explanation": "USB flash drives plug into a USB port.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_052",
+      "text": "An optical disc is written and read by a ___.",
+      "options": ["Read/write head", "Laser", "Stylus", "Needle"],
+      "correct_index": 1,
+      "explanation": "Optical discs are written and read with a laser.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_053",
+      "text": "Which of the following is a removable flash memory device that you insert into a slot in a computer?",
+      "options": ["Hard disk", "Tape cartridge", "Memory card", "Floppy disk"],
+      "correct_index": 2,
+      "explanation": "A memory card is a removable flash memory device.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_054",
+      "text": "Cloud storage is ___.",
+      "options": ["A hardware component", "An operating system", "An application package", "An Internet service that provides storage to users"],
+      "correct_index": 3,
+      "explanation": "Cloud storage provides storage to users over the Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_055",
+      "text": "Which storage medium is a magnetically coated ribbon of plastic that can store large amounts of data?",
+      "options": ["Tape", "CD-ROM", "Hard disk", "Flash drive"],
+      "correct_index": 0,
+      "explanation": "Tape is a magnetically coated ribbon of plastic.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_056",
+      "text": "A card that stores data on a thin microprocessor embedded in it is called a ___.",
+      "options": ["Magnetic stripe card", "Smart card", "Expansion card", "Video card"],
+      "correct_index": 1,
+      "explanation": "A smart card stores data on an embedded microprocessor.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_057",
+      "text": "The size of a hard disk is usually measured in ___.",
+      "options": ["Pixels", "Watts", "Gigabytes", "Seconds"],
+      "correct_index": 2,
+      "explanation": "Hard disk size is usually measured in gigabytes.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_058",
+      "text": "Which storage device is mounted on reels?",
+      "options": ["Hard disk", "CD-ROM", "Pen drive", "Magnetic tape"],
+      "correct_index": 3,
+      "explanation": "Magnetic tapes are storage devices mounted on reels.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_059",
+      "text": "Hard disks, floppy disks and optical disks are all types of ___.",
+      "options": ["Direct access storage", "Serial access storage", "Volatile storage", "Non-impact storage"],
+      "correct_index": 0,
+      "explanation": "These disks are types of direct access storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_060",
+      "text": "A ___ is a special-purpose computer that functions as a component in a larger product.",
+      "options": ["Mainframe computer", "Embedded computer", "Supercomputer", "Desktop computer"],
+      "correct_index": 1,
+      "explanation": "An embedded computer functions inside a larger product.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_061",
+      "text": "Which device reads information encoded on a small plastic card?",
+      "options": ["Card puncher", "Tape puncher", "Badge reader", "Magnetic disk"],
+      "correct_index": 2,
+      "explanation": "A badge reader reads information encoded on plastic cards.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_062",
+      "text": "RAM is a ___ memory.",
+      "options": ["Permanent", "Non-volatile", "Read-only", "Volatile"],
+      "correct_index": 3,
+      "explanation": "RAM is volatile memory, which loses its contents when power is off.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_063",
+      "text": "Which memory maintains its contents even when the power is turned off?",
+      "options": ["ROM", "RAM", "Cache", "Register"],
+      "correct_index": 0,
+      "explanation": "ROM is non-volatile and keeps its contents when power is off.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_064",
+      "text": "Which memory is used to store data while it is being worked on?",
+      "options": ["ROM", "RAM", "DVD", "Tape"],
+      "correct_index": 1,
+      "explanation": "RAM stores data while it is being worked on.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_065",
+      "text": "A gigabyte consists of ___.",
+      "options": ["1024 bytes", "1024 kilobytes", "1024 megabytes", "1024 gigabytes"],
+      "correct_index": 2,
+      "explanation": "One gigabyte equals 1024 megabytes.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_066",
+      "text": "RAM access time is measured in ___.",
+      "options": ["Kilobytes", "Megabytes", "Gigabytes", "Nanoseconds"],
+      "correct_index": 3,
+      "explanation": "RAM access time is measured in nanoseconds.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_067",
+      "text": "Which of the following has a faster access speed?",
+      "options": ["Magnetic disk", "Magnetic tape", "Paper tape", "Punch cards"],
+      "correct_index": 0,
+      "explanation": "A magnetic disk offers faster access than tape.",
+      "difficulty": 2
+    }
+  ]
+}

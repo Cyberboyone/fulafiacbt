@@ -1,0 +1,562 @@
+{"course_name": "General Physics I", "questions": [
+{
+"id": "phy111_071",
+"text": "Density is defined as the ___.",
+"options": ["force per unit area", "weight per unit area", "mass per unit volume", "volume per unit mass"],
+"correct_index": 2,
+"explanation": "Density = mass ÷ volume.",
+"difficulty": 1
+},
+{
+"id": "phy111_072",
+"text": "The SI unit of density is ___.",
+"options": ["kg/m³", "N/m²", "kg/m²", "m³/kg"],
+"correct_index": 0,
+"explanation": "Density is measured in kg/m³.",
+"difficulty": 1
+},
+{
+"id": "phy111_073",
+"text": "The density of water is ___.",
+"options": ["100 kg/m³", "10 kg/m³", "10 000 kg/m³", "1000 kg/m³"],
+"correct_index": 3,
+"explanation": "Water has a density of 1000 kg/m³.",
+"difficulty": 1
+},
+{
+"id": "phy111_074",
+"text": "The square metre (m²) is the SI unit of ___.",
+"options": ["Volume", "Area", "Velocity", "Density"],
+"correct_index": 1,
+"explanation": "Area is measured in square metres.",
+"difficulty": 1
+},
+{
+"id": "phy111_075",
+"text": "A physical quantity is expressed as its magnitude multiplied by its ___.",
+"options": ["dimension", "temperature", "unit", "weight"],
+"correct_index": 2,
+"explanation": "Measurement = magnitude × unit.",
+"difficulty": 1
+},
+{
+"id": "phy111_076",
+"text": "The horizontal component of a vector A making an angle θ with the x-axis is ___.",
+"options": ["A cos θ", "A sin θ", "A tan θ", "A/θ"],
+"correct_index": 0,
+"explanation": "Ax = A cos θ.",
+"difficulty": 1
+},
+{
+"id": "phy111_077",
+"text": "The vertical component of a vector A is ___.",
+"options": ["A cos θ", "A tan θ", "A", "A sin θ"],
+"correct_index": 3,
+"explanation": "Ay = A sin θ.",
+"difficulty": 1
+},
+{
+"id": "phy111_078",
+"text": "The magnitude of a vector with components Ax and Ay is ___.",
+"options": ["Ax + Ay", "√(Ax² + Ay²)", "Ax² + Ay²", "Ax² − Ay²"],
+"correct_index": 1,
+"explanation": "|A| = √(Ax² + Ay²) by Pythagoras' theorem.",
+"difficulty": 1
+},
+{
+"id": "phy111_079",
+"text": "2π radians is equal to ___.",
+"options": ["180°", "90°", "45°", "360°"],
+"correct_index": 3,
+"explanation": "2π rad = 360° = 1 revolution.",
+"difficulty": 1
+},
+{
+"id": "phy111_080",
+"text": "The sum of the squares of the direction cosines of a vector equals ___.",
+"options": ["1", "0", "2", "10"],
+"correct_index": 0,
+"explanation": "cos²α + cos²β + cos²γ = 1.",
+"difficulty": 1
+},
+{
+"id": "phy111_081",
+"text": "The SI unit of angular displacement is the ___.",
+"options": ["Degree", "Radian", "Revolution", "Gradian"],
+"correct_index": 1,
+"explanation": "Angular displacement is measured in radians.",
+"difficulty": 1
+},
+{
+"id": "phy111_082",
+"text": "Angular velocity is the rate of change of ___ with time.",
+"options": ["angular displacement", "linear displacement", "linear velocity", "angular acceleration"],
+"correct_index": 0,
+"explanation": "Angular velocity = angular displacement ÷ time.",
+"difficulty": 1
+},
+{
+"id": "phy111_083",
+"text": "The unit of angular velocity is ___.",
+"options": ["rad/s", "m/s", "rad/s²", "m/s²"],
+"correct_index": 2,
+"explanation": "Angular velocity is measured in rad/s.",
+"difficulty": 1
+},
+{
+"id": "phy111_084",
+"text": "The relationship between linear velocity v and angular velocity ω is ___.",
+"options": ["v = ω/r", "v = r/ω", "v = ωr²", "v = ωr"],
+"correct_index": 3,
+"explanation": "v = ωr.",
+"difficulty": 1
+},
+{
+"id": "phy111_085",
+"text": "Angular acceleration is the rate of change of ___ with time.",
+"options": ["angular displacement", "angular velocity", "linear velocity", "radius"],
+"correct_index": 1,
+"explanation": "Angular acceleration = change in angular velocity ÷ time.",
+"difficulty": 1
+},
+{
+"id": "phy111_086",
+"text": "The unit of angular acceleration is ___.",
+"options": ["rad/s²", "rad/s", "m/s²", "m²/s"],
+"correct_index": 0,
+"explanation": "Angular acceleration is measured in rad/s².",
+"difficulty": 1
+},
+{
+"id": "phy111_087",
+"text": "The circular-motion analogue of the equation v = u + at is ___.",
+"options": ["ω = ω₀ − αt", "θ = ω₀t + ½αt²", "ω = ω₀ + αt", "ω² = ω₀² + 2αθ"],
+"correct_index": 2,
+"explanation": "ω = ω₀ + αt is the analogue of v = u + at.",
+"difficulty": 1
+},
+{
+"id": "phy111_088",
+"text": "Centripetal acceleration is given by ___.",
+"options": ["v/r", "v²r", "vr", "v²/r"],
+"correct_index": 3,
+"explanation": "ac = v²/r.",
+"difficulty": 1
+},
+{
+"id": "phy111_089",
+"text": "Centripetal acceleration can also be expressed as ___.",
+"options": ["rω", "rω²", "ω²/r", "r²ω"],
+"correct_index": 1,
+"explanation": "ac = rω² since v = ωr.",
+"difficulty": 1
+},
+{
+"id": "phy111_090",
+"text": "The centripetal force acting on a mass m moving with speed v in a circle of radius r is ___.",
+"options": ["mv²/r", "mv²r", "mv/r", "mvr"],
+"correct_index": 0,
+"explanation": "Fc = mv²/r.",
+"difficulty": 1
+},
+{
+"id": "phy111_091",
+"text": "Centripetal force on a body in circular motion always acts ___.",
+"options": ["away from the centre", "along the tangent", "parallel to the velocity", "towards the centre of the circle"],
+"correct_index": 3,
+"explanation": "Centripetal force is directed towards the centre.",
+"difficulty": 1
+},
+{
+"id": "phy111_092",
+"text": "The force that appears to act on a body in circular motion away from the centre is the ___.",
+"options": ["centripetal force", "frictional force", "centrifugal force", "gravitational force"],
+"correct_index": 2,
+"explanation": "Centrifugal force acts away from the centre of rotation.",
+"difficulty": 1
+},
+{
+"id": "phy111_093",
+"text": "One complete revolution of a body in a circular path equals ___.",
+"options": ["π radians", "2π radians", "4π radians", "360 radians"],
+"correct_index": 1,
+"explanation": "A full circle is 2π radians.",
+"difficulty": 1
+},
+{
+"id": "phy111_094",
+"text": "For a body making one revolution in time T, its angular velocity ω is ___.",
+"options": ["2π/T", "T/2π", "2πT", "ω/2π"],
+"correct_index": 0,
+"explanation": "ω = 2π/T.",
+"difficulty": 1
+},
+{
+"id": "phy111_095",
+"text": "The frequency f of an oscillation is related to its period T by ___.",
+"options": ["f = T", "f = 2πT", "f = T²", "f = 1/T"],
+"correct_index": 3,
+"explanation": "Frequency is the reciprocal of the period.",
+"difficulty": 1
+},
+{
+"id": "phy111_096",
+"text": "The relationship between angular velocity and frequency is ___.",
+"options": ["ω = 2π/f", "ω = f/2π", "ω = 2πf", "ω = 2πf²"],
+"correct_index": 2,
+"explanation": "ω = 2πf.",
+"difficulty": 1
+},
+{
+"id": "phy111_097",
+"text": "If the speed of a body moving in a circle of fixed radius is doubled, the centripetal force becomes ___.",
+"options": ["twice its original value", "four times its original value", "half its original value", "the same"],
+"correct_index": 1,
+"explanation": "F ∝ v², so doubling v makes the force 4 times as large.",
+"difficulty": 2
+},
+{
+"id": "phy111_098",
+"text": "The work done by the centripetal force on a body moving round a circle is ___.",
+"options": ["zero", "equal to mv²", "maximum", "equal to mgh"],
+"correct_index": 0,
+"explanation": "Centripetal force is perpendicular to the displacement, so it does no work.",
+"difficulty": 1
+},
+{
+"id": "phy111_099",
+"text": "A car rounding a circular race track is kept on the track by the ___.",
+"options": ["centrifugal force", "weight of the car", "centripetal force", "engine thrust"],
+"correct_index": 2,
+"explanation": "The centripetal force pulls the car towards the centre of the track.",
+"difficulty": 1
+},
+{
+"id": "phy111_100",
+"text": "The device used in industry and hospitals to separate heavier liquids from lighter ones by spinning is the ___.",
+"options": ["thermometer", "calorimeter", "barometer", "centrifuge"],
+"correct_index": 3,
+"explanation": "A centrifuge uses centrifugal force to separate liquids of different densities.",
+"difficulty": 1
+},
+{
+"id": "phy111_101",
+"text": "In simple harmonic motion, the acceleration of the body is proportional to ___.",
+"options": ["its displacement from equilibrium", "its velocity", "the square of its amplitude", "the time"],
+"correct_index": 0,
+"explanation": "a = −ω²x, so acceleration is proportional to displacement.",
+"difficulty": 1
+},
+{
+"id": "phy111_102",
+"text": "The maximum displacement of an oscillating body from its equilibrium position is its ___.",
+"options": ["frequency", "amplitude", "period", "phase"],
+"correct_index": 1,
+"explanation": "Amplitude is the maximum displacement from equilibrium.",
+"difficulty": 1
+},
+{
+"id": "phy111_103",
+"text": "The time taken for one complete vibration of an oscillating body is its ___.",
+"options": ["frequency", "amplitude", "period", "wavelength"],
+"correct_index": 2,
+"explanation": "Period is the time for one complete vibration.",
+"difficulty": 1
+},
+{
+"id": "phy111_104",
+"text": "The number of complete oscillations made per unit time is the ___.",
+"options": ["amplitude", "period", "displacement", "frequency"],
+"correct_index": 3,
+"explanation": "Frequency is the number of vibrations per unit time.",
+"difficulty": 1
+},
+{
+"id": "phy111_105",
+"text": "The period of a simple pendulum of length l is ___.",
+"options": ["T = 2π√(l/g)", "T = 2π√(g/l)", "T = 2π(l/g)", "T = √(l/g)"],
+"correct_index": 0,
+"explanation": "T = 2π√(l/g).",
+"difficulty": 1
+},
+{
+"id": "phy111_106",
+"text": "The period of a mass m oscillating on a spring of force constant k is ___.",
+"options": ["T = 2π√(k/m)", "T = 2π√(m/k)", "T = 2π(m/k)", "T = √(m/k)"],
+"correct_index": 1,
+"explanation": "T = 2π√(m/k).",
+"difficulty": 1
+},
+{
+"id": "phy111_107",
+"text": "The maximum velocity of a body performing SHM with amplitude A and angular velocity ω is ___.",
+"options": ["ω²A", "A/ω", "2ωA", "ωA"],
+"correct_index": 3,
+"explanation": "v_max = ωA.",
+"difficulty": 1
+},
+{
+"id": "phy111_108",
+"text": "The total energy of a body performing SHM is proportional to ___.",
+"options": ["the amplitude", "the cube of its amplitude", "the square of its amplitude", "its velocity"],
+"correct_index": 2,
+"explanation": "E = ½mω²A², so E ∝ A².",
+"difficulty": 1
+},
+{
+"id": "phy111_109",
+"text": "At the equilibrium position of a body performing SHM, its acceleration is ___.",
+"options": ["zero", "maximum", "equal to g", "half of maximum"],
+"correct_index": 0,
+"explanation": "a = −ω²x and x = 0 at equilibrium, so a = 0.",
+"difficulty": 1
+},
+{
+"id": "phy111_110",
+"text": "A body moves in a circle of radius 3 m with angular velocity 2 rad/s. Its linear speed is ___.",
+"options": ["1.5 m/s", "6 m/s", "5 m/s", "9 m/s"],
+"correct_index": 1,
+"explanation": "v = ωr = 2 × 3 = 6 m/s.",
+"difficulty": 2
+},
+{
+"id": "phy111_111",
+"text": "Newton's law of universal gravitation states that the force between two masses is ___.",
+"options": ["proportional to the sum of the masses", "proportional to the product of the masses and inversely proportional to the square of the distance between them", "inversely proportional to the product of the masses", "independent of the distance between them"],
+"correct_index": 1,
+"explanation": "F = GMm/r².",
+"difficulty": 1
+},
+{
+"id": "phy111_112",
+"text": "In the equation F = GMm/r², the symbol G stands for the ___.",
+"options": ["acceleration due to gravity", "gravitational potential", "universal gravitational constant", "escape velocity"],
+"correct_index": 2,
+"explanation": "G is the universal gravitational constant.",
+"difficulty": 1
+},
+{
+"id": "phy111_113",
+"text": "The value of the universal gravitational constant G is about ___.",
+"options": ["6.67 × 10⁻¹¹ N m²/kg²", "9.8 × 10⁻¹¹ N m²/kg²", "6.67 × 10¹¹ N m²/kg²", "6.67 × 10⁻¹¹ kg m/s²"],
+"correct_index": 0,
+"explanation": "G = 6.67 × 10⁻¹¹ N m²/kg².",
+"difficulty": 1
+},
+{
+"id": "phy111_114",
+"text": "The gravitational force between any two masses is always ___.",
+"options": ["repulsive", "attractive", "both attractive and repulsive", "zero"],
+"correct_index": 1,
+"explanation": "Gravitation is always an attractive force.",
+"difficulty": 1
+},
+{
+"id": "phy111_115",
+"text": "The equation g = GM/r² gives the ___.",
+"options": ["acceleration due to gravity at the earth's surface", "mass of the earth", "radius of the earth", "period of the earth"],
+"correct_index": 0,
+"explanation": "g = GM/r² is the gravitational field strength on the surface.",
+"difficulty": 1
+},
+{
+"id": "phy111_116",
+"text": "The weight w of a body of mass m is given by ___.",
+"options": ["w = m/g", "w = g/m", "w = m + g", "w = mg"],
+"correct_index": 3,
+"explanation": "Weight = mass × acceleration due to gravity.",
+"difficulty": 1
+},
+{
+"id": "phy111_117",
+"text": "The gravitational potential at a point a distance r from the centre of mass M is ___.",
+"options": ["V = GM/r", "V = −GM/r²", "V = −GM/r", "V = GM/r²"],
+"correct_index": 2,
+"explanation": "V = −GM/r, taking the potential at infinity as zero.",
+"difficulty": 1
+},
+{
+"id": "phy111_118",
+"text": "The escape velocity from the earth's surface is given by ___.",
+"options": ["√(gr)", "2gr", "√(g/r)", "√(2gr)"],
+"correct_index": 3,
+"explanation": "v_e = √(2gr).",
+"difficulty": 1
+},
+{
+"id": "phy111_119",
+"text": "The escape velocity from the surface of the earth is approximately ___.",
+"options": ["11 km/s", "8 km/s", "22 km/s", "1.1 km/s"],
+"correct_index": 0,
+"explanation": "With g = 9.8 m/s² and r = 6.4 × 10⁶ m, v_e ≈ 11 km/s.",
+"difficulty": 1
+},
+{
+"id": "phy111_120",
+"text": "Gravitational field strength is defined as the ___.",
+"options": ["energy per unit mass", "weight per unit volume", "force per unit mass at a point in the field", "force per unit area"],
+"correct_index": 2,
+"explanation": "Field strength = force per unit mass.",
+"difficulty": 1
+},
+{
+"id": "phy111_121",
+"text": "Kepler's first law states that planets move in ___ orbits with the Sun at one focus.",
+"options": ["circular", "parabolic", "hyperbolic", "elliptical"],
+"correct_index": 3,
+"explanation": "Planetary orbits are ellipses.",
+"difficulty": 1
+},
+{
+"id": "phy111_122",
+"text": "Kepler's second law states that a line from the Sun to a planet ___.",
+"options": ["sweeps equal angles in equal times", "sweeps out equal areas in equal times", "covers equal distances in equal times", "is always the same length"],
+"correct_index": 1,
+"explanation": "Equal areas are swept out in equal times.",
+"difficulty": 1
+},
+{
+"id": "phy111_123",
+"text": "Kepler's third law states that the square of the period of a planet is proportional to ___.",
+"options": ["the cube of its mean distance from the Sun", "its mean distance from the Sun", "the square of its mean distance", "its orbital speed"],
+"correct_index": 0,
+"explanation": "T² ∝ r³.",
+"difficulty": 1
+},
+{
+"id": "phy111_124",
+"text": "The gravitational force between two bodies separated by a distance r is 100 N. If the separation is doubled, the force becomes ___.",
+"options": ["50 N", "200 N", "25 N", "100 N"],
+"correct_index": 2,
+"explanation": "F ∝ 1/r², so 100/4 = 25 N.",
+"difficulty": 2
+},
+{
+"id": "phy111_125",
+"text": "If one of two attracting masses is halved while the distance stays constant, the gravitational force becomes ___.",
+"options": ["twice the original", "half of the original", "one quarter of the original", "unchanged"],
+"correct_index": 1,
+"explanation": "F ∝ m, so halving one mass halves the force.",
+"difficulty": 2
+},
+{
+"id": "phy111_126",
+"text": "Which planet in the solar system has the most eccentric orbit?",
+"options": ["Earth", "Venus", "Mars", "Mercury"],
+"correct_index": 3,
+"explanation": "Mercury has the most eccentric orbit.",
+"difficulty": 1
+},
+{
+"id": "phy111_127",
+"text": "The weight of a body of mass 1 kg on the earth's surface is about ___.",
+"options": ["1 N", "6.67 N", "9.8 N", "98 N"],
+"correct_index": 2,
+"explanation": "w = mg = 1 × 9.8 = 9.8 N.",
+"difficulty": 1
+},
+{
+"id": "phy111_128",
+"text": "The gravitational constant G was first measured in the laboratory by ___.",
+"options": ["Cavendish", "Newton", "Kepler", "Galileo"],
+"correct_index": 0,
+"explanation": "Cavendish measured G in 1798.",
+"difficulty": 1
+},
+{
+"id": "phy111_129",
+"text": "A satellite moving in a circular orbit of radius r around the earth has orbital speed ___.",
+"options": ["√(2gr)", "2gr", "√(g/r)", "√(gr)"],
+"correct_index": 3,
+"explanation": "v_s = √(gr).",
+"difficulty": 1
+},
+{
+"id": "phy111_130",
+"text": "A body weighing 560 N on the earth's surface is moved to a distance from the earth's centre equal to twice the earth's radius. Its weight there is ___.",
+"options": ["70 N", "140 N", "280 N", "560 N"],
+"correct_index": 1,
+"explanation": "g falls by a factor of 4, so 560/4 = 140 N.",
+"difficulty": 2
+},
+{
+"id": "phy111_131",
+"text": "Elasticity is the property of a material to ___.",
+"options": ["return to its original shape and size when the deforming force is removed", "flow freely when a force is applied", "remain permanently deformed when stretched", "resist all changes in shape"],
+"correct_index": 0,
+"explanation": "An elastic material regains its original shape when the load is removed.",
+"difficulty": 1
+},
+{
+"id": "phy111_132",
+"text": "Hooke's law states that, within the elastic limit, the applied force F is proportional to the ___.",
+"options": ["mass of the wire", "extension (deformation) produced", "temperature of the body", "original length of the wire"],
+"correct_index": 1,
+"explanation": "F ∝ e, so F = ke.",
+"difficulty": 1
+},
+{
+"id": "phy111_133",
+"text": "In Hooke's law F = kx, the constant k is called the ___.",
+"options": ["coefficient of friction", "elastic limit", "coefficient of restitution", "force (stiffness) constant of the spring"],
+"correct_index": 3,
+"explanation": "k is the force (stiffness) constant of the spring.",
+"difficulty": 1
+},
+{
+"id": "phy111_134",
+"text": "Stress is defined as the ___.",
+"options": ["extension per unit length", "force times displacement", "force per unit area (restoring force per unit area)", "work done per unit mass"],
+"correct_index": 2,
+"explanation": "Stress = force per unit area.",
+"difficulty": 1
+},
+{
+"id": "phy111_135",
+"text": "Strain is defined as the ___.",
+"options": ["extension per unit original length", "force per unit area", "force per unit length", "work done per unit volume"],
+"correct_index": 0,
+"explanation": "Strain = extension ÷ original length.",
+"difficulty": 1
+},
+{
+"id": "phy111_136",
+"text": "Strain is a quantity that is ___.",
+"options": ["measured in newtons", "measured in N/m²", "dimensionless", "measured in metres"],
+"correct_index": 2,
+"explanation": "Strain is a ratio of lengths, so it has no unit.",
+"difficulty": 1
+},
+{
+"id": "phy111_137",
+"text": "Young's modulus is the ratio of ___.",
+"options": ["force to acceleration", "tensile stress to tensile strain", "pressure to volume", "energy to time"],
+"correct_index": 1,
+"explanation": "Young's modulus = tensile stress ÷ tensile strain.",
+"difficulty": 1
+},
+{
+"id": "phy111_138",
+"text": "The strain energy stored in a stretched wire is given by ___.",
+"options": ["Fe", "Fe²", "F/2e", "½Fe (that is, ½ke²)"],
+"correct_index": 3,
+"explanation": "Strain energy = ½Fe = ½ke².",
+"difficulty": 1
+},
+{
+"id": "phy111_139",
+"text": "Strain energy per unit volume of a stretched material equals ___.",
+"options": ["stress × strain", "½ × stress × strain", "stress ÷ strain", "½ × stress × strain²"],
+"correct_index": 1,
+"explanation": "E_v = ½ × stress × strain.",
+"difficulty": 1
+},
+{
+"id": "phy111_140",
+"text": "The three elastic moduli are Young's modulus, bulk modulus and ___.",
+"options": ["shear modulus (modulus of rigidity)", "Poisson's ratio", "coefficient of restitution", "coefficient of expansion"],
+"correct_index": 0,
+"explanation": "The three moduli are Young's, bulk and shear moduli.",
+"difficulty": 1
+}
+]}

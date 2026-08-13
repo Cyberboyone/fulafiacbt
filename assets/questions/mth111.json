@@ -1,0 +1,2607 @@
+{
+  "course_id": "mth111",
+  "course_name": "General Mathematics I",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "mth111_001",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_002",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_003",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_004",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_005",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_006",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_007",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_008",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_009",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_010",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_011",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_012",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_013",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_014",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_015",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_016",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_017",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_018",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_019",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_020",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_021",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_022",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_023",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_024",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_025",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_026",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_027",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_028",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_029",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_030",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_031",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_032",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_033",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_034",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_035",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_036",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_037",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_038",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_039",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_040",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_041",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_042",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_043",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_044",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_045",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_046",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_047",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_048",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_049",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_050",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_051",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_052",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_053",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_054",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_055",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_056",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_057",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_058",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_059",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_060",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_061",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_062",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_063",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_064",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_065",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_066",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_067",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_068",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_069",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_070",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_071",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_072",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_073",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_074",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_075",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_076",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_077",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_078",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_079",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_080",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_081",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_082",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_083",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_084",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_085",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_086",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_087",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_088",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_089",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_090",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_091",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_092",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_093",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_094",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_095",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_096",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_097",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_098",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_099",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_100",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_101",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_102",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_103",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_104",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_105",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_106",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_107",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_108",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_109",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_110",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_111",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_112",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_113",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_114",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_115",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_116",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_117",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_118",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_119",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_120",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_121",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_122",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_123",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_124",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_125",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_126",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_127",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_128",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_129",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_130",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_131",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_132",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_133",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_134",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_135",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_136",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_137",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_138",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_139",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_140",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_141",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_142",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_143",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_144",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_145",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_146",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_147",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_148",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_149",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_150",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_151",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_152",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_153",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_154",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_155",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_156",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_157",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_158",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_159",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_160",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_161",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_162",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_163",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_164",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_165",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_166",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_167",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_168",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_169",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_170",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_171",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_172",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_173",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_174",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_175",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_176",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_177",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_178",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_179",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_180",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_181",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_182",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_183",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_184",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_185",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_186",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_187",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_188",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_189",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_190",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_191",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_192",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_193",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_194",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_195",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_196",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_197",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_198",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_199",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_200",
+      "text": "In General Mathematics I, which of the following is correct?",
+      "options": [
+        "General Mathematics I concept A",
+        "General Mathematics I concept B",
+        "General Mathematics I concept C",
+        "General Mathematics I concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general mathematics i material.",
+      "difficulty": 1
+    }
+  ]
+}

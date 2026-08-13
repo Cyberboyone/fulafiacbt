@@ -1,0 +1,565 @@
+{
+  "course_name": "General Biology I",
+  "questions": [
+    {
+      "id": "bly111_001",
+      "text": "Which organelle is known as the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Chloroplast", "Ribosome"],
+      "correct_index": 1,
+      "explanation": "Mitochondria produce ATP, the energy currency of the cell, through oxidative phosphorylation.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_002",
+      "text": "The site of photosynthesis in plant cells is the?",
+      "options": ["Golgi body", "Lysosome", "Chloroplast", "Mitochondrion"],
+      "correct_index": 2,
+      "explanation": "Chloroplasts are the organelles where photosynthesis takes place.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_003",
+      "text": "According to the cell theory, all organisms are composed of one or more?",
+      "options": ["Cells", "Organs", "Tissues", "Molecules"],
+      "correct_index": 0,
+      "explanation": "The cell theory states that all organisms are made of cells.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_004",
+      "text": "The cell theory states that new cells arise only by?",
+      "options": ["Spontaneous generation", "Fusion of gametes", "Division of a previously existing cell", "Chemical reactions in water"],
+      "correct_index": 2,
+      "explanation": "Cells arise only by division of a previously existing cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_005",
+      "text": "The basic structural and functional unit of a living organism is the?",
+      "options": ["Tissue", "Cell", "Organ", "Organelle"],
+      "correct_index": 1,
+      "explanation": "The cell is the basic structural and functional unit of life.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_006",
+      "text": "Which of the following is the genetic material of the cell?",
+      "options": ["DNA", "RNA only", "Protein", "Lipid"],
+      "correct_index": 0,
+      "explanation": "DNA is the genetic material that carries hereditary information.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_007",
+      "text": "Which cell component synthesizes proteins?",
+      "options": ["Golgi body", "Lysosome", "Nucleolus", "Ribosomes"],
+      "correct_index": 3,
+      "explanation": "Ribosomes are the site of protein synthesis in the cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_008",
+      "text": "The jelly-like fluid inside the cell in which organelles are found is the?",
+      "options": ["Cell sap", "Cytosol only", "Cytoplasm", "Matrix"],
+      "correct_index": 2,
+      "explanation": "Cytoplasm consists of the jelly-like cytosol plus the cellular components.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_009",
+      "text": "Which four components are common to ALL cells?",
+      "options": ["Cell wall, nucleus, DNA and ribosomes", "Plasma membrane, cytoplasm, DNA and ribosomes", "Capsule, flagellum, pili and plasmid", "Nucleus, mitochondria, chloroplast and vacuole"],
+      "correct_index": 1,
+      "explanation": "All cells share a plasma membrane, cytoplasm, DNA and ribosomes.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_010",
+      "text": "The outer covering that separates a cell's interior from its surrounding environment is the?",
+      "options": ["Plasma membrane", "Cell wall", "Capsule", "Cuticle"],
+      "correct_index": 0,
+      "explanation": "The plasma membrane is the outer covering that separates the cell interior from its environment.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_011",
+      "text": "Prokaryotic cells lack a true?",
+      "options": ["Mitochondrion", "Cell membrane", "Nucleus", "Ribosome"],
+      "correct_index": 2,
+      "explanation": "Prokaryotes lack a true nucleus; their DNA lies free in the cytoplasm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_012",
+      "text": "The bacterial cell wall is made of which glycoprotein complex?",
+      "options": ["Cellulose", "Chitin", "Lipid", "Murein"],
+      "correct_index": 3,
+      "explanation": "The bacterial cell wall is made of murein, also called peptidoglycan.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_013",
+      "text": "Which bacterial structure is very useful for genetic engineering?",
+      "options": ["Plasmid", "Mesosome", "Capsule", "Pilus"],
+      "correct_index": 0,
+      "explanation": "Plasmids are small circular DNA molecules used in genetic engineering.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_014",
+      "text": "Hair-like protein appendages that help bacterial cells adhere to surfaces are called?",
+      "options": ["Flagella", "Pili", "Capsules", "Plasmids"],
+      "correct_index": 1,
+      "explanation": "Pili are hair-like proteinaceous appendages that help bacteria stick to surfaces and to each other.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_015",
+      "text": "The thick polysaccharide layer found outside the bacterial cell wall is the?",
+      "options": ["Flagellum", "Pilus", "Mesosome", "Capsule"],
+      "correct_index": 3,
+      "explanation": "The capsule is a thick polysaccharide layer outside the cell wall of bacteria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_016",
+      "text": "A mass of sticky bacterial cells formed when many capsules fuse together is a?",
+      "options": ["Colony", "Tissue", "Biofilm", "Spore"],
+      "correct_index": 2,
+      "explanation": "When capsules of many cells fuse together they form a sticky mass called a biofilm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_017",
+      "text": "The flagellum of a prokaryotic cell moves the cell forward by?",
+      "options": ["Beating like an oar", "Rotating in a corkscrew motion", "Squirming", "Jumping"],
+      "correct_index": 1,
+      "explanation": "The bacterial flagellum rotates in a corkscrew motion that drives the cell forward.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_018",
+      "text": "Mesosomes are formed by infoldings of the?",
+      "options": ["Plasma membrane", "Cell wall", "Nuclear membrane", "Capsule"],
+      "correct_index": 0,
+      "explanation": "Mesosomes are folded invaginations of the prokaryotic plasma membrane.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_019",
+      "text": "The photosynthetic pigments found in phototrophic bacteria are called?",
+      "options": ["Chlorophyll a", "Bacteriochlorophylls", "Carotenes", "Anthocyanins"],
+      "correct_index": 1,
+      "explanation": "Bacteriochlorophylls are the photosynthetic pigments of phototrophic bacteria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_020",
+      "text": "The ribosomes of prokaryotic cells are of which type?",
+      "options": ["80S", "60S", "70S", "40S"],
+      "correct_index": 2,
+      "explanation": "Prokaryotic ribosomes are the smaller 70S type made of 50S and 30S subunits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_021",
+      "text": "The genetic material of a prokaryotic cell consists of?",
+      "options": ["Linear DNA associated with histones", "Circular double-stranded DNA not associated with proteins", "RNA only", "Only plasmids"],
+      "correct_index": 1,
+      "explanation": "Prokaryotic genetic material is circular double-stranded DNA lying free in the cytoplasm.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_022",
+      "text": "Prokaryotes appeared on Earth approximately how many years ago?",
+      "options": ["About 3500 million years ago", "About 500 million years ago", "About 100 million years ago", "About 50 million years ago"],
+      "correct_index": 0,
+      "explanation": "Prokaryotes appeared about 3500 million years ago.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_023",
+      "text": "The hallmark of eukaryotic cells is?",
+      "options": ["Lack of a nucleus", "Compartmentalization", "Absence of organelles", "Cell walls made of murein"],
+      "correct_index": 1,
+      "explanation": "Eukaryotic cells are characterized by compartmentalization into membrane-bounded organelles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_024",
+      "text": "Protista, fungi, plants and animals are all made up of?",
+      "options": ["Prokaryotic cells", "Virus particles", "Eukaryotic cells", "Bacterial cells"],
+      "correct_index": 2,
+      "explanation": "Protists, fungi, plants and animals are all composed of eukaryotic cells.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_025",
+      "text": "The control center of the eukaryotic cell is the?",
+      "options": ["Nucleus", "Ribosome", "Chloroplast", "Vacuole"],
+      "correct_index": 0,
+      "explanation": "The nucleus is the control center that regulates the activities of the cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_026",
+      "text": "The nucleolus is the site of synthesis of?",
+      "options": ["Lipids", "ATP", "Cellulose", "Ribosomal RNA and ribosomal subunits"],
+      "correct_index": 3,
+      "explanation": "The nucleolus synthesizes ribosomal RNA and ribosomal subunits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_027",
+      "text": "Which structure encloses and separates the contents of the nucleus from the rest of the cell?",
+      "options": ["Plasma membrane", "Nuclear envelope", "Tonoplast", "Cell wall"],
+      "correct_index": 1,
+      "explanation": "The nuclear envelope (nuclear membrane) encloses the contents of the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_028",
+      "text": "Nuclear pores in the nuclear membrane enable substances to?",
+      "options": ["Keep the nucleus rigid", "Be produced in the nucleus", "Pass into and out of the nucleus", "Form ribosomes"],
+      "correct_index": 2,
+      "explanation": "Nuclear pores allow substances such as nutrients and waste to move in and out of the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_029",
+      "text": "Which organelle is studded with ribosomes and is the site of protein synthesis?",
+      "options": ["Rough endoplasmic reticulum", "Smooth endoplasmic reticulum", "Golgi body", "Lysosome"],
+      "correct_index": 0,
+      "explanation": "The rough ER carries ribosomes on its surface and is the site of protein synthesis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_030",
+      "text": "The rough endoplasmic reticulum is rough because of the presence of?",
+      "options": ["Proteins", "Vesicles", "Nuclei", "Ribosomes"],
+      "correct_index": 3,
+      "explanation": "Ribosomes attached to its surface make the rough ER appear rough.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_031",
+      "text": "Lipid synthesis and drug detoxification occur in the?",
+      "options": ["Rough ER", "Smooth ER", "Golgi body", "Lysosome"],
+      "correct_index": 1,
+      "explanation": "The smooth ER is the site of lipid synthesis, glycogenolysis and drug detoxification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_032",
+      "text": "The endoplasmic reticulum is connected to which membrane structure?",
+      "options": ["Cell wall", "Vacuole", "Nuclear envelope", "Chloroplast"],
+      "correct_index": 2,
+      "explanation": "The ER membrane is connected with the nuclear envelope.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_033",
+      "text": "Which organelle packages and sorts proteins for secretion?",
+      "options": ["Golgi apparatus", "Lysosome", "Nucleolus", "Chloroplast"],
+      "correct_index": 0,
+      "explanation": "The Golgi apparatus packages, processes and sorts secretory materials.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_034",
+      "text": "Lysosomes are organelles that contain?",
+      "options": ["Chlorophyll", "Starch grains", "DNA", "Hydrolytic enzymes"],
+      "correct_index": 3,
+      "explanation": "Lysosomes contain numerous hydrolytic enzymes that digest materials.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_035",
+      "text": "Lysosomes originate from the?",
+      "options": ["Nucleus", "Golgi bodies", "Ribosomes", "Mitochondria"],
+      "correct_index": 1,
+      "explanation": "Lysosomes originate from the Golgi bodies.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_036",
+      "text": "Which organelle is bounded by a double membrane, the inner one folded into cristae?",
+      "options": ["Nucleus", "Lysosome", "Mitochondrion", "Vacuole"],
+      "correct_index": 2,
+      "explanation": "Mitochondria have double membranes; the inner membrane is folded into cristae.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_037",
+      "text": "ATP is produced mainly in which organelle?",
+      "options": ["Mitochondria", "Nucleus", "Golgi body", "Cell wall"],
+      "correct_index": 0,
+      "explanation": "Mitochondria synthesize ATP by oxidative phosphorylation.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_038",
+      "text": "The mitochondrial matrix contains?",
+      "options": ["Cellulose", "Chlorophyll", "Tonoplast", "Circular DNA and 55S ribosomes"],
+      "correct_index": 3,
+      "explanation": "The mitochondrial matrix contains lipids, proteins, circular mtDNA and 55S ribosomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_039",
+      "text": "Which organelles are described as semi-autonomous because they can synthesize some of their own proteins?",
+      "options": ["Ribosomes and lysosomes", "Mitochondria and chloroplasts", "Golgi and ER", "Nucleus and nucleolus"],
+      "correct_index": 1,
+      "explanation": "Mitochondria and chloroplasts are semi-autonomous because they synthesize some of their own proteins.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_040",
+      "text": "The membrane enclosing each vacuole is called the?",
+      "options": ["Plasmalemma", "Nuclear envelope", "Tonoplast", "Cell wall"],
+      "correct_index": 2,
+      "explanation": "The vacuolar membrane is called the tonoplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_041",
+      "text": "Which cell structure maintains turgor pressure inside plant cells?",
+      "options": ["Vacuole", "Ribosome", "Golgi body", "Nucleolus"],
+      "correct_index": 0,
+      "explanation": "The vacuole maintains turgor pressure which keeps plant cells rigid.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_042",
+      "text": "Anthocyanins, the pigments responsible for red, blue and purple colors of flowers, are found in?",
+      "options": ["Mitochondria", "Chloroplasts", "Cell walls", "Vacuoles"],
+      "correct_index": 3,
+      "explanation": "Anthocyanin pigments are sometimes present in cell vacuoles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_043",
+      "text": "Cell sap, found inside vacuoles, is a solution of?",
+      "options": ["Cellulose and lignin", "Salts, sugars and organic acids", "Proteins only", "Murein"],
+      "correct_index": 1,
+      "explanation": "Cell sap is a solution of salts, sugars and organic acids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_044",
+      "text": "Tiny strands of cytoplasm that pass through pores in plant cell walls, connecting adjacent cells, are called?",
+      "options": ["Pili", "Flagella", "Plasmodesmata", "Tonoplasts"],
+      "correct_index": 2,
+      "explanation": "Plasmodesmata are cytoplasmic strands that pass through pores connecting adjacent plant cells.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_045",
+      "text": "The plant cell wall is made of?",
+      "options": ["Cellulose", "Chitin", "Murein", "Glycogen"],
+      "correct_index": 0,
+      "explanation": "Plant cell walls are made of cellulose.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_046",
+      "text": "The fungal cell wall is made of?",
+      "options": ["Cellulose", "Murein", "Pectin", "Chitin"],
+      "correct_index": 3,
+      "explanation": "Fungal cell walls contain chitin.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_047",
+      "text": "A plant cell can be divided into two main parts, which are?",
+      "options": ["Nucleus and cytoplasm", "Nucleus and cell wall", "Cell wall and protoplast", "Cytoplasm and vacuole"],
+      "correct_index": 2,
+      "explanation": "The plant cell is divided into the cell wall and the protoplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_048",
+      "text": "The plasma membrane is a?",
+      "options": ["Protein monolayer", "Polysaccharide layer", "Phospholipid bilayer", "Cellulose layer"],
+      "correct_index": 2,
+      "explanation": "The plasma membrane is a flexible phospholipid bilayer.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_049",
+      "text": "The plasma membrane is described as differentially permeable because it?",
+      "options": ["Controls the movement of solutes in and out of the cell", "Lets everything pass freely", "Blocks all movement", "Produces ATP"],
+      "correct_index": 0,
+      "explanation": "A differentially permeable membrane controls the movement of solutes in and out of the cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_050",
+      "text": "Microtubules are made up of which protein?",
+      "options": ["Actin", "Myosin", "Keratin", "Tubulin"],
+      "correct_index": 3,
+      "explanation": "Microtubules are made of the protein tubulin.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_051",
+      "text": "Microtubules and microfilaments are part of the?",
+      "options": ["Cell wall", "Cytoskeleton", "Nuclear membrane", "Golgi apparatus"],
+      "correct_index": 1,
+      "explanation": "Microtubules and microfilaments are components of the cytoskeleton.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_052",
+      "text": "Clusters of ribosomes are known as?",
+      "options": ["Single ribosomes", "Cristae", "Polyribosomes (polysomes)", "Vesicles"],
+      "correct_index": 2,
+      "explanation": "Clusters of ribosomes are called polyribosomes or polysomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_053",
+      "text": "The main functional unit of the chloroplast is the?",
+      "options": ["Grana", "Stroma", "Matrix", "Tonoplast"],
+      "correct_index": 0,
+      "explanation": "The grana are the main functional units of the chloroplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_054",
+      "text": "The grana of a chloroplast are bathed in a homogeneous matrix called the?",
+      "options": ["Cytosol", "Matrix", "Cell sap", "Stroma"],
+      "correct_index": 3,
+      "explanation": "The grana are bathed in the stroma, which contains photosynthetic enzymes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_055",
+      "text": "Chloroplasts are a type of?",
+      "options": ["Leucoplast only", "Plastid", "Mitochondrion", "Vacuole"],
+      "correct_index": 1,
+      "explanation": "Chloroplasts are pigmented plastids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_056",
+      "text": "Chromoplasts are plastids that contain which pigment?",
+      "options": ["Chlorophyll", "Phycobilin", "Carotene", "Murein"],
+      "correct_index": 2,
+      "explanation": "Chromoplasts contain carotene pigment, giving yellow, orange or red colors.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_057",
+      "text": "Amyloplasts are non-pigmented plastids that store?",
+      "options": ["Starch", "Oil", "Protein", "Water"],
+      "correct_index": 0,
+      "explanation": "Amyloplasts are leucoplasts that store starch.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_058",
+      "text": "All plastids are derived from which small bodies?",
+      "options": ["Grana", "Stroma", "Cristae", "Proplastids"],
+      "correct_index": 3,
+      "explanation": "All types of plastids are derived from proplastids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_059",
+      "text": "If the development of a proplastid into a chloroplast is interrupted by lack of light, which structure is formed?",
+      "options": ["Chromoplast", "Etioplast", "Amyloplast", "Elaioplast"],
+      "correct_index": 1,
+      "explanation": "An etioplast is formed when chloroplast development is interrupted by lack of light.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_060",
+      "text": "Ergastic substances in cells are?",
+      "options": ["Organelles of the cell", "Components of the nucleus", "Products of metabolic activities, such as stored food and wastes", "Genetic materials"],
+      "correct_index": 2,
+      "explanation": "Ergastic substances are products of metabolic activities, including stored food and wastes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_061",
+      "text": "Which stored food material is synthesized by the chloroplast?",
+      "options": ["Starch", "Fats", "Proteins", "Oils"],
+      "correct_index": 0,
+      "explanation": "Starch is synthesized by the chloroplast.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_062",
+      "text": "A group of similar cells that work together to perform a specific function is a?",
+      "options": ["Organ", "Organ system", "Organism", "Tissue"],
+      "correct_index": 3,
+      "explanation": "A tissue is a group of similar cells working together to perform a specific function.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_063",
+      "text": "The correct order of biological organization from simplest to most complex is?",
+      "options": ["Organ to tissue to cell to system", "Cell to tissue to organ to organ system", "Tissue to cell to organ to system", "Organism to system to organ to tissue"],
+      "correct_index": 1,
+      "explanation": "Levels of organization run from cell to tissue to organ to organ system.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_064",
+      "text": "Spirogyra is an example of a form of cell organization known as?",
+      "options": ["Colony", "Independent cell", "Filament", "Tissue"],
+      "correct_index": 2,
+      "explanation": "Spirogyra is a filament, formed by identical cells joined end to end.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_065",
+      "text": "Volvox is an example of a?",
+      "options": ["Colony", "Filament", "Unicellular organism", "Tissue"],
+      "correct_index": 0,
+      "explanation": "Volvox is a colony of similar cells joined together.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_066",
+      "text": "Which organelle has F1 particles on its inner membrane for ATP synthesis?",
+      "options": ["Chloroplast", "Nucleus", "Golgi body", "Mitochondrion"],
+      "correct_index": 3,
+      "explanation": "The inner mitochondrial membrane contains F1 particles for ATP synthesis.",
+      "difficulty": 2
+    },
+    {
+      "id": "bly111_067",
+      "text": "Mitosis produces how many daughter cells from one parent cell?",
+      "options": ["Four", "One", "Two", "Three"],
+      "correct_index": 2,
+      "explanation": "Mitosis produces two daughter cells from a single parent cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_068",
+      "text": "The daughter cells produced by mitosis are?",
+      "options": ["Genetically different from the parent", "Halved in chromosome number", "Genetically identical to the parent cell", "Random in chromosome number"],
+      "correct_index": 2,
+      "explanation": "Mitosis produces daughter cells identical to one another and to the parent cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_069",
+      "text": "During which stage of mitosis do chromosomes align at the equatorial plate?",
+      "options": ["Metaphase", "Prophase", "Anaphase", "Telophase"],
+      "correct_index": 0,
+      "explanation": "In metaphase, chromosomes align at the equatorial plate.",
+      "difficulty": 1
+    },
+    {
+      "id": "bly111_070",
+      "text": "Sister chromatids separate and move toward the poles during which stage of mitosis?",
+      "options": ["Prophase", "Metaphase", "Telophase", "Anaphase"],
+      "correct_index": 3,
+      "explanation": "In anaphase, the centromeres divide and sister chromatids move to opposite poles.",
+      "difficulty": 1
+    }
+  ]
+}

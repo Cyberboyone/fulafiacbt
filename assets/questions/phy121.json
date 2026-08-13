@@ -1,0 +1,2607 @@
+{
+  "course_id": "phy121",
+  "course_name": "Electricity, Magnetism & Modern Physics",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "phy121_001",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_002",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_003",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_004",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_005",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_006",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_007",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_008",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_009",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_010",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_011",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_012",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_013",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_014",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_015",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_016",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_017",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_018",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_019",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_020",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_021",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_022",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_023",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_024",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_025",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_026",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_027",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_028",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_029",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_030",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_031",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_032",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_033",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_034",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_035",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_036",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_037",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_038",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_039",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_040",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_041",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_042",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_043",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_044",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_045",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_046",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_047",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_048",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_049",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_050",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_051",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_052",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_053",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_054",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_055",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_056",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_057",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_058",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_059",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_060",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_061",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_062",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_063",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_064",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_065",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_066",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_067",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_068",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_069",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_070",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_071",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_072",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_073",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_074",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_075",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_076",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_077",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_078",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_079",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_080",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_081",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_082",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_083",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_084",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_085",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_086",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_087",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_088",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_089",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_090",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_091",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_092",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_093",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_094",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_095",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_096",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_097",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_098",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_099",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_100",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_101",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_102",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_103",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_104",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_105",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_106",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_107",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_108",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_109",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_110",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_111",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_112",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_113",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_114",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_115",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_116",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_117",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_118",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_119",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_120",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_121",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_122",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_123",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_124",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_125",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_126",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_127",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_128",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_129",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_130",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_131",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_132",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_133",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_134",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_135",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_136",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_137",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_138",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_139",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_140",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_141",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_142",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_143",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_144",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_145",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_146",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_147",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_148",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_149",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_150",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_151",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_152",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_153",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_154",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_155",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_156",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_157",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_158",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_159",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_160",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_161",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_162",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_163",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_164",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_165",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_166",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_167",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_168",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_169",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_170",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_171",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_172",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_173",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_174",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_175",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_176",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_177",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_178",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_179",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_180",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_181",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_182",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_183",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_184",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_185",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_186",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_187",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_188",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_189",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_190",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_191",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_192",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_193",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_194",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_195",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_196",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_197",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_198",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_199",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy121_200",
+      "text": "In Electricity, Magnetism & Modern Physics, which of the following is correct?",
+      "options": [
+        "Electricity, Magnetism & Modern Physics concept A",
+        "Electricity, Magnetism & Modern Physics concept B",
+        "Electricity, Magnetism & Modern Physics concept C",
+        "Electricity, Magnetism & Modern Physics concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on electricity, magnetism & modern physics material.",
+      "difficulty": 1
+    }
+  ]
+}

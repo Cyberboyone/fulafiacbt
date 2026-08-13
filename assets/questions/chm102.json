@@ -1,0 +1,2607 @@
+{
+  "course_id": "chm102",
+  "course_name": "General Chemistry II",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "chm102_001",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_002",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_003",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_004",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_005",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_006",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_007",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_008",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_009",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_010",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_011",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_012",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_013",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_014",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_015",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_016",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_017",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_018",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_019",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_020",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_021",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_022",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_023",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_024",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_025",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_026",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_027",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_028",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_029",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_030",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_031",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_032",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_033",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_034",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_035",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_036",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_037",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_038",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_039",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_040",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_041",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_042",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_043",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_044",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_045",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_046",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_047",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_048",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_049",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_050",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_051",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_052",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_053",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_054",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_055",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_056",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_057",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_058",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_059",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_060",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_061",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_062",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_063",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_064",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_065",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_066",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_067",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_068",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_069",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_070",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_071",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_072",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_073",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_074",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_075",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_076",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_077",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_078",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_079",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_080",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_081",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_082",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_083",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_084",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_085",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_086",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_087",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_088",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_089",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_090",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_091",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_092",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_093",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_094",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_095",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_096",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_097",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_098",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_099",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_100",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_101",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_102",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_103",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_104",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_105",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_106",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_107",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_108",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_109",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_110",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_111",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_112",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_113",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_114",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_115",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_116",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_117",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_118",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_119",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_120",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_121",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_122",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_123",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_124",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_125",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_126",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_127",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_128",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_129",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_130",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_131",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_132",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_133",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_134",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_135",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_136",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_137",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_138",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_139",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_140",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_141",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_142",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_143",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_144",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_145",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_146",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_147",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_148",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_149",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_150",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_151",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_152",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_153",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_154",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_155",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_156",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_157",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_158",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_159",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_160",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_161",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_162",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_163",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_164",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_165",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_166",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_167",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_168",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_169",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_170",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_171",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_172",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_173",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_174",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_175",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_176",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_177",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_178",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_179",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_180",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_181",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_182",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_183",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_184",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_185",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_186",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_187",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_188",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_189",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_190",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_191",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_192",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_193",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_194",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_195",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_196",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_197",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 0,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_198",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 1,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_199",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 2,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    },
+    {
+      "id": "chm102_200",
+      "text": "In General Chemistry II, which of the following is correct?",
+      "options": [
+        "General Chemistry II concept A",
+        "General Chemistry II concept B",
+        "General Chemistry II concept C",
+        "General Chemistry II concept D"
+      ],
+      "correct_index": 3,
+      "explanation": "Based on general chemistry ii material.",
+      "difficulty": 1
+    }
+  ]
+}

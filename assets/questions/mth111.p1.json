@@ -1,0 +1,565 @@
+{
+  "course_name": "General Mathematics I",
+  "questions": [
+    {
+      "id": "mth111_001",
+      "text": "Which of the following correctly defines a set?",
+      "options": ["A line segment", "A well-defined collection of objects", "A single number", "An unordered list of all numbers"],
+      "correct_index": 1,
+      "explanation": "A set is a well-defined collection of objects called elements or members.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_002",
+      "text": "The symbol ∈ is read as:",
+      "options": ["is equal to", "is a subset of", "is an element of", "is greater than"],
+      "correct_index": 2,
+      "explanation": "x ∈ A means x is an element (member) of the set A.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_003",
+      "text": "If y is not a member of set A, we write:",
+      "options": ["y ⊂ A", "y ∈ A", "y = A", "y ∉ A"],
+      "correct_index": 3,
+      "explanation": "The symbol ∉ means 'is not an element of'.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_004",
+      "text": "The objects that belong to a set are called its:",
+      "options": ["Elements", "Diagrams", "Unions", "Laws"],
+      "correct_index": 0,
+      "explanation": "Every object in a set is called an element or member of the set.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_005",
+      "text": "Sets are usually denoted by:",
+      "options": ["Capital letters", "Lowercase letters", "Dots", "Numbers"],
+      "correct_index": 0,
+      "explanation": "Upper case letters such as A, B, C are used to denote sets.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_006",
+      "text": "The roster (listing) method describes a set by:",
+      "options": ["Stating a property of its members", "Listing its members in braces", "Drawing a circle", "Counting its elements"],
+      "correct_index": 1,
+      "explanation": "The roster method lists the members inside braces, e.g. {1, 2, 3}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_007",
+      "text": "Using set-builder notation, the set of vowels is written as:",
+      "options": ["{a, e, i, o, u}", "{x : x is a letter}", "{x : x is a vowel}", "{vowels}"],
+      "correct_index": 2,
+      "explanation": "Set-builder notation describes the set by a rule: {x : x is a vowel}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_008",
+      "text": "The months of the year that begin with the letter A are:",
+      "options": ["{April, August}", "{January, June}", "{March, May}", "{April, May}"],
+      "correct_index": 0,
+      "explanation": "Only April and August begin with the letter A.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_009",
+      "text": "A set that contains no element is called the:",
+      "options": ["Universal set", "Power set", "Finite set", "Empty (null) set"],
+      "correct_index": 3,
+      "explanation": "The empty or null set has no elements and is denoted by ∅ or { }.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_010",
+      "text": "The empty set is denoted by:",
+      "options": ["U", "N", "∅ or { }", "0"],
+      "correct_index": 2,
+      "explanation": "The null set is written ∅ or as a pair of braces { }.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_011",
+      "text": "A set with exactly one element is called a:",
+      "options": ["Singleton set", "Null set", "Universal set", "Family of sets"],
+      "correct_index": 0,
+      "explanation": "A singleton (unit) set contains exactly one element, e.g. {2}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_012",
+      "text": "The set {February} is an example of a:",
+      "options": ["Singleton set", "Null set", "Power set", "Infinite set"],
+      "correct_index": 0,
+      "explanation": "It contains exactly one element, so it is a singleton set.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_013",
+      "text": "The set A = {1, 2, 3, 4, 5, 6} is a:",
+      "options": ["Infinite set", "Finite set", "Null set", "Singleton set"],
+      "correct_index": 1,
+      "explanation": "The set has 6 elements, so it is a finite set.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_014",
+      "text": "The set X = {1, 2, 3, ...} is:",
+      "options": ["Infinite", "Finite", "Empty", "Singleton"],
+      "correct_index": 0,
+      "explanation": "The three dots show the pattern continues without end.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_015",
+      "text": "The cardinality n(A) of a set A means:",
+      "options": ["The sum of its elements", "The largest element", "The number of elements in A", "The power set of A"],
+      "correct_index": 2,
+      "explanation": "n(A) is the cardinal number, i.e. the number of elements in A.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_016",
+      "text": "If A = {2, 4, 6}, then n(A) = ?",
+      "options": ["2", "6", "4", "3"],
+      "correct_index": 3,
+      "explanation": "n(A) = 3 because the set contains three elements.",
+      "difficulty": 2
+    },
+    {
+      "id": "mth111_017",
+      "text": "The cardinality of {a, b, c, d, e} is:",
+      "options": ["5", "4", "6", "3"],
+      "correct_index": 0,
+      "explanation": "The set has five elements.",
+      "difficulty": 2
+    },
+    {
+      "id": "mth111_018",
+      "text": "If every element of B is also an element of A, then B is:",
+      "options": ["A subset of A", "Disjoint from A", "The complement of A", "Larger than A"],
+      "correct_index": 0,
+      "explanation": "B ⊆ A means every element of B is also in A.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_019",
+      "text": "A proper subset of A:",
+      "options": ["Contains all elements of A", "Contains some but not all elements of A", "Contains elements outside A", "Is always empty"],
+      "correct_index": 1,
+      "explanation": "A proper subset is not equal to A; A has at least one extra element.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_020",
+      "text": "Which of these is a subset of A = {1, 2, 3, 4}?",
+      "options": ["{5, 6}", "{1, 3}", "{1, 5}", "{0, 2}"],
+      "correct_index": 1,
+      "explanation": "Every element of {1, 3} belongs to A.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_021",
+      "text": "Every set is a subset of:",
+      "options": ["Itself", "The empty set only", "No other set", "Only the universal set"],
+      "correct_index": 0,
+      "explanation": "Every set is a subset of itself.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_022",
+      "text": "The empty set is a subset of:",
+      "options": ["No set", "Only infinite sets", "Every set", "Only itself"],
+      "correct_index": 2,
+      "explanation": "The empty set is a subset of every set.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_023",
+      "text": "Two sets A and B are equal if:",
+      "options": ["They have the same number of elements", "They share at least one element", "They are both subsets of U", "They have exactly the same elements"],
+      "correct_index": 3,
+      "explanation": "A = B when they contain exactly the same elements.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_024",
+      "text": "The sets A = {1, 2, 3} and B = {3, 2, 1} are:",
+      "options": ["Disjoint", "Equal", "Complementary", "Infinite"],
+      "correct_index": 1,
+      "explanation": "The order of elements does not matter, so A = B.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_025",
+      "text": "Sets that can be put into one-to-one correspondence are called:",
+      "options": ["Null sets", "Universal sets", "Equivalent sets", "Singleton sets"],
+      "correct_index": 2,
+      "explanation": "Equivalent sets match element for element in a one-to-one correspondence.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_026",
+      "text": "The sets A = {2, 4, 6} and B = {a, b, c} are:",
+      "options": ["Equal", "Equivalent but not equal", "Identical", "Empty"],
+      "correct_index": 1,
+      "explanation": "Both have 3 elements (equivalent) but different elements (not equal).",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_027",
+      "text": "The family of all subsets of a set A is called the:",
+      "options": ["Power set of A", "Universal set of A", "Complement of A", "Union of A"],
+      "correct_index": 0,
+      "explanation": "The power set collects every subset of A.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_028",
+      "text": "The power set of {x, y} is:",
+      "options": ["{{x}, {y}}", "{x, y, ∅}", "{∅, {x}, {y}, {x, y}}", "{∅, {x, y}}"],
+      "correct_index": 2,
+      "explanation": "Its 2^2 = 4 subsets are ∅, {x}, {y} and {x, y}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_029",
+      "text": "If a set X has 3 elements, its power set has:",
+      "options": ["3 elements", "6 elements", "9 elements", "8 elements"],
+      "correct_index": 3,
+      "explanation": "The power set of an n-element set has 2^n elements; 2^3 = 8.",
+      "difficulty": 2
+    },
+    {
+      "id": "mth111_030",
+      "text": "The set of all elements under consideration is the:",
+      "options": ["Null set", "Universal set", "Power set", "Singleton set"],
+      "correct_index": 1,
+      "explanation": "The universal set U contains every element under consideration.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_031",
+      "text": "The union A ∪ B contains:",
+      "options": ["Only elements in both sets", "Only elements in A", "Elements in A or B or both", "Elements in neither set"],
+      "correct_index": 2,
+      "explanation": "A ∪ B = {x : x ∈ A or x ∈ B}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_032",
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B = ?",
+      "options": ["{1, 2, 3, 4, 5}", "{3}", "{1, 2}", "{4, 5}"],
+      "correct_index": 0,
+      "explanation": "The union collects all elements of both sets without repetition.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_033",
+      "text": "The intersection A ∩ B contains:",
+      "options": ["All elements of either set", "Only elements in both A and B", "Elements in A only", "Elements of U only"],
+      "correct_index": 1,
+      "explanation": "A ∩ B = {x : x ∈ A and x ∈ B}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_034",
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B = ?",
+      "options": ["{1, 2, 3, 4, 5}", "{1, 2}", "{3}", "{4, 5}"],
+      "correct_index": 2,
+      "explanation": "The only element in both sets is 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_035",
+      "text": "Two sets with no element in common are called:",
+      "options": ["Disjoint sets", "Equivalent sets", "Equal sets", "Overlapping sets"],
+      "correct_index": 0,
+      "explanation": "Disjoint sets satisfy A ∩ B = ∅.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_036",
+      "text": "The sets {1, 3, 5} and {2, 4, 6} are:",
+      "options": ["Equal", "Disjoint", "Complementary", "Unions"],
+      "correct_index": 1,
+      "explanation": "They share no element, so they are disjoint.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_037",
+      "text": "If U = {1, 2, 3, 4, 5} and A = {1, 2}, then A' = ?",
+      "options": ["{1, 2}", "{3, 4, 5}", "{1, 2, 3, 4, 5}", "∅"],
+      "correct_index": 1,
+      "explanation": "A' contains the elements of U that are not in A: {3, 4, 5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_038",
+      "text": "The complement of a set A contains:",
+      "options": ["All elements of A", "Elements in A ∩ U", "All elements of U not in A", "Only prime numbers"],
+      "correct_index": 2,
+      "explanation": "A' = {x : x ∈ U and x ∉ A}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_039",
+      "text": "De Morgan's law states that (A ∪ B)' = ?",
+      "options": ["A' ∪ B'", "A ∩ B", "A' ∩ B'", "A ∪ B"],
+      "correct_index": 2,
+      "explanation": "The complement of a union is the intersection of the complements.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_040",
+      "text": "The difference A − B is the set of elements:",
+      "options": ["In B but not in A", "In both A and B", "In neither set", "In A but not in B"],
+      "correct_index": 3,
+      "explanation": "A − B = {x : x ∈ A and x ∉ B}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_041",
+      "text": "If A = {1, 2, 3, 4} and B = {3, 4, 5}, then A − B = ?",
+      "options": ["{1, 2}", "{3, 4}", "{5}", "{1, 2, 5}"],
+      "correct_index": 0,
+      "explanation": "Remove the elements of B from A to get {1, 2}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_042",
+      "text": "The symmetric difference A Δ B is defined as:",
+      "options": ["A ∪ B", "(A − B) ∪ (B − A)", "A ∩ B", "A − B"],
+      "correct_index": 1,
+      "explanation": "A Δ B = (A − B) ∪ (B − A).",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_043",
+      "text": "The natural numbers are:",
+      "options": ["{0, 1, 2, 3, ...}", "{1, 2, 3, ...}", "{..., −2, −1, 0, 1, 2, ...}", "{0}"],
+      "correct_index": 1,
+      "explanation": "N = {1, 2, 3, ...} is the set of natural (counting) numbers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_044",
+      "text": "The set of integers is denoted by the symbol:",
+      "options": ["Z", "N", "Q", "R"],
+      "correct_index": 0,
+      "explanation": "Z (from the German 'Zahlen') denotes the integers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_045",
+      "text": "Which of the following is an even number?",
+      "options": ["3", "5", "7", "8"],
+      "correct_index": 3,
+      "explanation": "8 is divisible by 2 without a remainder.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_046",
+      "text": "Which of the following is a prime number?",
+      "options": ["11", "9", "12", "15"],
+      "correct_index": 0,
+      "explanation": "11 is divisible only by 1 and itself.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_047",
+      "text": "A composite number is:",
+      "options": ["A natural number greater than 1 that is not prime", "A number divisible only by 1 and itself", "A negative number", "A number smaller than 1"],
+      "correct_index": 0,
+      "explanation": "Composite numbers have other factors besides 1 and themselves.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_048",
+      "text": "Written as a product of prime factors, 30 = ?",
+      "options": ["2 × 15", "2 × 3 × 5", "3 × 10", "5 × 6"],
+      "correct_index": 1,
+      "explanation": "30 = 2 × 3 × 5 in prime factors.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_049",
+      "text": "The greatest common divisor (GCD) of 36 and 54 is:",
+      "options": ["18", "2", "6", "9"],
+      "correct_index": 0,
+      "explanation": "The common prime factors give 2 × 3 × 3 = 18.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_050",
+      "text": "A rational number can be written as p/q where:",
+      "options": ["p and q are integers and q ≠ 0", "p and q are integers and q = 0", "p is any real number", "q is always 1"],
+      "correct_index": 0,
+      "explanation": "Q = {p/q : p, q ∈ Z, q ≠ 0}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_051",
+      "text": "Which of the following is a rational number?",
+      "options": ["√2", "π", "√3", "1/2"],
+      "correct_index": 3,
+      "explanation": "1/2 is a ratio of integers, so it is rational.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_052",
+      "text": "The number √2 is:",
+      "options": ["Rational", "An integer", "Irrational", "A natural number"],
+      "correct_index": 2,
+      "explanation": "√2 cannot be written as a fraction, so it is irrational.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_053",
+      "text": "The number π (pi) is:",
+      "options": ["Irrational", "Rational", "An integer", "A whole number"],
+      "correct_index": 0,
+      "explanation": "π has a non-terminating, non-repeating decimal, so it is irrational.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_054",
+      "text": "The set of real numbers R is the union of:",
+      "options": ["Integers and fractions only", "Even and odd numbers", "Rational and irrational numbers", "Prime and composite numbers"],
+      "correct_index": 2,
+      "explanation": "R = Q ∪ Q' (rationals and irrationals).",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_055",
+      "text": "On the number line, a number to the right of another number is:",
+      "options": ["Less than it", "Equal to it", "Unrelated to it", "Greater than it"],
+      "correct_index": 3,
+      "explanation": "Numbers increase as we move to the right on the number line.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_056",
+      "text": "The additive identity of the real numbers is:",
+      "options": ["1", "0", "−1", "10"],
+      "correct_index": 1,
+      "explanation": "a + 0 = 0 + a = a.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_057",
+      "text": "The multiplicative identity of the real numbers is:",
+      "options": ["0", "2", "1", "−1"],
+      "correct_index": 2,
+      "explanation": "a × 1 = 1 × a = a.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_058",
+      "text": "The multiplicative inverse of a (a ≠ 0) is:",
+      "options": ["−a", "1/a", "a²", "0"],
+      "correct_index": 1,
+      "explanation": "a × (1/a) = 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_059",
+      "text": "The property a(b + c) = ab + ac is called the:",
+      "options": ["Commutative property", "Associative property", "Distributive property", "Identity property"],
+      "correct_index": 2,
+      "explanation": "Multiplication distributes over addition.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_060",
+      "text": "The statement 2 + 3 = 3 + 2 illustrates the:",
+      "options": ["Distributive property", "Commutative property of addition", "Associative property", "Closure property"],
+      "correct_index": 1,
+      "explanation": "a + b = b + a is the commutative law of addition.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_061",
+      "text": "The value of 3² is:",
+      "options": ["6", "9", "27", "12"],
+      "correct_index": 1,
+      "explanation": "3² = 3 × 3 = 9.",
+      "difficulty": 2
+    },
+    {
+      "id": "mth111_062",
+      "text": "The value of 2³ is:",
+      "options": ["6", "9", "4", "8"],
+      "correct_index": 3,
+      "explanation": "2³ = 2 × 2 × 2 = 8.",
+      "difficulty": 2
+    },
+    {
+      "id": "mth111_063",
+      "text": "√36 is equal to:",
+      "options": ["6", "18", "9", "12"],
+      "correct_index": 0,
+      "explanation": "6 × 6 = 36, so √36 = 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_064",
+      "text": "The interval (a, b), where a < x < b, is called:",
+      "options": ["A closed interval", "A half-open interval", "An open interval", "A null interval"],
+      "correct_index": 2,
+      "explanation": "An open interval excludes its endpoints.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_065",
+      "text": "A proof by mathematical induction has two steps, namely the:",
+      "options": ["Start step and finish step", "Basis step and inductive step", "First step and second step", "Proof step and answer step"],
+      "correct_index": 1,
+      "explanation": "We prove P(1) (basis) and that P(k) implies P(k + 1) (inductive step).",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_066",
+      "text": "In the basis step of induction we prove that:",
+      "options": ["P(n) is true for all n", "P(k + 1) is true", "P(1) is true", "P(n) is false"],
+      "correct_index": 2,
+      "explanation": "The basis step establishes that P(1) is true.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_067",
+      "text": "Mathematical induction is used to prove statements about:",
+      "options": ["Matrices", "Complex numbers", "Sets only", "Positive integers (natural numbers)"],
+      "correct_index": 3,
+      "explanation": "Induction works on propositions P(n) for positive integers n.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_068",
+      "text": "In the inductive step, assuming P(k) is true, we must show that:",
+      "options": ["P(k − 1) is true", "P(2k) is true", "P(k + 1) is true", "P(1) is true"],
+      "correct_index": 2,
+      "explanation": "The inductive step proves that P(k) implies P(k + 1).",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_069",
+      "text": "By induction, 1 + 2 + 3 + ... + n equals:",
+      "options": ["n²", "n(n + 1)/2", "n(n − 1)/2", "2n"],
+      "correct_index": 1,
+      "explanation": "The formula for the sum of the first n integers is n(n + 1)/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mth111_070",
+      "text": "The value of 0! (zero factorial) is:",
+      "options": ["0", "1", "−1", "2"],
+      "correct_index": 1,
+      "explanation": "By convention, 0! = 1.",
+      "difficulty": 2
+    }
+  ]
+}

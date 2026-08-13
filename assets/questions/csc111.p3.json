@@ -1,0 +1,565 @@
+{
+  "course_name": "Introduction to Computer Science",
+  "questions": [
+    {
+      "id": "csc111_131",
+      "text": "The Internet is a worldwide collection of ___.",
+      "options": ["Programs", "Cables", "Users", "Networks"],
+      "correct_index": 3,
+      "explanation": "The Internet is a worldwide collection of networks.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_132",
+      "text": "The Internet originated as ___ in September 1969.",
+      "options": ["ARPANET", "BITNET", "NSFNET", "MILNET"],
+      "correct_index": 0,
+      "explanation": "ARPANET was the origin of the Internet.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_133",
+      "text": "An IP address is a number that uniquely identifies a ___.",
+      "options": ["Web page", "Computer or device connected to the Internet", "File", "Web site"],
+      "correct_index": 1,
+      "explanation": "An IP address uniquely identifies a computer or device on the Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_134",
+      "text": "A domain name is the ___ version of an IP address.",
+      "options": ["Graphic", "Numeric", "Text", "Similar"],
+      "correct_index": 2,
+      "explanation": "A domain name is the text version of an IP address.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_135",
+      "text": "DNS stands for ___.",
+      "options": ["Domain Network System", "Direct Name System", "Digital Network Service", "Domain Name System"],
+      "correct_index": 3,
+      "explanation": "DNS stands for Domain Name System.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_136",
+      "text": "Which server translates a domain name into its associated IP address?",
+      "options": ["DNS server", "Web server", "Mail server", "File server"],
+      "correct_index": 0,
+      "explanation": "A DNS server translates domain names into IP addresses.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_137",
+      "text": "A Web browser is a program that allows users to ___.",
+      "options": ["Write programs", "Access Web pages", "Format disks", "Compile code"],
+      "correct_index": 1,
+      "explanation": "A Web browser allows users to access Web pages.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_138",
+      "text": "The first page that a Web site displays is called the ___.",
+      "options": ["Last page", "Home page", "Index page", "Menu page"],
+      "correct_index": 2,
+      "explanation": "The home page is the first page a Web site displays.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_139",
+      "text": "A Web page has a unique address called a ___.",
+      "options": ["HTML", "HTTP", "DNS", "URL"],
+      "correct_index": 3,
+      "explanation": "A Web page's unique address is its URL.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_140",
+      "text": "A program used to find Web pages pertaining to a specific topic is a ___.",
+      "options": ["Search engine", "Newsreader", "Portal", "FTP program"],
+      "correct_index": 0,
+      "explanation": "A search engine locates Web pages on a specific topic.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_141",
+      "text": "The process of receiving information from the Internet to your computer is called ___.",
+      "options": ["Uploading", "Downloading", "Streaming", "Booting"],
+      "correct_index": 1,
+      "explanation": "Downloading is the process of receiving information.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_142",
+      "text": "The process of transferring data in a continuous and even flow is called ___.",
+      "options": ["Watching", "Live video", "Downloading", "Streaming"],
+      "correct_index": 3,
+      "explanation": "Streaming transfers data in a continuous and even flow.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_143",
+      "text": "E-mail is the transmission of ___ via a computer network.",
+      "options": ["Messages and files", "Only photos", "Only text", "Money"],
+      "correct_index": 3,
+      "explanation": "E-mail is the transmission of messages and files via a network.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_144",
+      "text": "An e-mail program allows you to create, send, receive, forward, store, print and ___ e-mail messages.",
+      "options": ["Delete", "Burn", "Compile", "Format"],
+      "correct_index": 0,
+      "explanation": "An e-mail program allows deleting e-mail messages too.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_145",
+      "text": "Instant messaging (IM) is a ___ Internet communications service.",
+      "options": ["Delayed", "Real-time", "Offline", "Batch"],
+      "correct_index": 1,
+      "explanation": "Instant messaging is a real-time Internet service.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_146",
+      "text": "A chat room is a location on an Internet server that permits users to ___.",
+      "options": ["Print documents", "Chat with each other", "Play music", "Store files"],
+      "correct_index": 1,
+      "explanation": "A chat room permits users to chat with each other.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_147",
+      "text": "VoIP enables users to ___.",
+      "options": ["Mail letters", "Send faxes", "Print files", "Speak to other users over the Internet"],
+      "correct_index": 3,
+      "explanation": "VoIP lets users speak to each other over the Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_148",
+      "text": "VoIP is also called ___.",
+      "options": ["Internet telephony", "Radio broadcasting", "Satellite TV", "Video streaming"],
+      "correct_index": 0,
+      "explanation": "VoIP is also known as Internet telephony.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_149",
+      "text": "FTP stands for ___.",
+      "options": ["File Type Program", "File Transfer Protocol", "Fast Transfer Path", "File Test Program"],
+      "correct_index": 1,
+      "explanation": "FTP is File Transfer Protocol.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_150",
+      "text": "A newsgroup is an online area in which users ___.",
+      "options": ["Play games", "Type documents", "Have written discussions about a particular subject", "Watch videos"],
+      "correct_index": 2,
+      "explanation": "A newsgroup hosts written discussions about a subject.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_151",
+      "text": "A LAN is a network that connects computers and devices in a ___.",
+      "options": ["Limited geographical area", "Whole country", "Whole continent", "Global region"],
+      "correct_index": 0,
+      "explanation": "A LAN covers a limited geographical area.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_152",
+      "text": "Which network covers a large geographical area?",
+      "options": ["LAN", "WAN", "MAN", "PAN"],
+      "correct_index": 1,
+      "explanation": "A WAN covers a large geographical area.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_153",
+      "text": "A network that connects LANs in a metropolitan area such as a city is a ___.",
+      "options": ["LAN", "WAN", "MAN", "PAN"],
+      "correct_index": 2,
+      "explanation": "A MAN connects LANs in a metropolitan area.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_154",
+      "text": "A wireless LAN (WLAN) is a LAN that uses ___.",
+      "options": ["No physical wires", "Fiber cables", "Copper wires", "Modems"],
+      "correct_index": 3,
+      "explanation": "A WLAN uses no physical wires.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_155",
+      "text": "The layout of the computers and devices in a communications network is called the network ___.",
+      "options": ["Topology", "Protocol", "Router", "Gateway"],
+      "correct_index": 0,
+      "explanation": "Network topology is the layout of computers and devices on a network.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_156",
+      "text": "Which communications device transmits data to its correct destination on a network?",
+      "options": ["Router", "Scanner", "Printer", "Monitor"],
+      "correct_index": 1,
+      "explanation": "A router sends data to its correct destination on a network.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_157",
+      "text": "The amount of data that can travel over a communications channel is called the ___.",
+      "options": ["Latency", "Bandwidth", "Frequency", "Band rate"],
+      "correct_index": 2,
+      "explanation": "Bandwidth is the amount of data that can travel over a channel.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_158",
+      "text": "Wi-Fi is based on the ___ standard.",
+      "options": ["802.11", "802.20", "802.67", "802.30"],
+      "correct_index": 3,
+      "explanation": "Wi-Fi is based on the 802.11 standard.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_159",
+      "text": "Wi-Fi is sometimes referred to as ___.",
+      "options": ["Wireless Ethernet", "Fiber optics", "Dial-up", "Broadband cable"],
+      "correct_index": 0,
+      "explanation": "Wi-Fi is sometimes called wireless Ethernet.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_160",
+      "text": "Which technology uses short-range radio waves to transmit data between two devices?",
+      "options": ["Bluetooth", "Microwave", "Satellite", "Fiber optics"],
+      "correct_index": 1,
+      "explanation": "Bluetooth uses short-range radio waves to transmit data.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_161",
+      "text": "A cybercrime is an ___ illegal act.",
+      "options": ["Hardware", "Physical", "Online or Internet-based", "Educational"],
+      "correct_index": 2,
+      "explanation": "A cybercrime is an online or Internet-based illegal act.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_162",
+      "text": "Which malicious program duplicates itself and attacks the computer system?",
+      "options": ["Antivirus", "Firewall", "Backup program", "Virus"],
+      "correct_index": 3,
+      "explanation": "A virus duplicates itself and attacks the computer system.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_163",
+      "text": "Which software detects and removes viruses from a computer?",
+      "options": ["Antivirus software", "Word processor", "Spreadsheet", "Media player"],
+      "correct_index": 0,
+      "explanation": "Antivirus software detects and removes viruses.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_164",
+      "text": "The technique intruders use to make their network or Internet transmission appear legitimate is ___.",
+      "options": ["Phishing", "Spoofing", "Pharming", "Spamming"],
+      "correct_index": 1,
+      "explanation": "Spoofing makes transmissions appear legitimate.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_165",
+      "text": "The process of converting readable data into unreadable characters to prevent unauthorized access is called ___.",
+      "options": ["Passwording", "CAPTCHA", "Encryption", "Filtering"],
+      "correct_index": 2,
+      "explanation": "Encryption converts readable data into unreadable characters.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_166",
+      "text": "An encrypted code attached to an electronic message to verify the identity of the sender is a ___.",
+      "options": ["Password", "Bar code", "Cookie", "Digital signature"],
+      "correct_index": 3,
+      "explanation": "A digital signature verifies the identity of the sender.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_167",
+      "text": "A small text file that a Web server stores on your computer is a ___.",
+      "options": ["Cookie", "Bookmark", "Password", "Landing page"],
+      "correct_index": 0,
+      "explanation": "A cookie is a small text file stored by a Web server.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_168",
+      "text": "Unsolicited e-mail messages sent to many recipients are called ___.",
+      "options": ["Cookies", "Spam", "Viruses", "Chat"],
+      "correct_index": 1,
+      "explanation": "Spam is unsolicited e-mail sent in bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_169",
+      "text": "Which scam sends an official-looking e-mail message that attempts to obtain your personal and financial information?",
+      "options": ["Pharming", "Phishing", "Spoofing", "Spamming"],
+      "correct_index": 2,
+      "explanation": "Phishing uses official-looking e-mails to obtain personal information.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_170",
+      "text": "A firewall protects a network's resources from ___.",
+      "options": ["Overheating", "Dust", "Power cuts", "Intrusion"],
+      "correct_index": 3,
+      "explanation": "A firewall protects network resources from intrusion.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_171",
+      "text": "The process of restricting access to certain material on the Web is called ___.",
+      "options": ["Content filtering", "Uploading", "Browsing", "Downloading"],
+      "correct_index": 0,
+      "explanation": "Content filtering restricts access to certain Web material.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_172",
+      "text": "Which device authenticates a person's identity by translating a personal characteristic into a digital code?",
+      "options": ["Bar code reader", "Biometric device", "Modem", "Router"],
+      "correct_index": 1,
+      "explanation": "A biometric device authenticates identity using personal characteristics.",
+      "difficulty": 2
+    },
+    {
+      "id": "csc111_173",
+      "text": "A duplicate of a file, program or disk that can be used if the original is lost or damaged is a ___.",
+      "options": ["Virus", "Firewall", "Backup", "Cookie"],
+      "correct_index": 2,
+      "explanation": "A backup is a duplicate used when the original is lost.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_174",
+      "text": "Which of the following protects a computer from electrical power variations?",
+      "options": ["Modem", "Router", "Hub", "Surge protector or UPS"],
+      "correct_index": 3,
+      "explanation": "Surge protectors and UPS protect against power variations.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_175",
+      "text": "___ is an applied science devoted to incorporating comfort, efficiency and safety into the design of items in the workplace.",
+      "options": ["Ergonomics", "Astronomy", "Geology", "Biology"],
+      "correct_index": 0,
+      "explanation": "Ergonomics incorporates comfort, efficiency and safety in workplace design.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_176",
+      "text": "Computer ethics are the ___ that govern the use of computers and information systems.",
+      "options": ["Technical rules", "Legal codes", "Moral guidelines", "Financial regulations"],
+      "correct_index": 2,
+      "explanation": "Computer ethics are moral guidelines for computer use.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_177",
+      "text": "Green computing involves ___.",
+      "options": ["Printing more documents", "Increasing power consumption", "Using only CRT monitors", "Reducing electricity and environmental waste while using a computer"],
+      "correct_index": 3,
+      "explanation": "Green computing reduces electricity and environmental waste.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_178",
+      "text": "Which of the following is a health concern resulting from the widespread use of computers?",
+      "options": ["Carpal tunnel syndrome (CTS)", "Muscle gain", "Improved eyesight", "Better posture"],
+      "correct_index": 0,
+      "explanation": "Carpal tunnel syndrome is a known computer-related health concern.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_179",
+      "text": "The right of individuals to deny or restrict the collection and use of information about them is called ___.",
+      "options": ["Copyright", "Information privacy", "Patent right", "Trademark"],
+      "correct_index": 1,
+      "explanation": "Information privacy is the right to restrict collection and use of personal information.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_180",
+      "text": "A sacrificial computer system intended to attract cyberattacks is known as a ___.",
+      "options": ["Honeypot", "Trojan horse", "Worm", "Rootkit"],
+      "correct_index": 0,
+      "explanation": "A honeypot is a sacrificial system used to attract cyberattacks.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_181",
+      "text": "Which shortcut key cuts selected text in MS Word?",
+      "options": ["Ctrl+C", "Ctrl+V", "Ctrl+Z", "Ctrl+X"],
+      "correct_index": 3,
+      "explanation": "Ctrl+X is the shortcut for cutting selected text.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_182",
+      "text": "Which shortcut key copies selected text in MS Word?",
+      "options": ["Ctrl+C", "Ctrl+X", "Ctrl+P", "Ctrl+S"],
+      "correct_index": 0,
+      "explanation": "Ctrl+C is the shortcut for copying selected text.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_183",
+      "text": "Which shortcut key pastes copied or cut text in MS Word?",
+      "options": ["Ctrl+X", "Ctrl+V", "Ctrl+R", "Ctrl+B"],
+      "correct_index": 1,
+      "explanation": "Ctrl+V is the shortcut for pasting text.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_184",
+      "text": "The shortcut key used to right-align a paragraph in MS Word is ___.",
+      "options": ["Ctrl+L", "Ctrl+E", "Ctrl+R", "Ctrl+J"],
+      "correct_index": 2,
+      "explanation": "Ctrl+R right-aligns a paragraph in MS Word.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_185",
+      "text": "Word documents are saved with the file extension ___.",
+      "options": [".pdf", ".xlsx", ".pptx", ".docx"],
+      "correct_index": 3,
+      "explanation": "Word documents are saved with the .docx extension.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_186",
+      "text": "In MS Word, the Find and Replace commands are located in the ___ group of the Home tab.",
+      "options": ["Editing", "Font", "Paragraph", "Styles"],
+      "correct_index": 0,
+      "explanation": "Find and Replace are in the Editing group of the Home tab.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_187",
+      "text": "Which MS Word feature changes text from lowercase to UPPERCASE?",
+      "options": ["Word Count", "Change Case", "Spell Check", "Page Break"],
+      "correct_index": 1,
+      "explanation": "Change Case changes text between cases such as UPPERCASE.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_188",
+      "text": "In MS Excel, columns are identified by ___.",
+      "options": ["Numbers", "Symbols", "Letters", "Colors"],
+      "correct_index": 2,
+      "explanation": "Excel columns are identified by letters.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_189",
+      "text": "Which Excel function adds up a range of numbers?",
+      "options": ["AVERAGE", "COUNT", "MAX", "SUM"],
+      "correct_index": 3,
+      "explanation": "The SUM function adds up a range of numbers.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_190",
+      "text": "The Excel shortcut keys for inserting the SUM (AutoSum) function are ___.",
+      "options": ["Alt + =", "Ctrl + S", "Shift + F5", "Ctrl + ="],
+      "correct_index": 0,
+      "explanation": "Alt + = inserts the AutoSum function in Excel.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_191",
+      "text": "The NOT function in Excel ___.",
+      "options": ["Returns TRUE if all conditions are true", "Changes TRUE to FALSE and FALSE to TRUE", "Counts cells", "Adds numbers"],
+      "correct_index": 1,
+      "explanation": "The NOT function reverses TRUE to FALSE and FALSE to TRUE.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_192",
+      "text": "Which Excel function removes unnecessary spaces from a string of text?",
+      "options": ["LEFT", "REPT", "TRIM", "NOW"],
+      "correct_index": 2,
+      "explanation": "The TRIM function removes unnecessary spaces from text.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_193",
+      "text": "To add a border to a cell in Excel, you click the Border list arrow on the ___ tab.",
+      "options": ["Data", "Insert", "View", "Home"],
+      "correct_index": 3,
+      "explanation": "The Border command is on the Home tab in Excel.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_194",
+      "text": "Which tab in Excel contains the Sort & Filter commands?",
+      "options": ["Data", "Insert", "Home", "Page Layout"],
+      "correct_index": 0,
+      "explanation": "The Sort & Filter group is on the Data tab.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_195",
+      "text": "To create a chart from selected data in Excel, you use the ___ tab.",
+      "options": ["Home", "Insert", "Data", "View"],
+      "correct_index": 1,
+      "explanation": "Charts are created using the Insert tab in Excel.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_196",
+      "text": "The Excel Wrap Text command is located on the ___ tab.",
+      "options": ["Data", "Insert", "Home", "View"],
+      "correct_index": 2,
+      "explanation": "Wrap Text is on the Home tab in Excel.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_197",
+      "text": "To fit a worksheet to print on one page, use the Fit to option in the ___ dialog box.",
+      "options": ["Font", "Page Setup", "Insert", "Format Cells"],
+      "correct_index": 1,
+      "explanation": "The Fit to option is found in the Page Setup dialog box.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_198",
+      "text": "Which Excel function returns the current date and time?",
+      "options": ["NOW", "SUM", "TRIM", "LEFT"],
+      "correct_index": 0,
+      "explanation": "The NOW function returns the current date and time.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_199",
+      "text": "In Gmail, which button is used to attach a file to an e-mail?",
+      "options": ["Send", "Attach (paperclip icon)", "Compose", "Reply"],
+      "correct_index": 1,
+      "explanation": "The Attach button, shown with a paperclip icon, attaches files in Gmail.",
+      "difficulty": 1
+    },
+    {
+      "id": "csc111_200",
+      "text": "PowerPoint presentations are saved with the file extension ___.",
+      "options": [".docx", ".xlsx", ".pptx", ".txt"],
+      "correct_index": 2,
+      "explanation": "PowerPoint presentations use the .pptx file extension.",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{"course_name": "General Physics I", "questions": [
+{
+"id": "phy111_141",
+"text": "Tensile (normal) stress acts ___ to the plane of the surface.",
+"options": ["parallel", "at 45°", "along the tangent", "perpendicular (normal)"],
+"correct_index": 3,
+"explanation": "Normal (tensile) stress acts perpendicular to the surface.",
+"difficulty": 1
+},
+{
+"id": "phy111_142",
+"text": "Shear stress acts ___ to the plane of the surface.",
+"options": ["perpendicular", "normal", "parallel (tangential)", "at right angles"],
+"correct_index": 2,
+"explanation": "Shear stress acts parallel (tangentially) to the surface.",
+"difficulty": 1
+},
+{
+"id": "phy111_143",
+"text": "Pressure is defined as the ___.",
+"options": ["force acting perpendicularly per unit area", "mass per unit volume", "force times distance", "weight per unit volume"],
+"correct_index": 0,
+"explanation": "Pressure = perpendicular force per unit area.",
+"difficulty": 1
+},
+{
+"id": "phy111_144",
+"text": "The SI unit of pressure is the ___.",
+"options": ["newton (N)", "watt (W)", "pascal (Pa)", "joule (J)"],
+"correct_index": 2,
+"explanation": "Pa = N/m² (one newton per square metre).",
+"difficulty": 1
+},
+{
+"id": "phy111_145",
+"text": "The hydrostatic pressure at a depth h in a liquid of density ρ is given by ___.",
+"options": ["P = ρgh", "P = ρg/h", "P = ρh/g", "P = mgh"],
+"correct_index": 0,
+"explanation": "P = ρgh.",
+"difficulty": 1
+},
+{
+"id": "phy111_146",
+"text": "In a liquid at rest, the pressure ___ with depth.",
+"options": ["decreases", "remains constant", "increases", "becomes zero"],
+"correct_index": 2,
+"explanation": "Pressure in a liquid increases with depth.",
+"difficulty": 1
+},
+{
+"id": "phy111_147",
+"text": "The relative density of a substance is the ratio of its density to the density of ___.",
+"options": ["water", "air", "mercury", "alcohol"],
+"correct_index": 0,
+"explanation": "Relative density is measured against the density of water.",
+"difficulty": 1
+},
+{
+"id": "phy111_148",
+"text": "Archimedes' principle states that the upthrust on a body immersed in a fluid is equal to ___.",
+"options": ["the weight of the body", "the volume of the body", "the density of the fluid", "the weight of the fluid displaced by the body"],
+"correct_index": 3,
+"explanation": "Upthrust equals the weight of the fluid displaced.",
+"difficulty": 1
+},
+{
+"id": "phy111_149",
+"text": "A body floats in a liquid when the buoyant force is ___.",
+"options": ["less than its weight", "equal to zero", "greater than or equal to its weight", "independent of its weight"],
+"correct_index": 2,
+"explanation": "The body floats when buoyancy is at least as large as its weight.",
+"difficulty": 1
+},
+{
+"id": "phy111_150",
+"text": "A body sinks in a liquid when its ___.",
+"options": ["weight is greater than the buoyant force", "weight is less than the buoyant force", "volume is small", "density is small"],
+"correct_index": 0,
+"explanation": "The body sinks when mg > buoyant force.",
+"difficulty": 1
+},
+{
+"id": "phy111_151",
+"text": "In laminar (streamline) flow, the fluid moves ___.",
+"options": ["irregularly with intermixing of layers", "smoothly in parallel layers without intermixing", "always with turbulence", "only in curved paths"],
+"correct_index": 1,
+"explanation": "Laminar flow is smooth parallel-layer flow below the critical velocity.",
+"difficulty": 1
+},
+{
+"id": "phy111_152",
+"text": "Turbulent flow occurs when the velocity of a fluid ___.",
+"options": ["is below the critical velocity", "is exactly zero", "is very small", "exceeds the critical velocity"],
+"correct_index": 3,
+"explanation": "Above the critical velocity the flow becomes turbulent.",
+"difficulty": 1
+},
+{
+"id": "phy111_153",
+"text": "For a Reynolds number Re less than 2000, the flow is ___.",
+"options": ["turbulent", "transitional", "laminar", "compressible"],
+"correct_index": 2,
+"explanation": "Re < 2000 gives laminar flow.",
+"difficulty": 1
+},
+{
+"id": "phy111_154",
+"text": "For a Reynolds number Re greater than 4000, the flow is ___.",
+"options": ["laminar", "turbulent", "transitional", "streamline"],
+"correct_index": 1,
+"explanation": "Re > 4000 gives turbulent flow.",
+"difficulty": 1
+},
+{
+"id": "phy111_155",
+"text": "Viscosity is a measure of a fluid's ___.",
+"options": ["resistance to flow", "temperature", "density", "surface area"],
+"correct_index": 0,
+"explanation": "Viscosity measures the fluid's resistance to flow.",
+"difficulty": 1
+},
+{
+"id": "phy111_156",
+"text": "When the temperature of a liquid increases, its viscosity ___.",
+"options": ["increases", "remains constant", "decreases", "doubles"],
+"correct_index": 2,
+"explanation": "Viscosity decreases as temperature increases.",
+"difficulty": 1
+},
+{
+"id": "phy111_157",
+"text": "Stokes' law gives the viscous drag on a sphere of radius r moving with velocity v in a fluid of viscosity η as ___.",
+"options": ["F = 4πηrv", "F = 6πηr²v", "F = 6πrv/η", "F = 6πηrv"],
+"correct_index": 3,
+"explanation": "F = 6πηrv.",
+"difficulty": 1
+},
+{
+"id": "phy111_158",
+"text": "At terminal velocity, the acceleration of a falling sphere through a viscous liquid is ___.",
+"options": ["maximum", "equal to g", "zero", "half of g"],
+"correct_index": 2,
+"explanation": "At terminal velocity the net force is zero, so a = 0.",
+"difficulty": 1
+},
+{
+"id": "phy111_159",
+"text": "Terminal velocity is reached when the viscous drag on the falling body just balances the ___.",
+"options": ["weight (and upthrust) acting on it", "volume of the body", "density of the liquid", "radius of the body"],
+"correct_index": 0,
+"explanation": "At terminal velocity, viscous drag balances weight and upthrust.",
+"difficulty": 1
+},
+{
+"id": "phy111_160",
+"text": "Surface tension is the force acting ___ per unit length of an imaginary line drawn on the liquid surface.",
+"options": ["normal to the surface", "at 45° to the surface", "vertically upward", "tangentially to the surface"],
+"correct_index": 3,
+"explanation": "Surface tension acts tangentially to the liquid surface.",
+"difficulty": 1
+},
+{
+"id": "phy111_161",
+"text": "The SI unit of surface tension is ___.",
+"options": ["N/m²", "N/m", "N s", "J/m²"],
+"correct_index": 1,
+"explanation": "Surface tension = force per unit length, measured in N/m.",
+"difficulty": 1
+},
+{
+"id": "phy111_162",
+"text": "The surface of a liquid behaves like ___.",
+"options": ["a solid sheet", "a stretched elastic skin", "a magnetic membrane", "a rigid plate"],
+"correct_index": 1,
+"explanation": "Surface tension makes the liquid surface act like a stretched elastic skin.",
+"difficulty": 1
+},
+{
+"id": "phy111_163",
+"text": "Surface tension of a liquid ___ when its temperature increases.",
+"options": ["decreases", "increases", "remains the same", "doubles"],
+"correct_index": 0,
+"explanation": "Heating weakens the intermolecular forces, lowering surface tension.",
+"difficulty": 1
+},
+{
+"id": "phy111_164",
+"text": "Adding soap or detergent to water ___ its surface tension.",
+"options": ["raises", "does not affect", "triples", "lowers"],
+"correct_index": 3,
+"explanation": "Soap (an impurity) lowers the surface tension of water.",
+"difficulty": 1
+},
+{
+"id": "phy111_165",
+"text": "The excess pressure inside a liquid drop of surface tension γ and radius r is ___.",
+"options": ["γ/r", "4γ/r", "2γ/r", "γr/2"],
+"correct_index": 2,
+"explanation": "A liquid drop has one surface, so excess pressure = 2γ/r.",
+"difficulty": 1
+},
+{
+"id": "phy111_166",
+"text": "Because a soap bubble has two liquid surfaces, its excess pressure is ___.",
+"options": ["2γ/r", "4γ/r", "γ/r", "γr"],
+"correct_index": 1,
+"explanation": "A soap bubble has two surfaces, giving excess pressure = 4γ/r.",
+"difficulty": 1
+},
+{
+"id": "phy111_167",
+"text": "Adhesion is the force of attraction between molecules of ___.",
+"options": ["the same substance only", "a gas and a vacuum", "identical liquids", "two different substances"],
+"correct_index": 3,
+"explanation": "Adhesion acts between unlike substances, e.g. water and glass.",
+"difficulty": 1
+},
+{
+"id": "phy111_168",
+"text": "Cohesion is the force of attraction between molecules of ___.",
+"options": ["the same substance", "different substances", "water and glass", "air and water"],
+"correct_index": 0,
+"explanation": "Cohesion acts between identical molecules.",
+"difficulty": 1
+},
+{
+"id": "phy111_169",
+"text": "Water rises in a narrow glass capillary tube mainly because of the ___.",
+"options": ["weight of the water", "cohesive force between water molecules", "adhesive force between water and glass", "pressure of the atmosphere"],
+"correct_index": 2,
+"explanation": "Capillary rise is due to adhesion between water and glass.",
+"difficulty": 1
+},
+{
+"id": "phy111_170",
+"text": "Water rises 2 cm in a capillary tube of radius r. In a tube of radius r/3, the same water will rise to ___.",
+"options": ["2 cm", "4 cm", "6 cm", "1 cm"],
+"correct_index": 2,
+"explanation": "hr is constant, so h₂ = 3 × 2 = 6 cm.",
+"difficulty": 2
+},
+{
+"id": "phy111_171",
+"text": "Most solids and liquids ___ when their temperature is increased.",
+"options": ["expand", "contract", "remain unchanged", "evaporate"],
+"correct_index": 0,
+"explanation": "Heating increases molecular vibration, so solids and liquids expand.",
+"difficulty": 1
+},
+{
+"id": "phy111_172",
+"text": "The increase in length of a solid rod on heating is given by ___.",
+"options": ["ΔL = αLi/ΔT", "ΔL = αLiΔT", "ΔL = αΔT", "ΔL = LiΔT"],
+"correct_index": 1,
+"explanation": "ΔL = αLiΔT.",
+"difficulty": 1
+},
+{
+"id": "phy111_173",
+"text": "The coefficient of linear expansion α is measured in ___.",
+"options": ["metres", "metres per second", "newtons", "per degree Celsius (1/°C)"],
+"correct_index": 3,
+"explanation": "The unit of α is 1/°C.",
+"difficulty": 1
+},
+{
+"id": "phy111_174",
+"text": "The coefficient of area (superficial) expansion of a solid is related to its linear expansivity α by ___.",
+"options": ["β = α", "β = 3α", "β = 2α", "β = α/2"],
+"correct_index": 2,
+"explanation": "Area expansivity = 2α.",
+"difficulty": 1
+},
+{
+"id": "phy111_175",
+"text": "The coefficient of volume (cubic) expansion of a solid is related to its linear expansivity α by ___.",
+"options": ["γ = α", "γ = 3α", "γ = 2α", "γ = α/3"],
+"correct_index": 1,
+"explanation": "Cubic expansivity = 3α.",
+"difficulty": 1
+},
+{
+"id": "phy111_176",
+"text": "The increase in volume of a liquid on heating is given by ___.",
+"options": ["ΔV = βViΔT", "ΔV = βVi/ΔT", "ΔV = βΔT", "ΔV = ViΔT"],
+"correct_index": 0,
+"explanation": "ΔV = βViΔT.",
+"difficulty": 1
+},
+{
+"id": "phy111_177",
+"text": "A brass rod 3 cm long at 0°C (α = 1.8 × 10⁻⁵/°C) is heated to 100°C. Its increase in length is ___.",
+"options": ["0.54 cm", "0.054 cm", "0.0054 cm", "5.4 cm"],
+"correct_index": 2,
+"explanation": "ΔL = 1.8×10⁻⁵ × 3 × 100 = 0.0054 cm.",
+"difficulty": 2
+},
+{
+"id": "phy111_178",
+"text": "10 litres of mercury (β = 1.8 × 10⁻⁴/°C) is heated through 30°C. Its increase in volume is ___.",
+"options": ["0.54 L", "5.4 L", "0.0054 L", "0.054 L"],
+"correct_index": 3,
+"explanation": "ΔV = 1.8×10⁻⁴ × 10 × 30 = 0.054 L.",
+"difficulty": 2
+},
+{
+"id": "phy111_179",
+"text": "A bimetallic strip is commonly used in a ___.",
+"options": ["thermometer", "thermostat", "barometer", "hydrometer"],
+"correct_index": 1,
+"explanation": "Bimetallic strips are used in thermostats.",
+"difficulty": 1
+},
+{
+"id": "phy111_180",
+"text": "Gaps are left between railway rails mainly to ___.",
+"options": ["allow for the contraction of trains", "reduce friction", "save material", "allow for the expansion of the rails when heated"],
+"correct_index": 3,
+"explanation": "The gaps accommodate thermal expansion of the rails.",
+"difficulty": 1
+},
+{
+"id": "phy111_181",
+"text": "Heat is best described as ___.",
+"options": ["thermal energy in transit from a hotter body to a colder body", "the total kinetic energy of a body", "the temperature of a body", "the internal energy stored in a body"],
+"correct_index": 0,
+"explanation": "Heat is thermal energy in transit due to a temperature difference.",
+"difficulty": 1
+},
+{
+"id": "phy111_182",
+"text": "Heat always flows from the body at ___.",
+"options": ["lower temperature to the body at higher temperature", "the same temperature to a colder one", "higher temperature to the body at lower temperature", "any direction randomly"],
+"correct_index": 2,
+"explanation": "Heat flows from hot to cold.",
+"difficulty": 1
+},
+{
+"id": "phy111_183",
+"text": "The SI unit of heat is the ___.",
+"options": ["calorie (cal)", "joule (J)", "degree Celsius", "watt (W)"],
+"correct_index": 1,
+"explanation": "Heat is measured in joules (J).",
+"difficulty": 1
+},
+{
+"id": "phy111_184",
+"text": "1 calorie is approximately equal to ___.",
+"options": ["1 J", "10 J", "0.24 J", "4.19 J (about 4.2 J)"],
+"correct_index": 3,
+"explanation": "1 cal = 4.19 J.",
+"difficulty": 1
+},
+{
+"id": "phy111_185",
+"text": "Temperature is a measure of the ___ of a body.",
+"options": ["amount of heat", "total energy", "degree of hotness or coldness", "mass"],
+"correct_index": 2,
+"explanation": "Temperature measures hotness or coldness.",
+"difficulty": 1
+},
+{
+"id": "phy111_186",
+"text": "The zeroth law of thermodynamics states that if A and B are each in thermal equilibrium with C, then ___.",
+"options": ["A and B cannot be in equilibrium", "A and B are in thermal equilibrium with each other", "heat flows from A to B", "C is hotter than both"],
+"correct_index": 1,
+"explanation": "Thermal equilibrium is transitive by the zeroth law.",
+"difficulty": 1
+},
+{
+"id": "phy111_187",
+"text": "On the Celsius scale, the lower fixed point is ___.",
+"options": ["0°C", "−273°C", "32°C", "100°C"],
+"correct_index": 0,
+"explanation": "The ice point is 0°C.",
+"difficulty": 1
+},
+{
+"id": "phy111_188",
+"text": "On the Fahrenheit scale, the upper fixed point is ___.",
+"options": ["100°F", "180°F", "32°F", "212°F"],
+"correct_index": 3,
+"explanation": "The steam point is 212°F.",
+"difficulty": 1
+},
+{
+"id": "phy111_189",
+"text": "The fundamental interval on the Fahrenheit scale is ___.",
+"options": ["100 degrees", "212 degrees", "180 degrees", "273 degrees"],
+"correct_index": 2,
+"explanation": "212 − 32 = 180 degrees.",
+"difficulty": 1
+},
+{
+"id": "phy111_190",
+"text": "The SI unit of thermodynamic temperature is the ___.",
+"options": ["kelvin (K)", "degree Celsius (°C)", "degree Fahrenheit (°F)", "joule (J)"],
+"correct_index": 0,
+"explanation": "Kelvin (K) is the SI unit of temperature.",
+"difficulty": 1
+},
+{
+"id": "phy111_191",
+"text": "A temperature of 20°C is equal to about ___.",
+"options": ["273 K", "20 K", "100 K", "293 K"],
+"correct_index": 3,
+"explanation": "T(K) = 20 + 273 = 293 K.",
+"difficulty": 2
+},
+{
+"id": "phy111_192",
+"text": "A temperature of 50°C is equal to ___ on the Fahrenheit scale.",
+"options": ["82°F", "122°F", "212°F", "90°F"],
+"correct_index": 1,
+"explanation": "T_F = (9/5 × 50) + 32 = 122°F.",
+"difficulty": 2
+},
+{
+"id": "phy111_193",
+"text": "Absolute zero (0 K) is equal to about ___.",
+"options": ["0°C", "−100°C", "−273°C", "273°C"],
+"correct_index": 2,
+"explanation": "0 K = −273°C.",
+"difficulty": 1
+},
+{
+"id": "phy111_194",
+"text": "The triple point of water is defined as ___.",
+"options": ["273.16 K", "373.16 K", "0 K", "100 K"],
+"correct_index": 0,
+"explanation": "The triple point of water is 273.16 K.",
+"difficulty": 1
+},
+{
+"id": "phy111_195",
+"text": "Latent heat of fusion is the heat required to change ___ at constant temperature.",
+"options": ["a liquid to a vapour", "a gas to a solid", "a liquid to a solid", "a solid to a liquid"],
+"correct_index": 3,
+"explanation": "Fusion is the solid-to-liquid change.",
+"difficulty": 1
+},
+{
+"id": "phy111_196",
+"text": "Latent heat of vaporization is the heat required to change ___ at constant temperature.",
+"options": ["a solid to a liquid", "a liquid to a vapour", "a gas to a liquid", "a solid to a solid"],
+"correct_index": 1,
+"explanation": "Vaporization is the liquid-to-vapour change.",
+"difficulty": 1
+},
+{
+"id": "phy111_197",
+"text": "During melting or boiling of a pure substance, its temperature ___.",
+"options": ["increases continuously", "decreases", "remains constant", "doubles"],
+"correct_index": 2,
+"explanation": "Temperature stays constant during a change of state.",
+"difficulty": 1
+},
+{
+"id": "phy111_198",
+"text": "The main mode of heat transfer in solids is ___.",
+"options": ["convection", "radiation", "evaporation", "conduction"],
+"correct_index": 3,
+"explanation": "Conduction is the main mode of heat transfer in solids.",
+"difficulty": 1
+},
+{
+"id": "phy111_199",
+"text": "The main mode of heat transfer in fluids (liquids and gases) is ___.",
+"options": ["conduction", "radiation", "reflection", "convection"],
+"correct_index": 3,
+"explanation": "Convection by moving fluid particles dominates in fluids.",
+"difficulty": 1
+},
+{
+"id": "phy111_200",
+"text": "Heat from the sun reaches the earth by ___.",
+"options": ["conduction", "convection", "reflection", "radiation"],
+"correct_index": 3,
+"explanation": "Radiant heat travels through space at the speed of light.",
+"difficulty": 1
+}
+]}
