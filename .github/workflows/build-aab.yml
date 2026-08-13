@@ -1,6 +1,10 @@
 name: Build Android App Bundle (Play Store)
 
 on:
+  push:
+    branches:
+      - main
+      - master
   workflow_dispatch:
 
 jobs:
