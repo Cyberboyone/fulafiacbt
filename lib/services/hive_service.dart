@@ -5,7 +5,6 @@ import '../models/profile.dart';
 import '../models/progress.dart';
 import '../models/settings.dart';
 import '../models/question.dart';
-import '../models/material.dart';
 
 class HiveService {
   static final HiveService _instance = HiveService._internal();
@@ -127,24 +126,6 @@ class HiveService {
     final box = Hive.box(AppConstants.questionsBox);
     final dataList = questions.map((q) => q.toMap()).toList();
     await box.put(courseId, dataList);
-  }
-
-  // --- Study Materials Operations ---
-  List<StudyMaterial> getAllMaterials() {
-    final box = Hive.box(AppConstants.downloadsBox);
-    return box.values.map((data) => StudyMaterial.fromMap(data as Map)).toList();
-  }
-
-  StudyMaterial? getMaterial(String materialId) {
-    final box = Hive.box(AppConstants.downloadsBox);
-    final data = box.get(materialId);
-    if (data == null) return null;
-    return StudyMaterial.fromMap(data as Map);
-  }
-
-  Future<void> saveMaterial(StudyMaterial material) async {
-    final box = Hive.box(AppConstants.downloadsBox);
-    await box.put(material.id, material.toMap());
   }
 
   // --- Claimed Referral Codes ---
