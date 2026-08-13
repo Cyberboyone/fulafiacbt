@@ -48,3 +48,5 @@ agency-agents/
 job_log*.txt
 *.ps1
 build_log.txt
+~$*
+scripts/make_docx.py
