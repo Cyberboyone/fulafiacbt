@@ -64,6 +64,7 @@ flutter:
 
   assets:
     - assets/icon.png
+    - assets/fulafia_logo.png
     - assets/questions/
     - assets/sounds/
     - assets/materials/

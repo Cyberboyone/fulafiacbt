@@ -114,9 +114,9 @@ class AppConstants {
   // App Metadata
   static const String appVersion = '1.0.0';
   static const String appName = 'Fulafia CBT';
-  static const String poweredBy = 'Fulafia CBT';
+  static const String poweredBy = 'Siyayya.com';
   static const String contactEmail = 'info@fulafia.edu.ng';
-  static const String webUrl = 'https://fulafia.edu.ng';
+  static const String webUrl = 'https://siyayya.com';
 
   // --- AdMob ---
   static const String admobAppId = 'ca-app-pub-9529770421530115~3653505201';
