@@ -119,10 +119,10 @@ class AppConstants {
   static const String webUrl = 'https://fulafia.edu.ng';
 
   // --- AdMob ---
-  static const String admobAppId = 'ca-app-pub-9529770421530115~5491366918';
-  static const String admobBannerUnitId = 'ca-app-pub-9529770421530115/2353947548';
-  static const String admobInterstitialUnitId = 'ca-app-pub-9529770421530115/4171260399';
-  static const String admobRewardedUnitId = 'ca-app-pub-9529770421530115/5208441677';
+  static const String admobAppId = 'ca-app-pub-9529770421530115~3653505201';
+  static const String admobBannerUnitId = 'ca-app-pub-9529770421530115/3994034528';
+  static const String admobInterstitialUnitId = 'ca-app-pub-9529770421530115/7414404781';
+  static const String admobRewardedUnitId = 'ca-app-pub-9529770421530115/2784894636';
 
   // Static helpers
   static int getLevelForXp(int xp) {
