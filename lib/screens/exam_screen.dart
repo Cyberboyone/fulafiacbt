@@ -408,10 +408,10 @@ class _ExamScreenState extends State<ExamScreen> {
           TextButton(
             onPressed: () {
               Navigator.pop(context);
-              quiz.cancelExam();
+              Provider.of<QuizProvider>(context, listen: false).cancelExam();
               Navigator.pop(context);
             },
-            child: const Text('Cancel Exam', style: TextStyle(color: AppColors.destructive, fontWeight: FontWeight.bold)),
+            child: const Text('Cancel Exam', style: TextStyle(color: AppConstants.destructive, fontWeight: FontWeight.bold)),
           ),
         ],
       ),
