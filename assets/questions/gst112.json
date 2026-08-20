@@ -1,0 +1,2362 @@
+{
+  "course_id": "gst112",
+  "course_name": "Use of Library and ICT",
+  "version": "1.0.2",
+  "questions": [
+    {
+      "id": "gst112_001",
+      "text": "What does ICT stand for?",
+      "options": ["Information and Communication Technology", "Internet and Computer Technology", "Integrated Circuit Technology", "Information and Computer Technique"],
+      "correct_index": 0,
+      "explanation": "ICT stands for Information and Communication Technology, which encompasses all technologies used to handle information and aid communication.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_002",
+      "text": "Who developed the Dewey Decimal Classification system?",
+      "options": ["Charles Ammi Cutter", "Melvil Dewey", "S.R. Ranganathan", "Antonio Panizzi"],
+      "correct_index": 1,
+      "explanation": "Melvil Dewey developed the Dewey Decimal Classification (DDC) system in 1876.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_003",
+      "text": "Which type of library is primarily attached to a university or college?",
+      "options": ["Public library", "Academic library", "Special library", "National library"],
+      "correct_index": 1,
+      "explanation": "An academic library is one that is attached to a university, college, or other institution of higher learning.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_004",
+      "text": "What is the main purpose of a library catalogue?",
+      "options": ["To store books", "To help users find materials in the library", "To sell books", "To display new arrivals"],
+      "correct_index": 1,
+      "explanation": "The main purpose of a library catalogue is to help users locate and access materials in the library collection.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_005",
+      "text": "Which of the following is NOT a type of library?",
+      "options": ["Academic library", "Public library", "Digital library", "Commercial library"],
+      "correct_index": 3,
+      "explanation": "Commercial library is not a standard recognized type of library. The main types are academic, public, special, national, and digital libraries.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_006",
+      "text": "What does URL stand for?",
+      "options": ["Universal Resource Locator", "Uniform Resource Locator", "United Resource Link", "Universal Reference Link"],
+      "correct_index": 1,
+      "explanation": "URL stands for Uniform Resource Locator, which is the address used to access resources on the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_007",
+      "text": "Which of the following is a web browser?",
+      "options": ["Microsoft Word", "Google Chrome", "Adobe Photoshop", "Excel"],
+      "correct_index": 1,
+      "explanation": "Google Chrome is a web browser developed by Google for accessing websites on the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_008",
+      "text": "What is the full meaning of RAM in computer hardware?",
+      "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Module", "Random Allocation Memory"],
+      "correct_index": 0,
+      "explanation": "RAM stands for Random Access Memory, which is temporary memory used by computers to store data currently in use.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_009",
+      "text": "Which of the following is an example of an operating system?",
+      "options": ["Microsoft Office", "Windows 11", "Google Chrome", "Adobe Reader"],
+      "correct_index": 1,
+      "explanation": "Windows 11 is an operating system developed by Microsoft that manages computer hardware and software resources.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_010",
+      "text": "What is interlibrary loan?",
+      "options": [
+        "Buying books from another library",
+        "A service that allows users to borrow materials from other libraries",
+        "Selling library materials",
+        "Donating books to another library"
+      ],
+      "correct_index": 1,
+      "explanation": "Interlibrary loan is a service that allows users to borrow materials that are not available in their own library from other libraries.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_011",
+      "text": "How many main classes are there in the Dewey Decimal Classification system?",
+      "options": ["5", "10", "20", "100"],
+      "correct_index": 1,
+      "explanation": "The Dewey Decimal Classification system has 10 main classes numbered from 000 to 999.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_012",
+      "text": "Which class of DDC covers social sciences?",
+      "options": ["300", "500", "700", "900"],
+      "correct_index": 0,
+      "explanation": "The 300 class of the Dewey Decimal Classification system covers social sciences.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_013",
+      "text": "What is a database?",
+      "options": [
+        "A type of computer virus",
+        "An organized collection of structured data",
+        "A word processing software",
+        "A type of printer"
+      ],
+      "correct_index": 1,
+      "explanation": "A database is an organized collection of structured information or data, typically stored electronically.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_014",
+      "text": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Utility", "Core Processing Unit"],
+      "correct_index": 0,
+      "explanation": "CPU stands for Central Processing Unit, which is the primary component that processes instructions in a computer.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_015",
+      "text": "Which of the following is an input device?",
+      "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+      "correct_index": 2,
+      "explanation": "A keyboard is an input device used to enter data and commands into a computer.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_016",
+      "text": "What is the primary function of a library reference service?",
+      "options": [
+        "To lend books for home use",
+        "To assist users in finding information and materials",
+        "To catalog new books",
+        "To repair damaged books"
+      ],
+      "correct_index": 1,
+      "explanation": "Reference services help users find information, locate materials, and use library resources effectively.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_017",
+      "text": "Which of the following is NOT an output device?",
+      "options": ["Monitor", "Printer", "Mouse", "Speaker"],
+      "correct_index": 2,
+      "explanation": "A mouse is an input device, not an output device. Monitors, printers, and speakers are all output devices.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_018",
+      "text": "What is plagiarism?",
+      "options": [
+        "Properly citing sources",
+        "Using someone else's work without proper acknowledgment",
+        "Sharing your own work online",
+        "Using the library database"
+      ],
+      "correct_index": 1,
+      "explanation": "Plagiarism is the act of using someone else's work, ideas, or words without giving proper credit or acknowledgment.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_019",
+      "text": "What does WWW stand for?",
+      "options": ["World Wide Web", "Wide World Web", "Web World Wide", "World Web Wide"],
+      "correct_index": 0,
+      "explanation": "WWW stands for World Wide Web, which is an information system of interlinked hypertext documents on the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_020",
+      "text": "Which of the following is a search engine?",
+      "options": ["Microsoft Word", "Google Search", "Adobe Acrobat", "Notepad"],
+      "correct_index": 1,
+      "explanation": "Google Search is a search engine used to find information on the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_021",
+      "text": "What is a special library?",
+      "options": [
+        "A library in a special building",
+        "A library that serves a specific organization or specialized clientele",
+        "A library with special books",
+        "A library open on special days"
+      ],
+      "correct_index": 1,
+      "explanation": "A special library serves a specific organization, institution, or specialized group of users with focused collections.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_022",
+      "text": "Which of the following is a cloud storage service?",
+      "options": ["Microsoft Word", "Google Drive", "Adobe Photoshop", "Notepad"],
+      "correct_index": 1,
+      "explanation": "Google Drive is a cloud storage service that allows users to store and access files online.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_023",
+      "text": "What is the full form of LAN?",
+      "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Limited Area Network"],
+      "correct_index": 0,
+      "explanation": "LAN stands for Local Area Network, which connects computers within a limited geographic area like a building.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_024",
+      "text": "What is the primary use of a spreadsheet application?",
+      "options": [
+        "Writing letters",
+        "Creating presentations",
+        "Performing calculations and organizing data",
+        "Editing photos"
+      ],
+      "correct_index": 2,
+      "explanation": "Spreadsheet applications like Microsoft Excel are primarily used for performing calculations, organizing data, and creating charts.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_025",
+      "text": "What is the process of arranging library materials according to a systematic plan called?",
+      "options": ["Cataloguing", "Classification", "Circulation", "Weeding"],
+      "correct_index": 1,
+      "explanation": "Classification is the process of arranging library materials systematically according to subject or other characteristics.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_026",
+      "text": "Which of the following is a social media platform?",
+      "options": ["Microsoft Excel", "Facebook", "Adobe Illustrator", "Google Sheets"],
+      "correct_index": 1,
+      "explanation": "Facebook is a popular social media platform used for connecting with others and sharing content.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_027",
+      "text": "What does USB stand for?",
+      "options": ["Universal Serial Bus", "Unified System Bus", "Universal System Bridge", "Unified Serial Bridge"],
+      "correct_index": 0,
+      "explanation": "USB stands for Universal Serial Bus, which is a common interface for connecting devices to computers.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_028",
+      "text": "What is the purpose of a bookmark in a web browser?",
+      "options": [
+        "To block websites",
+        "To save a website address for quick access later",
+        "To download files",
+        "To print web pages"
+      ],
+      "correct_index": 1,
+      "explanation": "Bookmarks allow users to save website addresses for quick and easy access in the future.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_029",
+      "text": "Which of the following is NOT a component of a computer?",
+      "options": ["Monitor", "CPU", "Book", "Keyboard"],
+      "correct_index": 2,
+      "explanation": "A book is not a computer component. Monitor, CPU, and Keyboard are all essential computer components.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_030",
+      "text": "What is the function of a library card?",
+      "options": [
+        "To decorate the library",
+        "To identify registered library users and enable borrowing",
+        "To count library visitors",
+        "To display library rules"
+      ],
+      "correct_index": 1,
+      "explanation": "A library card identifies registered users and authorizes them to borrow materials from the library.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_031",
+      "text": "What does email stand for?",
+      "options": ["Electronic Mail", "Easy Mail", "Express Mail", "Extended Mail"],
+      "correct_index": 0,
+      "explanation": "Email stands for Electronic Mail, which is a method of exchanging messages digitally over the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_032",
+      "text": "Which type of library is established and maintained by the government of a country?",
+      "options": ["Academic library", "Public library", "National library", "School library"],
+      "correct_index": 2,
+      "explanation": "A national library is established and maintained by the government to serve as the country's main reference library.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_033",
+      "text": "What is a floppy disk?",
+      "options": [
+        "A type of monitor",
+        "A portable magnetic storage device",
+        "A type of printer",
+        "A software program"
+      ],
+      "correct_index": 1,
+      "explanation": "A floppy disk is a portable magnetic storage device that was commonly used for data storage and transfer.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_034",
+      "text": "What is the meaning of the term 'Cyber'?",
+      "options": [
+        "Related to electricity",
+        "Related to computers and the internet",
+        "Related to biology",
+        "Related to chemistry"
+      ],
+      "correct_index": 1,
+      "explanation": "The term 'Cyber' relates to computers, information technology, and the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_035",
+      "text": "Which of the following is an example of an e-resource?",
+      "options": ["Printed textbook", "Online journal", "Physical newspaper", "Paper notebook"],
+      "correct_index": 1,
+      "explanation": "An online journal is an electronic resource (e-resource) accessible through digital means.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_036",
+      "text": "What is the main function of an operating system?",
+      "options": [
+        "To create documents",
+        "To manage computer hardware and software resources",
+        "To browse the internet",
+        "To play games"
+      ],
+      "correct_index": 1,
+      "explanation": "An operating system manages computer hardware and software resources and provides common services for programs.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_037",
+      "text": "What does HDD stand for in computer hardware?",
+      "options": ["Hard Disk Drive", "High Density Disk", "Heavy Duty Drive", "Hardware Disk Device"],
+      "correct_index": 0,
+      "explanation": "HDD stands for Hard Disk Drive, which is a storage device that uses magnetic storage to store data.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_038",
+      "text": "Which of the following is used to protect computers from viruses?",
+      "options": ["Word processor", "Antivirus software", "Spreadsheet", "Web browser"],
+      "correct_index": 1,
+      "explanation": "Antivirus software is designed to detect, prevent, and remove computer viruses and other malware.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_039",
+      "text": "What is the purpose of a library's periodical section?",
+      "options": [
+        "To store only books",
+        "To house serial publications like journals, magazines, and newspapers",
+        "To sell library materials",
+        "To provide seating for users"
+      ],
+      "correct_index": 1,
+      "explanation": "The periodical section of a library houses serial publications including journals, magazines, newspapers, and other periodicals.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_040",
+      "text": "What does IP address stand for?",
+      "options": ["Internet Protocol address", "Internal Processing address", "Information Port address", "Integrated Program address"],
+      "correct_index": 0,
+      "explanation": "IP address stands for Internet Protocol address, which is a unique identifier for devices on a network.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_041",
+      "text": "What is the DDC class number for Natural Sciences and Mathematics?",
+      "options": ["100", "300", "500", "700"],
+      "correct_index": 2,
+      "explanation": "The 500 class of the Dewey Decimal Classification covers Natural Sciences and Mathematics.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_042",
+      "text": "Who is known as the father of Library Science in India?",
+      "options": ["Melvil Dewey", "S.R. Ranganathan", "Charles Cutter", "Henry Bliss"],
+      "correct_index": 1,
+      "explanation": "S.R. Ranganathan is known as the father of Library Science in India for his contributions to the field.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_043",
+      "text": "What is the primary purpose of cataloguing in a library?",
+      "options": [
+        "To make the library look organized",
+        "To provide systematic access to library materials",
+        "To count the number of books",
+        "To display books on shelves"
+      ],
+      "correct_index": 1,
+      "explanation": "Cataloguing provides a systematic method for organizing and accessing library materials by creating descriptive records.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_044",
+      "text": "What is MARC in library science?",
+      "options": [
+        "Machine Readable Cataloguing",
+        "Manual Record and Cataloguing",
+        "Master Archive and Retrieval Collection",
+        "Modern Archive and Record Control"
+      ],
+      "correct_index": 0,
+      "explanation": "MARC stands for Machine Readable Cataloguing, which is a standard format for encoding bibliographic information.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_045",
+      "text": "What is an abstract in academic research?",
+      "options": [
+        "The full text of a research paper",
+        "A brief summary of a research article, thesis, or report",
+        "The bibliography of a paper",
+        "The introduction of a book"
+      ],
+      "correct_index": 1,
+      "explanation": "An abstract is a brief summary that provides an overview of the content and purpose of a research work.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_046",
+      "text": "What does WAN stand for in networking?",
+      "options": ["Wide Area Network", "Wireless Access Node", "Wide Access Network", "Wireless Area Network"],
+      "correct_index": 0,
+      "explanation": "WAN stands for Wide Area Network, which covers a large geographic area and connects multiple networks.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_047",
+      "text": "Which of the following is a reference management tool?",
+      "options": ["Microsoft PowerPoint", "Zotero", "Adobe Premiere", "AutoCAD"],
+      "correct_index": 1,
+      "explanation": "Zotero is a free, open-source reference management tool used to collect, organize, and cite research sources.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_048",
+      "text": "What is the function of a modem?",
+      "options": [
+        "To print documents",
+        "To modulate and demodulate signals for internet connectivity",
+        "To store data",
+        "To display images"
+      ],
+      "correct_index": 1,
+      "explanation": "A modem modulates and demodulates signals to enable computers to connect to the internet through telephone or cable lines.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_049",
+      "text": "What is the primary use of Boolean operators in database searches?",
+      "options": [
+        "To format documents",
+        "To combine or refine search terms",
+        "To create presentations",
+        "To manage files"
+      ],
+      "correct_index": 1,
+      "explanation": "Boolean operators (AND, OR, NOT) are used to combine or refine search terms to improve search results in databases.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_050",
+      "text": "What is an ISBN?",
+      "options": [
+        "International Standard Book Number",
+        "Internal Standard Book Notation",
+        "Indexed Standard Bibliography Number",
+        "International Society of Book Numbers"
+      ],
+      "correct_index": 0,
+      "explanation": "ISBN stands for International Standard Book Number, which is a unique identifier assigned to each published book.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_051",
+      "text": "What is the purpose of weeding in library management?",
+      "options": [
+        "To add new books",
+        "To remove outdated or damaged materials from the collection",
+        "To organize shelves",
+        "To train library staff"
+      ],
+      "correct_index": 1,
+      "explanation": "Weeding is the process of removing outdated, damaged, or irrelevant materials from a library's collection.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_052",
+      "text": "What is the role of the National Library of Nigeria?",
+      "options": [
+        "To sell books to the public",
+        "To serve as the country's legal deposit and reference library",
+        "To teach in schools",
+        "To manufacture books"
+      ],
+      "correct_index": 1,
+      "explanation": "The National Library of Nigeria serves as the country's legal deposit library and main reference center for bibliographic information.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_053",
+      "text": "What does VPN stand for?",
+      "options": ["Virtual Private Network", "Very Private Network", "Virtual Public Network", "Verified Private Network"],
+      "correct_index": 0,
+      "explanation": "VPN stands for Virtual Private Network, which creates a secure connection over the internet for private communication.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_054",
+      "text": "What is the primary purpose of an OPAC?",
+      "options": [
+        "To print library cards",
+        "Online Public Access Catalogue for searching library collections",
+        "To monitor library security",
+        "To manage library finances"
+      ],
+      "correct_index": 1,
+      "explanation": "OPAC (Online Public Access Catalogue) allows users to search and locate materials in a library's collection online.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_055",
+      "text": "Which of the following is a characteristic of a good research question?",
+      "options": [
+        "It is too broad to answer",
+        "It is specific, clear, and researchable",
+        "It can only be answered with yes or no",
+        "It requires no research"
+      ],
+      "correct_index": 1,
+      "explanation": "A good research question should be specific, clear, focused, and researchable within the scope of the study.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_056",
+      "text": "What is a firewall in cybersecurity?",
+      "options": [
+        "A physical barrier around computers",
+        "A network security system that monitors and controls incoming and outgoing traffic",
+        "A type of computer virus",
+        "A backup storage device"
+      ],
+      "correct_index": 1,
+      "explanation": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on security rules.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_057",
+      "text": "What is the difference between a primary and secondary source?",
+      "options": [
+        "Primary sources are always online, secondary are printed",
+        "Primary sources are original materials, secondary sources analyze or interpret them",
+        "There is no difference",
+        "Secondary sources are always more reliable"
+      ],
+      "correct_index": 1,
+      "explanation": "Primary sources are original materials (documents, data, artifacts), while secondary sources analyze, interpret, or comment on primary sources.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_058",
+      "text": "What is the full meaning of USB in computing?",
+      "options": ["Universal Serial Bus", "Unified System Bus", "Universal Storage Bridge", "United Serial Bond"],
+      "correct_index": 0,
+      "explanation": "USB stands for Universal Serial Bus, a standard interface for connecting peripherals to computers.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_059",
+      "text": "What is phishing in cybersecurity?",
+      "options": [
+        "A method of catching fish using computers",
+        "A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity",
+        "A type of computer program",
+        "A network connection method"
+      ],
+      "correct_index": 1,
+      "explanation": "Phishing is a cybercrime where attackers impersonate legitimate organizations to trick people into revealing personal information.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_060",
+      "text": "What is the main advantage of e-resources over print resources?",
+      "options": [
+        "They are always free",
+        "They can be accessed from anywhere with internet connection",
+        "They never expire",
+        "They are more colorful"
+      ],
+      "correct_index": 1,
+      "explanation": "E-resources can be accessed remotely from anywhere with an internet connection, providing greater accessibility.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_061",
+      "text": "What is the function of a UPS in a computer system?",
+      "options": [
+        "To increase internet speed",
+        "To provide temporary power during outages",
+        "To store data permanently",
+        "To cool the computer"
+      ],
+      "correct_index": 1,
+      "explanation": "UPS (Uninterruptible Power Supply) provides temporary power to computers during power outages to prevent data loss.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_062",
+      "text": "What does OCR stand for in ICT?",
+      "options": ["Optical Character Recognition", "Online Computer Reading", "Optical Code Reader", "Open Character Recognition"],
+      "correct_index": 0,
+      "explanation": "OCR stands for Optical Character Recognition, which converts different types of documents into editable data.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_063",
+      "text": "What is the purpose of a thesis statement in academic writing?",
+      "options": [
+        "To list references",
+        "To present the main argument or claim of the paper",
+        "To provide background information",
+        "To acknowledge contributors"
+      ],
+      "correct_index": 1,
+      "explanation": "A thesis statement presents the main argument, claim, or position that the paper will support throughout.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_064",
+      "text": "What is an ISSN?",
+      "options": [
+        "International Standard Serial Number",
+        "Internal Standard Serial Notation",
+        "Indexed Standard Serial Number",
+        "International Society of Serial Numbers"
+      ],
+      "correct_index": 0,
+      "explanation": "ISSN stands for International Standard Serial Number, which is a unique identifier for serial publications like journals.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_065",
+      "text": "What is the main purpose of information literacy?",
+      "options": [
+        "To memorize facts",
+        "To effectively find, evaluate, and use information",
+        "To use social media",
+        "To play computer games"
+      ],
+      "correct_index": 1,
+      "explanation": "Information literacy is the ability to recognize when information is needed and to find, evaluate, and use it effectively.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_066",
+      "text": "What is the primary function of a library's circulation department?",
+      "options": [
+        "To catalog books",
+        "To manage the borrowing and returning of library materials",
+        "To repair damaged books",
+        "To train new staff"
+      ],
+      "correct_index": 1,
+      "explanation": "The circulation department handles the lending, returning, and tracking of library materials.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_067",
+      "text": "What is cloud computing?",
+      "options": [
+        "Computing done outdoors",
+        "Delivery of computing services over the internet",
+        "Using clouds to store data",
+        "A type of weather forecasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Cloud computing is the delivery of computing services (servers, storage, databases, networking) over the internet.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_068",
+      "text": "What is the full form of PDF?",
+      "options": ["Portable Document Format", "Printed Document File", "Personal Data File", "Public Document Format"],
+      "correct_index": 0,
+      "explanation": "PDF stands for Portable Document Format, a file format that preserves the formatting of documents.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_069",
+      "text": "What is the purpose of a literature review in research?",
+      "options": [
+        "To copy other researchers' work",
+        "To summarize and evaluate existing research on a topic",
+        "To create a bibliography",
+        "To conduct experiments"
+      ],
+      "correct_index": 1,
+      "explanation": "A literature review summarizes, evaluates, and synthesizes existing research to provide context for new research.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_070",
+      "text": "What is the primary function of a printer?",
+      "options": [
+        "To scan documents",
+        "To produce hard copies of digital documents",
+        "To send emails",
+        "To browse the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "A printer produces hard copies (printed versions) of digital documents and images.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_071",
+      "text": "What is S.R. Ranganathan's Five Laws of Library Science?",
+      "options": [
+        "Rules for disciplining library users",
+        "Principles guiding library services and management",
+        "Guidelines for book classification",
+        "Methods for library construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Ranganathan's Five Laws are fundamental principles that guide library services, including 'Books are for use' and 'Every reader his/her book.'",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_072",
+      "text": "What is a DOI in academic referencing?",
+      "options": [
+        "Digital Object Identifier",
+        "Document Online Index",
+        "Data Operating Interface",
+        "Direct Online Information"
+      ],
+      "correct_index": 0,
+      "explanation": "DOI stands for Digital Object Identifier, a unique alphanumeric string that identifies content and provides a persistent link to its location.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_073",
+      "text": "What is the difference between RAM and ROM?",
+      "options": [
+        "RAM is permanent, ROM is temporary",
+        "RAM is temporary, ROM is permanent",
+        "Both are permanent",
+        "Both are temporary"
+      ],
+      "correct_index": 1,
+      "explanation": "RAM (Random Access Memory) is volatile/temporary, while ROM (Read Only Memory) is non-volatile/permanent.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_074",
+      "text": "What is the primary purpose of a barcode in library management?",
+      "options": [
+        "To make books look modern",
+        "To automate the tracking and management of library materials",
+        "To decorate library cards",
+        "To count pages in a book"
+      ],
+      "correct_index": 1,
+      "explanation": "Barcodes automate the tracking, circulation, and management of library materials through scanning.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_075",
+      "text": "What is the main function of a search engine?",
+      "options": [
+        "To create websites",
+        "To search for and retrieve information from the internet",
+        "To send emails",
+        "To store files"
+      ],
+      "correct_index": 1,
+      "explanation": "A search engine searches the internet for information matching user queries and returns relevant results.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_076",
+      "text": "What is intellectual property?",
+      "options": [
+        "Physical property owned by a person",
+        "Creations of the mind protected by law",
+        "Government property",
+        "Library property"
+      ],
+      "correct_index": 1,
+      "explanation": "Intellectual property refers to creations of the mind (inventions, literary works, designs) that are protected by law.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_077",
+      "text": "What is the primary use of Microsoft PowerPoint?",
+      "options": [
+        "Writing reports",
+        "Creating and delivering presentations",
+        "Managing databases",
+        "Editing videos"
+      ],
+      "correct_index": 1,
+      "explanation": "Microsoft PowerPoint is primarily used for creating and delivering slide-based presentations.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_078",
+      "text": "What is a peripheral device in computing?",
+      "options": [
+        "A device inside the computer tower",
+        "An external device connected to the computer",
+        "The computer's operating system",
+        "A type of software"
+      ],
+      "correct_index": 1,
+      "explanation": "Peripheral devices are external hardware devices connected to the computer, such as keyboards, mice, and printers.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_079",
+      "text": "What is the primary purpose of a library's acquisition department?",
+      "options": [
+        "To lend books",
+        "To select and acquire materials for the library collection",
+        "To repair books",
+        "To manage library finances"
+      ],
+      "correct_index": 1,
+      "explanation": "The acquisition department is responsible for selecting and purchasing materials to build and maintain the library's collection.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_080",
+      "text": "What is malware?",
+      "options": [
+        "A type of computer hardware",
+        "Malicious software designed to damage or gain unauthorized access",
+        "A legitimate software program",
+        "A type of computer network"
+      ],
+      "correct_index": 1,
+      "explanation": "Malware is malicious software designed to harm, exploit, or compromise computer systems and data.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_081",
+      "text": "What is the DDC class number for Philosophy and Psychology?",
+      "options": ["000", "100", "200", "400"],
+      "correct_index": 1,
+      "explanation": "The 100 class of the Dewey Decimal Classification covers Philosophy and Psychology.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_082",
+      "text": "What is an abstracting and indexing service?",
+      "options": [
+        "A service that sells books",
+        "A service that provides summaries and access points to journal articles",
+        "A library classification system",
+        "A type of computer program"
+      ],
+      "correct_index": 1,
+      "explanation": "Abstracting and indexing services provide summaries (abstracts) and access points (indexes) to journal articles and other publications.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_083",
+      "text": "What is the primary benefit of using a citation manager?",
+      "options": [
+        "To write better essays",
+        "To organize references and generate citations automatically",
+        "To access the internet",
+        "To create graphics"
+      ],
+      "correct_index": 1,
+      "explanation": "Citation managers help organize research references and automatically generate citations and bibliographies in various formats.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_084",
+      "text": "What is a library's stacks area?",
+      "options": [
+        "The circulation desk",
+        "The area where books are arranged on shelves for browsing",
+        "The computer lab",
+        "The reference section"
+      ],
+      "correct_index": 1,
+      "explanation": "The stacks are the shelving areas where the main collection of books and materials are arranged for users to browse.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_085",
+      "text": "What does the term 'digital divide' refer to?",
+      "options": [
+        "The division between online and offline content",
+        "The gap between those with and without access to technology",
+        "The separation of digital files",
+        "The difference between hardware and software"
+      ],
+      "correct_index": 1,
+      "explanation": "The digital divide refers to the gap between individuals, communities, or countries that have access to modern technology and those that don't.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_086",
+      "text": "What is the primary purpose of a library orientation program?",
+      "options": [
+        "To test students",
+        "To familiarize users with library resources and services",
+        "To sell library cards",
+        "To train library staff only"
+      ],
+      "correct_index": 1,
+      "explanation": "Library orientation programs introduce users to the library's layout, resources, services, and how to use them effectively.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_087",
+      "text": "What is the purpose of the 'Save As' function in a word processor?",
+      "options": [
+        "To delete a document",
+        "To save a document with a new name or in a different location",
+        "To print a document",
+        "To format text"
+      ],
+      "correct_index": 1,
+      "explanation": "The 'Save As' function allows users to save a document with a different name, format, or location.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_088",
+      "text": "What is a proxy server?",
+      "options": [
+        "A backup server",
+        "An intermediary server that acts between users and the internet",
+        "A printer server",
+        "A database server"
+      ],
+      "correct_index": 1,
+      "explanation": "A proxy server acts as an intermediary between users and the internet, providing security, caching, and access control.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_089",
+      "text": "What is the meaning of 'open access' in scholarly publishing?",
+      "options": [
+        "Journals that are free to publish in",
+        "Research articles freely available to read without subscription barriers",
+        "Libraries that are open 24 hours",
+        "Journals with no peer review"
+      ],
+      "correct_index": 1,
+      "explanation": "Open access means scholarly research articles are freely available online for anyone to read without subscription or payment barriers.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_090",
+      "text": "What is a turnstile in library security?",
+      "options": [
+        "A type of bookshelf",
+        "A controlled entry/exit point that monitors library access",
+        "A computer terminal",
+        "A printing machine"
+      ],
+      "correct_index": 1,
+      "explanation": "A turnstile is a controlled entry/exit point used in libraries to monitor and manage user access to the facility.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_091",
+      "text": "Who developed the Universal Decimal Classification (UDC) system?",
+      "options": [
+        "Melvil Dewey",
+        "Paul Otlet and Henri La Fontaine",
+        "S.R. Ranganathan",
+        "Charles Cutter"
+      ],
+      "correct_index": 1,
+      "explanation": "Paul Otlet and Henri La Fontaine developed the Universal Decimal Classification system as an extension of the DDC.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_092",
+      "text": "What is the difference between Boolean and proximity operators in database searching?",
+      "options": [
+        "They are exactly the same",
+        "Boolean uses AND/OR/NOT; proximity specifies the distance between terms",
+        "Proximity is only used in print indexes",
+        "Boolean operators are outdated"
+      ],
+      "correct_index": 1,
+      "explanation": "Boolean operators combine search terms logically, while proximity operators specify how close search terms should be to each other.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_093",
+      "text": "What is the FRBR model in library cataloguing?",
+      "options": [
+        "A book classification system",
+        "A conceptual entity-relationship model for bibliographic data",
+        "A library building design standard",
+        "A staff management system"
+      ],
+      "correct_index": 1,
+      "explanation": "FRBR (Functional Requirements for Bibliographic Records) is a conceptual model that defines entities, relationships, and attributes in bibliographic data.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_094",
+      "text": "What is the significance of RDA in cataloguing?",
+      "options": [
+        "It is a type of book",
+        "Resource Description and Access - a new cataloguing standard replacing AACR2",
+        "A library automation system",
+        "A classification scheme"
+      ],
+      "correct_index": 1,
+      "explanation": "RDA (Resource Description and Access) is a cataloguing standard that replaced AACR2, designed for the digital environment.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_095",
+      "text": "What is the purpose of a library's collection development policy?",
+      "options": [
+        "To restrict access to materials",
+        "To provide guidelines for building and maintaining the library collection",
+        "To set library opening hours",
+        "To determine staff salaries"
+      ],
+      "correct_index": 1,
+      "explanation": "A collection development policy provides guidelines for selecting, acquiring, and deselecting materials to meet user needs.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_096",
+      "text": "What is the concept of 'information commons' in academic libraries?",
+      "options": [
+        "A storage room for old books",
+        "A collaborative space integrating technology, services, and resources",
+        "A database system",
+        "A book classification method"
+      ],
+      "correct_index": 1,
+      "explanation": "An information commons is a collaborative learning environment that integrates technology, services, and resources in one location.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_097",
+      "text": "What is the role of CIP (Cataloguing in Publication) data?",
+      "options": [
+        "To price books",
+        "To provide cataloguing information printed in a book before publication",
+        "To track book sales",
+        "To manage library budgets"
+      ],
+      "correct_index": 1,
+      "explanation": "CIP data provides standardized cataloguing information printed in a book, typically on the copyright page, to aid library cataloguing.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_098",
+      "text": "What is the difference between a bibliographic database and a full-text database?",
+      "options": [
+        "They are identical",
+        "Bibliographic databases provide citations; full-text databases provide complete articles",
+        "Full-text databases are always free",
+        "Bibliographic databases contain images only"
+      ],
+      "correct_index": 1,
+      "explanation": "Bibliographic databases provide citations and abstracts, while full-text databases provide the complete text of articles.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_099",
+      "text": "What is the significance of the Copyright Act in Nigerian libraries?",
+      "options": [
+        "It prevents all copying of materials",
+        "It defines the rights of creators and limitations for fair use in libraries",
+        "It only applies to digital materials",
+        "It has no relevance to libraries"
+      ],
+      "correct_index": 1,
+      "explanation": "The Copyright Act defines intellectual property rights and includes provisions for fair use/exceptions that apply to library activities.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_100",
+      "text": "What is the Z39.50 protocol used for in libraries?",
+      "options": [
+        "Email communication",
+        "Standardized information retrieval between library systems",
+        "Book printing",
+        "Library building security"
+      ],
+      "correct_index": 1,
+      "explanation": "Z39.50 is a standard protocol that allows different library systems to search and retrieve bibliographic information across databases.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_101",
+      "text": "What is the Dublin Core metadata standard?",
+      "options": [
+        "A library classification system",
+        "A set of metadata elements for describing digital resources",
+        "A type of computer hardware",
+        "A search engine algorithm"
+      ],
+      "correct_index": 1,
+      "explanation": "Dublin Core is a metadata standard that provides a simple set of elements for describing digital and physical resources.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_102",
+      "text": "What is the primary purpose of a union catalogue?",
+      "options": [
+        "To catalog books for one library",
+        "To provide a combined catalogue of materials across multiple libraries",
+        "To manage library staff",
+        "To track overdue books"
+      ],
+      "correct_index": 1,
+      "explanation": "A union catalogue is a combined catalogue that lists the holdings of multiple libraries, facilitating resource sharing.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_103",
+      "text": "What is the concept of 'bibliographic instruction' in libraries?",
+      "options": [
+        "Training staff to shelve books",
+        "Teaching users how to effectively use library resources and search strategies",
+        "Cataloguing books",
+        "Repairing damaged materials"
+      ],
+      "correct_index": 1,
+      "explanation": "Bibliographic instruction teaches users how to effectively use library resources, databases, and search strategies for research.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_104",
+      "text": "What is the difference between LAN and WAN?",
+      "options": [
+        "LAN covers small areas; WAN covers large geographic areas",
+        "LAN is wireless; WAN is wired",
+        "There is no difference",
+        "WAN is faster than LAN always"
+      ],
+      "correct_index": 0,
+      "explanation": "LAN (Local Area Network) connects devices in a limited area, while WAN (Wide Area Network) spans large geographic areas.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_105",
+      "text": "What is the primary use of a spreadsheet's VLOOKUP function?",
+      "options": [
+        "To create charts",
+        "To search for a value in the first column and return a value in the same row",
+        "To sort data",
+        "To print spreadsheets"
+      ],
+      "correct_index": 1,
+      "explanation": "VLOOKUP searches for a value in the first column of a table and returns the corresponding value from another column in the same row.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_106",
+      "text": "What is a library's mission statement?",
+      "options": [
+        "A list of library rules",
+        "A brief declaration of the library's purpose and goals",
+        "A book catalog",
+        "A staff schedule"
+      ],
+      "correct_index": 1,
+      "explanation": "A library's mission statement declares its core purpose, values, and goals to guide its services and operations.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_107",
+      "text": "What is the purpose of a 'hit' in internet searching?",
+      "options": [
+        "To block a website",
+        "A single result returned by a search engine for a query",
+        "To download a file",
+        "To close a browser"
+      ],
+      "correct_index": 1,
+      "explanation": "A 'hit' is a single result returned by a search engine when a user performs a search query.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_108",
+      "text": "What is the role of the Nigerian Library Association (NLA)?",
+      "options": [
+        "To sell books",
+        "To promote and develop library and information services in Nigeria",
+        "To import foreign books",
+        "To manage university admissions"
+      ],
+      "correct_index": 1,
+      "explanation": "The Nigerian Library Association promotes and develops library and information services, and represents professionals in the field.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_109",
+      "text": "What is the full meaning of CSS in web technology?",
+      "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style System", "Coded Style Syntax"],
+      "correct_index": 0,
+      "explanation": "CSS stands for Cascading Style Sheets, which is used to style and layout web pages.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_110",
+      "text": "What is the primary purpose of a library user education program?",
+      "options": [
+        "To test students on library rules",
+        "To develop users' skills in finding and using information effectively",
+        "To recruit new library staff",
+        "To promote library events only"
+      ],
+      "correct_index": 1,
+      "explanation": "Library user education develops users' ability to independently find, evaluate, and use information resources effectively.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_111",
+      "text": "What is a library's OPAC?",
+      "options": [
+        "A security system",
+        "Online Public Access Catalogue for searching library holdings",
+        "A printing service",
+        "A book delivery service"
+      ],
+      "correct_index": 1,
+      "explanation": "OPAC (Online Public Access Catalogue) is an online database through which library users can search for materials in the collection.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_112",
+      "text": "What is the difference between a blog and a website?",
+      "options": [
+        "They are exactly the same",
+        "A blog is regularly updated with posts in reverse chronological order; a website is more static",
+        "A website is always free",
+        "A blog cannot have images"
+      ],
+      "correct_index": 1,
+      "explanation": "Blogs are typically regularly updated with posts displayed in reverse chronological order, while websites tend to be more static.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_113",
+      "text": "What is the full form of HTML?",
+      "options": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "HyperTransfer Markup Language"],
+      "correct_index": 0,
+      "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_114",
+      "text": "What is the primary function of a library's technical services department?",
+      "options": [
+        "Lending books to users",
+        "Processing, cataloguing, and classifying materials for the collection",
+        "Providing reference assistance",
+        "Managing library events"
+      ],
+      "correct_index": 1,
+      "explanation": "Technical services handle the processing, cataloguing, and classification of materials before they are made available to users.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_115",
+      "text": "What is the purpose of 'cookies' in web browsing?",
+      "options": [
+        "To delete browser history",
+        "To store small pieces of data about user preferences and activity",
+        "To speed up internet connection",
+        "To block websites"
+      ],
+      "correct_index": 1,
+      "explanation": "Cookies are small data files stored by websites to remember user preferences, login information, and browsing activity.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_116",
+      "text": "What is the main difference between HTTP and HTTPS?",
+      "options": [
+        "There is no difference",
+        "HTTPS is secure with encryption; HTTP is not encrypted",
+        "HTTP is faster",
+        "HTTPS only works on mobile devices"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTPS uses SSL/TLS encryption to secure data transmitted between the browser and server, while HTTP transmits data in plain text.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_117",
+      "text": "What is a library's serials department responsible for?",
+      "options": [
+        "Managing book donations",
+        "Acquiring, processing, and managing periodicals and serial publications",
+        "Repairing damaged books",
+        "Training new staff"
+      ],
+      "correct_index": 1,
+      "explanation": "The serials department handles the acquisition, processing, shelving, and management of periodicals and serial publications.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_118",
+      "text": "What is the purpose of a cursor in computing?",
+      "options": [
+        "To type text",
+        "To indicate the position on the screen where input will appear",
+        "To print documents",
+        "To connect to the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "A cursor is a visual indicator on the screen that shows where text input or other actions will occur.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_119",
+      "text": "What is the meaning of 'peer review' in academic publishing?",
+      "options": [
+        "Review by library staff",
+        "Evaluation by experts in the same field before publication",
+        "Review by students",
+        "Automatic computer review"
+      ],
+      "correct_index": 1,
+      "explanation": "Peer review is a process where experts in the same field evaluate research before it is published to ensure quality and validity.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_120",
+      "text": "What is the primary use of a scanner?",
+      "options": [
+        "To print documents",
+        "To convert physical documents into digital format",
+        "To browse the internet",
+        "To send emails"
+      ],
+      "correct_index": 1,
+      "explanation": "A scanner converts physical documents, images, or objects into digital format that can be stored and edited on a computer.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_121",
+      "text": "What is the function of a library's reference collection?",
+      "options": [
+        "To provide books for loan",
+        "To provide quick access to frequently consulted materials that cannot be borrowed",
+        "To store rare books",
+        "To sell reference materials"
+      ],
+      "correct_index": 1,
+      "explanation": "The reference collection contains materials like encyclopedias and dictionaries that are kept in the library for quick consultation.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_122",
+      "text": "What is an ISP in internet terminology?",
+      "options": [
+        "Internet Security Program",
+        "Internet Service Provider",
+        "Internal System Protocol",
+        "Integrated Service Platform"
+      ],
+      "correct_index": 1,
+      "explanation": "ISP stands for Internet Service Provider, a company that provides internet access to customers.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_123",
+      "text": "What is the primary purpose of a word processor's spell check feature?",
+      "options": [
+        "To format text",
+        "To identify and correct spelling errors in text",
+        "To count words",
+        "To change font size"
+      ],
+      "correct_index": 1,
+      "explanation": "Spell check identifies and suggests corrections for spelling errors in documents.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_124",
+      "text": "What is a 'domain name' in internet terminology?",
+      "options": [
+        "The name of a computer program",
+        "The human-readable address of a website on the internet",
+        "A type of computer virus",
+        "A software application"
+      ],
+      "correct_index": 1,
+      "explanation": "A domain name is the human-readable address (e.g., www.example.com) used to access websites on the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_125",
+      "text": "What is the primary function of a library's interlibrary loan service?",
+      "options": [
+        "To sell books between libraries",
+        "To obtain materials not available in the home library from other libraries",
+        "To train library staff",
+        "To manage library finances"
+      ],
+      "correct_index": 1,
+      "explanation": "Interlibrary loan allows users to borrow materials from other libraries when their home library does not own them.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_126",
+      "text": "What is the full form of BIOS in computing?",
+      "options": ["Basic Input/Output System", "Binary Internal Operating System", "Basic Internet Operating System", "Built-In Output System"],
+      "correct_index": 0,
+      "explanation": "BIOS stands for Basic Input/Output System, firmware that initializes hardware during computer boot-up.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_127",
+      "text": "What is the purpose of a 'login' and 'password' system?",
+      "options": [
+        "To make computers faster",
+        "To authenticate users and control access to systems or resources",
+        "To store data",
+        "To connect to the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "Login and password systems authenticate users by verifying their identity before granting access to systems or resources.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_128",
+      "text": "What is the main advantage of digital libraries over traditional libraries?",
+      "options": [
+        "Digital libraries have more physical space",
+        "Digital libraries allow remote access to materials 24/7",
+        "Digital libraries only have printed books",
+        "Digital libraries do not need the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "Digital libraries provide the advantage of 24/7 remote access to materials from anywhere with an internet connection.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_129",
+      "text": "What is the purpose of an antivirus scan?",
+      "options": [
+        "To improve computer speed",
+        "To detect and remove malicious software from a computer",
+        "To update software",
+        "To back up files"
+      ],
+      "correct_index": 1,
+      "explanation": "An antivirus scan checks computer files and programs for malicious software and removes or quarantines threats.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_130",
+      "text": "What is the primary purpose of a library's special collections?",
+      "options": [
+        "To store popular fiction",
+        "To preserve rare, valuable, or unique materials",
+        "To sell rare books",
+        "To provide seating for researchers"
+      ],
+      "correct_index": 1,
+      "explanation": "Special collections preserve rare, valuable, unique, or historically significant materials that require special care.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_131",
+      "text": "What does the term 'infodemic' refer to?",
+      "options": [
+        "An epidemic of computers",
+        "An overabundance of information, including misinformation and disinformation",
+        "A new type of internet service",
+        "A computer virus"
+      ],
+      "correct_index": 1,
+      "explanation": "An infodemic refers to an excessive amount of information, including false or misleading content, that makes it hard to find reliable information.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_132",
+      "text": "What is the primary function of an API (Application Programming Interface)?",
+      "options": [
+        "To design user interfaces",
+        "To allow different software applications to communicate with each other",
+        "To store data",
+        "To browse the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "An API is a set of rules that allows different software applications to communicate and share data with each other.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_133",
+      "text": "What is the significance of the Information Freedom Act in libraries?",
+      "options": [
+        "It restricts library access",
+        "It protects intellectual freedom and the right to access information",
+        "It only applies to digital materials",
+        "It has no relevance to libraries"
+      ],
+      "correct_index": 1,
+      "explanation": "Intellectual freedom acts protect users' rights to access information without censorship, which is fundamental to library services.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_134",
+      "text": "What is the difference between LAN and WLAN?",
+      "options": [
+        "They are the same",
+        "LAN uses cables; WLAN uses wireless technology",
+        "WLAN is always faster",
+        "LAN is wireless"
+      ],
+      "correct_index": 1,
+      "explanation": "LAN (Local Area Network) typically uses wired connections, while WLAN (Wireless Local Area Network) uses wireless technology like Wi-Fi.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_135",
+      "text": "What is the primary purpose of a library's user survey?",
+      "options": [
+        "To increase library fees",
+        "To gather feedback on services and identify areas for improvement",
+        "To count books",
+        "To train staff"
+      ],
+      "correct_index": 1,
+      "explanation": "User surveys collect feedback about library services, resources, and user satisfaction to guide improvements.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_136",
+      "text": "What is the full form of FTP in internet technology?",
+      "options": ["File Transfer Protocol", "Fast Transfer Program", "File Transmission Process", "Fixed Transfer Protocol"],
+      "correct_index": 0,
+      "explanation": "FTP stands for File Transfer Protocol, which is used to transfer files between computers over a network.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_137",
+      "text": "What is the concept of 'fair use' in copyright law?",
+      "options": [
+        "Unlimited copying of any material",
+        "Limited use of copyrighted material without permission for purposes like education and research",
+        "Using copyrighted material only for commercial purposes",
+        "A requirement to always get permission"
+      ],
+      "correct_index": 1,
+      "explanation": "Fair use allows limited use of copyrighted material without permission for purposes such as education, criticism, and research.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_138",
+      "text": "What is the purpose of a library's annual report?",
+      "options": [
+        "To entertain users",
+        "To document and communicate the library's activities, achievements, and statistics",
+        "To advertise books",
+        "To set library fees"
+      ],
+      "correct_index": 1,
+      "explanation": "An annual report documents the library's activities, achievements, usage statistics, and financial information for stakeholders.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_139",
+      "text": "What is a 'homepage' in web terminology?",
+      "options": [
+        "Any page on a website",
+        "The main or starting page of a website",
+        "The last page of a website",
+        "A personal diary online"
+      ],
+      "correct_index": 1,
+      "explanation": "A homepage is the main or starting page of a website that typically serves as the entry point for visitors.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_140",
+      "text": "What is the primary function of a projector in a classroom or library?",
+      "options": [
+        "To print documents",
+        "To display computer or video content on a large screen",
+        "To record audio",
+        "To connect to the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "A projector displays computer, video, or image content on a large screen or surface for group viewing.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_141",
+      "text": "What is the full meaning of LAN in networking?",
+      "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Linear Access Network"],
+      "correct_index": 0,
+      "explanation": "LAN stands for Local Area Network, connecting computers within a limited area like a building or campus.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_142",
+      "text": "What is the difference between a filename and a file extension?",
+      "options": [
+        "They are the same",
+        "The filename identifies the file; the extension indicates the file type",
+        "The extension is longer than the filename",
+        "Filenames are only numbers"
+      ],
+      "correct_index": 1,
+      "explanation": "The filename is the name given to a file, while the extension (e.g., .docx, .pdf) indicates the file format or type.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_143",
+      "text": "What is a firewall's primary purpose?",
+      "options": [
+        "To speed up internet connection",
+        "To monitor and control incoming and outgoing network traffic for security",
+        "To store data",
+        "To create websites"
+      ],
+      "correct_index": 1,
+      "explanation": "A firewall monitors and controls network traffic based on security rules to protect against unauthorized access.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_144",
+      "text": "What is the meaning of 'metadata' in information science?",
+      "options": [
+        "Deleted files",
+        "Data that provides information about other data",
+        "Raw data",
+        "Encrypted data"
+      ],
+      "correct_index": 1,
+      "explanation": "Metadata is structured information that describes, explains, or otherwise makes it easier to retrieve and use data.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_145",
+      "text": "What is a library's virtual reference service?",
+      "options": [
+        "Reference service only for physical visits",
+        "Online reference assistance provided through digital channels",
+        "A type of book",
+        "A cataloguing system"
+      ],
+      "correct_index": 1,
+      "explanation": "Virtual reference service provides reference assistance through digital channels like email, chat, or video conferencing.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_146",
+      "text": "What is the primary purpose of data backup?",
+      "options": [
+        "To delete old files",
+        "To create copies of data to prevent loss in case of system failure",
+        "To speed up computers",
+        "To share files online"
+      ],
+      "correct_index": 1,
+      "explanation": "Data backup creates copies of important data to prevent data loss in case of hardware failure, accidents, or cyberattacks.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_147",
+      "text": "What is an 'e-book'?",
+      "options": [
+        "A book about electronics",
+        "An electronic version of a printed book that can be read on a device",
+        "A book stored in the library",
+        "A printed book with electronic components"
+      ],
+      "correct_index": 1,
+      "explanation": "An e-book is an electronic version of a printed book that can be read on computers, tablets, e-readers, or smartphones.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_148",
+      "text": "What is the difference between a computer virus and a worm?",
+      "options": [
+        "They are exactly the same",
+        "A virus needs a host file; a worm can spread independently across networks",
+        "A worm is always more dangerous",
+        "A virus only affects hardware"
+      ],
+      "correct_index": 1,
+      "explanation": "A virus requires a host file to spread, while a worm can self-replicate and spread across networks without needing a host.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_149",
+      "text": "What is the primary purpose of a library's digital repository?",
+      "options": [
+        "To store physical books",
+        "To collect, preserve, and provide access to digital versions of scholarly and institutional materials",
+        "To sell digital books",
+        "To manage library staff"
+      ],
+      "correct_index": 1,
+      "explanation": "A digital repository stores, preserves, and provides open access to digital versions of scholarly works and institutional materials.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_150",
+      "text": "What does SEO stand for in web technology?",
+      "options": ["Search Engine Optimization", "System Engineering Output", "Search Electronic Operator", "Software Enhancement Operation"],
+      "correct_index": 0,
+      "explanation": "SEO stands for Search Engine Optimization, the practice of improving website visibility in search engine results.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_151",
+      "text": "What is a library's 'shelving schedule'?",
+      "options": [
+        "The time books are purchased",
+        "A systematic plan for returning materials to their proper locations on shelves",
+        "The library's opening hours",
+        "Staff work shifts"
+      ],
+      "correct_index": 1,
+      "explanation": "A shelving schedule ensures returned materials are systematically and promptly returned to their proper locations.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_152",
+      "text": "What is the primary purpose of a spreadsheet's pivot table?",
+      "options": [
+        "To format cells",
+        "To summarize, analyze, and reorganize large datasets",
+        "To create presentations",
+        "To send emails"
+      ],
+      "correct_index": 1,
+      "explanation": "Pivot tables summarize, analyze, explore, and reorganize large amounts of data in spreadsheets.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_153",
+      "text": "What is the function of an API in cloud computing?",
+      "options": [
+        "To store data",
+        "To enable communication between cloud services and applications",
+        "To print documents",
+        "To browse the internet"
+      ],
+      "correct_index": 1,
+      "explanation": "APIs in cloud computing allow different cloud services and applications to communicate and share data.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_154",
+      "text": "What is the primary purpose of a library's weeding policy?",
+      "options": [
+        "To add new books",
+        "To establish criteria for removing outdated or unnecessary materials from the collection",
+        "To organize shelves",
+        "To train staff"
+      ],
+      "correct_index": 1,
+      "explanation": "A weeding policy establishes systematic criteria for identifying and removing outdated, damaged, or unnecessary materials.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_155",
+      "text": "What is a 'mashup' in web technology?",
+      "options": [
+        "A type of music",
+        "A web application that combines data from multiple sources into one tool",
+        "A computer virus",
+        "A type of hardware"
+      ],
+      "correct_index": 1,
+      "explanation": "A mashup is a web application that combines data or functionality from multiple sources to create a new service.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_156",
+      "text": "What is the difference between 'text files' and 'binary files'?",
+      "options": [
+        "Text files are larger",
+        "Text files contain human-readable characters; binary files contain non-text data",
+        "Binary files can only be opened with special software",
+        "There is no difference"
+      ],
+      "correct_index": 1,
+      "explanation": "Text files store data as human-readable characters, while binary files store data in binary format (images, executables, etc.).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_157",
+      "text": "What is the role of a library's board of trustees?",
+      "options": [
+        "To shelve books",
+        "To provide governance and strategic direction for the library",
+        "To catalog materials",
+        "To clean the library"
+      ],
+      "correct_index": 1,
+      "explanation": "The board of trustees provides governance, sets policies, and gives strategic direction for the library's operations.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_158",
+      "text": "What is a 'cookie' policy on websites?",
+      "options": [
+        "A recipe website",
+        "A statement explaining how a website uses cookies and how users can manage them",
+        "A type of computer program",
+        "A security feature"
+      ],
+      "correct_index": 1,
+      "explanation": "A cookie policy informs users about how the website uses cookies and provides options for managing cookie preferences.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_159",
+      "text": "What is the primary purpose of a library's programming activities?",
+      "options": [
+        "To increase library fees",
+        "To engage the community and promote reading and learning",
+        "To sell books",
+        "To train only staff"
+      ],
+      "correct_index": 1,
+      "explanation": "Library programming activities engage the community, promote literacy, and support lifelong learning through events and workshops.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_160",
+      "text": "What does the term 'Wi-Fi' stand for?",
+      "options": [
+        "Wireless Fidelity",
+        "Wide Frequency",
+        "Wireless Finder",
+        "Wide File"
+      ],
+      "correct_index": 0,
+      "explanation": "Wi-Fi stands for Wireless Fidelity, a technology for wireless local area networking.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_161",
+      "text": "What is the primary function of a word processor's 'find and replace' feature?",
+      "options": [
+        "To delete the entire document",
+        "To locate specific text and replace it with new text",
+        "To format the document",
+        "To print the document"
+      ],
+      "correct_index": 1,
+      "explanation": "Find and replace allows users to locate specific words or phrases and replace them with different text throughout a document.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_162",
+      "text": "What is the purpose of the 'Recycle Bin' in Windows?",
+      "options": [
+        "To permanently delete files",
+        "To temporarily store deleted files before permanent deletion",
+        "To organize files",
+        "To back up files"
+      ],
+      "correct_index": 1,
+      "explanation": "The Recycle Bin temporarily stores deleted files, allowing users to recover them before they are permanently deleted.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_163",
+      "text": "What is the full meaning of RAM?",
+      "options": ["Random Access Memory", "Read Access Memory", "Rapid Allocation Memory", "Random Assignment Module"],
+      "correct_index": 0,
+      "explanation": "RAM stands for Random Access Memory, volatile memory used for temporarily storing data that the CPU is currently using.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_164",
+      "text": "What is a 'trojan horse' in cybersecurity?",
+      "options": [
+        "A type of firewall",
+        "Malicious software disguised as legitimate software",
+        "A type of computer hardware",
+        "A network protocol"
+      ],
+      "correct_index": 1,
+      "explanation": "A trojan horse is malware disguised as legitimate software that, when installed, allows unauthorized access or damages the system.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_165",
+      "text": "What is the primary purpose of a library's digitization project?",
+      "options": [
+        "To remove physical books",
+        "To convert physical materials into digital formats for preservation and access",
+        "To sell digital copies",
+        "To train staff"
+      ],
+      "correct_index": 1,
+      "explanation": "Digitization projects convert physical materials into digital formats to improve preservation and provide broader access.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_166",
+      "text": "What is the meaning of ' bandwidth' in networking?",
+      "options": [
+        "The width of a computer screen",
+        "The maximum rate of data transfer across a network path",
+        "The number of computers on a network",
+        "The physical size of network cables"
+      ],
+      "correct_index": 1,
+      "explanation": "Bandwidth refers to the maximum rate of data transfer across a network path, measured in bits per second.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_167",
+      "text": "What is the primary function of a library's periodicals index?",
+      "options": [
+        "To sell magazines",
+        "To help users find articles in journals, magazines, and newspapers",
+        "To store physical periodicals",
+        "To manage library finances"
+      ],
+      "correct_index": 1,
+      "explanation": "A periodicals index helps users locate specific articles within journals, magazines, and newspapers.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_168",
+      "text": "What is a 'wiki' on the internet?",
+      "options": [
+        "A type of search engine",
+        "A website that allows collaborative editing of content by users",
+        "A type of computer virus",
+        "An email service"
+      ],
+      "correct_index": 1,
+      "explanation": "A wiki is a website that allows collaborative editing and modification of content by its users.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_169",
+      "text": "What is the role of the Association of University, Research and Industrial Libraries of Nigeria (AURIN)?",
+      "options": [
+        "To sell books",
+        "To promote cooperation and resource sharing among Nigerian academic libraries",
+        "To manage university admissions",
+        "To import foreign books"
+      ],
+      "correct_index": 1,
+      "explanation": "AURIN promotes cooperation, resource sharing, and best practices among Nigerian academic and research libraries.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_170",
+      "text": "What is the purpose of a 'citation index' in research?",
+      "options": [
+        "To count books in a library",
+        "To track how often academic papers are cited by other researchers",
+        "To store library cards",
+        "To manage library budgets"
+      ],
+      "correct_index": 1,
+      "explanation": "A citation index tracks how often academic papers are cited, helping researchers identify influential works and track research impact.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_171",
+      "text": "What is the primary purpose of a 'disaster recovery plan' in library management?",
+      "options": [
+        "To plan library events",
+        "To ensure library services and collections can be restored after a disaster",
+        "To organize book sales",
+        "To manage staff schedules"
+      ],
+      "correct_index": 1,
+      "explanation": "A disaster recovery plan outlines procedures to protect and restore library services, collections, and operations after a disaster.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_172",
+      "text": "What is the full form of DNS in internet technology?",
+      "options": ["Domain Name System", "Digital Network Service", "Data Name Server", "Direct Network Switch"],
+      "correct_index": 0,
+      "explanation": "DNS stands for Domain Name System, which translates domain names to IP addresses for internet navigation.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_173",
+      "text": "What is the primary difference between a browser and a search engine?",
+      "options": [
+        "They are the same thing",
+        "A browser displays web pages; a search engine finds web pages based on queries",
+        "A search engine is always faster",
+        "A browser can only access one website"
+      ],
+      "correct_index": 1,
+      "explanation": "A browser is software for viewing web pages, while a search engine is a service that searches the internet for information.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_174",
+      "text": "What is the primary purpose of a library's collection evaluation?",
+      "options": [
+        "To increase library staff",
+        "To assess the strengths and weaknesses of the collection to guide future development",
+        "To count books",
+        "To set library hours"
+      ],
+      "correct_index": 1,
+      "explanation": "Collection evaluation assesses the quality, relevance, and coverage of the library's collection to guide future development decisions.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_175",
+      "text": "What is a 'podcast' in digital media?",
+      "options": [
+        "A type of computer program",
+        "An audio recording available for streaming or download on the internet",
+        "A type of printer",
+        "A social media platform"
+      ],
+      "correct_index": 1,
+      "explanation": "A podcast is an audio recording, typically a series, available for streaming or download over the internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_176",
+      "text": "What is the purpose of a 'sitemap' on a website?",
+      "options": [
+        "To sell maps",
+        "To provide a structural overview of the website's pages for users and search engines",
+        "To display weather information",
+        "To show library locations"
+      ],
+      "correct_index": 1,
+      "explanation": "A sitemap provides a map of the website's structure, helping users and search engines find and navigate pages.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_177",
+      "text": "What is a 'wiki' used for in a library setting?",
+      "options": [
+        "To block websites",
+        "To create collaborative knowledge bases and share information among staff or users",
+        "To print documents",
+        "To manage library finances"
+      ],
+      "correct_index": 1,
+      "explanation": "In libraries, wikis are used to create collaborative knowledge bases and share information among staff and users.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_178",
+      "text": "What is the function of the 'undo' command in word processing?",
+      "options": [
+        "To delete a document",
+        "To reverse the last action performed",
+        "To print a document",
+        "To save a document"
+      ],
+      "correct_index": 1,
+      "explanation": "The undo command reverses the last action performed, allowing users to correct mistakes.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_179",
+      "text": "What is the meaning of 'Wi-Fi hotspot'?",
+      "options": [
+        "A hot water dispenser",
+        "A physical location where Wi-Fi access is available for devices",
+        "A type of computer virus",
+        "A printer connection point"
+      ],
+      "correct_index": 1,
+      "explanation": "A Wi-Fi hotspot is a location (like cafes, airports, libraries) where Wi-Fi internet access is available.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_180",
+      "text": "What is the primary purpose of a library's bookmark or guide service?",
+      "options": [
+        "To mark pages in books",
+        "To create and distribute guides that help users navigate library resources",
+        "To sell bookmarks",
+        "To train staff"
+      ],
+      "correct_index": 1,
+      "explanation": "Library guides or bookmarks help users navigate and make effective use of library resources and services.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_181",
+      "text": "What is a 'deep web'?",
+      "options": [
+        "The fastest part of the internet",
+        "Parts of the internet not indexed by standard search engines",
+        "The surface of the internet",
+        "A type of computer network"
+      ],
+      "correct_index": 1,
+      "explanation": "The deep web refers to parts of the internet not indexed by standard search engines, including databases and private networks.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_182",
+      "text": "What is the full meaning of PDF?",
+      "options": ["Portable Document Format", "Printed Digital File", "Public Data Format", "Personal Document File"],
+      "correct_index": 0,
+      "explanation": "PDF stands for Portable Document Format, a file format that preserves fonts, formatting, and graphics across platforms.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_183",
+      "text": "What is the primary function of a 'laptop' computer?",
+      "options": [
+        "To print documents only",
+        "To provide portable computing capability",
+        "To connect to the internet only",
+        "To play music only"
+      ],
+      "correct_index": 1,
+      "explanation": "A laptop provides portable computing capability, allowing users to work from various locations.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_184",
+      "text": "What is the primary purpose of a library's 'new arrivals' display?",
+      "options": [
+        "To hide old books",
+        "To showcase recently acquired materials and attract users' attention",
+        "To sell new books",
+        "To organize shelves"
+      ],
+      "correct_index": 1,
+      "explanation": "New arrivals displays showcase recently acquired materials to inform and attract users to new resources.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_185",
+      "text": "What is the difference between 'save' and 'save as'?",
+      "options": [
+        "They are exactly the same",
+        "'Save' updates the current file; 'Save as' creates a new file or saves with a different name/location",
+        "'Save as' is always faster",
+        "'Save' creates a new file"
+      ],
+      "correct_index": 1,
+      "explanation": "'Save' updates the existing file, while 'Save as' allows saving the document with a new name, format, or location.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_186",
+      "text": "What is a 'firewall' in the context of library computer systems?",
+      "options": [
+        "A physical wall in the library",
+        "A security system that protects library networks from unauthorized access",
+        "A type of bookshelf",
+        "A printing device"
+      ],
+      "correct_index": 1,
+      "explanation": "In library computer systems, a firewall protects the network from unauthorized access and cyber threats.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_187",
+      "text": "What is the purpose of a 'citation style guide' (e.g., APA, MLA, Chicago)?",
+      "options": [
+        "To make writing more difficult",
+        "To provide consistent formatting rules for citing sources in academic writing",
+        "To limit the number of references",
+        "To make books more expensive"
+      ],
+      "correct_index": 1,
+      "explanation": "Citation style guides provide standardized rules for formatting citations and references to ensure consistency in academic writing.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_188",
+      "text": "What is a 'PDF' file's main advantage?",
+      "options": [
+        "It can only be viewed on one device",
+        "It preserves formatting and can be viewed on any device with a PDF reader",
+        "It is always smaller than other file types",
+        "It can be edited like a word document"
+      ],
+      "correct_index": 1,
+      "explanation": "PDF files preserve formatting across different devices and platforms, ensuring documents look the same everywhere.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_189",
+      "text": "What is the primary function of a 'flash drive' or 'USB drive'?",
+      "options": [
+        "To connect to the internet",
+        "To store and transfer data between computers",
+        "To print documents",
+        "To browse websites"
+      ],
+      "correct_index": 1,
+      "explanation": "Flash drives are portable storage devices used to store and transfer data between computers.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_190",
+      "text": "What is the full form of SMTP in email technology?",
+      "options": ["Simple Mail Transfer Protocol", "Standard Mail Transmission Process", "Secure Message Transfer Protocol", "System Mail Transfer Program"],
+      "correct_index": 0,
+      "explanation": "SMTP stands for Simple Mail Transfer Protocol, the standard protocol for sending email messages across the internet.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_191",
+      "text": "What is the purpose of a 'proxy server' in a university library?",
+      "options": [
+        "To replace library staff",
+        "To allow off-campus access to licensed electronic resources",
+        "To sell books",
+        "To manage physical collections"
+      ],
+      "correct_index": 1,
+      "explanation": "A proxy server enables off-campus access to licensed electronic resources by authenticating authorized users.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_192",
+      "text": "What is the concept of 'information overload'?",
+      "options": [
+        "Having too many computers",
+        "Difficulty in managing and processing excessive amounts of information",
+        "A fast internet connection",
+        "A type of computer virus"
+      ],
+      "correct_index": 1,
+      "explanation": "Information overload occurs when the amount of available information exceeds a person's ability to process and use it effectively.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_193",
+      "text": "What is the purpose of a library's 'Ask a Librarian' service?",
+      "options": [
+        "To sell library cards",
+        "To provide immediate reference assistance to users with questions",
+        "To test users' knowledge",
+        "To manage library budgets"
+      ],
+      "correct_index": 1,
+      "explanation": "The 'Ask a Librarian' service provides immediate reference assistance, helping users find information and use library resources.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_194",
+      "text": "What is a 'digital divide' in the Nigerian context?",
+      "options": [
+        "Division between online and offline content",
+        "Disparity in access to ICT between urban and rural areas",
+        "Separation of digital files",
+        "A type of computer network"
+      ],
+      "correct_index": 1,
+      "explanation": "In Nigeria, the digital divide often refers to the significant gap in ICT access and digital literacy between urban and rural areas.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_195",
+      "text": "What is the full form of SSD in computer storage?",
+      "options": ["Solid State Drive", "Super Speed Disk", "System Storage Device", "Solid Software Drive"],
+      "correct_index": 0,
+      "explanation": "SSD stands for Solid State Drive, a storage device that uses flash memory for faster data access than traditional hard drives.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_196",
+      "text": "What is the primary purpose of a library's 'reference interview'?",
+      "options": [
+        "To hire new staff",
+        "To understand a user's information needs through questioning",
+        "To conduct job interviews",
+        "To test library users"
+      ],
+      "correct_index": 1,
+      "explanation": "A reference interview is a conversation between a librarian and user to understand and address the user's information needs.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst112_197",
+      "text": "What is the significance of ISBN-13?",
+      "options": [
+        "A 13-character unique identifier for books published after 2007",
+        "A 13-digit phone number",
+        "A type of library classification",
+        "A 13-page book"
+      ],
+      "correct_index": 0,
+      "explanation": "ISBN-13 is a 13-digit unique identifier for books, adopted in 2007 to provide more capacity for book identification.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_198",
+      "text": "What is the full meaning of LAN?",
+      "options": ["Local Area Network", "Large Area Network", "Linear Access Node", "Long Distance Network"],
+      "correct_index": 0,
+      "explanation": "LAN stands for Local Area Network, a computer network that interconnects computers within a limited area.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst112_199",
+      "text": "What is the primary purpose of 'library automation'?",
+      "options": [
+        "To replace all library staff",
+        "To use computer technology to improve library operations and services",
+        "To build a new library",
+        "To increase library fines"
+      ],
+      "correct_index": 1,
+      "explanation": "Library automation uses computer technology to improve efficiency in cataloguing, circulation, and other library operations.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst112_200",
+      "text": "What is the full form of IFRS as used in Nigerian academic contexts?",
+      "options": [
+        "International Financial Reporting Standards",
+        "Internet File Retrieval System",
+        "Integrated File Recovery Service",
+        "Internal Financial Record System"
+      ],
+      "correct_index": 0,
+      "explanation": "IFRS stands for International Financial Reporting Standards, used in accounting education and practice in Nigerian universities.",
+      "difficulty": 2
+    }
+  ]
+}

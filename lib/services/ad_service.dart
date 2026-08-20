@@ -12,12 +12,16 @@ class AdService {
   bool _initFailed = false;
   StreamSubscription? _connectivitySubscription;
   Timer? _periodicTimer;
+  Timer? _backgroundPreloadTimer;
+  bool _hasMobileData = false;
 
   InterstitialAd? _interstitialAd;
   RewardedAd? _rewardedAd;
+  BannerAd? _cachedBanner;
 
   bool get _interstitialReady => _interstitialAd != null;
   bool get _rewardedReady => _rewardedAd != null;
+  bool get hasPreloadedAds => _interstitialReady || _rewardedReady;
 
   Future<void> init() async {
     if (_initialized) return;
@@ -28,6 +32,7 @@ class AdService {
     _loadAll();
     _listenConnectivity();
     _startPeriodicPreload();
+    _startBackgroundPreload();
   }
 
   void _loadAll() {
@@ -38,10 +43,19 @@ class AdService {
   void _listenConnectivity() {
     _connectivitySubscription?.cancel();
     _connectivitySubscription = Connectivity().onConnectivityChanged.listen((result) {
+      _hasMobileData = result == ConnectivityResult.mobile;
       if (result != ConnectivityResult.none) {
-        debugPrint('[AdService] Network available - loading ads');
+        debugPrint('[AdService] Network available ($result) - loading ads');
         _loadAll();
+        if (_hasMobileData) {
+          _preloadAdsForBackground();
+        }
       }
+    });
+
+    Connectivity().checkConnectivity().then((result) {
+      _hasMobileData = result == ConnectivityResult.mobile;
+      debugPrint('[AdService] Initial connectivity: $result');
     });
   }
 
@@ -52,6 +66,21 @@ class AdService {
         _loadAll();
       }
     });
+  }
+
+  void _startBackgroundPreload() {
+    _backgroundPreloadTimer?.cancel();
+    _backgroundPreloadTimer = Timer.periodic(const Duration(minutes: 2), (_) {
+      if (!_initFailed && _hasMobileData) {
+        debugPrint('[AdService] Background preload cycle (mobile data)');
+        _preloadAdsForBackground();
+      }
+    });
+  }
+
+  void _preloadAdsForBackground() {
+    if (!_interstitialReady) loadInterstitial();
+    if (!_rewardedReady) loadRewarded();
   }
 
   void onAppResume() {

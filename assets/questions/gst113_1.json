@@ -1,0 +1,1607 @@
+{
+  "course_id": "gst113_1",
+  "course_name": "Nigeria People and Culture I",
+  "version": "1.0.2",
+  "questions": [
+    {
+      "id": "gst113_1_001",
+      "text": "Which of the following is the largest ethnic group in Nigeria by population?",
+      "options": ["Hausa", "Yoruba", "Igbo", "Ijaw"],
+      "correct_index": 0,
+      "explanation": "The Hausa-Fulani are the largest ethnic group in Nigeria, predominantly found in the northern part of the country.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_002",
+      "text": "The Yoruba people are predominantly found in which region of Nigeria?",
+      "options": ["North-East", "South-West", "South-East", "North-West"],
+      "correct_index": 1,
+      "explanation": "The Yoruba people are predominantly found in the South-Western part of Nigeria, including states like Lagos, Oyo, Ogun, and Ondo.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_003",
+      "text": "Igbo people are mainly located in which geopolitical zone of Nigeria?",
+      "options": ["North-Central", "South-South", "South-East", "North-West"],
+      "correct_index": 2,
+      "explanation": "The Igbo people are predominantly found in the South-Eastern part of Nigeria, including states like Anambra, Imo, Enugu, and Abia.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_004",
+      "text": "Which language is most widely spoken in Nigeria?",
+      "options": ["Yoruba", "Igbo", "Hausa", "English"],
+      "correct_index": 2,
+      "explanation": "Hausa is the most widely spoken indigenous language in Nigeria, serving as a lingua franca across much of West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_005",
+      "text": "The Fulani people are traditionally known as:",
+      "options": ["Fishermen", "Nomadic cattle herders", "Farmers", "Traders"],
+      "correct_index": 1,
+      "explanation": "The Fulani are traditionally nomadic pastoralists known for cattle rearing, though many have settled and engage in other occupations.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_006",
+      "text": "The Efik people are found primarily in which state?",
+      "options": ["Rivers State", "Cross River State", "Akwa Ibom State", "Bayelsa State"],
+      "correct_index": 1,
+      "explanation": "The Efik people are primarily found in Cross River State, particularly in Calabar and its environs.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_007",
+      "text": "Which of the following is a minority ethnic group in Nigeria?",
+      "options": ["Hausa", "Igbo", "Tiv", "Yoruba"],
+      "correct_index": 2,
+      "explanation": "The Tiv are a minority ethnic group found predominantly in Benue State, while Hausa, Yoruba, and Igbo are the three major ethnic groups.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_008",
+      "text": "The Kanuri people are associated with which historical empire?",
+      "options": ["Songhai Empire", "Bornu Empire", "Kanem Empire", "Both B and C"],
+      "correct_index": 3,
+      "explanation": "The Kanuri people are associated with the Kanem-Bornu Empire, one of the oldest empires in West Africa, located around the Lake Chad basin.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_009",
+      "text": "Which ethnic group is known for the practice of 'Umuada' (daughters of the lineage)?",
+      "options": ["Hausa", "Yoruba", "Igbo", "Edo"],
+      "correct_index": 2,
+      "explanation": "Umuada is an Igbo institution consisting of the daughters of a lineage who play important roles in family decisions and ceremonies.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_010",
+      "text": "The Nupe people are often referred to as the:",
+      "options": ["Warriors of the North", "Romans of Africa", "Merchants of the Niger", "Farmers of the Benue"],
+      "correct_index": 1,
+      "explanation": "The Nupe people are often called the 'Romans of Africa' due to their sophisticated political organization and engineering feats, including bridge building.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_011",
+      "text": "The Benin Kingdom was historically located in present-day:",
+      "options": ["Edo State", "Delta State", "Ondo State", "Anambra State"],
+      "correct_index": 0,
+      "explanation": "The historic Benin Kingdom was located in present-day Edo State, with Benin City as its capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_012",
+      "text": "Which Nigerian ethnic group practices the 'Osun' festival?",
+      "options": ["Igbo", "Hausa", "Yoruba", "Ibibio"],
+      "correct_index": 2,
+      "explanation": "The Osun-Osogbo festival is celebrated by the Yoruba people in honour of the river goddess Osun, particularly in Osogbo, Osun State.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_013",
+      "text": "The Ijaw people are predominantly found in which region?",
+      "options": ["North-Central", "South-South", "South-East", "North-West"],
+      "correct_index": 1,
+      "explanation": "The Ijaw people are predominantly found in the South-South region, particularly in Bayelsa, Rivers, and Delta States.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_014",
+      "text": "Which of the following is NOT one of the three major ethnic groups in Nigeria?",
+      "options": ["Hausa", "Igbo", "Ijaw", "Yoruba"],
+      "correct_index": 2,
+      "explanation": "The three major ethnic groups in Nigeria are Hausa, Yoruba, and Igbo. The Ijaw, while significant, is considered a minority group.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_015",
+      "text": "The Berom people are found predominantly in which state?",
+      "options": ["Nasarawa State", "Kaduna State", "Plateau State", "Benue State"],
+      "correct_index": 2,
+      "explanation": "The Berom people are found predominantly on the Jos Plateau in Plateau State, Nigeria.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_016",
+      "text": "The Oyo Empire was a pre-colonial state of which ethnic group?",
+      "options": ["Igbo", "Yoruba", "Hausa", "Edo"],
+      "correct_index": 1,
+      "explanation": "The Oyo Empire was a pre-colonial Yoruba state that reached its peak in the 17th and 18th centuries.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_017",
+      "text": "The Urhobo people are found in which Nigerian state?",
+      "options": ["Edo State", "Delta State", "Rivers State", "Bayelsa State"],
+      "correct_index": 1,
+      "explanation": "The Urhobo people are predominantly found in Delta State, particularly in the western part of the state.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_018",
+      "text": "Which ethnic group is known for the 'Argungu Fishing Festival'?",
+      "options": ["Nupe", "Kwankwasiyya", "Kabawa", "Bussawa"],
+      "correct_index": 2,
+      "explanation": "The Argungu Fishing Festival is associated with the people of Argungu in Kebbi State, particularly the Kabawa and related groups.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_019",
+      "text": "The Edo people are also historically known as:",
+      "options": ["Bini", "Ishi", "Igwe", "Oba"],
+      "correct_index": 0,
+      "explanation": "The Edo people were historically known as Bini, and the Benin Kingdom was one of the most advanced states in pre-colonial Africa.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_020",
+      "text": "Which minority group is found in Taraba and Plateau States?",
+      "options": ["Urhobo", "Itsekiri", "Jukun", "Ikwerre"],
+      "correct_index": 2,
+      "explanation": "The Jukun people are found in parts of Taraba and Plateau States and have a rich cultural heritage dating back to the Kwararafa confederacy.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_021",
+      "text": "The Alaafin is the traditional ruler of which Yoruba city?",
+      "options": ["Ibadan", "Ile-Ife", "Oyo", "Lagos"],
+      "correct_index": 2,
+      "explanation": "The Alaafin is the traditional ruler (king) of Oyo, and was historically the most powerful Yoruba ruler.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_022",
+      "text": "The Ooni of Ife is regarded as the spiritual head of which ethnic group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Edo"],
+      "correct_index": 2,
+      "explanation": "The Ooni of Ife is regarded as the spiritual head of the Yoruba people, as Ile-Ife is considered the cradle of Yoruba civilization.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_023",
+      "text": "The Sokoto Caliphate was established in which year?",
+      "options": ["1800", "1804", "1808", "1812"],
+      "correct_index": 1,
+      "explanation": "The Sokoto Caliphate was established in 1804 by Usman dan Fodio following a jihad movement in Hausaland.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_024",
+      "text": "In the traditional Igbo political system, the 'Oha' refers to:",
+      "options": ["The king", "The council of elders", "The warrior group", "The priestly class"],
+      "correct_index": 1,
+      "explanation": "The Oha is a council of elders in traditional Igbo society that serves as the decision-making body for the community.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_025",
+      "text": "The Sultan of Sokoto is the head of which religious institution?",
+      "options": ["Christian Association", "Islamic Caliphate", "Traditional Religion Council", "Interfaith Committee"],
+      "correct_index": 1,
+      "explanation": "The Sultan of Sokoto is the head of the Nigerian Islamic Caliphate and serves as the spiritual leader of Muslims in Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_026",
+      "text": "Which of the following describes the Yoruba political system before colonialism?",
+      "options": ["Absolute monarchy", "Democratic republic", "Decentralized monarchy with checks and balances", "Theocracy"],
+      "correct_index": 2,
+      "explanation": "The Yoruba political system featured decentralized monarchies (Obas) with checks and balances through various councils and title-holders.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_027",
+      "text": "The 'Oba' is the traditional title for kings among which people?",
+      "options": ["Igbo", "Hausa", "Yoruba", "Tiv"],
+      "correct_index": 2,
+      "explanation": "Oba is the traditional title for kings among the Yoruba people, such as the Oba of Benin (who is Yoruba-influenced) and other Yoruba kingdoms.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_028",
+      "text": "The emirate system in Northern Nigeria was largely modeled after:",
+      "options": ["The Egyptian system", "The Sokoto Caliphate model", "The Moroccan system", "The Ethiopian system"],
+      "correct_index": 1,
+      "explanation": "The emirate system in Northern Nigeria was modeled after the Sokoto Caliphate established by Usman dan Fodio in 1804.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_029",
+      "text": "In traditional Hausa society, the 'Sarkin' title means:",
+      "options": ["Priest", "Chief/Head", "Elder", "Warrior"],
+      "correct_index": 1,
+      "explanation": "Sarkin is a Hausa title meaning chief or head, used for various traditional rulers and title-holders such as Sarkin Kano, Sarkin Musulmi.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_030",
+      "text": "The Ezinne is the queen mother in which Nigerian kingdom?",
+      "options": ["Benin Kingdom", "Oyo Empire", "Kanem-Bornu", "Nri Kingdom"],
+      "correct_index": 0,
+      "explanation": "The Ezinne (Iyase) is the queen mother in the Benin Kingdom, holding significant political and spiritual authority.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_031",
+      "text": "The Nri Kingdom, one of the oldest in Igboland, was ruled by which title?",
+      "options": ["Obi", "Eze", "Igwe", "Nze"],
+      "correct_index": 1,
+      "explanation": "The Nri Kingdom was ruled by the Eze Nri, and it is considered one of the oldest kingdoms in Igboland, dating back to the 10th century.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_032",
+      "text": "The 'Are Ona Kakanfo' was the supreme military commander in which empire?",
+      "options": ["Benin Empire", "Oyo Empire", "Kanem-Bornu Empire", "Sokoto Caliphate"],
+      "correct_index": 1,
+      "explanation": "The Are Ona Kakanfo was the supreme military commander of the Oyo Empire, one of the most powerful military positions in Yoruba history.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_033",
+      "text": "The Waziri in the Sokoto Caliphate served as:",
+      "options": ["Military commander", "Chief advisor/Prime Minister", "Religious judge", "Tax collector"],
+      "correct_index": 1,
+      "explanation": "The Waziri served as the chief advisor or Prime Minister in the Sokoto Caliphate, second only to the Sultan in authority.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_034",
+      "text": "The Igbo 'Amala' system of governance is characterized by:",
+      "options": ["Centralized monarchy", "Age-grade assemblies and title societies", "Religious priesthood rule", "Military dictatorship"],
+      "correct_index": 1,
+      "explanation": "The Igbo Amala system involves governance through age-grade assemblies and title societies, representing a decentralized form of government.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_035",
+      "text": "The Benin Empire's king was known as:",
+      "options": ["Alaafin", "Oba", "Sarkin", "Eze"],
+      "correct_index": 1,
+      "explanation": "The king of the Benin Empire was known as the Oba, a title still in use today in the Edo-speaking areas of Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_036",
+      "text": "Which traditional political institution served as a check on the power of the Alaafin in Oyo Empire?",
+      "options": ["The Ogboni", "The Oyo Mesi", "The Are Ona Kakanfo", "The Bashorun"],
+      "correct_index": 1,
+      "explanation": "The Oyo Mesi council served as a check on the Alaafin's power, with the power to force the king to abdicate through 'Ifa' oracle consultation.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_037",
+      "text": "The 'Ogboni' society played a significant political role among which people?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Ijaw"],
+      "correct_index": 2,
+      "explanation": "The Ogboni society was a powerful political and judicial institution among the Yoruba people, serving as a check on monarchical power.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_038",
+      "text": "The Kano Emirate was one of the most powerful emirates in which caliphate?",
+      "options": ["Bornu Caliphate", "Sokoto Caliphate", "Kanem Caliphate", "Hausa Federation"],
+      "correct_index": 1,
+      "explanation": "The Kano Emirate was one of the most powerful and wealthy emirates within the Sokoto Caliphate, known for its trans-Saharan trade.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_039",
+      "text": "In the traditional Igbo society, who could become the 'Eze' (king)?",
+      "options": ["Any freeborn male", "Only descendants of the founding family", "Only wealthy men", "Only warriors"],
+      "correct_index": 1,
+      "explanation": "In many Igbo communities, the Eze position was hereditary, passed through specific lineages that traced their descent to the founding fathers.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_040",
+      "text": "The 'Birnin' concept in Hausa architecture refers to:",
+      "options": ["A mosque", "A walled city/fortress", "A marketplace", "A royal palace"],
+      "correct_index": 1,
+      "explanation": "Birnin refers to the walled city or fortress in Hausa architecture, a defensive structure that surrounded major Hausa cities.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_041",
+      "text": "Orisha worship is primarily associated with which Nigerian ethnic group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Edo"],
+      "correct_index": 2,
+      "explanation": "Orisha worship is primarily associated with the Yoruba people, though it has spread to the Americas through the transatlantic slave trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_042",
+      "text": "The 'Chi' concept in traditional Igbo religion refers to:",
+      "options": ["A river goddess", "A personal god/spirit", "An ancestor spirit", "A forest deity"],
+      "correct_index": 1,
+      "explanation": "In traditional Igbo religion, 'Chi' refers to a personal god or spirit that is believed to be assigned to every individual at birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_043",
+      "text": "Islam was first introduced to Northern Nigeria through:",
+      "options": ["Military conquest only", "Trans-Saharan trade and missionaries", "European colonizers", "Internal revolution"],
+      "correct_index": 1,
+      "explanation": "Islam was introduced to Northern Nigeria primarily through trans-Saharan trade routes and Muslim missionaries before the jihad of Usman dan Fodio.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_044",
+      "text": "The Ifa divination system is practiced by which ethnic group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Ibibio"],
+      "correct_index": 2,
+      "explanation": "The Ifa divination system is a Yoruba traditional religious practice used for divination, and it has been recognized by UNESCO as an Intangible Cultural Heritage.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_045",
+      "text": "The 'Alusi' are deities worshipped in traditional:",
+      "options": ["Yoruba religion", "Igbo religion", "Hausa religion", "Edo religion"],
+      "correct_index": 1,
+      "explanation": "Alusi are deities worshipped in traditional Igbo religion, including figures like Idemili (python deity) and Ala (earth goddess).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_046",
+      "text": "Christianity was first brought to Nigeria primarily by:",
+      "options": ["Portuguese missionaries in the 15th century", "British missionaries in the 19th century", "French missionaries in the 18th century", "Arab traders in the 12th century"],
+      "correct_index": 0,
+      "explanation": "Christianity was first brought to Nigeria by Portuguese missionaries in the 15th century, particularly to the Benin and Lagos areas.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_047",
+      "text": "The 'Egungun' festival among the Yoruba is associated with:",
+      "options": ["Water spirits", "Ancestor veneration", "Harvest celebration", "Warfare"],
+      "correct_index": 1,
+      "explanation": "The Egungun festival among the Yoruba is associated with ancestor veneration, where masquerades represent the spirits of the dead visiting the living.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_048",
+      "text": "The 'Arochukwu Oracle' (Long Juju) was famous among which group?",
+      "options": ["Yoruba", "Igbo", "Hausa", "Edo"],
+      "correct_index": 1,
+      "explanation": "The Arochukwu Oracle, also known as the Long Juju, was a famous oracle among the Igbo people, used for settling disputes and predicting the future.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_049",
+      "text": "The concept of 'Olodumare' in Yoruba religion refers to:",
+      "options": ["A minor deity", "The Supreme Being", "An ancestor spirit", "A river god"],
+      "correct_index": 1,
+      "explanation": "Olodumare is the Supreme Being in Yoruba traditional religion, regarded as the creator of the universe and all things in it.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_050",
+      "text": "The 'Bori' spirit possession cult is associated with which ethnic group?",
+      "options": ["Yoruba", "Igbo", "Hausa", "Ibibio"],
+      "correct_index": 2,
+      "explanation": "The Bori spirit possession cult is associated with the Hausa people, where spirits are believed to possess individuals and communicate through them.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_051",
+      "text": "The practice of 'Voodoo' in West Africa has its roots in which Nigerian traditional religion?",
+      "options": ["Igbo traditional religion", "Yoruba Orisha worship", "Hausa Islam", "Edo Buddhism"],
+      "correct_index": 1,
+      "explanation": "Voodoo (Vodun) practiced in West Africa and the Americas has its roots in Yoruba Orisha worship, which was carried to the Americas through the slave trade.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_052",
+      "text": "The 'Adaala' is an Igbo masquerade associated with:",
+      "options": ["Fertility rites", "Warrior spirits and justice", "Ancestor worship", "Harvest festival"],
+      "correct_index": 1,
+      "explanation": "The Adaala masquerade in Igbo culture is associated with warrior spirits and is known for its role in maintaining justice and order in the community.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_053",
+      "text": "The 'Imale' concept among the Yoruba refers to:",
+      "options": ["A herbal remedy", "The practice of Islam", "A type of masquerade", "A water spirit"],
+      "correct_index": 1,
+      "explanation": "Imale is the Yoruba term for the practice of Islam, reflecting the early contact between Yoruba people and Muslim missionaries.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_054",
+      "text": "In traditional Igbo religion, 'Ala' represents the:",
+      "options": ["Sky god", "Earth goddess", "Water spirit", "Forest deity"],
+      "correct_index": 1,
+      "explanation": "Ala (also known as Ani) is the earth goddess in traditional Igbo religion, associated with fertility, morality, and the land.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_055",
+      "text": "The 'Oluwa' or 'Olorun' in Yoruba belief system refers to:",
+      "options": ["A river god", "The Supreme God", "An ancestral spirit", "A divination priest"],
+      "correct_index": 1,
+      "explanation": "Oluwa or Olorun in Yoruba belief refers to the Supreme God, the creator and sustainer of all things.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_056",
+      "text": "The concept of 'Chi-ukwu' in Igbo theology is equivalent to:",
+      "options": ["A personal god", "The Great God (Supreme Being)", "An earth deity", "A river spirit"],
+      "correct_index": 1,
+      "explanation": "Chi-ukwu literally means 'Great God' and refers to the Supreme Being in Igbo theology, the ultimate creator and sustainer.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_057",
+      "text": "The 'Iwa-pele' concept in Yoruba tradition refers to:",
+      "options": ["War preparation", "Gentle character/moral conduct", "Ritual sacrifice", "Divination practice"],
+      "correct_index": 1,
+      "explanation": "Iwa-pele is a Yoruba concept meaning gentle character or good moral conduct, considered essential for a meaningful life.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_058",
+      "text": "Which traditional religious practice involves consulting the 'Ikin' (sacred palm nuts)?",
+      "options": ["Igbo divination", "Yoruba Ifa divination", "Hausa Bori cult", "Edo Oracle worship"],
+      "correct_index": 1,
+      "explanation": "Ikin (sacred palm nuts) are used in Yoruba Ifa divination, one of the most complex divination systems in Africa.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_059",
+      "text": "The 'Mbari' house in Igbo culture serves as:",
+      "options": ["A residential building", "A shrine/temple to appease deities", "A marketplace", "A council chamber"],
+      "correct_index": 1,
+      "explanation": "Mbari houses in Igbo culture are shrines or temples built to appease deities, particularly Ala the earth goddess, containing carved figures and sculptures.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_060",
+      "text": "In Yoruba cosmology, how many principal Orishas are there?",
+      "options": ["Seven", "Fourteen", "Hundreds", "Forty-nine"],
+      "correct_index": 2,
+      "explanation": "In Yoruba cosmology, there are hundreds of Orishas (deities), each with specific functions, though some are more widely recognized than others.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_061",
+      "text": "Benin bronze heads were primarily created to:",
+      "options": ["Serve as currency", "Honour deceased Obas (kings)", "Decorate homes", "Trade with Europeans"],
+      "correct_index": 1,
+      "explanation": "Benin bronze heads were primarily created to honour deceased Obas (kings) of the Benin Kingdom, serving as commemorative portraits.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_062",
+      "text": "Igbo-Ukwu bronze artifacts date back to approximately:",
+      "options": ["500 AD", "900 AD", "1200 AD", "1500 AD"],
+      "correct_index": 1,
+      "explanation": "Igbo-Ukwu bronze artifacts date back to approximately 900 AD, making them among the oldest bronze works in West Africa.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_063",
+      "text": "The 'Adire' cloth is associated with which Nigerian ethnic group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Edo"],
+      "correct_index": 2,
+      "explanation": "Adire is a traditional indigo-dyed cloth associated with the Yoruba people, particularly in Abeokuta and Iseyin.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_064",
+      "text": "Which technique was used in creating the famous Benin bronzes?",
+      "options": ["Lost-wax casting", "Sand casting", "Die casting", "Centrifugal casting"],
+      "correct_index": 0,
+      "explanation": "The famous Benin bronzes were created using the lost-wax (cire perdue) casting technique, a sophisticated metalworking method.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_065",
+      "text": "The 'Ife bronze heads' are considered masterpieces of:",
+      "options": ["Wood carving", "Pottery", "Naturalistic sculpture", "Textile design"],
+      "correct_index": 2,
+      "explanation": "The Ife bronze heads are considered masterpieces of naturalistic sculpture, showing remarkable realism in depicting human features.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_066",
+      "text": "The 'Aso-oke' cloth is traditionally woven by:",
+      "options": ["Hausa men", "Yoruba men", "Igbo women", "Edo warriors"],
+      "correct_index": 1,
+      "explanation": "Aso-oke is a hand-woven cloth traditionally made by Yoruba men, used for special occasions like weddings and festivals.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_067",
+      "text": "The Igbo pottery tradition is particularly associated with which town?",
+      "options": ["Nsukka", "Nkalagu", "Akwka", "Udi"],
+      "correct_index": 0,
+      "explanation": "The Nsukka area in Enugu State is particularly renowned for its pottery tradition, with skilled female potters producing various ceramic works.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_068",
+      "text": "Nok terracotta figures are among the oldest art forms in Nigeria, dating back to approximately:",
+      "options": ["500 BC", "500 AD", "1000 AD", "1500 AD"],
+      "correct_index": 1,
+      "explanation": "Nok terracotta figures date back to approximately 500 AD, making them among the oldest sculptural traditions in sub-Saharan Africa.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_069",
+      "text": "The 'Uli' body and wall painting tradition is associated with which group?",
+      "options": ["Yoruba", "Igbo", "Hausa", "Edo"],
+      "correct_index": 1,
+      "explanation": "Uli is a traditional Igbo art form involving body and wall painting using plant-based dyes, known for its geometric and figurative designs.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_070",
+      "text": "The Igbo 'Ikenga' figure represents:",
+      "options": ["A water spirit", "The spirit of achievement/human horn", "An ancestral ghost", "A fertility symbol"],
+      "correct_index": 1,
+      "explanation": "Ikenga is a carved wooden figure in Igbo culture representing the spirit of achievement or 'human horn,' symbolizing success and strength.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_071",
+      "text": "Which Nigerian craft tradition involves the use of raffia palm fibers?",
+      "options": ["Benin bronze casting", "Kano leather work", "Congo textile weaving", "Kwale raffia work"],
+      "correct_index": 3,
+      "explanation": "Raffia work, including weaving mats, bags, and other items from raffia palm fibers, is a significant craft tradition in various parts of Nigeria.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_072",
+      "text": "The Igbo 'Mmwo' (mask) is typically used for:",
+      "options": ["Market trading", "Funeral ceremonies", "Farm work", "Hunting"],
+      "correct_index": 1,
+      "explanation": "The Mmwo mask in Igbo culture is typically used for funeral ceremonies and other events related to honoring the dead.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_073",
+      "text": "The Hausa craft of 'lajeri' (embroidery) is applied to:",
+      "options": ["Pottery", "Metalwork", "Clothing and caps", "Wood carving"],
+      "correct_index": 2,
+      "explanation": "Lajeri is a Hausa embroidery craft applied to clothing and caps, particularly on the traditional babban riga (flowing gown).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_074",
+      "text": "The 'Gelede' masquerade of the Yoruba features:",
+      "options": ["Male warrior masks", "Female-headed masks celebrating womanhood", "Animal figure masks", "Ghostly white masks"],
+      "correct_index": 1,
+      "explanation": "The Gelede masquerade features female-headed masks and celebrates the power and creative abilities of women (our mothers).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_075",
+      "text": "Tsoede bronze figures are associated with which culture?",
+      "options": ["Yoruba culture", "Nupe culture", "Igbo culture", "Hausa culture"],
+      "correct_index": 1,
+      "explanation": "Tsoede bronze figures are associated with Nupe culture, believed to have been created by the legendary founder of the Nupe Kingdom.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_076",
+      "text": "The Igbo 'Nkisi' figure is believed to:",
+      "options": ["Bring good luck", "House a protective or healing spirit", "Cause harm to enemies", "Predict the future"],
+      "correct_index": 1,
+      "explanation": "Nkisi figures in Igbo culture are believed to house protective or healing spirits, serving as spiritual guardians.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_077",
+      "text": "The 'Kano dye pits' are famous for producing:",
+      "options": ["Bronze works", "Indigo-dyed cloth", "Pottery", "Leather goods"],
+      "correct_index": 1,
+      "explanation": "The Kano dye pits are famous for producing indigo-dyed cloth, a tradition that has been practiced for centuries in Kano.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_078",
+      "text": "The Yoruba 'Ibibio' masquerade tradition is known as:",
+      "options": ["Eyo", "Ekpe", "Ijele", "Egungun"],
+      "correct_index": 1,
+      "explanation": "The Ekpe masquerade tradition is associated with the Ibibio/Efik people, featuring elaborate costumes and representing forest spirits.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_079",
+      "text": "The traditional Nigerian art of leather work is most advanced among which group?",
+      "options": ["Yoruba", "Igbo", "Hausa", "Edo"],
+      "correct_index": 2,
+      "explanation": "The Hausa people are particularly renowned for their leather work, including decorative items, bags, and book bindings.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_080",
+      "text": "The 'Oshugbo' society among the Yoruba is associated with which art form?",
+      "options": ["Pottery", "Brass work and metal sculpture", "Textile weaving", "Wood carving"],
+      "correct_index": 1,
+      "explanation": "The Oshugbo society among the Yoruba is associated with brass work and metal sculpture, creating objects for religious and ceremonial purposes.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_081",
+      "text": "The 'Dundun' talking drum is associated with which ethnic group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Tiv"],
+      "correct_index": 2,
+      "explanation": "The Dundun (talking drum) is a Yoruba musical instrument that can mimic the tones and rhythms of spoken Yoruba language.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_082",
+      "text": "The 'Talking Drum' gets its name because:",
+      "options": ["It has a mouth", "It can imitate the tonal patterns of speech", "A person talks while playing it", "It tells stories through pictures"],
+      "correct_index": 1,
+      "explanation": "The Talking Drum is named for its ability to imitate the tonal patterns of speech, particularly in tonal languages like Yoruba.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_083",
+      "text": "The 'Atilogwu' dance is associated with which Nigerian group?",
+      "options": ["Yoruba", "Igbo", "Hausa", "Edo"],
+      "correct_index": 1,
+      "explanation": "The Atilogwu dance is a vibrant acrobatic dance associated with the Igbo people, known for its energetic and spectacular movements.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_084",
+      "text": "The 'Bata' drum is traditionally used in which ceremonies?",
+      "options": ["Funerals only", "Royal and religious ceremonies", "Market days", "Farming activities"],
+      "correct_index": 1,
+      "explanation": "The Bata drum is traditionally used in Yoruba royal and religious ceremonies, including coronations and Orisha worship.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_085",
+      "text": "The 'Akwete' cloth is a traditional textile of which group?",
+      "options": ["Yoruba", "Igbo", "Hausa", "Edo"],
+      "correct_index": 1,
+      "explanation": "Akwete cloth is a traditional hand-woven textile of the Igbo people, particularly from the Akwete area of Abia State.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_086",
+      "text": "The 'Kokoma' dance is performed primarily by:",
+      "options": ["Men", "Women", "Children", "Elders"],
+      "correct_index": 1,
+      "explanation": "The Kokoma dance, associated with the Nupe and some northern groups, is primarily performed by women.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_087",
+      "text": "The 'Koroso' dance is associated with which Nigerian people?",
+      "options": ["Hausa", "Fulani", "Kanuri", "Nupe"],
+      "correct_index": 2,
+      "explanation": "The Koroso dance is associated with the Kanuri people of Borno State, performed during festivals and celebrations.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_088",
+      "text": "The 'Gbedegi' masquerade dance is associated with which people?",
+      "options": ["Yoruba", "Edo", "Igbo", "Ijaw"],
+      "correct_index": 1,
+      "explanation": "The Gbedegi masquerade dance is associated with the Edo people, performed during ceremonies and festivals.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_089",
+      "text": "The 'Shekere' (beaded gourd) instrument is used by:",
+      "options": ["Hausa musicians only", "Yoruba musicians", "Igbo musicians", "All of the above"],
+      "correct_index": 3,
+      "explanation": "The Shekere (a beaded gourd rattle) is used by musicians across many Nigerian ethnic groups, though it is particularly prominent in Yoruba music.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_090",
+      "text": "The 'Agbadza' dance is performed by the:",
+      "options": ["Igbo people", "Edo people", "Urhobo people", "All of the above"],
+      "correct_index": 3,
+      "explanation": "The Agbadza dance is performed by several South-South Nigerian groups including Igbo, Edo, and Urhobo people, especially during ceremonies.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_091",
+      "text": "In traditional Yoruba marriage, the 'Idana' ceremony involves:",
+      "options": ["Payment of bride price", "Introduction of the groom to the bride's family", "Exchange of gifts between families", "Formal engagement rites"],
+      "correct_index": 3,
+      "explanation": "The Idana ceremony in Yoruba marriage involves formal engagement rites where the families negotiate and formalize the marriage union.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_092",
+      "text": "In traditional Igbo marriage, the 'Iku Aka' ceremony involves:",
+      "options": ["Telling the family tree", "Blessing the couple", "Breaking of kola nut", "Payment of bride price"],
+      "correct_index": 0,
+      "explanation": "Iku Aka in traditional Igbo marriage involves telling the family tree or genealogy, establishing the lineage connections between families.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_093",
+      "text": "The 'Maida' (bride price) is a significant feature of which type of marriage?",
+      "options": ["Islamic marriage", "Christian marriage", "Traditional Nigerian marriage", "Court marriage"],
+      "correct_index": 2,
+      "explanation": "Bride price (Maida in Hausa) is a significant feature of traditional Nigerian marriage across various ethnic groups.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_094",
+      "text": "In Yoruba kinship, 'Iya' means:",
+      "options": ["Father", "Mother", "Elder brother", "Grandmother"],
+      "correct_index": 1,
+      "explanation": "In Yoruba language and kinship, 'Iya' means mother, reflecting the importance of the mother-child relationship in Yoruba society.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_095",
+      "text": "The 'Ogboju' title society is associated with which group?",
+      "options": ["Hausa", "Yoruba", "Igbo", "Edo"],
+      "correct_index": 2,
+      "explanation": "The Ogboju title society is associated with the Igbo people, representing an important social institution for achieving status and respect.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_096",
+      "text": "Polygamy is traditionally practiced among:",
+      "options": ["Only Hausa-Fulani", "Only Yoruba", "Only Igbo", "Multiple Nigerian ethnic groups"],
+      "correct_index": 3,
+      "explanation": "Polygamy is traditionally practiced among multiple Nigerian ethnic groups, including Hausa-Fulani, Yoruba, Igbo, and many others.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_097",
+      "text": "The 'Igba Boi' ceremony is a pre-marriage rite of the:",
+      "options": ["Hausa", "Yoruba", "Igbo", "Edo"],
+      "correct_index": 2,
+      "explanation": "Igba Boi is a pre-marriage rite among the Igbo people where the groom's family presents drinks to the bride's family.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_098",
+      "text": "The Igbo 'Umunna' refers to:",
+      "options": ["The mother's lineage", "The father's patrilineage", "The wife's family", "The village council"],
+      "correct_index": 1,
+      "explanation": "Umunna in Igbo kinship refers to the father's patrilineage, a group of related males who share a common male ancestor.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_099",
+      "text": "In traditional Hausa marriage, the 'Wallace' is the:",
+      "options": ["Bride's father", "Groom's representative", "Marriage broker", "Islamic judge"],
+      "correct_index": 2,
+      "explanation": "The Wallace in traditional Hausa marriage is the marriage broker or intermediary who facilitates negotiations between the families.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_100",
+      "text": "The Yoruba concept of 'Iyawo' means:",
+      "options": ["Husband", "Wife", "Bride", "Mother-in-law"],
+      "correct_index": 1,
+      "explanation": "In Yoruba, 'Iyawo' means wife, referring to a married woman in the context of Yoruba marriage and family system.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_101",
+      "text": "The 'Igue' festival of the Benin Kingdom celebrates:",
+      "options": ["The new yam harvest", "The Oba's coronation anniversary", "The beginning of the farming season", "Ancestor remembrance"],
+      "correct_index": 1,
+      "explanation": "The Igue festival of the Benin Kingdom celebrates the Oba's coronation anniversary and involves prayers for the prosperity of the kingdom.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_102",
+      "text": "The 'New Yam Festival' (Iri Ji) is significant among:",
+      "options": ["Hausa people", "Yoruba people", "Igbo people", "Edo people"],
+      "correct_index": 2,
+      "explanation": "The New Yam Festival (Iri Ji) is a significant harvest celebration among the Igbo people, marking the beginning of a new farming season.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_103",
+      "text": "The 'Eyo' festival is celebrated in which Yoruba city?",
+      "options": ["Ibadan", "Oyo", "Lagos", "Ile-Ife"],
+      "correct_index": 2,
+      "explanation": "The Eyo festival (also known as the 'Customs' festival) is celebrated in Lagos, featuring white-robed masquerades.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_104",
+      "text": "The 'Argungu Fishing Festival' holds annually in which state?",
+      "options": ["Zamfara State", "Kebbi State", "Sokoto State", "Katsina State"],
+      "correct_index": 1,
+      "explanation": "The Argungu Fishing Festival holds annually in Kebbi State, featuring competitive fishing and cultural displays.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_105",
+      "text": "The 'Calabar Carnival' is known as:",
+      "options": ["Africa's Biggest Street Party", "Nigeria's Cultural Festival", "West Africa's Celebration", "South-South Carnival"],
+      "correct_index": 0,
+      "explanation": "The Calabar Carnival is known as 'Africa's Biggest Street Party,' featuring elaborate costumes, music, and dance.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_106",
+      "text": "The 'Olojo' festival is celebrated in:",
+      "options": ["Oyo", "Ile-Ife", "Lagos", "Benin City"],
+      "correct_index": 1,
+      "explanation": "The Olojo festival is celebrated in Ile-Ife, honoring the creation of the world and the role of Ife in Yoruba cosmology.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_107",
+      "text": "The 'Ekpe' festival is associated with which people?",
+      "options": ["Yoruba", "Igbo", "Efik/Ibibio", "Hausa"],
+      "correct_index": 2,
+      "explanation": "The Ekpe festival is associated with the Efik and Ibibio people, featuring elaborate masquerades and secret society rituals.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_108",
+      "text": "The 'Durbar' festival in Northern Nigeria features:",
+      "options": ["Fishing competitions", "Horse riding and military displays", "New yam harvest", "Bronze exhibitions"],
+      "correct_index": 1,
+      "explanation": "The Durbar festival in Northern Nigeria features horse riding, military displays, and cultural performances, particularly during Eid celebrations.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_109",
+      "text": "The 'Osun-Osogbo' festival is held along which river?",
+      "options": ["River Niger", "River Benue", "Osun River", "Oshun River"],
+      "correct_index": 2,
+      "explanation": "The Osun-Osogbo festival is held along the Osun River in Osogbo, Osun State, honouring the river goddess Osun.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_110",
+      "text": "The 'Za'ma' festival among the Hausa celebrates:",
+      "options": ["The end of Ramadan", "The beginning of farming season", "A successful harvest", "A royal coronation"],
+      "correct_index": 1,
+      "explanation": "The Za'ma festival among the Hausa celebrates the beginning of the farming season, with prayers and community gatherings.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_111",
+      "text": "The Igbo 'Mmanwu' festival features:",
+      "options": ["Yam cooking competition", "Masquerade displays", "Fishing contests", "Horse racing"],
+      "correct_index": 1,
+      "explanation": "The Igbo Mmanwu festival features masquerade displays, where various masquerades perform to entertain and teach moral lessons.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_112",
+      "text": "The 'Akwumu' or puberty ceremony among the Igbo marks:",
+      "options": ["A boy's transition to manhood", "A girl's transition to womanhood", "Marriage eligibility", "Death of a community leader"],
+      "correct_index": 1,
+      "explanation": "The Akwumu ceremony among the Igbo marks a girl's transition to womanhood, celebrating her readiness for marriage.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_113",
+      "text": "The 'Isale Eko' festival is associated with:",
+      "options": ["Lagos Island", "Ibadan", "Oyo", "Ijebu-Ode"],
+      "correct_index": 0,
+      "explanation": "The Isale Eko festival is associated with Lagos Island, celebrating the cultural heritage and traditions of the indigenes.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_114",
+      "text": "The 'Ofala' festival among the Igbo celebrates:",
+      "options": ["Harvest", "The coronation/anniversary of a king", "Coming of age", "Ancestors"],
+      "correct_index": 1,
+      "explanation": "The Ofala festival among the Igbo celebrates the coronation or anniversary of a king (Obi/Eze), showcasing royal authority.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_115",
+      "text": "The 'Iri Aho' (New Year) festival among the Igbo is connected to:",
+      "options": ["The farming calendar", "The beginning of a new cycle of festivals", "The rainy season", "Trade activities"],
+      "correct_index": 1,
+      "explanation": "The Iri Aho festival among the Igbo marks the beginning of a new cycle of traditional festivals and activities.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_116",
+      "text": "The 'Lafian' ceremony among the Tiv people is a:",
+      "options": ["Wedding ceremony", "Harvest thanksgiving", "Funeral rite", "Naming ceremony"],
+      "correct_index": 2,
+      "explanation": "The Lafian ceremony among the Tiv people is a funeral rite performed to honour the deceased and ensure peaceful transition to the spirit world.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_117",
+      "text": "The Igbo kinship system is predominantly:",
+      "options": ["Matrilineal", "Patrilineal", "Bilateral", "Ambilineal"],
+      "correct_index": 1,
+      "explanation": "The Igbo kinship system is predominantly patrilineal, with descent traced through the male line from father to son.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_118",
+      "text": "The 'Iyalode' is a powerful female title holder among the:",
+      "options": ["Igbo", "Hausa", "Yoruba", "Edo"],
+      "correct_index": 2,
+      "explanation": "The Iyalode is a powerful female title holder among the Yoruba, representing the interests of women in the political system.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_119",
+      "text": "In the Hausa kinship system, 'Mama' refers to:",
+      "options": ["Father", "Mother's brother (maternal uncle)", "Elder sister", "Grandmother"],
+      "correct_index": 1,
+      "explanation": "In the Hausa kinship system, 'Mama' refers to the mother's brother or maternal uncle, who plays an important role in child upbringing.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_120",
+      "text": "The Yoruba 'Idile' (family) structure is based on:",
+      "options": ["Nuclear family only", "Extended family system", "Clan system", "Individual households"],
+      "correct_index": 1,
+      "explanation": "The Yoruba Idile (family) structure is based on the extended family system, including grandparents, uncles, aunts, and cousins.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_121",
+      "text": "The 'Igwedebhe' council is the highest decision-making body in:",
+      "options": ["Yoruba kingdoms", "Edo Kingdom", "Igbo communities", "Hausa emirates"],
+      "correct_index": 1,
+      "explanation": "The Igwedebhe council is the highest decision-making body in the Enoic/Benin Kingdom, serving as an advisory council to the Oba.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_122",
+      "text": "In Igbo social organization, 'Umunna' means:",
+      "options": ["Village assembly", "Children of the father", "Council of elders", "Age grade"],
+      "correct_index": 1,
+      "explanation": "Umunna in Igbo social organization means 'children of the father,' referring to a patrilineal kinship group.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_123",
+      "text": "The 'Age Grade' system is most prominent among which group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Edo"],
+      "correct_index": 1,
+      "explanation": "The Age Grade system is most prominent among the Igbo people, where individuals born within a similar period form groups with specific responsibilities.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_124",
+      "text": "The Yoruba 'Ebi' (family) system emphasizes:",
+      "options": ["Individual achievement", "Collective identity and solidarity", "Competition", "Isolation"],
+      "correct_index": 1,
+      "explanation": "The Yoruba Ebi system emphasizes collective identity and solidarity, with family members supporting each other in various life events.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_125",
+      "text": "The 'Lamido' title in the Fulani emirate system signifies:",
+      "options": ["A commoner", "A provincial ruler", "A religious leader", "A military commander"],
+      "correct_index": 1,
+      "explanation": "The Lamido title in the Fulani emirate system signifies a provincial ruler who governs a subdivision of the emirate.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_126",
+      "text": "Among the Igbo, the 'Umuada' plays what role in marriage ceremonies?",
+      "options": ["They oppose the marriage", "They bless and support the union", "They negotiate bride price", "They perform funeral rites"],
+      "correct_index": 1,
+      "explanation": "The Umuada (daughters of the lineage) play an important role in Igbo marriage ceremonies, providing blessings and support for the union.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_127",
+      "text": "The Hausa 'Sarauta' title system includes ranks such as:",
+      "options": ["Emir, District Head, Village Head", "President, Governor, Commissioner", "Pastor, Bishop, Archbishop", "Chief, Elder, Leader"],
+      "correct_index": 0,
+      "explanation": "The Hausa Sarauta title system includes hierarchical ranks such as Emir, District Head, and Village Head, reflecting the administrative structure.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_128",
+      "text": "The 'Isa' (spirit) medium in Tiv society serves as:",
+      "options": ["A farmer", "A priest and healer", "A warrior", "A trader"],
+      "correct_index": 1,
+      "explanation": "The Isa (spirit) medium in Tiv society serves as a priest and healer, communicating with the spirit world on behalf of the community.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_129",
+      "text": "In the traditional Yoruba family, the 'Olori Ebi' is the:",
+      "options": ["Youngest member", "Head of the extended family", "Family priest", "Family trader"],
+      "correct_index": 1,
+      "explanation": "The Olori Ebi is the head of the extended family in Yoruba tradition, responsible for family decisions and welfare.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_130",
+      "text": "The 'Imporoko' trade item was used as currency in pre-colonial:",
+      "options": ["Northern Nigeria", "South-Western Nigeria", "South-Eastern Nigeria", "North-Central Nigeria"],
+      "correct_index": 2,
+      "explanation": "Cowrie shells (Imporoko) were widely used as currency in pre-colonial Nigeria, particularly in the South-Eastern and other regions.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_131",
+      "text": "Farming is the primary occupation of most Nigerians because:",
+      "options": ["Nigeria has no other resources", "Agriculture is the backbone of the economy", "It is the only available job", "Nigerians prefer farming"],
+      "correct_index": 1,
+      "explanation": "Agriculture is the backbone of Nigeria's economy and the primary occupation for the majority of the population, especially in rural areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_132",
+      "text": "The 'Sardauna' title is associated with which Nigerian region?",
+      "options": ["South-West", "South-East", "North-West", "South-South"],
+      "correct_index": 2,
+      "explanation": "The Sardauna title (meaning 'Vanguard of the Faith') is associated with the North-Western region of Nigeria, particularly the old Kano and Katsina Emirates.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_133",
+      "text": "The major cash crops in pre-colonial Nigeria included:",
+      "options": ["Palm oil, cocoa, rubber", "Petroleum, natural gas", "Steel, aluminum", "Cement, glass"],
+      "correct_index": 0,
+      "explanation": "Major cash crops in pre-colonial and early colonial Nigeria included palm oil, cocoa, and rubber, which were important for trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_134",
+      "text": "The 'Kanawa' (Kano market) was famous for trading in:",
+      "options": ["Palm oil only", "Textiles, leather, and agricultural products", "Petroleum products", "Iron ore"],
+      "correct_index": 1,
+      "explanation": "The Kano market was famous for trading in textiles, leather goods, and agricultural products, making it a major commercial center.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_135",
+      "text": "The 'Okada' (commercial motorcycle) economy is most prominent in:",
+      "options": ["Rural farming communities", "Urban and semi-urban areas", "Oil-producing regions", "Desert areas"],
+      "correct_index": 1,
+      "explanation": "The Okada (commercial motorcycle) economy is most prominent in urban and semi-urban areas, providing affordable transportation.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_136",
+      "text": "Fishing is a primary occupation in which part of Nigeria?",
+      "options": ["The North", "The South-South and coastal areas", "The North-West", "The North-East"],
+      "correct_index": 1,
+      "explanation": "Fishing is a primary occupation in the South-South and coastal areas of Nigeria, where rivers and waterways are abundant.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_137",
+      "text": "The 'Nnewi' industrial cluster in Anambra State is known for:",
+      "options": ["Oil refining", "Manufacturing and entrepreneurship", "Fishing", "Cattle rearing"],
+      "correct_index": 1,
+      "explanation": "Nnewi in Anambra State is known as the 'Japan of Africa' for its manufacturing and entrepreneurship, particularly in automobile assembly.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_138",
+      "text": "The 'Trans-Saharan trade' involved the exchange of goods between Nigeria and:",
+      "options": ["East Africa", "North Africa and Europe via the Sahara", "South America", "Asia"],
+      "correct_index": 1,
+      "explanation": "The Trans-Saharan trade involved the exchange of goods between Nigeria (particularly the North) and North Africa and Europe across the Sahara Desert.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_139",
+      "text": "The 'Aba Women's Riot' of 1929 was primarily against:",
+      "options": ["Taxation and colonial administration", "Farming restrictions", "Religious persecution", "Educational policies"],
+      "correct_index": 0,
+      "explanation": "The Aba Women's Riot of 1929 was primarily against taxation and colonial administration, particularly the indirect rule system imposed by the British.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_140",
+      "text": "Indigo dyeing is a traditional craft particularly associated with:",
+      "options": ["The Igbo", "The Hausa of Kano", "The Yoruba of Lagos", "The Edo of Benin"],
+      "correct_index": 1,
+      "explanation": "Indigo dyeing is a traditional craft particularly associated with the Hausa of Kano, where the famous dye pits have existed for centuries.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_141",
+      "text": "The Igbo 'Uli' painting tradition uses pigments from:",
+      "options": ["Mineral sources only", "Plant-based sources", "Animal blood", "Synthetic dyes"],
+      "correct_index": 1,
+      "explanation": "The Igbo Uli painting tradition uses pigments from plant-based sources, creating beautiful designs on walls and bodies.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_142",
+      "text": "The 'Adire Eleko' cloth is decorated using:",
+      "options": ["Embroidery", "Starch-resist dyeing", "Printing", "Weaving"],
+      "correct_index": 1,
+      "explanation": "Adire Eleko is decorated using starch-resist dyeing technique, where cassava starch paste is applied to create patterns before indigo dyeing.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_143",
+      "text": "Traditional Igbo architecture features buildings made primarily of:",
+      "options": ["Concrete blocks", "Mud and thatch", "Bricks and tiles", "Steel and glass"],
+      "correct_index": 1,
+      "explanation": "Traditional Igbo architecture features buildings made primarily of mud and thatch, with round or rectangular designs.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_144",
+      "text": "The 'Gwari' architectural style features:",
+      "options": ["Round huts with conical thatched roofs", "Multi-story buildings", "Underground dwellings", "Tree houses"],
+      "correct_index": 0,
+      "explanation": "The Gwari (Gbagyi) architectural style features round huts with conical thatched roofs, typical of the Middle Belt region.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_145",
+      "text": "The Hausa 'Dakakari' architecture is known for:",
+      "options": ["Wooden carvings", "Adobe/mud-brick construction with distinctive decoration", "Stone buildings", "Bamboo structures"],
+      "correct_index": 1,
+      "explanation": "Hausa architecture is known for its Adobe/mud-brick construction with distinctive decorative patterns on walls and buildings.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_146",
+      "text": "The traditional Yoruba palace (Afin) is characterized by:",
+      "options": ["Minimal decoration", "Ornate architecture with carved pillars and painted walls", "Underground chambers", "Floating structures"],
+      "correct_index": 1,
+      "explanation": "The traditional Yoruba palace (Afin) is characterized by ornate architecture with carved pillars, painted walls, and elaborate courtyards.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_147",
+      "text": "The 'Birni' (walled city) of Kano was constructed to:",
+      "options": ["Attract tourists", "Provide defense and control trade routes", "House the royal family only", "Store grain"],
+      "correct_index": 1,
+      "explanation": "The Birni (walled city) of Kano was constructed to provide defense against invaders and to control the lucrative trade routes.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_148",
+      "text": "Traditional Igbo buildings often feature:",
+      "options": ["Flat roofs", "Thatched roofs with ridge decorations", "Tiled roofs", "Metal roofs"],
+      "correct_index": 1,
+      "explanation": "Traditional Igbo buildings often feature thatched roofs with ridge decorations, reflecting both functional and aesthetic design principles.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_149",
+      "text": "The 'Gusau' mosque architecture is an example of:",
+      "options": ["Igbo building style", "Yoruba building style", "Hausa-Islamic architectural style", "Benin building style"],
+      "correct_index": 2,
+      "explanation": "The Gusau mosque is an example of Hausa-Islamic architectural style, featuring adobe construction with Islamic geometric patterns.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_150",
+      "text": "The 'Igbo-Sokoto' architectural influence is seen in:",
+      "options": ["Coastal buildings", "Northern Nigerian mosques and palaces", "Eastern Nigerian shrines", "Southern Nigerian churches"],
+      "correct_index": 1,
+      "explanation": "The Igbo-Sokoto architectural influence is seen in Northern Nigerian mosques and palaces, featuring adobe construction with Islamic decorative elements.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_151",
+      "text": "The Benin Kingdom was at its peak during which period?",
+      "options": ["12th-14th century", "15th-17th century", "18th-19th century", "10th-12th century"],
+      "correct_index": 1,
+      "explanation": "The Benin Kingdom was at its peak during the 15th-17th centuries, known for its sophisticated political system and remarkable art.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_152",
+      "text": "The 'Jihad of Usman dan Fodio' took place in:",
+      "options": ["1750", "1804", "1861", "1914"],
+      "correct_index": 1,
+      "explanation": "The Jihad of Usman dan Fodio took place in 1804, leading to the establishment of the Sokoto Caliphate and the spread of Islam in Northern Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_153",
+      "text": "The 'Nri Kingdom' is considered the oldest kingdom in:",
+      "options": ["Yorubaland", "Hausaland", "Igboland", "Edoland"],
+      "correct_index": 2,
+      "explanation": "The Nri Kingdom is considered the oldest kingdom in Igboland, dating back to the 10th century and known for its priestly role.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_154",
+      "text": "The 'Fall of Benin' to the British occurred in:",
+      "options": ["1892", "1897", "1901", "1914"],
+      "correct_index": 1,
+      "explanation": "The Fall of Benin to the British occurred in 1897 during the 'Benin Expedition,' resulting in the looting of the famous Benin Bronzes.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_155",
+      "text": "The 'Kanem-Bornu Empire' was located around which geographical feature?",
+      "options": ["River Niger", "River Benue", "Lake Chad", "Atlantic Coast"],
+      "correct_index": 2,
+      "explanation": "The Kanem-Bornu Empire was located around Lake Chad, controlling important trade routes between North and Central Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_156",
+      "text": "The 'Atlantic slave trade' significantly affected which parts of Nigeria?",
+      "options": ["Only the North", "Only the East", "Primarily the coastal and hinterland areas", "Only the Western region"],
+      "correct_index": 2,
+      "explanation": "The Atlantic slave trade significantly affected the coastal and hinterland areas of Nigeria, particularly the South-West, South-East, and South-South regions.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_157",
+      "text": "The 'Oyo Empire' reached its peak power in the:",
+      "options": ["14th century", "17th-18th centuries", "12th century", "19th century"],
+      "correct_index": 1,
+      "explanation": "The Oyo Empire reached its peak power in the 17th-18th centuries, becoming one of the most powerful states in West Africa.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_158",
+      "text": "The 'Aro Confederacy' was a political union of:",
+      "options": ["Hausa states", "Igbo communities", "Yoruba kingdoms", "Edo communities"],
+      "correct_index": 1,
+      "explanation": "The Aro Confederacy was a political union of Igbo communities, centered around the Arochukwu Kingdom and its oracle.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_159",
+      "text": "The British policy of 'Indirect Rule' in Nigeria was implemented by:",
+      "options": ["Lord Lugard only", "Multiple colonial administrators", "The Church Missionary Society", "The Royal Niger Company"],
+      "correct_index": 1,
+      "explanation": "The British policy of Indirect Rule was implemented by multiple colonial administrators, beginning with Lord Lugard and continued by his successors.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_160",
+      "text": "The 'Kano Chronicle' is an important historical document that provides information about:",
+      "options": ["Yoruba history", "Hausa states history", "Igbo history", "Edo history"],
+      "correct_index": 1,
+      "explanation": "The Kano Chronicle is an important historical document that provides detailed information about the history of the Hausa states.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_161",
+      "text": "The impact of colonialism on Nigerian culture includes:",
+      "options": ["Only positive changes", "Only negative changes", "Both positive and negative changes", "No significant changes"],
+      "correct_index": 2,
+      "explanation": "Colonialism had both positive and negative impacts on Nigerian culture, introducing western education while also disrupting traditional institutions.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_162",
+      "text": "The introduction of Christianity in Nigeria led to:",
+      "options": ["Complete rejection of all traditional practices", "Significant changes in social and religious life", "No changes in Nigerian society", "Only negative effects"],
+      "correct_index": 1,
+      "explanation": "The introduction of Christianity led to significant changes in social and religious life, including education, healthcare, and cultural practices.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_163",
+      "text": "The 'Assimilation Policy' of colonialism aimed to:",
+      "options": ["Preserve indigenous cultures", "Make Africans adopt European culture", "Promote African languages", "Establish democratic governance"],
+      "correct_index": 1,
+      "explanation": "The Assimilation Policy aimed to make Africans adopt European culture, language, and customs, viewing African cultures as inferior.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_164",
+      "text": "The codification of 'Native Courts' during colonialism affected:",
+      "options": ["Only economic activities", "Traditional judicial systems", "Religious practices only", "Agricultural production"],
+      "correct_index": 1,
+      "explanation": "The codification of Native Courts during colonialism affected traditional judicial systems, formalizing and sometimes limiting indigenous legal practices.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_165",
+      "text": "The 'Aba Women's Riot' of 1929 demonstrated:",
+      "options": ["Women's acceptance of colonial rule", "Women's resistance to colonial policies", "Men's opposition to taxation", "Children's protest against education"],
+      "correct_index": 1,
+      "explanation": "The Aba Women's Riot demonstrated women's resistance to colonial policies, particularly taxation and the threat to their traditional trading rights.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_166",
+      "text": "Colonial education in Nigeria was initially dominated by:",
+      "options": ["Government schools", "Missionary/religious organizations", "Private businesses", "Traditional institutions"],
+      "correct_index": 1,
+      "explanation": "Colonial education in Nigeria was initially dominated by missionary/religious organizations, who established schools to spread Christianity and western education.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_167",
+      "text": "The 'Amalgamation of 1914' merged which two territories?",
+      "options": ["Northern and Southern Nigeria", "Lagos and Calabar", "Kano and Lagos", "Benin and Borno"],
+      "correct_index": 0,
+      "explanation": "The Amalgamation of 1914 merged the Northern and Southern Nigeria protectorates into a single entity called Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_168",
+      "text": "The introduction of cash crops during colonialism led to:",
+      "options": ["Preservation of subsistence farming only", "Shift from subsistence to commercial agriculture", "Decline in agricultural production", "No change in farming practices"],
+      "correct_index": 1,
+      "explanation": "The introduction of cash crops during colonialism led to a shift from subsistence to commercial agriculture, affecting traditional farming patterns.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_169",
+      "text": "The colonial policy of 'Warrant Chiefs' in Eastern Nigeria was implemented because:",
+      "options": ["The Igbo had kings", "The Igbo had no centralized political system", "The Igbo rejected colonial rule", "The Igbo preferred warrants"],
+      "correct_index": 1,
+      "explanation": "The colonial policy of Warrant Chiefs was implemented in Eastern Nigeria because the Igbo had no centralized political system that the British could easily co-opt.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_170",
+      "text": "The introduction of money economy during colonialism disrupted:",
+      "options": ["Traditional trade by barter only", "Both economic and social systems", "Only religious practices", "Only political structures"],
+      "correct_index": 1,
+      "explanation": "The introduction of money economy disrupted both economic and social systems, changing trade relationships, marriage practices, and social hierarchies.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_171",
+      "text": "Nigeria's cultural diversity is described as a source of:",
+      "options": ["Only conflict", "Only unity", "Both strength and challenge", "Neither strength nor challenge"],
+      "correct_index": 2,
+      "explanation": "Nigeria's cultural diversity is both a source of strength through cultural richness and a challenge requiring management of differences.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_172",
+      "text": "The 'National Policy on Education' recognizes the importance of:",
+      "options": ["Only English language", "Mother tongue education", "Foreign languages only", "No language policy"],
+      "correct_index": 1,
+      "explanation": "The National Policy on Education recognizes the importance of mother tongue education, particularly at the primary level.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_173",
+      "text": "The concept of 'Unity in Diversity' in Nigeria emphasizes:",
+      "options": ["Cultural uniformity", "Respecting differences while maintaining national unity", "Eliminating minority cultures", "Promoting one dominant culture"],
+      "correct_index": 1,
+      "explanation": "The concept of Unity in Diversity emphasizes respecting cultural differences while maintaining national unity and cohesion.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_174",
+      "text": "Nigerian proverbs serve the function of:",
+      "options": ["Entertainment only", "Transmitting wisdom and moral values", "Religious worship", "Economic exchange"],
+      "correct_index": 1,
+      "explanation": "Nigerian proverbs serve the important function of transmitting wisdom, moral values, and cultural knowledge from one generation to another.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_175",
+      "text": "A famous Yoruba proverb says 'Agbara ko ni ogun, a bi a ki i ri' which means:",
+      "options": ["Wisdom is power", "Strength is not about warfare but how you present yourself", "Money solves all problems", "The elderly are always right"],
+      "correct_index": 1,
+      "explanation": "This Yoruba proverb translates to mean that true strength is not about warfare but about how you carry yourself and present your case.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_176",
+      "text": "Nigeria has approximately how many indigenous languages?",
+      "options": ["About 100", "About 250", "About 500", "Over 500"],
+      "correct_index": 2,
+      "explanation": "Nigeria has approximately 500 indigenous languages, making it one of the most linguistically diverse countries in Africa.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_177",
+      "text": "English serves as Nigeria's official language because:",
+      "options": ["It was spoken before colonialism", "It was imposed during colonialism", "Nigerians prefer it to local languages", "It has always been the national language"],
+      "correct_index": 1,
+      "explanation": "English serves as Nigeria's official language because it was imposed during British colonialism as the language of administration and education.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_178",
+      "text": "The Yoruba language is classified as belonging to which language family?",
+      "options": ["Nilo-Saharan", "Niger-Congo", "Afroasiatic", "Khoisan"],
+      "correct_index": 1,
+      "explanation": "The Yoruba language is classified as belonging to the Niger-Congo language family, specifically the Volta-Niger branch.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_179",
+      "text": "The Hausa language uses which writing system?",
+      "options": ["Latin script only", "Arabic-based Ajami script", "Indigenous hieroglyphics", "Chinese characters"],
+      "correct_index": 1,
+      "explanation": "The Hausa language traditionally uses the Arabic-based Ajami script, though the Latin-based Boko script is now more common.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_180",
+      "text": "The 'Pidgin English' in Nigeria serves as:",
+      "options": ["The official language", "A lingua franca for informal communication", "A religious language", "A language of the elite only"],
+      "correct_index": 1,
+      "explanation": "Pidgin English serves as a lingua franca for informal communication across ethnic groups in Nigeria, particularly in urban and southern areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_181",
+      "text": "The Igbo 'Iwa' ceremony is a rite of passage marking:",
+      "options": ["Birth", "Adolescence/coming of age", "Marriage", "Death"],
+      "correct_index": 1,
+      "explanation": "The Igbo Iwa ceremony is a rite of passage marking adolescence or coming of age, signifying the transition from childhood to adulthood.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_182",
+      "text": "The Yoruba 'Omo Iya' naming ceremony typically takes place on which day after birth?",
+      "options": ["The same day", "Third or seventh day", "Fortieth day", "One year after"],
+      "correct_index": 1,
+      "explanation": "The Yoruba naming ceremony typically takes place on the third or seventh day after birth, when the child receives its traditional name.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_183",
+      "text": "The 'Iri-Aha' initiation ceremony among the Igbo marks:",
+      "options": ["Marriage eligibility", "Entry into adult society", "Religious conversion", "Death preparation"],
+      "correct_index": 1,
+      "explanation": "The Iri-Aha initiation ceremony among the Igbo marks entry into adult society, where young people are initiated into adult responsibilities.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_184",
+      "text": "The Hausa 'Sunan Rana' naming ceremony takes place on:",
+      "options": ["The first day after birth", "The seventh day after birth", "The fortieth day after birth", "The naming day"],
+      "correct_index": 1,
+      "explanation": "The Hausa Sunan Rana (day naming) ceremony takes place on the seventh day after birth, which is considered auspicious.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_185",
+      "text": "The Yoruba 'Idobale' (prostration) is a sign of:",
+      "options": ["Disrespect", "Respect for elders", "Greeting for peers", "Religious worship"],
+      "correct_index": 1,
+      "explanation": "The Yoruba Idobale (full prostration) is a sign of deep respect for elders, performed by young males when greeting older relatives.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_186",
+      "text": "The 'Ise Odu' (seventh day) ceremony in Yoruba culture celebrates:",
+      "options": ["Marriage", "Naming of a newborn", "Death anniversary", "Harvest"],
+      "correct_index": 1,
+      "explanation": "The Ise Odu (seventh day) ceremony in Yoruba culture celebrates the naming of a newborn, marking the child's official entry into the family.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_187",
+      "text": "The Igbo 'Ikwa Ozọ' title-taking ceremony is a:",
+      "options": ["Childbirth celebration", "Coming of age ceremony", "Marriage ceremony", "Death rite"],
+      "correct_index": 1,
+      "explanation": "The Ikwa Ozọ title-taking ceremony is a coming of age ceremony among the Igbo, where young men assume adult titles and responsibilities.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_188",
+      "text": "The Yoruba funeral rites typically last for how many days?",
+      "options": ["One day only", "Three to seven days", "Thirty days", "One year"],
+      "correct_index": 1,
+      "explanation": "Yoruba funeral rites typically last for three to seven days, depending on the status and wishes of the deceased and their family.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_189",
+      "text": "The Hausa 'Suya' (night vigil) during funeral rites serves to:",
+      "options": ["Entertain guests only", "Honour the deceased through prayers and songs", "Collect money", "Arrange marriages"],
+      "correct_index": 1,
+      "explanation": "The Hausa Suya (night vigil) during funeral rites serves to honour the deceased through prayers, songs, and religious recitations.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_190",
+      "text": "Traditional Nigerian medicine uses remedies from:",
+      "options": ["Only animal sources", "Only plant sources", "Plants, animals, and minerals", "Synthetic chemicals only"],
+      "correct_index": 2,
+      "explanation": "Traditional Nigerian medicine uses remedies from plants, animals, and minerals, combining herbal knowledge with spiritual practices.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_191",
+      "text": "The Yoruba traditional healer is known as:",
+      "options": ["Babalawo", "Dibia", "Bokwoi", "All of the above"],
+      "correct_index": 3,
+      "explanation": "The Yoruba traditional healer is known as Babalawo (father of secrets), Dibia, or Bokwoi, depending on the specific community.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_192",
+      "text": "The 'Nwanyi' society among the Igbo is responsible for:",
+      "options": ["Men's affairs only", "Women's welfare and community decisions", "Military defense", "Trade negotiations"],
+      "correct_index": 1,
+      "explanation": "The Nwanyi society among the Igbo is responsible for women's welfare and plays a role in community decisions affecting women.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_193",
+      "text": "The traditional Igbo education system relies heavily on:",
+      "options": ["Formal classroom teaching", "Apprenticeship and oral tradition", "Written textbooks only", "Online learning"],
+      "correct_index": 1,
+      "explanation": "Traditional Igbo education relies heavily on apprenticeship and oral tradition, where skills and knowledge are passed from elders to youth.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_194",
+      "text": "Nigerian traditional moral systems emphasize:",
+      "options": ["Individual achievement only", "Respect for elders and communal values", "Competition", "Material wealth"],
+      "correct_index": 1,
+      "explanation": "Nigerian traditional moral systems emphasize respect for elders, communal values, honesty, and social responsibility.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_195",
+      "text": "The process of 'Cultural Change' in Nigeria is driven by:",
+      "options": ["Traditional practices only", "Modernization, education, and global influences", "Government policies only", "Religious practices"],
+      "correct_index": 1,
+      "explanation": "Cultural change in Nigeria is driven by modernization, education, urbanization, and global influences, affecting traditional practices and values.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_196",
+      "text": "The 'Ozo' title among the Igbo represents:",
+      "options": ["A religious position", "Social status and achievement", "A military rank", "A trading license"],
+      "correct_index": 1,
+      "explanation": "The Ozo title among the Igbo represents social status and achievement, awarded to men who have demonstrated integrity and community service.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_197",
+      "text": "Nigerian traditional conflict resolution often involves:",
+      "options": ["Physical combat only", "Mediation by elders and customary law", "Court litigation", "War between communities"],
+      "correct_index": 1,
+      "explanation": "Nigerian traditional conflict resolution involves mediation by elders, councils, and customary law, prioritizing peaceful settlement of disputes.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst113_1_198",
+      "text": "The Yoruba 'Igbagbo' (faith/belief) system teaches that:",
+      "options": ["Only earthly life matters", "There is a connection between the physical and spiritual worlds", "The dead have no influence", "Ancestors should be forgotten"],
+      "correct_index": 1,
+      "explanation": "The Yoruba Igbagbo system teaches that there is a connection between the physical and spiritual worlds, with ancestors playing active roles.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst113_1_199",
+      "text": "The concept of 'Omniscience' in Yoruba traditional belief attributes to Olodumare the quality of:",
+      "options": ["Being invisible", "Knowing everything", "Being powerful", "Being merciful"],
+      "correct_index": 1,
+      "explanation": "In Yoruba traditional belief, omniscience (knowing everything) is attributed to Olodumare, the Supreme Being who sees and knows all things.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst113_1_200",
+      "text": "The preservation of Nigerian cultural heritage is important because it:",
+      "options": ["Prevents modernization", "Maintains identity and provides continuity for future generations", "Only benefits the elderly", "Has no practical value"],
+      "correct_index": 1,
+      "explanation": "Preserving Nigerian cultural heritage is important because it maintains identity, provides continuity, and ensures future generations understand their roots.",
+      "difficulty": 1
+    }
+  ]
+}

@@ -414,7 +414,7 @@ class _PracticeResultScreenState extends State<PracticeResultScreen> with Single
               width: double.infinity,
               height: 50.0,
               child: ElevatedButton.icon(
-                onPressed: () {
+                onPressed: () async {
                   final courseProvider = Provider.of<CourseProvider>(context, listen: false);
                   final quizProvider = Provider.of<QuizProvider>(context, listen: false);
                   final settingsProvider = Provider.of<SettingsProvider>(context, listen: false);
@@ -422,14 +422,16 @@ class _PracticeResultScreenState extends State<PracticeResultScreen> with Single
                     (c) => c.id == widget.courseId,
                     orElse: () => courseProvider.courses.first,
                   );
+                  if (!mounted) return;
                   Navigator.of(context).popUntil((route) => route.isFirst);
-                  quizProvider.startSession(
+                  await quizProvider.startSession(
                     course: course,
                     mode: QuizMode.practice,
                     soundOn: settingsProvider.settings.soundOn,
-                  ).then((_) {
+                  );
+                  if (mounted) {
                     Navigator.pushNamed(context, AppRoutes.practice);
-                  });
+                  }
                 },
                 icon: const Icon(Icons.replay_rounded, size: 20),
                 label: const Text('Retake Practice', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15)),

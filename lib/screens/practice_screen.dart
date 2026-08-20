@@ -212,7 +212,7 @@ class PracticeScreen extends StatelessWidget {
                           onPressed: () {
                             final profile = Provider.of<ProfileProvider>(context, listen: false);
                             final adsRemoved = Provider.of<SettingsProvider>(context, listen: false).settings.adsRemoved;
-                            if (profile.profile!.coins >= AppConstants.coinsForHint) {
+                            if ((profile.profile?.coins ?? 0) >= AppConstants.coinsForHint) {
                               _showHintConfirmDialog(context, profile, quizProvider, adsRemoved: adsRemoved);
                             } else if (!adsRemoved) {
                               _showRewardedHintDialog(context, quizProvider);

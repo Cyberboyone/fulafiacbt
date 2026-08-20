@@ -146,6 +146,7 @@ class HiveService {
     await Hive.box(AppConstants.settingsBox).clear();
     await Hive.box(AppConstants.questionsBox).clear();
     await Hive.box(AppConstants.downloadsBox).clear();
+    await Hive.box(AppConstants.claimedCodesBox).clear();
     _initDefaults();
   }
 }

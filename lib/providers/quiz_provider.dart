@@ -32,6 +32,12 @@ class QuizProvider with ChangeNotifier {
   bool get soundOn => _soundOn;
   void setSoundOn(bool value) {
     _soundOn = value;
+    notifyListeners();
+  }
+
+  void cancelExam() {
+    _cancelTimer();
+    notifyListeners();
   }
 
   // Practice Mode

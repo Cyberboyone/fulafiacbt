@@ -1,0 +1,1887 @@
+{
+  "course_id": "gst111",
+  "course_name": "Use of English",
+  "version": "1.0.2",
+  "questions": [
+    {
+      "id": "gst111_001",
+      "text": "Choose the correct form: She ___ to the market every morning.",
+      "options": ["go", "goes", "going", "gone"],
+      "correct_index": 1,
+      "explanation": "Third person singular present tense requires the -s/-es ending.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_002",
+      "text": "Which of the following is an antonym of 'generous'?",
+      "options": ["kind", "charitable", "stingy", "giving"],
+      "correct_index": 2,
+      "explanation": "Stingy is the opposite of generous; it means unwilling to give or spend.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_003",
+      "text": "Identify the error: 'Neither the teacher nor the students was present.'",
+      "options": ["Neither", "nor", "was", "present"],
+      "correct_index": 2,
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject (students = plural), so it should be 'were'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_004",
+      "text": "What does the idiom 'to burn the midnight oil' mean?",
+      "options": ["To waste resources", "To work late into the night", "To start a fire", "To be angry"],
+      "correct_index": 1,
+      "explanation": "This idiom means to work or study late at night.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_005",
+      "text": "Choose the correct preposition: She is interested ___ learning French.",
+      "options": ["at", "on", "in", "for"],
+      "correct_index": 2,
+      "explanation": "The correct prepositional phrase is 'interested in'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_006",
+      "text": "Which sentence is in the passive voice?",
+      "options": [
+        "The boy kicked the ball.",
+        "The ball was kicked by the boy.",
+        "The boy is kicking the ball.",
+        "The boy will kick the ball."
+      ],
+      "correct_index": 1,
+      "explanation": "The passive voice follows the pattern: subject + be + past participle (+ by agent).",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_007",
+      "text": "Choose the correct article: He is ___ honest man.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_index": 1,
+      "explanation": "'An' is used before words starting with a vowel sound. 'Honest' begins with a vowel sound.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_008",
+      "text": "What is the plural of 'child'?",
+      "options": ["childs", "childen", "children", "childes"],
+      "correct_index": 2,
+      "explanation": "The plural of 'child' is 'children' (irregular plural).",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_009",
+      "text": "Choose the correct tense: By the time we arrived, they ___ already left.",
+      "options": ["have", "has", "had", "having"],
+      "correct_index": 2,
+      "explanation": "The past perfect tense ('had left') is used for an action completed before another past action.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_010",
+      "text": "Which word is a conjunction in this sentence: 'He studied hard, ___ he passed the exam.'?",
+      "options": ["He", "hard", "and", "passed"],
+      "correct_index": 2,
+      "explanation": "'And' is a coordinating conjunction connecting two clauses.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_011",
+      "text": "Choose the correct indirect speech: He said, 'I am tired.'",
+      "options": [
+        "He said he is tired.",
+        "He said he was tired.",
+        "He said he has been tired.",
+        "He said he will be tired."
+      ],
+      "correct_index": 1,
+      "explanation": "In reported speech, present tense shifts to past tense: 'am' becomes 'was'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_012",
+      "text": "What figure of speech is used in: 'Time is money'?",
+      "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+      "correct_index": 1,
+      "explanation": "This is a metaphor because it directly compares time to money without using 'like' or 'as'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_013",
+      "text": "Choose the correct form: The news ___ good.",
+      "options": ["is", "are", "were", "has been"],
+      "correct_index": 0,
+      "explanation": "'News' is an uncountable noun and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_014",
+      "text": "Which sentence contains a punctuation error?",
+      "options": [
+        "The students passed the exam.",
+        "Where are you going?",
+        "He said stop.",
+        "It is a beautiful day."
+      ],
+      "correct_index": 2,
+      "explanation": "'He said stop' should have a comma and quotation marks: He said, 'Stop.' or He said, 'Stop!'",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_015",
+      "text": "Choose the correct conditional: If I ___ rich, I would travel the world.",
+      "options": ["am", "was", "were", "will be"],
+      "correct_index": 2,
+      "explanation": "In second conditional sentences, 'were' is used for all subjects (subjunctive mood).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_016",
+      "text": "Which word is an uncountable noun?",
+      "options": ["book", "chair", "furniture", "student"],
+      "correct_index": 2,
+      "explanation": "'Furniture' is uncountable; you cannot say 'a furniture' or 'furnitures'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_017",
+      "text": "What is the correct spelling?",
+      "options": ["accomodation", "accommodation", "acomodation", "accommadation"],
+      "correct_index": 1,
+      "explanation": "The correct spelling is 'accommodation' with double c and double m.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_018",
+      "text": "Choose the correct modal: You ___ respect your elders.",
+      "options": ["should", "can", "may", "might"],
+      "correct_index": 0,
+      "explanation": "'Should' expresses obligation or moral duty, which fits the context of respecting elders.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_019",
+      "text": "In Nigerian English, what does 'chop' typically mean?",
+      "options": ["To cut", "To eat", "To steal", "To fight"],
+      "correct_index": 1,
+      "explanation": "In Nigerian English, 'chop' commonly means 'to eat'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_020",
+      "text": "Choose the correct form: One of the students ___ absent yesterday.",
+      "options": ["was", "were", "are", "has been"],
+      "correct_index": 0,
+      "explanation": "'One of the students' takes a singular verb because 'one' is the subject.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_021",
+      "text": "Which word is an adverb?",
+      "options": ["beautiful", "quickly", "happiness", "running"],
+      "correct_index": 1,
+      "explanation": "'Quickly' modifies a verb and is formed with the -ly suffix, making it an adverb.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_022",
+      "text": "Choose the correct tense: I ___ in Lagos since 2020.",
+      "options": ["live", "lived", "have lived", "am living"],
+      "correct_index": 2,
+      "explanation": "The present perfect tense is used with 'since' to indicate an action that started in the past and continues.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_023",
+      "text": "What does the proverb 'A word is enough for the wise' mean?",
+      "options": [
+        "Wise people talk too much",
+        "A wise person needs only a hint to understand",
+        "Words are not important",
+        "Wise people are silent"
+      ],
+      "correct_index": 1,
+      "explanation": "This proverb means that a smart person understands quickly without needing lengthy explanation.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_024",
+      "text": "Choose the correct possessive form: The ___ car is parked outside.",
+      "options": ["boys", "boys'", "boy's", "boys's"],
+      "correct_index": 2,
+      "explanation": "For singular possession, add 's to the noun: boy's.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_025",
+      "text": "Which sentence is grammatically correct?",
+      "options": [
+        "Each of the students have submitted their work.",
+        "Each of the students has submitted their work.",
+        "Each of the students have submitted his work.",
+        "Each of the students has submitted their assignment."
+      ],
+      "correct_index": 1,
+      "explanation": "'Each' is singular and takes 'has'. 'Their' is now widely accepted as a singular gender-neutral pronoun.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_026",
+      "text": "Choose the correct preposition: The teacher walked ___ the classroom.",
+      "options": ["in", "into", "at", "on"],
+      "correct_index": 1,
+      "explanation": "'Into' indicates movement from outside to inside.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_027",
+      "text": "Which sentence uses a simile?",
+      "options": [
+        "The sun smiled at us.",
+        "Her eyes sparkled like diamonds.",
+        "The wind whispered through the trees.",
+        "Life is a journey."
+      ],
+      "correct_index": 1,
+      "explanation": "A simile compares two things using 'like' or 'as'. 'Eyes sparkled like diamonds' uses 'like'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_028",
+      "text": "Choose the correct tag question: She is a doctor, ___?",
+      "options": ["is she", "isn't she", "doesn't she", "wasn't she"],
+      "correct_index": 1,
+      "explanation": "A positive statement takes a negative tag: 'isn't she'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_029",
+      "text": "Which word is a countable noun?",
+      "options": ["water", "rice", "information", "dog"],
+      "correct_index": 3,
+      "explanation": "'Dog' is countable: you can say 'a dog' or 'dogs'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_030",
+      "text": "Choose the correct form: The team ___ playing well this season.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "In standard British English, collective nouns like 'team' take singular verbs.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_031",
+      "text": "What is the main idea of a passage usually found in?",
+      "options": ["The last sentence only", "The topic sentence", "Any random sentence", "The conclusion only"],
+      "correct_index": 1,
+      "explanation": "The main idea is typically expressed in the topic sentence, usually at the beginning of a paragraph.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_032",
+      "text": "Choose the correct reported speech: 'Please close the door,' she said.",
+      "options": [
+        "She said please close the door.",
+        "She asked to close the door.",
+        "She requested me to close the door.",
+        "She told me to close the door."
+      ],
+      "correct_index": 3,
+      "explanation": "Commands become reported speech with 'told + object + to + infinitive'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_033",
+      "text": "Which of the following is NOT a part of speech?",
+      "options": ["Noun", "Verb", "Sentence", "Adjective"],
+      "correct_index": 2,
+      "explanation": "'Sentence' is a grammatical unit, not a part of speech.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_034",
+      "text": "Choose the correct tense: If it ___ tomorrow, we will stay at home.",
+      "options": ["rains", "will rain", "rained", "would rain"],
+      "correct_index": 0,
+      "explanation": "In first conditional sentences, the if-clause uses the present simple tense.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_035",
+      "text": "What does the idiom 'to spill the beans' mean?",
+      "options": ["To waste food", "To reveal a secret", "To make a mistake", "To be generous"],
+      "correct_index": 1,
+      "explanation": "This idiom means to disclose secret information.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_036",
+      "text": "Choose the correct form: The furniture in the room ___ new.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'Furniture' is uncountable and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_037",
+      "text": "Which sentence has correct punctuation?",
+      "options": [
+        "My name, is John.",
+        "My name is John.",
+        "My name: is John.",
+        "My name; is John."
+      ],
+      "correct_index": 1,
+      "explanation": "No punctuation is needed between the verb and its complement in a simple sentence.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_038",
+      "text": "Choose the correct preposition: The meeting is ___ Monday.",
+      "options": ["at", "on", "in", "by"],
+      "correct_index": 1,
+      "explanation": "We use 'on' with specific days.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_039",
+      "text": "In a formal letter, which greeting is most appropriate?",
+      "options": ["Hey there!", "Dear Sir/Madam,", "What's up?", "Hello friend,"],
+      "correct_index": 1,
+      "explanation": "'Dear Sir/Madam' is the standard formal greeting when the recipient's name is unknown.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_040",
+      "text": "Choose the correct form: He suggested that she ___ early.",
+      "options": ["comes", "come", "came", "will come"],
+      "correct_index": 1,
+      "explanation": "After verbs like 'suggest', the subjunctive mood uses the base form of the verb.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_041",
+      "text": "What is the synonym of 'abundant'?",
+      "options": ["Scarce", "Plentiful", "Limited", "Rare"],
+      "correct_index": 1,
+      "explanation": "'Abundant' means existing in large quantities; 'plentiful' is its synonym.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_042",
+      "text": "Choose the correct form: Everybody ___ their own opinion.",
+      "options": ["have", "has", "having", "had"],
+      "correct_index": 1,
+      "explanation": "'Everybody' is an indefinite pronoun and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_043",
+      "text": "Which sentence uses the active voice correctly?",
+      "options": [
+        "The homework was done by the student.",
+        "The student did the homework.",
+        "The homework is being done.",
+        "The homework has been done."
+      ],
+      "correct_index": 1,
+      "explanation": "In the active voice, the subject performs the action: 'The student did the homework.'",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_044",
+      "text": "Choose the correct conjunction: Study hard, ___ you will fail.",
+      "options": ["and", "but", "or", "so"],
+      "correct_index": 2,
+      "explanation": "'Or' is used to express a consequence if the action is not taken.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_045",
+      "text": "What type of noun is 'Lagos'?",
+      "options": ["Common noun", "Abstract noun", "Proper noun", "Collective noun"],
+      "correct_index": 2,
+      "explanation": "'Lagos' is a proper noun because it is the name of a specific city.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_046",
+      "text": "Choose the correct form: The children ___ playing in the park.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Children' is a plural noun and requires a plural verb.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_047",
+      "text": "Which word best completes: 'The professor gave a ___ on climate change.'",
+      "options": ["speak", "speaking", "lecture", "talked"],
+      "correct_index": 2,
+      "explanation": "'Lecture' is the correct noun to complete the phrase 'gave a lecture on'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_048",
+      "text": "Choose the correct tense: They ___ dinner when the phone rang.",
+      "options": ["cook", "cooked", "were cooking", "have cooked"],
+      "correct_index": 2,
+      "explanation": "The past continuous tense is used for an ongoing action interrupted by another event.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_049",
+      "text": "What is the meaning of 'to hit the nail on the head'?",
+      "options": [
+        "To cause pain",
+        "To be exactly right",
+        "To do hard work",
+        "To make a mistake"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to describe exactly what is causing a situation or problem.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_050",
+      "text": "Choose the correct form: Neither the principal nor the teachers ___ available.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject 'teachers' (plural).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_051",
+      "text": "Which word is a preposition?",
+      "options": ["quickly", "under", "happy", "run"],
+      "correct_index": 1,
+      "explanation": "'Under' shows the relationship of position between words.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_052",
+      "text": "Choose the correct form: The woman who lives next door ___ a nurse.",
+      "options": ["am", "is", "are", "were"],
+      "correct_index": 1,
+      "explanation": "'The woman' is singular and takes the singular verb 'is'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_053",
+      "text": "What is the purpose of a topic sentence?",
+      "options": [
+        "To conclude a paragraph",
+        "To introduce the main idea of a paragraph",
+        "To provide examples",
+        "To summarize the essay"
+      ],
+      "correct_index": 1,
+      "explanation": "A topic sentence introduces the main idea that the paragraph will discuss.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_054",
+      "text": "Choose the correct indirect speech: He asked, 'Where do you live?'",
+      "options": [
+        "He asked where do I live.",
+        "He asked where I lived.",
+        "He asked where I live.",
+        "He asked where did I live."
+      ],
+      "correct_index": 1,
+      "explanation": "In reported questions, word order changes to statement order and tense shifts back.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_055",
+      "text": "Choose the correct modal: You ___ have told me about the exam.",
+      "options": ["must", "should", "could", "would"],
+      "correct_index": 1,
+      "explanation": "'Should have + past participle' expresses regret or criticism about a past action.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_056",
+      "text": "Which sentence has a subject-verb agreement error?",
+      "options": [
+        "The dogs bark loudly.",
+        "The cat sleeps on the sofa.",
+        "The boys plays football.",
+        "She reads every day."
+      ],
+      "correct_index": 2,
+      "explanation": "'The boys' is plural and should take 'play', not 'plays'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_057",
+      "text": "What does 'to add insult to injury' mean?",
+      "options": [
+        "To heal someone",
+        "To make a bad situation worse",
+        "To be polite",
+        "To recover from illness"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to make a bad or unpleasant situation even worse.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_058",
+      "text": "Choose the correct form: The news from the village ___ disturbing.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'News' is uncountable and always takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_059",
+      "text": "Which word is an adjective?",
+      "options": ["sing", "tall", "quickly", "happiness"],
+      "correct_index": 1,
+      "explanation": "'Tall' describes a noun and is therefore an adjective.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_060",
+      "text": "Choose the correct tense: She will have finished the project by tomorrow.",
+      "options": [
+        "Simple present",
+        "Present perfect",
+        "Future perfect",
+        "Past perfect"
+      ],
+      "correct_index": 2,
+      "explanation": "'Will have finished' is the future perfect tense, showing completion before a future time.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_061",
+      "text": "In Nigerian English, what does 'dash' mean?",
+      "options": ["To run fast", "To give a tip or bribe", "To break", "To cook"],
+      "correct_index": 1,
+      "explanation": "In Nigerian English, 'dash' means to give money as a tip or bribe.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_062",
+      "text": "Choose the correct form: The police ___ investigating the case.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Police' is a plural noun in standard English and takes a plural verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_063",
+      "text": "Which sentence correctly uses a semicolon?",
+      "options": [
+        "I like tea; and coffee.",
+        "I like tea; coffee is also good.",
+        "I like tea;, coffee.",
+        "I; like tea and coffee."
+      ],
+      "correct_index": 1,
+      "explanation": "A semicolon connects two related independent clauses: 'I like tea; coffee is also good.'",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_064",
+      "text": "Choose the correct form: A number of students ___ absent today.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'A number of' is followed by a plural noun and takes a plural verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_065",
+      "text": "What is personification?",
+      "options": [
+        "Comparing two things with 'like'",
+        "Giving human qualities to non-human things",
+        "Exaggerating for effect",
+        "Using words that imitate sounds"
+      ],
+      "correct_index": 1,
+      "explanation": "Personification gives human characteristics to animals, objects, or ideas.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_066",
+      "text": "Choose the correct tense: I ___ this book before.",
+      "options": ["read", "have read", "am reading", "will read"],
+      "correct_index": 1,
+      "explanation": "The present perfect tense is used for experiences that happened at an unspecified time.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_067",
+      "text": "Which word means the same as 'commence'?",
+      "options": ["End", "Begin", "Continue", "Pause"],
+      "correct_index": 1,
+      "explanation": "'Commence' means to begin or start.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_068",
+      "text": "Choose the correct preposition: The exam will commence ___ 9 a.m.",
+      "options": ["at", "on", "in", "by"],
+      "correct_index": 0,
+      "explanation": "We use 'at' with specific times.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_069",
+      "text": "Choose the correct form: Either the students or the teacher ___ responsible.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "With 'either...or', the verb agrees with the nearer subject 'teacher' (singular).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_070",
+      "text": "What is the plural of 'ox'?",
+      "options": ["oxes", "oxen", "oxies", "oxs"],
+      "correct_index": 1,
+      "explanation": "The plural of 'ox' is 'oxen' (irregular plural).",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_071",
+      "text": "Choose the correct form: The boy, together with his friends, ___ going to the cinema.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "The phrase 'together with' does not make the subject plural. 'The boy' is singular.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_072",
+      "text": "Which is the correct sentence in standard English?",
+      "options": [
+        "He don't like beans.",
+        "He doesn't like beans.",
+        "He not like beans.",
+        "He no like beans."
+      ],
+      "correct_index": 1,
+      "explanation": "'Doesn't' (does not) is the correct negation for third person singular in standard English.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_073",
+      "text": "Choose the correct tense: We ___ to Abuja next week.",
+      "options": ["travel", "traveled", "are traveling", "have traveled"],
+      "correct_index": 2,
+      "explanation": "The present continuous can be used to express future plans.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_074",
+      "text": "What does the proverb 'Unity is strength' mean?",
+      "options": [
+        "Strong people are united",
+        "Working together makes us powerful",
+        "Strength comes from exercise",
+        "United people are always strong"
+      ],
+      "correct_index": 1,
+      "explanation": "This proverb emphasizes that cooperation and togetherness lead to greater power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_075",
+      "text": "Choose the correct modal: He ___ be at home by now.",
+      "options": ["must", "might", "shall", "need"],
+      "correct_index": 1,
+      "explanation": "'Might' expresses possibility; it suggests he possibly is at home.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_076",
+      "text": "Which sentence uses 'whom' correctly?",
+      "options": [
+        "Whom is coming to the party?",
+        "To whom it may concern,",
+        "Whom do you think will win?",
+        "Whom went to the market?"
+      ],
+      "correct_index": 1,
+      "explanation": "'Whom' is the object form of 'who' and is correct after a preposition: 'To whom'.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_077",
+      "text": "Choose the correct form: The books that I borrowed ___ interesting.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Books' is plural and the relative clause describes it, so the verb must be plural.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_078",
+      "text": "What is the antonym of 'ancient'?",
+      "options": ["Old", "Modern", "Historical", "Antique"],
+      "correct_index": 1,
+      "explanation": "'Ancient' means very old; 'modern' is its opposite.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_079",
+      "text": "Choose the correct form: The number of applicants ___ increasing.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'The number of' is followed by a plural noun but takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_080",
+      "text": "Which is NOT a correct use of a comma?",
+      "options": [
+        "After an introductory clause",
+        "Between items in a list",
+        "Before the subject of a sentence",
+        "Before a coordinating conjunction joining two independent clauses"
+      ],
+      "correct_index": 2,
+      "explanation": "A comma should not be placed between the subject and the verb of a sentence.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_081",
+      "text": "Choose the correct form: She asked me ___ I could help her.",
+      "options": ["that", "if", "whether", "what"],
+      "correct_index": 1,
+      "explanation": "'If' is used to report yes/no questions in indirect speech.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_082",
+      "text": "Which sentence has a dangling modifier?",
+      "options": [
+        "Walking to class, the rain started.",
+        "She walked to class in the rain.",
+        "The rain started while she was walking.",
+        "Walking to class, she got wet."
+      ],
+      "correct_index": 0,
+      "explanation": "'Walking to class' incorrectly modifies 'the rain' instead of a person.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_083",
+      "text": "Choose the correct tense: By next year, I ___ here for five years.",
+      "options": ["work", "worked", "will have worked", "am working"],
+      "correct_index": 2,
+      "explanation": "Future perfect tense is used for actions that will be completed before a future time.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_084",
+      "text": "What does 'to cry over spilt milk' mean?",
+      "options": [
+        "To waste time on something done",
+        "To be very sad about something",
+        "To clean up a mess",
+        "To complain about food"
+      ],
+      "correct_index": 0,
+      "explanation": "This idiom means to waste time being upset about something that has already happened.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_085",
+      "text": "Choose the correct form: The company have announced their results. (British usage)",
+      "options": [
+        "This is correct in British English.",
+        "This is always incorrect.",
+        "It should be 'has'.",
+        "It should be 'had'."
+      ],
+      "correct_index": 0,
+      "explanation": "In British English, collective nouns can take plural verbs when emphasizing individual members.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_086",
+      "text": "Choose the correct preposition: She has been absent ___ Monday.",
+      "options": ["from", "since", "for", "during"],
+      "correct_index": 1,
+      "explanation": "'Since' is used with a specific point in time to indicate the start of a period.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_087",
+      "text": "Which word is a countable noun?",
+      "options": ["advice", "furniture", "luggage", "book"],
+      "correct_index": 3,
+      "explanation": "'Book' is countable: you can say 'a book' or 'books'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_088",
+      "text": "Choose the correct form: Every boy and every girl ___ entitled to education.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "When two singular subjects are connected by 'and' with 'every', the verb is singular.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_089",
+      "text": "What is the tone of this sentence: 'The results were disappointing but not unexpected'?",
+      "options": ["Angry", "Objective", "Excited", "Sarcastic"],
+      "correct_index": 1,
+      "explanation": "The sentence presents a balanced, factual observation without strong emotion.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_090",
+      "text": "Choose the correct form: He made me ___ the truth.",
+      "options": ["telling", "to tell", "tell", "told"],
+      "correct_index": 2,
+      "explanation": "After causative verbs like 'make', the base form of the verb (infinitive without 'to') is used.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_091",
+      "text": "In Nigerian English, what does 'flash' mean in phone context?",
+      "options": [
+        "To take a photo",
+        "To call briefly so the person sees your number",
+        "To send a text",
+        "To use a flashlight"
+      ],
+      "correct_index": 1,
+      "explanation": "In Nigerian English, 'flash' means to make a brief call so the recipient sees your number.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_092",
+      "text": "Choose the correct tense: If I had known, I ___ you.",
+      "options": ["would help", "would have helped", "will help", "helped"],
+      "correct_index": 1,
+      "explanation": "Third conditional: If + past perfect, would have + past participle.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_093",
+      "text": "Which word is an abstract noun?",
+      "options": ["table", "freedom", "student", "car"],
+      "correct_index": 1,
+      "explanation": "'Freedom' is an abstract noun because it refers to a concept, not a physical object.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_094",
+      "text": "Choose the correct form: The scissors ___ on the table.",
+      "options": ["is", "was", "are", "has been"],
+      "correct_index": 2,
+      "explanation": "'Scissors' is a plural noun (like 'trousers') and takes a plural verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_095",
+      "text": "What does the idiom 'break the ice' mean?",
+      "options": [
+        "To freeze something",
+        "To initiate conversation in an awkward situation",
+        "To break something fragile",
+        "To start a fight"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to make people feel more comfortable in a social situation.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_096",
+      "text": "Choose the correct form: The jury ___ reached a verdict.",
+      "options": ["have", "has", "are", "were"],
+      "correct_index": 1,
+      "explanation": "In standard English, 'jury' as a single body takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_097",
+      "text": "Which sentence correctly uses 'fewer'?",
+      "options": [
+        "There are fewer water in the bottle.",
+        "There are fewer students today.",
+        "There are lesser people attending.",
+        "There are fewer furniture in the room."
+      ],
+      "correct_index": 1,
+      "explanation": "'Fewer' is used with countable nouns: 'fewer students'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_098",
+      "text": "Choose the correct tense: She has been working here ___ 2019.",
+      "options": ["for", "since", "from", "during"],
+      "correct_index": 1,
+      "explanation": "'Since' is used with a point in time (2019) with the present perfect continuous tense.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_099",
+      "text": "What is the correct way to address an envelope in formal writing?",
+      "options": [
+        "Put the sender's address at the top right",
+        "Put the recipient's address at the bottom left",
+        "Put the recipient's address on the left side below the date",
+        "No address is needed"
+      ],
+      "correct_index": 2,
+      "explanation": "In formal letter writing, the recipient's address goes on the left side.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_100",
+      "text": "Choose the correct form: He is one of those people who ___ always complaining.",
+      "options": ["is", "was", "are", "has been"],
+      "correct_index": 2,
+      "explanation": "The relative pronoun 'who' refers to 'people' (plural), so the verb is plural.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_101",
+      "text": "Choose the correct preposition: The lecture is ___ grammar.",
+      "options": ["on", "in", "at", "by"],
+      "correct_index": 0,
+      "explanation": "We say 'a lecture on' a topic.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_102",
+      "text": "Which sentence is a compound sentence?",
+      "options": [
+        "Although it rained, we went out.",
+        "She studied hard, so she passed.",
+        "The boy who won is my friend.",
+        "Running quickly, he caught the bus."
+      ],
+      "correct_index": 1,
+      "explanation": "A compound sentence has two independent clauses joined by a coordinating conjunction.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_103",
+      "text": "Choose the correct tense: I will call you when I ___ home.",
+      "options": ["arrive", "arrived", "will arrive", "have arrived"],
+      "correct_index": 0,
+      "explanation": "In time clauses with 'when', the present simple tense is used to refer to the future.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_104",
+      "text": "Which word means 'to make something smaller'?",
+      "options": ["expand", "increase", "reduce", "enlarge"],
+      "correct_index": 2,
+      "explanation": "'Reduce' means to make something smaller in size, amount, or degree.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_105",
+      "text": "Choose the correct form: Mathematics ___ one of the difficult subjects.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "'Mathematics' is a singular noun and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_106",
+      "text": "What does 'to call it a day' mean?",
+      "options": [
+        "To work all day",
+        "To stop working for the day",
+        "To name something",
+        "To be lazy"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to stop working on something, usually for the rest of the day.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_107",
+      "text": "Choose the correct form: A pair of shoes ___ lying on the floor.",
+      "options": ["is", "are", "were", "has been"],
+      "correct_index": 0,
+      "explanation": "'A pair of' is treated as singular because 'pair' is singular.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_108",
+      "text": "Which word is a collective noun?",
+      "options": ["individual", "crowd", "person", "tree"],
+      "correct_index": 1,
+      "explanation": "'Crowd' is a collective noun referring to a group of people.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_109",
+      "text": "Choose the correct tense: He ___ already ___ when I arrived.",
+      "options": ["had, left", "has, left", "was, leaving", "did, leave"],
+      "correct_index": 0,
+      "explanation": "Past perfect tense (had + past participle) shows an action completed before another past action.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_110",
+      "text": "Choose the correct direct speech: She said that she was happy.",
+      "options": [
+        "She said, 'I am happy.'",
+        "She said, 'I was happy.'",
+        "She said, 'She is happy.'",
+        "She said, 'She was happy.'"
+      ],
+      "correct_index": 0,
+      "explanation": "When converting reported speech back to direct speech, the tense and pronouns revert to their original form.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_111",
+      "text": "What type of clause is 'because she was tired'?",
+      "options": [
+        "Independent clause",
+        "Adverbial clause",
+        "Relative clause",
+        "Noun clause"
+      ],
+      "correct_index": 1,
+      "explanation": "'Because she was tired' is an adverbial clause that modifies the main clause.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_112",
+      "text": "Choose the correct form: Both the teacher and the students ___ present.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Both...and' connects two subjects that together form a plural subject.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_113",
+      "text": "Choose the correct preposition: She is afraid ___ snakes.",
+      "options": ["from", "of", "with", "at"],
+      "correct_index": 1,
+      "explanation": "The correct phrase is 'afraid of'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_114",
+      "text": "Which sentence contains a run-on?",
+      "options": [
+        "She went to the market, and she bought food.",
+        "She went to the market she bought food.",
+        "Although she went to the market, she bought food.",
+        "She went to the market; she bought food."
+      ],
+      "correct_index": 1,
+      "explanation": "Two independent clauses are joined without any punctuation or conjunction.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_115",
+      "text": "Choose the correct form: The police ___ looking for the suspect.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Police' is always plural in standard English.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_116",
+      "text": "What is the meaning of 'once in a blue moon'?",
+      "options": [
+        "Every night",
+        "Very rarely",
+        "Once a month",
+        "During the day"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means something that happens very rarely.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_117",
+      "text": "Choose the correct form: Ten thousand naira ___ not enough.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "A sum of money is treated as a singular subject.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_118",
+      "text": "Which word is an adverb of frequency?",
+      "options": ["quickly", "always", "very", "here"],
+      "correct_index": 1,
+      "explanation": "'Always' tells us how often something happens, making it an adverb of frequency.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_119",
+      "text": "Choose the correct tense: He will come if you ___ him.",
+      "options": ["invite", "invited", "will invite", "would invite"],
+      "correct_index": 0,
+      "explanation": "In conditional sentences, the if-clause uses the present simple tense.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_120",
+      "text": "Choose the correct form: The herd of cattle ___ moving slowly.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'Herd' is the subject and is singular, so it takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_121",
+      "text": "What is a formal closing in a letter?",
+      "options": ["Cheers", "Yours faithfully", "See ya", "Bye bye"],
+      "correct_index": 1,
+      "explanation": "'Yours faithfully' is an appropriate formal closing when the recipient's name is unknown.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_122",
+      "text": "Choose the correct form: She insists on ___ the work herself.",
+      "options": ["do", "doing", "to do", "done"],
+      "correct_index": 1,
+      "explanation": "The preposition 'on' is followed by the gerund (-ing form).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_123",
+      "text": "Which sentence is in the active voice?",
+      "options": [
+        "The cake was baked by my mother.",
+        "My mother bakes a cake every Sunday.",
+        "A cake is being baked.",
+        "The cake has been eaten."
+      ],
+      "correct_index": 1,
+      "explanation": "In the active voice, the subject performs the action: 'My mother bakes'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_124",
+      "text": "Choose the correct preposition: He graduated ___ the University of Lagos.",
+      "options": ["from", "at", "in", "on"],
+      "correct_index": 0,
+      "explanation": "We say 'graduate from' an institution.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_125",
+      "text": "What is the correct plural of 'medium'?",
+      "options": ["mediums", "media", "mediumes", "medii"],
+      "correct_index": 1,
+      "explanation": "The plural of 'medium' is 'media' (from Latin).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_126",
+      "text": "Choose the correct tense: She would have come if she ___ invited.",
+      "options": ["is", "was", "were", "had been"],
+      "correct_index": 3,
+      "explanation": "Third conditional: If + past perfect (had been invited).",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_127",
+      "text": "Which sentence correctly uses an apostrophe?",
+      "options": [
+        "The dog wagged it's tail.",
+        "The dog wagged its tail.",
+        "The dogs wagged it's tails.",
+        "It's tail was long."
+      ],
+      "correct_index": 1,
+      "explanation": "'Its' (possessive) has no apostrophe. 'It's' means 'it is' or 'it has'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_128",
+      "text": "Choose the correct form: Everyone ___ here except John.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "'Everyone' is singular and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_129",
+      "text": "What is hyperbole?",
+      "options": [
+        "An understatement",
+        "An exaggeration for emphasis",
+        "A comparison using 'like'",
+        "A type of irony"
+      ],
+      "correct_index": 1,
+      "explanation": "Hyperbole is an extreme exaggeration used for emphasis or humorous effect.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_130",
+      "text": "Choose the correct tense: The train ___ by the time we got to the station.",
+      "options": ["left", "had left", "has left", "was leaving"],
+      "correct_index": 1,
+      "explanation": "Past perfect is used for an action completed before another past action.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_131",
+      "text": "Choose the correct form: The species of fish ___ endangered.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'Species' is both singular and plural; here it is used as singular.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_132",
+      "text": "Which word is a relative pronoun?",
+      "options": ["and", "which", "because", "but"],
+      "correct_index": 1,
+      "explanation": "'Which' introduces relative clauses and refers back to a noun.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_133",
+      "text": "Choose the correct indirect speech: He said, 'I will come tomorrow.'",
+      "options": [
+        "He said he would come tomorrow.",
+        "He said he will come the next day.",
+        "He said he would come the next day.",
+        "He said he would come tomorrow."
+      ],
+      "correct_index": 2,
+      "explanation": "In reported speech, 'will' becomes 'would' and 'tomorrow' becomes 'the next day'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_134",
+      "text": "What does 'to beat around the bush' mean?",
+      "options": [
+        "To be direct",
+        "To avoid talking about the main topic",
+        "To fight",
+        "To search for something"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to avoid talking about what is important.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_135",
+      "text": "Choose the correct form: The information in these documents ___ confidential.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'Information' is uncountable and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_136",
+      "text": "Which sentence is correctly punctuated?",
+      "options": [
+        "My brother; lives in Abuja.",
+        "My brother lives in Abuja.",
+        "My brother: lives in Abuja.",
+        "My brother, lives in Abuja."
+      ],
+      "correct_index": 1,
+      "explanation": "No punctuation is needed between the subject and the verb in a simple sentence.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_137",
+      "text": "Choose the correct tense: He ___ working since morning.",
+      "options": ["is", "was", "has been", "had been"],
+      "correct_index": 2,
+      "explanation": "Present perfect continuous is used with 'since' for actions that started in the past and continue.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_138",
+      "text": "Choose the correct modal: You ___ smoke in the hospital.",
+      "options": ["must", "may", "must not", "can"],
+      "correct_index": 2,
+      "explanation": "'Must not' expresses prohibition, which is appropriate for hospital rules.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_139",
+      "text": "What is an antonym of 'transparent'?",
+      "options": ["Clear", "Opaque", "Visible", "Bright"],
+      "correct_index": 1,
+      "explanation": "'Opaque' means not able to be seen through, the opposite of transparent.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_140",
+      "text": "Choose the correct form: Mathematics and Science ___ compulsory subjects.",
+      "options": ["is", "was", "are", "has been"],
+      "correct_index": 2,
+      "explanation": "Two subjects joined by 'and' form a plural subject.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_141",
+      "text": "Choose the correct form: He suggested that the meeting ___ postponed.",
+      "options": ["is", "be", "was", "will be"],
+      "correct_index": 1,
+      "explanation": "After 'suggest', the subjunctive mood uses the base form: 'be postponed'.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_142",
+      "text": "In Nigerian English, what does 'return work' mean?",
+      "options": [
+        "To quit a job",
+        "To come back to work after an absence",
+        "To submit an assignment",
+        "To redo a task"
+      ],
+      "correct_index": 1,
+      "explanation": "In Nigerian English, 'return work' often means to resume duty after being away.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_143",
+      "text": "Choose the correct tense: We ___ never ___ such a beautiful place.",
+      "options": ["have, seen", "had, seen", "are, seeing", "will, see"],
+      "correct_index": 0,
+      "explanation": "Present perfect tense is used for life experiences.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_144",
+      "text": "Which word is a conjunction?",
+      "options": ["quickly", "although", "happy", "table"],
+      "correct_index": 1,
+      "explanation": "'Although' is a subordinating conjunction that introduces a dependent clause.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_145",
+      "text": "Choose the correct form: The children ___ not ___ to go out.",
+      "options": ["is, allow", "are, allowed", "were, allow", "has, allowed"],
+      "correct_index": 1,
+      "explanation": "'The children' is plural, and the passive form is 'are allowed'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_146",
+      "text": "What is the tone of this passage: 'Nigeria is a great country with abundant resources and hardworking people.'?",
+      "options": ["Critical", "Patriotic", "Sarcastic", "Neutral"],
+      "correct_index": 1,
+      "explanation": "The passage expresses pride and positive feelings about Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_147",
+      "text": "Choose the correct preposition: She is fond ___ reading.",
+      "options": ["at", "on", "of", "with"],
+      "correct_index": 2,
+      "explanation": "The correct phrase is 'fond of'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_148",
+      "text": "Choose the correct form: The manager, as well as his employees, ___ going to the conference.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "'As well as' does not make the subject plural. 'Manager' is singular.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_149",
+      "text": "What does 'to be on cloud nine' mean?",
+      "options": [
+        "To be confused",
+        "To be extremely happy",
+        "To be tired",
+        "To be angry"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to be extremely happy or elated.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_150",
+      "text": "Choose the correct tense: If I ___ you, I would apologize.",
+      "options": ["am", "was", "were", "will be"],
+      "correct_index": 2,
+      "explanation": "In second conditional sentences, 'were' is used for all subjects.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_151",
+      "text": "Choose the correct form: The pair of glasses ___ on the table.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'A pair of' is singular; the verb agrees with 'pair'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_152",
+      "text": "Which is the correct comparative form of 'good'?",
+      "options": ["gooder", "more good", "better", "best"],
+      "correct_index": 2,
+      "explanation": "'Better' is the comparative form of 'good' (irregular).",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_153",
+      "text": "Choose the correct form: Three-fourths of the work ___ completed.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "When a fraction refers to an uncountable noun ('work'), the verb is singular.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_154",
+      "text": "Choose the correct form: He is taller ___ his brother.",
+      "options": ["from", "than", "to", "as"],
+      "correct_index": 1,
+      "explanation": "'Than' is used after comparative adjectives.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_155",
+      "text": "What does the idiom 'a blessing in disguise' mean?",
+      "options": [
+        "A curse that seems good",
+        "Something bad that turns out to be good",
+        "A hidden gift",
+        "A religious blessing"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom describes something that seems bad at first but results in something good.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_156",
+      "text": "Choose the correct tense: She ___ to Lagos tomorrow.",
+      "options": ["go", "goes", "is going", "has gone"],
+      "correct_index": 2,
+      "explanation": "The present continuous can express a planned future action.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_157",
+      "text": "Which sentence uses 'who' correctly?",
+      "options": [
+        "Who did you meet?",
+        "Whom is at the door?",
+        "Who book is this?",
+        "Who did this?"
+      ],
+      "correct_index": 0,
+      "explanation": "'Who' is the subject form. In 'Who did you meet?', 'who' is the object of 'meet'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_158",
+      "text": "Choose the correct form: The data ___ analyzed by the researchers.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Data' is technically plural (singular: datum) and takes a plural verb.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_159",
+      "text": "Choose the correct preposition: He has been married ___ 10 years.",
+      "options": ["since", "for", "from", "during"],
+      "correct_index": 1,
+      "explanation": "'For' is used with a period of time (10 years).",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_160",
+      "text": "What is the plural of 'cactus'?",
+      "options": ["cactuses", "cacti", "cacties", "cactuss"],
+      "correct_index": 1,
+      "explanation": "The plural of 'cactus' is 'cacti' (from Latin).",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_161",
+      "text": "Choose the correct tense: If I had studied harder, I ___ the exam.",
+      "options": ["would pass", "would have passed", "will pass", "passed"],
+      "correct_index": 1,
+      "explanation": "Third conditional: If + past perfect, would have + past participle.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_162",
+      "text": "Choose the correct form: The news about the accident ___ very sad.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'News' is uncountable and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_163",
+      "text": "Which word is an interjection?",
+      "options": ["well", "run", "happy", "under"],
+      "correct_index": 0,
+      "explanation": "'Well' can be used as an interjection to express surprise or hesitation.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_164",
+      "text": "Choose the correct form: She enjoys ___ classical music.",
+      "options": ["listen", "listening", "to listen", "listened"],
+      "correct_index": 1,
+      "explanation": "The verb 'enjoy' is followed by the gerund (-ing form).",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_165",
+      "text": "Which sentence has correct subject-verb agreement?",
+      "options": [
+        "The group of students are ready.",
+        "The group of students is ready.",
+        "The group of students have been ready.",
+        "The group of students were ready."
+      ],
+      "correct_index": 1,
+      "explanation": "'Group' is the subject and is singular; 'of students' is a prepositional phrase.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_166",
+      "text": "What does 'to let the cat out of the bag' mean?",
+      "options": [
+        "To release an animal",
+        "To reveal a secret",
+        "To open a package",
+        "To be careless"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to accidentally reveal secret information.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_167",
+      "text": "Choose the correct tense: I ___ waiting for you since 8 o'clock.",
+      "options": ["am", "was", "have been", "had been"],
+      "correct_index": 2,
+      "explanation": "Present perfect continuous is used with 'since' for ongoing actions.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_168",
+      "text": "Choose the correct indirect speech: She said, 'Where is the hospital?'",
+      "options": [
+        "She asked where was the hospital.",
+        "She asked where the hospital was.",
+        "She asked where is the hospital.",
+        "She asked where the hospital is."
+      ],
+      "correct_index": 1,
+      "explanation": "In reported questions, word order becomes statement order and the tense shifts back.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_169",
+      "text": "Which sentence is a complex sentence?",
+      "options": [
+        "She went to school and came back.",
+        "When the bell rang, the students rushed out.",
+        "He likes tea. She likes coffee.",
+        "I went to the market."
+      ],
+      "correct_index": 1,
+      "explanation": "A complex sentence has one independent clause and at least one dependent clause.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_170",
+      "text": "Choose the correct form: Neither of the answers ___ correct.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "'Neither' is singular and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_171",
+      "text": "What is the correct way to write a date in formal English?",
+      "options": [
+        "20th of August, 2026",
+        "20 August 2026",
+        "August 20th, 2026",
+        "All of the above are acceptable"
+      ],
+      "correct_index": 3,
+      "explanation": "All three formats are acceptable in formal English writing.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_172",
+      "text": "Choose the correct form: Each of the books ___ a different story.",
+      "options": ["tell", "tells", "telling", "told"],
+      "correct_index": 1,
+      "explanation": "'Each' is singular and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_173",
+      "text": "Choose the correct tense: He ___ to the cinema yesterday.",
+      "options": ["go", "goes", "went", "has gone"],
+      "correct_index": 2,
+      "explanation": "The simple past tense is used with 'yesterday'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_174",
+      "text": "What does the proverb 'A stitch in time saves nine' mean?",
+      "options": [
+        "Sewing saves money",
+        "Fixing a problem early prevents it from getting worse",
+        "Time is important",
+        "Nine stitches are needed"
+      ],
+      "correct_index": 1,
+      "explanation": "This proverb means that solving a problem promptly prevents it from becoming bigger.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_175",
+      "text": "Choose the correct form: The army ___ deployed to the north.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "Collective nouns like 'army' can be treated as singular when acting as a unit.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_176",
+      "text": "Choose the correct modal: She ___ have passed the exam with such good grades.",
+      "options": ["must", "might", "could", "would"],
+      "correct_index": 0,
+      "explanation": "'Must have + past participle' expresses strong certainty about a past event.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_177",
+      "text": "Which word is a synonymous with 'commence'?",
+      "options": ["finish", "begin", "continue", "pause"],
+      "correct_index": 1,
+      "explanation": "'Commence' means to start or begin.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_178",
+      "text": "Choose the correct form: The students ___ asked to submit their assignments.",
+      "options": ["was", "is", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Students' is plural and requires a plural verb.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_179",
+      "text": "Which sentence contains a misplaced modifier?",
+      "options": [
+        "She served cake to the children on paper plates.",
+        "On paper plates, she served cake to the children.",
+        "She served cake on paper plates to the children.",
+        "She served cake to the children."
+      ],
+      "correct_index": 0,
+      "explanation": "'On paper plates' could modify 'children' instead of 'cake'.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_180",
+      "text": "Choose the correct preposition: The book is ___ the shelf.",
+      "options": ["in", "on", "at", "under"],
+      "correct_index": 1,
+      "explanation": "We use 'on' for objects resting on a surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_181",
+      "text": "Choose the correct tense: They ___ married for 20 years now.",
+      "options": ["are", "were", "have been", "had been"],
+      "correct_index": 2,
+      "explanation": "Present perfect continuous is used for ongoing states with 'for'.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_182",
+      "text": "What is the tone of this statement: 'The policy has been a complete failure.'?",
+      "options": ["Optimistic", "Critical", "Neutral", "Humorous"],
+      "correct_index": 1,
+      "explanation": "The statement expresses strong disapproval of the policy.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_183",
+      "text": "Choose the correct form: The furniture in the offices ___ brand new.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 0,
+      "explanation": "'Furniture' is uncountable and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_184",
+      "text": "Which word is an article?",
+      "options": ["my", "the", "this", "some"],
+      "correct_index": 1,
+      "explanation": "'The' is the definite article in English.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_185",
+      "text": "Choose the correct form: The children ___ happy to go to school.",
+      "options": ["is", "was", "were", "has been"],
+      "correct_index": 2,
+      "explanation": "'Children' is a plural noun and takes a plural verb.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_186",
+      "text": "Choose the correct tense: By the time the police arrived, the robbers ___ away.",
+      "options": ["run", "ran", "had run", "have run"],
+      "correct_index": 2,
+      "explanation": "Past perfect is used for an action completed before another past event.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_187",
+      "text": "What does 'to piece together' mean?",
+      "options": [
+        "To tear apart",
+        "To assemble or gather information gradually",
+        "To break into pieces",
+        "To decorate"
+      ],
+      "correct_index": 1,
+      "explanation": "This phrase means to assemble information or evidence from various sources.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_188",
+      "text": "Choose the correct preposition: The train arrived ___ 3:00 p.m.",
+      "options": ["on", "at", "in", "by"],
+      "correct_index": 1,
+      "explanation": "We use 'at' with specific times.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_189",
+      "text": "Which sentence has the correct use of 'affect' and 'effect'?",
+      "options": [
+        "The effect of the policy was great.",
+        "The affect of the policy was great.",
+        "The policy effected many people.",
+        "The policy was effected by the government."
+      ],
+      "correct_index": 0,
+      "explanation": "'Effect' (noun) means a result. 'Affect' is usually a verb meaning to influence.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_190",
+      "text": "Choose the correct tense: I ___ never ___ to China.",
+      "options": ["did, go", "have, been", "had, gone", "am, going"],
+      "correct_index": 1,
+      "explanation": "Present perfect with 'never' expresses life experience up to now.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_191",
+      "text": "Choose the correct form: The family ___ going on vacation next week.",
+      "options": ["is", "are", "were", "have been"],
+      "correct_index": 1,
+      "explanation": "In British English, 'family' can take a plural verb when emphasizing individual members.",
+      "difficulty": 3
+    },
+    {
+      "id": "gst111_192",
+      "text": "What is an antonym of 'temporary'?",
+      "options": ["Brief", "Short", "Permanent", "Current"],
+      "correct_index": 2,
+      "explanation": "'Permanent' means lasting forever, the opposite of temporary.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_193",
+      "text": "Choose the correct tense: He ___ already ___ his homework before I arrived.",
+      "options": ["has, finished", "had, finished", "was, finishing", "did, finish"],
+      "correct_index": 1,
+      "explanation": "Past perfect tense is used for actions completed before another past action.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_194",
+      "text": "Choose the correct form: The committee ___ decided on the new policy.",
+      "options": ["have", "has", "are", "were"],
+      "correct_index": 1,
+      "explanation": "When the committee acts as a single body, it takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_195",
+      "text": "Which sentence uses the correct form of 'there/their/they're'?",
+      "options": [
+        "Their going to the market.",
+        "The students left there bags.",
+        "They're coming to the party.",
+        "There is over there."
+      ],
+      "correct_index": 2,
+      "explanation": "'They're' is the contraction of 'they are'. 'They're coming' = 'They are coming'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_196",
+      "text": "Choose the correct tense: I will wait until you ___ ready.",
+      "options": ["are", "will be", "were", "would be"],
+      "correct_index": 0,
+      "explanation": "In time clauses with 'until', the present simple tense is used for the future.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_197",
+      "text": "What does the idiom 'to bite the dust' mean?",
+      "options": [
+        "To eat dirt",
+        "To fail or die",
+        "To be brave",
+        "To work hard"
+      ],
+      "correct_index": 1,
+      "explanation": "This idiom means to be defeated, to fail, or to die.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_198",
+      "text": "Choose the correct form: Neither of the students ___ present.",
+      "options": ["are", "were", "is", "have been"],
+      "correct_index": 2,
+      "explanation": "'Neither' is singular and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "gst111_199",
+      "text": "Which sentence is a question tag?",
+      "options": [
+        "You are coming, aren't you?",
+        "Are you coming?",
+        "I wonder if you are coming.",
+        "Coming?"
+      ],
+      "correct_index": 0,
+      "explanation": "A question tag is a short question added to a statement: 'aren't you?'",
+      "difficulty": 1
+    },
+    {
+      "id": "gst111_200",
+      "text": "Choose the correct form: Everybody ___ to be treated with respect.",
+      "options": ["want", "wants", "wanting", "wanted"],
+      "correct_index": 1,
+      "explanation": "'Everybody' is an indefinite pronoun and always takes a singular verb.",
+      "difficulty": 1
+    }
+  ]
+}
