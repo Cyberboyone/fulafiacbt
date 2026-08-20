@@ -411,7 +411,7 @@ class _ExamScreenState extends State<ExamScreen> {
               Provider.of<QuizProvider>(context, listen: false).cancelExam();
               Navigator.pop(context);
             },
-            child: const Text('Cancel Exam', style: TextStyle(color: AppConstants.destructive, fontWeight: FontWeight.bold)),
+            child: Text('Cancel Exam', style: TextStyle(color: AppConstants.destructive, fontWeight: FontWeight.bold)),
           ),
         ],
       ),
