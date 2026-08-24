@@ -57,7 +57,7 @@ class _Palette {
 }
 
 class AppColors {
-  // ── Runtime mode flag (swapped by the app root) ──
+  // â”€â”€ Runtime mode flag (swapped by the app root) â”€â”€
   static bool isDark = true;
 
   static const _Palette _darkPalette = _Palette(
@@ -134,41 +134,41 @@ class AppColors {
 
   static _Palette get _c => isDark ? _darkPalette : _lightPalette;
 
-  // ── Primary (Gold) ──
+  // â”€â”€ Primary (Gold) â”€â”€
   static const Color primary = Color(0xFFFFD700);
   static const Color primaryLight = Color(0xFFFFE566);
   static const Color primaryDark = Color(0xFFB8860B);
   static const Color onPrimary = Color(0xFF241A00);
 
-  // ── Secondary (Amber) ──
+  // â”€â”€ Secondary (Amber) â”€â”€
   static const Color secondary = Color(0xFFFFB300);
   static const Color secondaryLight = Color(0xFFFFCA56);
 
-  // ── Accent (Gold) ──
+  // â”€â”€ Accent (Gold) â”€â”€
   static const Color accent = Color(0xFFFFD700);
   static const Color accentLight = Color(0xFFFFE566);
 
-  // ── Backgrounds ──
+  // â”€â”€ Backgrounds â”€â”€
   static Color get background => _c.background;
   static Color get surface => _c.surface;
   static Color get card => _c.card;
 
-  // ── Glass ──
+  // â”€â”€ Glass â”€â”€
   static Color get glassBg => _c.glassBg;
   static Color get glassBorder => _c.glassBorder;
 
-  // ── Text ──
+  // â”€â”€ Text â”€â”€
   static Color get foreground => _c.foreground;
   static Color get textPrimary => _c.textPrimary;
   static Color get textSecondary => _c.textSecondary;
   static Color get textMuted => _c.textMuted;
 
-  // ── Muted / Borders ──
+  // â”€â”€ Muted / Borders â”€â”€
   static Color get muted => _c.muted;
   static Color get border => _c.border;
   static Color get divider => _c.divider;
 
-  // ── Semantic States ──
+  // â”€â”€ Semantic States â”€â”€
   static const Color correct = Color(0xFF00E676);
   static Color get correctLight => _c.correctLight;
   static const Color incorrect = Color(0xFFFF5252);
@@ -177,7 +177,7 @@ class AppColors {
   static Color get warningLight => _c.warningLight;
   static const Color destructive = Color(0xFFFF5252);
 
-  // ── Gamification ──
+  // â”€â”€ Gamification â”€â”€
   static const Color gold = Color(0xFFFFD700);
   static Color get goldLight => _c.goldLight;
   static const Color xp = Color(0xFFFFD166);
@@ -187,7 +187,7 @@ class AppColors {
   static const Color coins = Color(0xFFFFD700);
   static Color get coinsLight => _c.coinsLight;
 
-  // ── Legacy aliases ──
+  // â”€â”€ Legacy aliases â”€â”€
   static Color get navy => _c.background;
   static const Color orange = accent;
   static Color get cream => _c.background;
@@ -199,7 +199,7 @@ class AppColors {
   static Color get lavender => _c.lavender;
   static const Color cardShadow = Color(0x1AFFD700);
 
-  // ── Shadows ──
+  // â”€â”€ Shadows â”€â”€
   static final List<BoxShadow> clayShadow = [
     BoxShadow(
       offset: const Offset(0, 4),
@@ -237,7 +237,7 @@ class AppColors {
     ),
   ];
 
-  // ── Gradients ──
+  // â”€â”€ Gradients â”€â”€
   static const LinearGradient primaryGradient = LinearGradient(
     colors: [Color(0xFFFFD700), Color(0xFFB8860B)],
     begin: Alignment.topLeft,
@@ -279,6 +279,17 @@ class AppColors {
 }
 
 class AppTheme {
+  // Automatic light/dark switching based on the device's local time zone.
+  // Daytime (light) runs from [_dayStartHour] to [_nightStartHour]; otherwise dark.
+  static const int _dayStartHour = 6;
+  static const int _nightStartHour = 18;
+
+  static bool isNight(DateTime now) =>
+      now.hour < _dayStartHour || now.hour >= _nightStartHour;
+
+  /// True when the current local time should use the dark theme.
+  static bool get isDarkByTime => isNight(DateTime.now());
+
   static final ThemeData darkTheme = _buildTheme(dark: true);
   static final ThemeData lightTheme = _buildTheme(dark: false);
 
