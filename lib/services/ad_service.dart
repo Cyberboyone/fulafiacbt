@@ -13,7 +13,8 @@ class AdService {
   StreamSubscription? _connectivitySubscription;
   Timer? _periodicTimer;
   Timer? _backgroundPreloadTimer;
-  bool _hasMobileData = false;
+  bool _hasData = false;
+  DateTime? _lastOpenAdShown;
 
   InterstitialAd? _interstitialAd;
   RewardedAd? _rewardedAd;
@@ -43,18 +44,19 @@ class AdService {
   void _listenConnectivity() {
     _connectivitySubscription?.cancel();
     _connectivitySubscription = Connectivity().onConnectivityChanged.listen((result) {
-      _hasMobileData = result == ConnectivityResult.mobile;
-      if (result != ConnectivityResult.none) {
+      // Any active data connection (WiFi, mobile, ethernet, VPN) counts.
+      _hasData = result != ConnectivityResult.none;
+      if (_hasData) {
         debugPrint('[AdService] Network available ($result) - loading ads');
         _loadAll();
-        if (_hasMobileData) {
-          _preloadAdsForBackground();
-        }
+        _preloadAdsForBackground();
+      } else {
+        debugPrint('[AdService] No network - skipping ad download');
       }
     });
 
     Connectivity().checkConnectivity().then((result) {
-      _hasMobileData = result == ConnectivityResult.mobile;
+      _hasData = result != ConnectivityResult.none;
       debugPrint('[AdService] Initial connectivity: $result');
     });
   }
@@ -62,7 +64,7 @@ class AdService {
   void _startPeriodicPreload() {
     _periodicTimer?.cancel();
     _periodicTimer = Timer.periodic(const Duration(seconds: 30), (_) {
-      if (!_initFailed) {
+      if (!_initFailed && _hasData) {
         _loadAll();
       }
     });
@@ -71,8 +73,8 @@ class AdService {
   void _startBackgroundPreload() {
     _backgroundPreloadTimer?.cancel();
     _backgroundPreloadTimer = Timer.periodic(const Duration(minutes: 2), (_) {
-      if (!_initFailed && _hasMobileData) {
-        debugPrint('[AdService] Background preload cycle (mobile data)');
+      if (!_initFailed && _hasData) {
+        debugPrint('[AdService] Background preload cycle (data on)');
         _preloadAdsForBackground();
       }
     });
@@ -83,10 +85,37 @@ class AdService {
     if (!_rewardedReady) loadRewarded();
   }
 
-  void onAppResume() {
-    if (!_initFailed) {
-      debugPrint('[AdService] App resumed - refreshing ad cache');
-      _loadAll();
+  /// Called whenever the app is opened or resumed from the background.
+  /// Keeps the ad cache warm and displays an interstitial on open.
+  void handleAppOpened() {
+    if (_initFailed) return;
+    _loadAll();
+    _maybeShowOpenInterstitial();
+  }
+
+  void _maybeShowOpenInterstitial() {
+    final now = DateTime.now();
+    if (_lastOpenAdShown != null &&
+        now.difference(_lastOpenAdShown!) < const Duration(seconds: 20)) {
+      return; // already shown very recently (e.g. launch + immediate resume)
+    }
+
+    if (_interstitialReady && _interstitialAd != null) {
+      _lastOpenAdShown = now;
+      debugPrint('[AdService] Showing interstitial on app open');
+      showInterstitial();
+    } else {
+      // Download, then display once it finishes loading.
+      debugPrint('[AdService] No interstitial ready - loading to show on open');
+      loadInterstitial(onLoaded: () {
+        final n2 = DateTime.now();
+        if (_lastOpenAdShown != null &&
+            n2.difference(_lastOpenAdShown!) < const Duration(seconds: 20)) {
+          return;
+        }
+        _lastOpenAdShown = n2;
+        showInterstitial();
+      });
     }
   }
 
@@ -97,7 +126,7 @@ class AdService {
     _rewardedAd?.dispose();
   }
 
-  void loadInterstitial() {
+  void loadInterstitial({VoidCallback? onLoaded}) {
     if (_initFailed) return;
     debugPrint('[AdService] Loading interstitial');
     InterstitialAd.load(
@@ -107,6 +136,7 @@ class AdService {
         onAdLoaded: (ad) {
           debugPrint('[AdService] Interstitial loaded');
           _interstitialAd = ad;
+          onLoaded?.call();
           ad.fullScreenContentCallback = FullScreenContentCallback(
             onAdDismissedFullScreenContent: (ad) {
               debugPrint('[AdService] Interstitial dismissed');
