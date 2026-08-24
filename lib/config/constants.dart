@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'theme.dart';
 
-// ── Design Tokens ──
+// â”€â”€ Design Tokens â”€â”€
 class AppSpacing {
   static const double xs = 4.0;
   static const double sm = 8.0;
@@ -75,34 +75,34 @@ class AppConstants {
 
   // Level System: XP thresholds
   static const List<Map<String, dynamic>> levels = [
-    {'xp': 0, 'title': 'Freshman', 'icon': '🌱'},
-    {'xp': 100, 'title': 'Sophomore', 'icon': '📖'},
-    {'xp': 500, 'title': 'Junior', 'icon': '🎓'},
-    {'xp': 1000, 'title': 'Senior', 'icon': '📚'},
-    {'xp': 2500, 'title': 'Graduate', 'icon': '🏅'},
-    {'xp': 5000, 'title': 'Master', 'icon': '👨‍🎓'},
-    {'xp': 10000, 'title': 'Scholar', 'icon': '🏆'},
-    {'xp': 25000, 'title': 'Legend', 'icon': '👑'},
+    {'xp': 0, 'title': 'Freshman', 'icon': 'ðŸŒ±'},
+    {'xp': 100, 'title': 'Sophomore', 'icon': 'ðŸ“–'},
+    {'xp': 500, 'title': 'Junior', 'icon': 'ðŸŽ“'},
+    {'xp': 1000, 'title': 'Senior', 'icon': 'ðŸ“š'},
+    {'xp': 2500, 'title': 'Graduate', 'icon': 'ðŸ…'},
+    {'xp': 5000, 'title': 'Master', 'icon': 'ðŸ‘¨â€ðŸŽ“'},
+    {'xp': 10000, 'title': 'Scholar', 'icon': 'ðŸ†'},
+    {'xp': 25000, 'title': 'Legend', 'icon': 'ðŸ‘‘'},
   ];
 
   // Badge Catalog
   static const List<Map<String, String>> badgeCatalog = [
-    {'id': 'first_steps', 'name': 'First Steps', 'description': 'Complete your first practice session', 'icon': '🌱'},
-    {'id': 'perfect_score', 'name': 'Perfect Score', 'description': 'Score 100% on any exam', 'icon': '💯'},
-    {'id': 'speed_demon', 'name': 'Speed Demon', 'description': 'Complete a practice session in under 2 minutes', 'icon': '⚡'},
-    {'id': 'streak_starter', 'name': 'Streak Starter', 'description': 'Maintain a 3-day streak', 'icon': '🔥'},
-    {'id': 'streak_master', 'name': 'Streak Master', 'description': 'Maintain a 7-day streak', 'icon': '💪'},
-    {'id': 'streak_legend', 'name': 'Streak Legend', 'description': 'Maintain a 30-day streak', 'icon': '🏅'},
-    {'id': 'centurion', 'name': 'Centurion', 'description': 'Answer 100 questions correctly total', 'icon': '🎯'},
-    {'id': 'scholar_badge', 'name': 'Scholar', 'description': 'Reach 5,000 XP', 'icon': '🎓'},
-    {'id': 'legend_badge', 'name': 'Legendary', 'description': 'Reach 25,000 XP', 'icon': '👑'},
-    {'id': 'quiz_addict', 'name': 'Quiz Addict', 'description': 'Attempt 500 questions total', 'icon': '🧠'},
-    {'id': 'all_rounder', 'name': 'All-Rounder', 'description': 'Practice every course at least once', 'icon': '🌟'},
-    {'id': 'coin_collector', 'name': 'Coin Collector', 'description': 'Earn 500 coins total', 'icon': '🪙'},
-    {'id': 'combo_king', 'name': 'Combo King', 'description': 'Get 10 correct answers in a row', 'icon': '👑'},
-    {'id': 'daily_devotee', 'name': 'Daily Devotee', 'description': 'Complete daily goal 7 days in a row', 'icon': '📅'},
-    {'id': 'exam_pro', 'name': 'Exam Pro', 'description': 'Pass 5 different exams', 'icon': '📝'},
-    {'id': 'full_house', 'name': 'Full House', 'description': 'Get 100% on every course', 'icon': '🏠'},
+    {'id': 'first_steps', 'name': 'First Steps', 'description': 'Complete your first practice session', 'icon': 'ðŸŒ±'},
+    {'id': 'perfect_score', 'name': 'Perfect Score', 'description': 'Score 100% on any exam', 'icon': 'ðŸ’¯'},
+    {'id': 'speed_demon', 'name': 'Speed Demon', 'description': 'Complete a practice session in under 2 minutes', 'icon': 'âš¡'},
+    {'id': 'streak_starter', 'name': 'Streak Starter', 'description': 'Maintain a 3-day streak', 'icon': 'ðŸ”¥'},
+    {'id': 'streak_master', 'name': 'Streak Master', 'description': 'Maintain a 7-day streak', 'icon': 'ðŸ’ª'},
+    {'id': 'streak_legend', 'name': 'Streak Legend', 'description': 'Maintain a 30-day streak', 'icon': 'ðŸ…'},
+    {'id': 'centurion', 'name': 'Centurion', 'description': 'Answer 100 questions correctly total', 'icon': 'ðŸŽ¯'},
+    {'id': 'scholar_badge', 'name': 'Scholar', 'description': 'Reach 5,000 XP', 'icon': 'ðŸŽ“'},
+    {'id': 'legend_badge', 'name': 'Legendary', 'description': 'Reach 25,000 XP', 'icon': 'ðŸ‘‘'},
+    {'id': 'quiz_addict', 'name': 'Quiz Addict', 'description': 'Attempt 500 questions total', 'icon': 'ðŸ§ '},
+    {'id': 'all_rounder', 'name': 'All-Rounder', 'description': 'Practice every course at least once', 'icon': 'ðŸŒŸ'},
+    {'id': 'coin_collector', 'name': 'Coin Collector', 'description': 'Earn 500 coins total', 'icon': 'ðŸª™'},
+    {'id': 'combo_king', 'name': 'Combo King', 'description': 'Get 10 correct answers in a row', 'icon': 'ðŸ‘‘'},
+    {'id': 'daily_devotee', 'name': 'Daily Devotee', 'description': 'Complete daily goal 7 days in a row', 'icon': 'ðŸ“…'},
+    {'id': 'exam_pro', 'name': 'Exam Pro', 'description': 'Pass 5 different exams', 'icon': 'ðŸ“'},
+    {'id': 'full_house', 'name': 'Full House', 'description': 'Get 100% on every course', 'icon': 'ðŸ '},
   ];
 
   // Exam Rules
@@ -112,7 +112,7 @@ class AppConstants {
   static const int examMaxQuestions = 50;
 
   // App Metadata
-  static const String appVersion = '1.0.2';
+  static const String appVersion = '1.0.3';
   static const String appName = 'Fulafia CBT';
   static const String poweredBy = 'Siyayya.com';
   static const String contactEmail = 'info@fulafia.edu.ng';
