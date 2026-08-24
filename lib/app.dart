@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'config/theme.dart';
@@ -27,14 +28,28 @@ class FulafiaCbtApp extends StatefulWidget {
 }
 
 class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserver {
+  Timer? _themeTimer;
+
   @override
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
+
+    // Re-evaluate the time-based theme every minute so it flips automatically
+    // at the day/night boundary even while the app stays open.
+    _themeTimer = Timer.periodic(const Duration(minutes: 1), (_) {
+      if (mounted) setState(() {});
+    });
+
+    // Show an ad shortly after the app is first opened.
+    Future.delayed(const Duration(seconds: 2), () {
+      if (mounted) AdService.instance.handleAppOpened();
+    });
   }
 
   @override
   void dispose() {
+    _themeTimer?.cancel();
     WidgetsBinding.instance.removeObserver(this);
     super.dispose();
   }
@@ -42,7 +57,8 @@ class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserv
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.resumed) {
-      AdService.instance.onAppResume();
+      // Refresh downloads and display an ad each time the app is opened/resumed.
+      AdService.instance.handleAppOpened();
     }
   }
 
@@ -57,7 +73,8 @@ class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserv
       ],
       child: Consumer<SettingsProvider>(
         builder: (context, settingsProvider, _) {
-          final isDarkMode = settingsProvider.settings.isDarkMode;
+          // Theme is now automatic based on the device's local time zone.
+          final isDarkMode = AppTheme.isDarkByTime;
           AppColors.isDark = isDarkMode;
           return MaterialApp(
             title: 'Fulafia CBT',
