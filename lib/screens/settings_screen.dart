@@ -108,6 +108,29 @@ class _SettingsScreenState extends State<SettingsScreen> {
     });
   }
 
+  void _cycleThemeMode(SettingsProvider settingsProvider) {
+    final current = settingsProvider.settings.isDarkMode;
+    if (current == null) {
+      settingsProvider.toggleDarkMode(true);
+    } else if (current == true) {
+      settingsProvider.toggleDarkMode(false);
+    } else {
+      settingsProvider.toggleDarkMode(null);
+    }
+  }
+
+  String _themeModeLabel(bool? isDarkMode) {
+    if (isDarkMode == null) return 'Automatic (by time)';
+    if (isDarkMode) return 'Dark';
+    return 'Light';
+  }
+
+  IconData _themeModeIcon(bool? isDarkMode) {
+    if (isDarkMode == null) return Icons.brightness_auto_rounded;
+    if (isDarkMode) return Icons.dark_mode_rounded;
+    return Icons.light_mode_rounded;
+  }
+
   @override
   Widget build(BuildContext context) {
     final profileProvider = Provider.of<ProfileProvider>(context);
@@ -205,16 +228,11 @@ class _SettingsScreenState extends State<SettingsScreen> {
               child: Column(
                 children: [
                   ListTile(
+                    leading: Icon(_themeModeIcon(settings.isDarkMode), color: AppColors.primary),
                     title: Text('Theme', style: TextStyle(fontWeight: FontWeight.w700, color: AppColors.textPrimary)),
-                    subtitle: Text(
-                      AppTheme.isDarkByTime ? 'Automatic Â· Dark (night)' : 'Automatic Â· Light (day)',
-                      style: TextStyle(fontSize: 12.0, color: AppColors.textSecondary),
-                    ),
-                    trailing: Icon(
-                      AppTheme.isDarkByTime ? Icons.dark_mode_rounded : Icons.light_mode_rounded,
-                      color: AppColors.primary,
-                    ),
-                    onTap: null,
+                    subtitle: Text(_themeModeLabel(settings.isDarkMode), style: TextStyle(fontSize: 12.0, color: AppColors.textSecondary)),
+                    trailing: Icon(Icons.chevron_right_rounded, color: AppColors.textMuted),
+                    onTap: () => _cycleThemeMode(settingsProvider),
                   ),
                   Divider(height: 1, color: AppColors.divider),
                   SwitchListTile(
