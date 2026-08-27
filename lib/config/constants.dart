@@ -112,7 +112,7 @@ class AppConstants {
   static const int examMaxQuestions = 50;
 
   // App Metadata
-  static const String appVersion = '1.0.3';
+  static const String appVersion = '1.0.4';
   static const String appName = 'Fulafia CBT';
   static const String poweredBy = 'Siyayya.com';
   static const String contactEmail = 'info@fulafia.edu.ng';
