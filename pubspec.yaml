@@ -57,7 +57,6 @@ flutter_launcher_icons:
   remove_alpha_ios: true
   image_path: "assets/icon.png"
   adaptive_icon_background: "#FFD700"
-  adaptive_icon_foreground: "assets/icon.png"
 
 flutter:
   uses-material-design: true
