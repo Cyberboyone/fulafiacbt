@@ -2,13 +2,13 @@ class AppSettings {
   final bool soundOn;
   final bool adsRemoved;
   final bool lowDataMode;
-  final bool isDarkMode;
+  final bool? isDarkMode;
 
   AppSettings({
     this.soundOn = true,
     this.adsRemoved = false,
     this.lowDataMode = false,
-    this.isDarkMode = true,
+    this.isDarkMode,
   });
 
   AppSettings copyWith({
@@ -39,7 +39,7 @@ class AppSettings {
       soundOn: map['soundOn'] as bool? ?? true,
       adsRemoved: map['adsRemoved'] as bool? ?? false,
       lowDataMode: map['lowDataMode'] as bool? ?? false,
-      isDarkMode: map['isDarkMode'] as bool? ?? true,
+      isDarkMode: map['isDarkMode'] as bool?,
     );
   }
 }
