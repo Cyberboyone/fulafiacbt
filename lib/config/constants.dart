@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'theme.dart';
 
-// â”€â”€ Design Tokens â”€â”€
+// ── Design Tokens ──
 class AppSpacing {
   static const double xs = 4.0;
   static const double sm = 8.0;
@@ -75,34 +75,34 @@ class AppConstants {
 
   // Level System: XP thresholds
   static const List<Map<String, dynamic>> levels = [
-    {'xp': 0, 'title': 'Freshman', 'icon': 'ðŸŒ±'},
-    {'xp': 100, 'title': 'Sophomore', 'icon': 'ðŸ“–'},
-    {'xp': 500, 'title': 'Junior', 'icon': 'ðŸŽ“'},
-    {'xp': 1000, 'title': 'Senior', 'icon': 'ðŸ“š'},
-    {'xp': 2500, 'title': 'Graduate', 'icon': 'ðŸ…'},
-    {'xp': 5000, 'title': 'Master', 'icon': 'ðŸ‘¨â€ðŸŽ“'},
-    {'xp': 10000, 'title': 'Scholar', 'icon': 'ðŸ†'},
-    {'xp': 25000, 'title': 'Legend', 'icon': 'ðŸ‘‘'},
+    {'xp': 0, 'title': 'Freshman', 'icon': '\u{1F331}'},
+    {'xp': 100, 'title': 'Sophomore', 'icon': '\u{1F4D6}'},
+    {'xp': 500, 'title': 'Junior', 'icon': '\u{1F393}'},
+    {'xp': 1000, 'title': 'Senior', 'icon': '\u{1F4DA}'},
+    {'xp': 2500, 'title': 'Graduate', 'icon': '\u{1F3C6}'},
+    {'xp': 5000, 'title': 'Master', 'icon': '\u{1F468}\u{200D}\u{1F393}'},
+    {'xp': 10000, 'title': 'Scholar', 'icon': '\u{1F3C5}'},
+    {'xp': 25000, 'title': 'Legend', 'icon': '\u{1F451}'},
   ];
 
   // Badge Catalog
   static const List<Map<String, String>> badgeCatalog = [
-    {'id': 'first_steps', 'name': 'First Steps', 'description': 'Complete your first practice session', 'icon': 'ðŸŒ±'},
-    {'id': 'perfect_score', 'name': 'Perfect Score', 'description': 'Score 100% on any exam', 'icon': 'ðŸ’¯'},
-    {'id': 'speed_demon', 'name': 'Speed Demon', 'description': 'Complete a practice session in under 2 minutes', 'icon': 'âš¡'},
-    {'id': 'streak_starter', 'name': 'Streak Starter', 'description': 'Maintain a 3-day streak', 'icon': 'ðŸ”¥'},
-    {'id': 'streak_master', 'name': 'Streak Master', 'description': 'Maintain a 7-day streak', 'icon': 'ðŸ’ª'},
-    {'id': 'streak_legend', 'name': 'Streak Legend', 'description': 'Maintain a 30-day streak', 'icon': 'ðŸ…'},
-    {'id': 'centurion', 'name': 'Centurion', 'description': 'Answer 100 questions correctly total', 'icon': 'ðŸŽ¯'},
-    {'id': 'scholar_badge', 'name': 'Scholar', 'description': 'Reach 5,000 XP', 'icon': 'ðŸŽ“'},
-    {'id': 'legend_badge', 'name': 'Legendary', 'description': 'Reach 25,000 XP', 'icon': 'ðŸ‘‘'},
-    {'id': 'quiz_addict', 'name': 'Quiz Addict', 'description': 'Attempt 500 questions total', 'icon': 'ðŸ§ '},
-    {'id': 'all_rounder', 'name': 'All-Rounder', 'description': 'Practice every course at least once', 'icon': 'ðŸŒŸ'},
-    {'id': 'coin_collector', 'name': 'Coin Collector', 'description': 'Earn 500 coins total', 'icon': 'ðŸª™'},
-    {'id': 'combo_king', 'name': 'Combo King', 'description': 'Get 10 correct answers in a row', 'icon': 'ðŸ‘‘'},
-    {'id': 'daily_devotee', 'name': 'Daily Devotee', 'description': 'Complete daily goal 7 days in a row', 'icon': 'ðŸ“…'},
-    {'id': 'exam_pro', 'name': 'Exam Pro', 'description': 'Pass 5 different exams', 'icon': 'ðŸ“'},
-    {'id': 'full_house', 'name': 'Full House', 'description': 'Get 100% on every course', 'icon': 'ðŸ '},
+    {'id': 'first_steps', 'name': 'First Steps', 'description': 'Complete your first practice session', 'icon': '\u{1F331}'},
+    {'id': 'perfect_score', 'name': 'Perfect Score', 'description': 'Score 100% on any exam', 'icon': '\u{1F4AF}'},
+    {'id': 'speed_demon', 'name': 'Speed Demon', 'description': 'Complete a practice session in under 2 minutes', 'icon': '\u{26A1}'},
+    {'id': 'streak_starter', 'name': 'Streak Starter', 'description': 'Maintain a 3-day streak', 'icon': '\u{1F525}'},
+    {'id': 'streak_master', 'name': 'Streak Master', 'description': 'Maintain a 7-day streak', 'icon': '\u{1F4AA}'},
+    {'id': 'streak_legend', 'name': 'Streak Legend', 'description': 'Maintain a 30-day streak', 'icon': '\u{1F3C6}'},
+    {'id': 'centurion', 'name': 'Centurion', 'description': 'Answer 100 questions correctly total', 'icon': '\u{1F3AF}'},
+    {'id': 'scholar_badge', 'name': 'Scholar', 'description': 'Reach 5,000 XP', 'icon': '\u{1F393}'},
+    {'id': 'legend_badge', 'name': 'Legendary', 'description': 'Reach 25,000 XP', 'icon': '\u{1F451}'},
+    {'id': 'quiz_addict', 'name': 'Quiz Addict', 'description': 'Attempt 500 questions total', 'icon': '\u{1F9E0}'},
+    {'id': 'all_rounder', 'name': 'All-Rounder', 'description': 'Practice every course at least once', 'icon': '\u{1F31F}'},
+    {'id': 'coin_collector', 'name': 'Coin Collector', 'description': 'Earn 500 coins total', 'icon': '\u{1FA99}'},
+    {'id': 'combo_king', 'name': 'Combo King', 'description': 'Get 10 correct answers in a row', 'icon': '\u{1F451}'},
+    {'id': 'daily_devotee', 'name': 'Daily Devotee', 'description': 'Complete daily goal 7 days in a row', 'icon': '\u{1F4C5}'},
+    {'id': 'exam_pro', 'name': 'Exam Pro', 'description': 'Pass 5 different exams', 'icon': '\u{1F4DD}'},
+    {'id': 'full_house', 'name': 'Full House', 'description': 'Get 100% on every course', 'icon': '\u{1F3E0}'},
   ];
 
   // Exam Rules
