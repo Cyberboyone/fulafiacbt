@@ -35,13 +35,10 @@ class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserv
     super.initState();
     WidgetsBinding.instance.addObserver(this);
 
-    // Re-evaluate the time-based theme every minute so it flips automatically
-    // at the day/night boundary even while the app stays open.
     _themeTimer = Timer.periodic(const Duration(minutes: 1), (_) {
       if (mounted) setState(() {});
     });
 
-    // Show an ad shortly after the app is first opened.
     Future.delayed(const Duration(seconds: 2), () {
       if (mounted) AdService.instance.handleAppOpened();
     });
@@ -57,9 +54,15 @@ class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserv
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.resumed) {
-      // Refresh downloads and display an ad each time the app is opened/resumed.
       AdService.instance.handleAppOpened();
     }
+  }
+
+  bool _resolveDarkMode(bool? userPreference) {
+    if (userPreference == null) {
+      return AppTheme.isDarkByTime;
+    }
+    return userPreference!;
   }
 
   @override
@@ -73,8 +76,7 @@ class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserv
       ],
       child: Consumer<SettingsProvider>(
         builder: (context, settingsProvider, _) {
-          // Theme is now automatic based on the device's local time zone.
-          final isDarkMode = AppTheme.isDarkByTime;
+          final isDarkMode = _resolveDarkMode(settingsProvider.settings.isDarkMode);
           AppColors.isDark = isDarkMode;
           return MaterialApp(
             title: 'Fulafia CBT',
