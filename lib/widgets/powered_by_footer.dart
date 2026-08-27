@@ -14,13 +14,7 @@ class PoweredByFooter extends StatelessWidget {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset(
-              'assets/fulafia_logo.png',
-              height: 60,
-              width: 60,
-              fit: BoxFit.contain,
-            ),
-            const SizedBox(height: 8),
+
             RichText(
               text: TextSpan(
                 style: TextStyle(
