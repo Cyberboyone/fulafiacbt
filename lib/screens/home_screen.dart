@@ -9,7 +9,6 @@ import '../providers/profile_provider.dart';
 import '../providers/course_provider.dart';
 import '../providers/quiz_provider.dart';
 import '../providers/settings_provider.dart';
-import '../services/ad_service.dart';
 import '../widgets/progress_ring.dart';
 import '../widgets/streak_card.dart';
 import '../widgets/course_card.dart';
@@ -461,8 +460,7 @@ class _HomeTab extends StatelessWidget {
     final List<Widget> widgets = [];
     final adsRemoved = Provider.of<SettingsProvider>(context, listen: false).settings.adsRemoved;
 
-    for (int i = 0; i < filteredCourses.length; i++) {
-      final course = filteredCourses[i];
+    for (final course in filteredCourses) {
       final completion = courseProvider.getCompletionPercentage(course.id);
       widgets.add(
         CourseCard(
@@ -471,16 +469,22 @@ class _HomeTab extends StatelessWidget {
           onTap: () => _startCourseQuiz(context, course),
         ),
       );
+    }
 
-      // Show banner after every 4 courses (not after the last one)
-      if ((i + 1) % 4 == 0 && i < filteredCourses.length - 1 && !adsRemoved) {
-        widgets.add(
-          Padding(
-            padding: const EdgeInsets.symmetric(vertical: 12.0),
-            child: _BannerAdWidget(key: ValueKey('banner_$i')),
+    // One well-positioned adaptive banner at the end of the course list.
+    // (Previously a banner was inserted after every 4 course cards, creating
+    // up to 4 ad instances per screen adjacent to tappable course cards.)
+    if (!adsRemoved) {
+      final screenWidth = MediaQuery.of(context).size.width;
+      widgets.add(
+        Padding(
+          padding: const EdgeInsets.symmetric(vertical: 12.0),
+          child: _BannerAdWidget(
+            key: const ValueKey('home_list_banner'),
+            size: AdSize.adaptiveBannerForWidth(screenWidth),
           ),
-        );
-      }
+        ),
+      );
     }
 
     return widgets;
@@ -597,7 +601,11 @@ class _HomeTab extends StatelessWidget {
 }
 
 class _BannerAdWidget extends StatefulWidget {
-  const _BannerAdWidget({super.key});
+  const _BannerAdWidget({super.key, required this.size});
+
+  /// Banner size. Pass an adaptive size for full-width placements, e.g.
+  /// AdSize.adaptiveBannerForWidth(screenWidth).
+  final AdSize size;
 
   @override
   State<_BannerAdWidget> createState() => _BannerAdWidgetState();
@@ -619,16 +627,23 @@ class _BannerAdWidgetState extends State<_BannerAdWidget> {
     BannerAd(
       adUnitId: AppConstants.admobBannerUnitId,
       request: const AdRequest(),
-      size: AdSize.banner,
+      size: widget.size,
       listener: BannerAdListener(
         onAdLoaded: (ad) {
           debugPrint('[Banner] Loaded');
-          if (mounted) setState(() { _bannerAd = ad as BannerAd; _loaded = true; });
+          if (mounted) {
+            setState(() { _bannerAd = ad as BannerAd; _loaded = true; });
+          } else {
+            // Widget was disposed before the ad arrived - do not leak it.
+            ad.dispose();
+          }
         },
         onAdFailedToLoad: (ad, error) {
           debugPrint('[Banner] Failed: $error - retry ${_retryCount + 1}/3');
           ad.dispose();
           _retryCount++;
+          // Bounded retries only (max 3), and only after a failure -
+          // never a periodic refresh of a loaded banner.
           Future.delayed(const Duration(seconds: 5), () {
             if (mounted) _loadAd();
           });
@@ -640,6 +655,7 @@ class _BannerAdWidgetState extends State<_BannerAdWidget> {
   @override
   void dispose() {
     _bannerAd?.dispose();
+    _bannerAd = null;
     super.dispose();
   }
 
@@ -648,8 +664,11 @@ class _BannerAdWidgetState extends State<_BannerAdWidget> {
     if (!_loaded || _bannerAd == null) {
       return const SizedBox(height: 50);
     }
+    // Adaptive banners may not report a concrete height until laid out;
+    // fall back to the standard 50dp banner height.
+    final adHeight = _bannerAd!.size.height > 0 ? _bannerAd!.size.height : 50.0;
     return SizedBox(
-      height: _bannerAd!.size.height.toDouble(),
+      height: adHeight,
       width: double.infinity,
       child: AdWidget(ad: _bannerAd!),
     );
