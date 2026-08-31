@@ -85,12 +85,11 @@ class AdService {
   void _listenConnectivity() {
     _connectivitySubscription?.cancel();
     _connectivitySubscription =
-        Connectivity().onConnectivityChanged.listen((results) {
-      // connectivity_plus 5.x reports one result per active interface;
-      // any active data connection (WiFi, mobile, ethernet, VPN) counts.
-      final hasData = results.any((result) => result != ConnectivityResult.none);
-      if (!hasData || _initFailed) return;
-      debugPrint('[AdService] Network available ($results) - preloading missing ads');
+        Connectivity().onConnectivityChanged.listen((result) {
+      // connectivity_plus 5.0.x emits a single ConnectivityResult per event.
+      // Any active data connection (WiFi, mobile, ethernet, VPN) counts.
+      if (result == ConnectivityResult.none || _initFailed) return;
+      debugPrint('[AdService] Network available ($result) - preloading missing ads');
       // Guarded no-ops for ads that are already loaded or loading.
       preloadInterstitial();
       preloadRewarded();
