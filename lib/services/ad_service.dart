@@ -1,133 +1,114 @@
-import 'package:flutter/foundation.dart';
-import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:google_mobile_ads/google_mobile_ads.dart';
-import '../config/constants.dart';
 import 'dart:async';
 
+import 'package:connectivity_plus/connectivity_plus.dart';
+import 'package:flutter/foundation.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
+
+import '../config/constants.dart';
+
+/// Centralized AdMob management for the whole app.
+///
+/// Loading rules (request economy):
+///  - if an ad is already loaded       -> do NOT request another
+///  - if a request is already in flight -> do NOT start another
+///  - when an ad is consumed / shown   -> dispose it and preload the next one once
+///  - if a load fails                  -> no immediate retry; the next natural
+///                                        opportunity (network change, next
+///                                        user-initiated action, next exam
+///                                        completion) retries
+///
+/// Interstitials are only shown at natural transition points (e.g. after an
+/// exam is submitted) and are rate-limited by [interstitialCooldown], which
+/// is based on actual impressions (onAdShowedFullScreenContent), not on
+/// ad requests.
+///
+/// Rewarded ads are only shown when the user explicitly opts in (see
+/// PracticeScreen "Watch an Ad?" dialog). The reward is only reported after
+/// `onUserEarnedReward` confirms the user earned it.
 class AdService {
   AdService._();
   static final AdService instance = AdService._();
 
+  /// Minimum time between interstitial impressions.
+  static const Duration interstitialCooldown = Duration(minutes: 3);
+
   bool _initialized = false;
   bool _initFailed = false;
   StreamSubscription? _connectivitySubscription;
-  Timer? _periodicTimer;
-  Timer? _backgroundPreloadTimer;
-  bool _hasData = false;
-  DateTime? _lastOpenAdShown;
 
   InterstitialAd? _interstitialAd;
+  bool _isLoadingInterstitial = false;
+
+  /// Last actual interstitial impression (show), not last request.
+  DateTime? _lastInterstitialShown;
+
   RewardedAd? _rewardedAd;
-  BannerAd? _cachedBanner;
+  bool _isLoadingRewarded = false;
 
-  bool get _interstitialReady => _interstitialAd != null;
-  bool get _rewardedReady => _rewardedAd != null;
-  bool get hasPreloadedAds => _interstitialReady || _rewardedReady;
+  /// Single pending user-initiated rewarded request. When the user opts in
+  /// while a load is already in flight, the request is stored here and
+  /// fulfilled (or failed) exactly once when that load resolves.
+  _PendingRewarded? _pendingRewarded;
 
+  /// Whether enough time has passed since the last interstitial impression
+  /// that another one may be shown.
+  bool canShowInterstitial() {
+    final last = _lastInterstitialShown;
+    if (last == null) return true;
+    return DateTime.now().difference(last) >= interstitialCooldown;
+  }
+
+  /// Initializes the Mobile Ads SDK exactly once (duplicate calls are no-ops),
+  /// then preloads one interstitial and one rewarded ad.
+  ///
+  /// This is called from `main()` and is the ONLY ad-related work done at
+  /// app startup — no ad is shown on launch or on resume.
   Future<void> init() async {
     if (_initialized) return;
     _initialized = true;
     debugPrint('[AdService] Initializing Google Mobile Ads');
-    await MobileAds.instance.initialize();
-    debugPrint('[AdService] Google Mobile Ads initialized');
-    _loadAll();
+    try {
+      await MobileAds.instance.initialize();
+      debugPrint('[AdService] Google Mobile Ads initialized');
+    } catch (e) {
+      // e.g. MissingApplicationIdException / MobileAdsSetupException.
+      // The app must keep working normally without ads.
+      _initFailed = true;
+      debugPrint('[AdService] AdMob init failed: $e - ads disabled');
+      return;
+    }
     _listenConnectivity();
-    _startPeriodicPreload();
-    _startBackgroundPreload();
-  }
-
-  void _loadAll() {
-    loadInterstitial();
-    loadRewarded();
+    preloadInterstitial();
+    preloadRewarded();
   }
 
   void _listenConnectivity() {
     _connectivitySubscription?.cancel();
-    _connectivitySubscription = Connectivity().onConnectivityChanged.listen((result) {
-      // Any active data connection (WiFi, mobile, ethernet, VPN) counts.
-      _hasData = result != ConnectivityResult.none;
-      if (_hasData) {
-        debugPrint('[AdService] Network available ($result) - loading ads');
-        _loadAll();
-        _preloadAdsForBackground();
-      } else {
-        debugPrint('[AdService] No network - skipping ad download');
-      }
-    });
-
-    Connectivity().checkConnectivity().then((result) {
-      _hasData = result != ConnectivityResult.none;
-      debugPrint('[AdService] Initial connectivity: $result');
+    _connectivitySubscription =
+        Connectivity().onConnectivityChanged.listen((results) {
+      // connectivity_plus 5.x reports one result per active interface;
+      // any active data connection (WiFi, mobile, ethernet, VPN) counts.
+      final hasData = results.any((result) => result != ConnectivityResult.none);
+      if (!hasData || _initFailed) return;
+      debugPrint('[AdService] Network available ($results) - preloading missing ads');
+      // Guarded no-ops for ads that are already loaded or loading.
+      preloadInterstitial();
+      preloadRewarded();
     });
   }
 
-  void _startPeriodicPreload() {
-    _periodicTimer?.cancel();
-    _periodicTimer = Timer.periodic(const Duration(seconds: 30), (_) {
-      if (!_initFailed && _hasData) {
-        _loadAll();
-      }
-    });
-  }
+  // ────────────────────────────── Interstitial ──────────────────────────────
 
-  void _startBackgroundPreload() {
-    _backgroundPreloadTimer?.cancel();
-    _backgroundPreloadTimer = Timer.periodic(const Duration(minutes: 2), (_) {
-      if (!_initFailed && _hasData) {
-        debugPrint('[AdService] Background preload cycle (data on)');
-        _preloadAdsForBackground();
-      }
-    });
-  }
+  /// Preloads the next interstitial once. No-op if one is already loaded
+  /// or a load is in flight.
+  void preloadInterstitial() => loadInterstitial();
 
-  void _preloadAdsForBackground() {
-    if (!_interstitialReady) loadInterstitial();
-    if (!_rewardedReady) loadRewarded();
-  }
-
-  /// Called whenever the app is opened or resumed from the background.
-  /// Keeps the ad cache warm and displays an interstitial on open.
-  void handleAppOpened() {
-    if (_initFailed) return;
-    _loadAll();
-    _maybeShowOpenInterstitial();
-  }
-
-  void _maybeShowOpenInterstitial() {
-    final now = DateTime.now();
-    if (_lastOpenAdShown != null &&
-        now.difference(_lastOpenAdShown!) < const Duration(seconds: 20)) {
-      return; // already shown very recently (e.g. launch + immediate resume)
-    }
-
-    if (_interstitialReady && _interstitialAd != null) {
-      _lastOpenAdShown = now;
-      debugPrint('[AdService] Showing interstitial on app open');
-      showInterstitial();
-    } else {
-      // Download, then display once it finishes loading.
-      debugPrint('[AdService] No interstitial ready - loading to show on open');
-      loadInterstitial(onLoaded: () {
-        final n2 = DateTime.now();
-        if (_lastOpenAdShown != null &&
-            n2.difference(_lastOpenAdShown!) < const Duration(seconds: 20)) {
-          return;
-        }
-        _lastOpenAdShown = n2;
-        showInterstitial();
-      });
-    }
-  }
-
-  void dispose() {
-    _connectivitySubscription?.cancel();
-    _periodicTimer?.cancel();
-    _interstitialAd?.dispose();
-    _rewardedAd?.dispose();
-  }
-
-  void loadInterstitial({VoidCallback? onLoaded}) {
-    if (_initFailed) return;
+  void loadInterstitial({
+    void Function(InterstitialAd)? onLoaded,
+    VoidCallback? onFailed,
+  }) {
+    if (_initFailed || _interstitialAd != null || _isLoadingInterstitial) return;
+    _isLoadingInterstitial = true;
     debugPrint('[AdService] Loading interstitial');
     InterstitialAd.load(
       adUnitId: AppConstants.admobInterstitialUnitId,
@@ -135,34 +116,89 @@ class AdService {
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (ad) {
           debugPrint('[AdService] Interstitial loaded');
+          _isLoadingInterstitial = false;
           _interstitialAd = ad;
-          onLoaded?.call();
-          ad.fullScreenContentCallback = FullScreenContentCallback(
-            onAdDismissedFullScreenContent: (ad) {
-              debugPrint('[AdService] Interstitial dismissed');
-              ad.dispose();
-              _interstitialAd = null;
-              loadInterstitial();
-            },
-            onAdFailedToShowFullScreenContent: (ad, error) {
-              debugPrint('[AdService] Interstitial show failed: $error');
-              ad.dispose();
-              _interstitialAd = null;
-              loadInterstitial();
-            },
-          );
+          onLoaded?.call(ad);
         },
         onAdFailedToLoad: (error) {
-          debugPrint('[AdService] Interstitial load failed: $error');
+          debugPrint('[AdService] Interstitial load failed: ${error.message}');
+          _isLoadingInterstitial = false;
           _interstitialAd = null;
-          Timer(const Duration(seconds: 10), () => loadInterstitial());
+          // No aggressive retry loop — the next natural opportunity
+          // (network change / next transition point) will retry.
+          onFailed?.call();
         },
       ),
     );
   }
 
-  void loadRewarded() {
-    if (_initFailed) return;
+  /// Shows the preloaded interstitial at a natural transition point.
+  ///
+  /// Skips silently (and keeps the cached ad for the next natural moment)
+  /// if the ad is not loaded or the cooldown has not expired. `onComplete`
+  /// is called exactly once in every case, so callers never block.
+  void showInterstitial({VoidCallback? onComplete}) {
+    bool callbackFired = false;
+    void fireComplete() {
+      if (!callbackFired) {
+        callbackFired = true;
+        onComplete?.call();
+      }
+    }
+
+    final ad = _interstitialAd;
+    if (ad == null) {
+      debugPrint('[AdService] Interstitial not ready - skipping, preloading for next time');
+      // One bounded request so the next transition point has an ad ready.
+      preloadInterstitial();
+      Future.microtask(fireComplete);
+      return;
+    }
+
+    if (!canShowInterstitial()) {
+      debugPrint('[AdService] Interstitial skipped - cooldown still active');
+      // Keep the cached ad; it can be shown at the next natural moment.
+      Future.microtask(fireComplete);
+      return;
+    }
+
+    debugPrint('[AdService] Showing interstitial');
+    _interstitialAd = null;
+    ad.fullScreenContentCallback = FullScreenContentCallback(
+      onAdShowedFullScreenContent: (a) {
+        // Impression-based cooldown (not request-based).
+        _lastInterstitialShown = DateTime.now();
+      },
+      onAdDismissedFullScreenContent: (a) {
+        debugPrint('[AdService] Interstitial dismissed');
+        a.dispose();
+        // Preload the next one once.
+        preloadInterstitial();
+        fireComplete();
+      },
+      onAdFailedToShowFullScreenContent: (a, error) {
+        debugPrint('[AdService] Interstitial show failed: ${error.message}');
+        a.dispose();
+        // The cached ad was stale/expired - load a fresh one for next time.
+        preloadInterstitial();
+        fireComplete();
+      },
+    );
+    ad.show();
+  }
+
+  // ─────────────────────────────── Rewarded ───────────────────────────────
+
+  /// Preloads the next rewarded ad once. No-op if one is already loaded or a
+  /// load is in flight.
+  void preloadRewarded() => loadRewarded();
+
+  void loadRewarded({
+    void Function(RewardedAd)? onLoaded,
+    VoidCallback? onFailed,
+  }) {
+    if (_initFailed || _rewardedAd != null || _isLoadingRewarded) return;
+    _isLoadingRewarded = true;
     debugPrint('[AdService] Loading rewarded');
     RewardedAd.load(
       adUnitId: AppConstants.admobRewardedUnitId,
@@ -170,120 +206,139 @@ class AdService {
       rewardedAdLoadCallback: RewardedAdLoadCallback(
         onAdLoaded: (ad) {
           debugPrint('[AdService] Rewarded loaded');
+          _isLoadingRewarded = false;
           _rewardedAd = ad;
-          ad.fullScreenContentCallback = FullScreenContentCallback(
-            onAdDismissedFullScreenContent: (ad) {
-              debugPrint('[AdService] Rewarded dismissed');
-              ad.dispose();
-              _rewardedAd = null;
-              loadRewarded();
-            },
-            onAdFailedToShowFullScreenContent: (ad, error) {
-              debugPrint('[AdService] Rewarded show failed: $error');
-              ad.dispose();
-              _rewardedAd = null;
-              loadRewarded();
-            },
-          );
+          _flushPendingRewarded();
+          onLoaded?.call(ad);
         },
         onAdFailedToLoad: (error) {
-          debugPrint('[AdService] Rewarded load failed: $error');
+          debugPrint('[AdService] Rewarded load failed: ${error.message}');
+          _isLoadingRewarded = false;
           _rewardedAd = null;
-          Timer(const Duration(seconds: 10), () => loadRewarded());
+          // No aggressive retry loop — the next user-initiated request
+          // (or network change) will retry.
+          _failPendingRewarded();
+          onFailed?.call();
         },
       ),
     );
   }
 
-  void showInterstitial({VoidCallback? onComplete}) {
-    debugPrint('[AdService] showInterstitial called (ready: $_interstitialReady)');
-
-    bool callbackFired = false;
-    void fireCallback() {
-      if (!callbackFired) {
-        callbackFired = true;
-        onComplete?.call();
-      }
-    }
-
-    if (!_interstitialReady || _interstitialAd == null) {
-      debugPrint('[AdService] Interstitial not ready - skipping');
-      Future.microtask(() => fireCallback());
+  /// Shows a rewarded ad the user has explicitly opted into.
+  ///
+  /// If an ad is already loaded it is shown immediately. If not, a single
+  /// bounded load is started — the user's opt-in moment is a legitimate
+  /// opportunity, and it never loops. If a load is already in flight the
+  /// request is queued in [_pendingRewarded] and fulfilled once.
+  ///
+  /// The reward is only reported through `onRewarded` after
+  /// `onUserEarnedReward` confirms the user earned it. Closing the ad early
+  /// (dismiss without completion) reports `onFailed` and grants nothing.
+  void showRewarded({VoidCallback? onRewarded, VoidCallback? onFailed}) {
+    final ad = _rewardedAd;
+    if (ad != null) {
+      _presentRewarded(ad, onRewarded, onFailed);
       return;
     }
 
-    final ad = _interstitialAd!;
-    _interstitialAd = null;
-
-    ad.fullScreenContentCallback = FullScreenContentCallback(
-      onAdDismissedFullScreenContent: (a) {
-        debugPrint('[AdService] Interstitial dismissed');
-        a.dispose();
-        loadInterstitial();
-        fireCallback();
-      },
-      onAdFailedToShowFullScreenContent: (a, error) {
-        debugPrint('[AdService] Interstitial show failed: $error');
-        a.dispose();
-        loadInterstitial();
-        fireCallback();
-      },
-    );
-
-    ad.show();
-  }
-
-  void showRewarded({VoidCallback? onRewarded, VoidCallback? onFailed}) {
-    debugPrint('[AdService] showRewarded called (ready: $_rewardedReady)');
-
-    bool callbackFired = false;
-    void fireReward() {
-      if (!callbackFired) {
-        callbackFired = true;
-        onRewarded?.call();
-      }
+    if (_isLoadingRewarded) {
+      // A load is already in flight (e.g. from the connectivity listener).
+      // Wait for it — latest request wins the single pending slot.
+      _pendingRewarded = _PendingRewarded(onRewarded, onFailed);
+      return;
     }
 
-    void fireFail() {
-      if (!callbackFired) {
-        callbackFired = true;
+    debugPrint('[AdService] Rewarded not ready - single load on user request');
+    loadRewarded(
+      onLoaded: (loaded) => _presentRewarded(loaded, onRewarded, onFailed),
+      onFailed: () {
+        _pendingRewarded = null;
+        onFailed?.call();
+      },
+    );
+  }
+
+  void _flushPendingRewarded() {
+    final pending = _pendingRewarded;
+    _pendingRewarded = null;
+    if (pending == null) return;
+    final ad = _rewardedAd;
+    if (ad == null) {
+      pending.fail();
+      return;
+    }
+    _presentRewarded(ad, pending.reward, pending.fail);
+  }
+
+  void _failPendingRewarded() {
+    final pending = _pendingRewarded;
+    _pendingRewarded = null;
+    pending?.fail();
+  }
+
+  void _presentRewarded(
+    RewardedAd ad,
+    VoidCallback? onRewarded,
+    VoidCallback? onFailed,
+  ) {
+    debugPrint('[AdService] Showing rewarded');
+    _rewardedAd = null; // consumed
+
+    // Exactly one of onRewarded/onFailed must reach the caller. The SDK
+    // fires onUserEarnedReward (on completion) and THEN
+    // onAdDismissedFullScreenContent, so the first outcome wins.
+    bool settled = false;
+    void finish({required bool rewarded}) {
+      if (settled) return;
+      settled = true;
+      if (rewarded) {
+        debugPrint('[AdService] Rewarded completed - granting reward');
+        onRewarded?.call();
+      } else {
+        // Early close / failed show -> no reward granted.
         onFailed?.call();
       }
     }
-
-    if (!_rewardedReady || _rewardedAd == null) {
-      debugPrint('[AdService] Rewarded not ready - skipping');
-      Future.microtask(() => fireFail());
-      return;
-    }
-
-    final ad = _rewardedAd!;
-    _rewardedAd = null;
 
     ad.fullScreenContentCallback = FullScreenContentCallback(
       onAdDismissedFullScreenContent: (a) {
         debugPrint('[AdService] Rewarded dismissed');
         a.dispose();
-        loadRewarded();
-        fireFail();
+        // Preload the next rewarded ad once.
+        preloadRewarded();
+        finish(rewarded: false);
       },
       onAdFailedToShowFullScreenContent: (a, error) {
-        debugPrint('[AdService] Rewarded show failed: $error');
+        debugPrint('[AdService] Rewarded show failed: ${error.message}');
         a.dispose();
-        loadRewarded();
-        fireFail();
+        // Preload a fresh one once.
+        preloadRewarded();
+        finish(rewarded: false);
       },
     );
-
     ad.show(
-      onUserEarnedReward: (ad, reward) {
-        debugPrint('[AdService] Rewarded completed - granting reward');
-        fireReward();
+      onUserEarnedReward: (a, reward) {
+        finish(rewarded: true);
       },
     );
   }
 
-  void preloadInterstitial() => loadInterstitial();
-  void preloadRewarded() => loadRewarded();
-  void preloadBanner() {}
+  /// Disposes any cached ads. Safe to call more than once.
+  void dispose() {
+    _connectivitySubscription?.cancel();
+    _connectivitySubscription = null;
+    _interstitialAd?.dispose();
+    _rewardedAd?.dispose();
+    _interstitialAd = null;
+    _rewardedAd = null;
+  }
+}
+
+/// Holds the callbacks of a single user-initiated rewarded request that must
+/// wait for an in-flight ad load.
+class _PendingRewarded {
+  _PendingRewarded(this.reward, this.fail);
+
+  final VoidCallback? reward;
+  final VoidCallback? fail;
 }
