@@ -471,18 +471,14 @@ class _HomeTab extends StatelessWidget {
       );
     }
 
-    // One well-positioned adaptive banner at the end of the course list.
+    // One well-positioned banner at the end of the course list.
     // (Previously a banner was inserted after every 4 course cards, creating
     // up to 4 ad instances per screen adjacent to tappable course cards.)
     if (!adsRemoved) {
-      final screenWidth = MediaQuery.of(context).size.width;
       widgets.add(
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 12.0),
-          child: _BannerAdWidget(
-            key: const ValueKey('home_list_banner'),
-            size: AdSize.adaptiveBannerForWidth(screenWidth),
-          ),
+          child: const _BannerAdWidget(key: ValueKey('home_list_banner')),
         ),
       );
     }
@@ -601,11 +597,7 @@ class _HomeTab extends StatelessWidget {
 }
 
 class _BannerAdWidget extends StatefulWidget {
-  const _BannerAdWidget({super.key, required this.size});
-
-  /// Banner size. Pass an adaptive size for full-width placements, e.g.
-  /// AdSize.adaptiveBannerForWidth(screenWidth).
-  final AdSize size;
+  const _BannerAdWidget({super.key});
 
   @override
   State<_BannerAdWidget> createState() => _BannerAdWidgetState();
@@ -627,7 +619,7 @@ class _BannerAdWidgetState extends State<_BannerAdWidget> {
     BannerAd(
       adUnitId: AppConstants.admobBannerUnitId,
       request: const AdRequest(),
-      size: widget.size,
+      size: AdSize.banner,
       listener: BannerAdListener(
         onAdLoaded: (ad) {
           debugPrint('[Banner] Loaded');
@@ -664,11 +656,8 @@ class _BannerAdWidgetState extends State<_BannerAdWidget> {
     if (!_loaded || _bannerAd == null) {
       return const SizedBox(height: 50);
     }
-    // Adaptive banners may not report a concrete height until laid out;
-    // fall back to the standard 50dp banner height.
-    final adHeight = _bannerAd!.size.height > 0 ? _bannerAd!.size.height : 50.0;
     return SizedBox(
-      height: adHeight,
+      height: _bannerAd!.size.height.toDouble(),
       width: double.infinity,
       child: AdWidget(ad: _bannerAd!),
     );
@@ -842,7 +831,7 @@ class _PracticeTab extends StatelessWidget {
           const SizedBox(height: 8.0),
           Text(label, style: TextStyle(color: AppColors.textMuted, fontSize: 11.5, fontWeight: FontWeight.bold)),
           const SizedBox(height: 4.0),
-          Text(value, style: TextStyle(color: AppColors.textPrimary, fontSize: 18.0, fontWeight: FontWeight.w800)),
+          Text(value, style: TextStyle(fontSize: 18.0, fontWeight: FontWeight.w800)),
         ],
       ),
     );
