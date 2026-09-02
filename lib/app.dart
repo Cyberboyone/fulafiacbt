@@ -7,6 +7,7 @@ import 'providers/profile_provider.dart';
 import 'providers/settings_provider.dart';
 import 'providers/course_provider.dart';
 import 'providers/quiz_provider.dart';
+import 'services/ad_service.dart';
 import 'screens/splash_screen.dart';
 import 'screens/onboarding_screen.dart';
 import 'screens/home_screen.dart';
@@ -26,23 +27,35 @@ class FulafiaCbtApp extends StatefulWidget {
   State<FulafiaCbtApp> createState() => _FulafiaCbtAppState();
 }
 
-class _FulafiaCbtAppState extends State<FulafiaCbtApp> {
+class _FulafiaCbtAppState extends State<FulafiaCbtApp> with WidgetsBindingObserver {
   Timer? _themeTimer;
 
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
+
     _themeTimer = Timer.periodic(const Duration(minutes: 1), (_) {
       if (mounted) setState(() {});
     });
-    // Note: no ad is shown on app launch or resume. Interstitials are only
-    // shown at natural transition points (see AdService / ExamScreen).
+
+    Future.delayed(const Duration(seconds: 2), () {
+      if (mounted) AdService.instance.handleAppOpened();
+    });
   }
 
   @override
   void dispose() {
     _themeTimer?.cancel();
+    WidgetsBinding.instance.removeObserver(this);
     super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      AdService.instance.handleAppOpened();
+    }
   }
 
   bool _resolveDarkMode(bool? userPreference) {
