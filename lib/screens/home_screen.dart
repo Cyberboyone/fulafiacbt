@@ -460,6 +460,7 @@ class _HomeTab extends StatelessWidget {
     final List<Widget> widgets = [];
     final adsRemoved = Provider.of<SettingsProvider>(context, listen: false).settings.adsRemoved;
 
+    var courseIndex = 0;
     for (final course in filteredCourses) {
       final completion = courseProvider.getCompletionPercentage(course.id);
       widgets.add(
@@ -469,18 +470,17 @@ class _HomeTab extends StatelessWidget {
           onTap: () => _startCourseQuiz(context, course),
         ),
       );
-    }
-
-    // One well-positioned banner at the end of the course list.
-    // (Previously a banner was inserted after every 4 course cards, creating
-    // up to 4 ad instances per screen adjacent to tappable course cards.)
-    if (!adsRemoved) {
-      widgets.add(
-        Padding(
-          padding: const EdgeInsets.symmetric(vertical: 12.0),
-          child: const _BannerAdWidget(key: ValueKey('home_list_banner')),
-        ),
-      );
+      courseIndex++;
+      // Insert one banner after every 4 course cards (and one at the end),
+      // but never if the user has ads removed.
+      if (!adsRemoved && courseIndex % 4 == 0) {
+        widgets.add(
+          Padding(
+            padding: const EdgeInsets.symmetric(vertical: 12.0),
+            child: const _BannerAdWidget(),
+          ),
+        );
+      }
     }
 
     return widgets;
