@@ -108,6 +108,18 @@ class AdService {
     });
   }
 
+  /// Called when the app is opened or resumed from the background.
+  /// Preloads ads and displays an interstitial if one is ready and
+  /// the cooldown has expired.
+  void handleAppOpened() {
+    if (_initFailed) return;
+    preloadInterstitial();
+    preloadRewarded();
+    if (canShowInterstitial() && _interstitialAd != null) {
+      showInterstitial();
+    }
+  }
+
   // ────────────────────────────── Interstitial ──────────────────────────────
 
   /// Preloads the next interstitial once. No-op if one is already loaded
