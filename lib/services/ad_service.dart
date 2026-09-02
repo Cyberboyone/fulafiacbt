@@ -17,6 +17,18 @@ import '../config/constants.dart';
 ///                                        user-initiated action, next exam
 ///                                        completion) retries
 ///
+  /// Called when the app is opened or resumed from the background.
+  /// Preloads ads and displays an interstitial if one is ready and
+  /// the cooldown has expired.
+  void handleAppOpened() {
+    if (_initFailed) return;
+    preloadInterstitial();
+    preloadRewarded();
+    if (canShowInterstitial() && _interstitialAd != null) {
+      showInterstitial();
+    }
+  }
+
 /// Interstitials are only shown at natural transition points (e.g. after an
 /// exam is submitted) and are rate-limited by [interstitialCooldown], which
 /// is based on actual impressions (onAdShowedFullScreenContent), not on
