@@ -158,7 +158,12 @@ flutter run \
 ```
 
 The override URL should serve `courses.json` and the question files from the
-same folder. Use a commit SHA rather than a branch name containing `/`.
+same folder. A commit SHA is unambiguous; for a branch whose name contains
+slashes, GitHub also accepts the `refs/heads/...` form, for example:
+
+```text
+https://raw.githubusercontent.com/Cyberboyone/fulafiacbt/refs/heads/arena/7f8fda9b-fulafiacbt/assets/questions/courses.json
+```
 
 ## Security and store-policy notes
 
