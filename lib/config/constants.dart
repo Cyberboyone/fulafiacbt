@@ -27,20 +27,22 @@ class AppDuration {
 }
 
 class AppConstants {
-  // GitHub Backend Configuration
-  static const String githubUsername = 'msitarzewski';
-  static const String githubRepoName = 'agency-agents';
-  static const String githubBranch = 'main';
+  // Public course catalog — data only, no secrets and no release configuration.
+  // Override at build time for testing with:
+  //   --dart-define=COURSE_CATALOG_URL=https://.../courses.json
+  static const String courseCatalogAsset = 'assets/questions/courses.json';
+  static const String courseCatalogUrl = String.fromEnvironment(
+    'COURSE_CATALOG_URL',
+    defaultValue:
+        'https://raw.githubusercontent.com/Cyberboyone/fulafiacbt/HEAD/assets/questions/courses.json',
+  );
+  static const int courseCatalogSchemaVersion = 1;
 
+  static const String githubUsername = 'Cyberboyone';
+  static const String githubRepoName = 'fulafiacbt';
+  static const String githubBranch = 'HEAD';
   static const String githubRawBaseUrl =
-      'https://raw.githubusercontent.com/$githubUsername/$githubRepoName/$githubBranch';
-  static const String jsDelivrBaseUrl =
-      'https://cdn.jsdelivr.net/gh/$githubUsername/$githubRepoName@$githubBranch';
-
-  static const String manifestPath = '/config/manifest.json';
-  static const String appConfigPath = '/config/app_config.json';
-  static const String questionsDir = '/questions';
-  static const String materialsDir = '/materials';
+      'https://raw.githubusercontent.com/Cyberboyone/fulafiacbt/HEAD';
 
   // Local Storage (Hive Box Names)
   static const String profileBox = 'profile_box';
@@ -53,6 +55,9 @@ class AppConstants {
   // Hive Keys
   static const String profileKey = 'user_profile';
   static const String settingsKey = 'user_settings';
+  static const String courseCatalogKey = 'course_catalog';
+  static const String courseVersionKeyPrefix = 'course_version:';
+  static const String courseLastSyncKey = 'course_last_sync';
 
   // Gameplay Settings
   static const int dailyGoalQuestions = 10;

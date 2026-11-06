@@ -9,17 +9,18 @@ Fulafia CBT
 Practice 100-level FULafia CBT exams offline with 3,800+ easy MCQs.
 
 ## Full Description
-Fulafia CBT is the ultimate computer-based test (CBT) practice app for 100-level students of the Federal University of Lafia (FULafia). Prepare for your exams with confidence using thousands of past-question-style multiple choice questions — all available offline.
+Fulafia CBT is the ultimate computer-based test (CBT) practice app for 100-level students of the Federal University of Lafia (FULafia). Prepare for your exams with confidence using thousands of past-question-style multiple choice questions. Bundled courses work offline, and new courses download once for offline use afterwards.
 
 📚 FEATURES
-• 19 courses covering first and second semester 100-level subjects
+• 19 bundled courses covering first and second semester 100-level subjects
 • 3,800+ easy multiple-choice questions with instant feedback
+• New courses and question updates can be added without an app update
 • Practice mode and full exam mode with timers
 • Track your progress, streaks, levels, and XP
 • Earn coins, unlock badges, and climb the leaderboard
 • Study materials reference for each course
-• 100% offline — no internet required to study
-• Clean,student-friendly design with dark mode support
+• Bundled and downloaded courses work fully offline after caching
+• Clean, student-friendly design with dark mode support
 
 🎯 SUBJECTS INCLUDED
 BLY 111, CHM 111, CSC 111, GST 111, GST 112, GST 113, MTH 111, PHY 111, BIO 102, BLY 121, BLY 122, CHM 102, CHM 121, CHM 122, MTH 121, PHY 102, PHY 104, PHY 121, and more.

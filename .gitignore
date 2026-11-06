@@ -50,3 +50,7 @@ job_log*.txt
 build_log.txt
 ~$*
 scripts/make_docx.py
+
+# Python
+__pycache__/
+*.pyc

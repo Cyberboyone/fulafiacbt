@@ -1,10 +1,15 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import '../config/theme.dart';
+import '../providers/course_provider.dart';
 import '../providers/profile_provider.dart';
 import '../providers/settings_provider.dart';
 import '../services/backup_service.dart';
+import '../services/course_catalog_service.dart';
 import '../widgets/powered_by_footer.dart';
 import '../config/routes.dart';
 
@@ -68,21 +73,33 @@ class _SettingsScreenState extends State<SettingsScreen> {
   }
 
   void _executeRestore(String code) {
-    _backupService.restoreFromCode(code).then((success) {
+    _backupService.restoreFromCode(code).then((success) async {
       if (success) {
         Provider.of<ProfileProvider>(context, listen: false).loadProfile();
         Provider.of<SettingsProvider>(context, listen: false).refresh();
         _restoreController.clear();
-        
+
+        // Restore clears the question cache too; rebuild it from bundled data
+        // and let the background sync recover any remote-only courses.
+        await _reseedCourseContent();
+
+        if (!mounted) return;
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text('Progress successfully restored!')),
         );
       } else {
+        if (!mounted) return;
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text('Invalid backup code. Please try again.')),
         );
       }
     });
+  }
+
+  Future<void> _reseedCourseContent() async {
+    await CourseCatalogService.instance.initialize();
+    if (!mounted) return;
+    unawaited(Provider.of<CourseProvider>(context, listen: false).refreshCourses());
   }
 
   void _saveNewNickname() {
@@ -252,6 +269,57 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     activeColor: AppColors.primary,
                     onChanged: (val) {
                       settingsProvider.toggleLowDataMode(val);
+                    },
+                  ),
+                  Divider(height: 1, color: AppColors.divider),
+                  Consumer<CourseProvider>(
+                    builder: (context, courseProvider, _) {
+                      final syncing = courseProvider.isRefreshing;
+                      final syncError = courseProvider.lastSyncError;
+                      final lastSync = courseProvider.lastSyncedAt;
+
+                      var subtitle = 'Download new courses and question updates';
+                      if (syncing) {
+                        subtitle = 'Checking for new courses…';
+                      } else if (syncError != null) {
+                        subtitle = 'Update failed — tap to retry';
+                      } else if (lastSync != null) {
+                        subtitle =
+                            'Last checked ${DateFormat('d MMM, HH:mm').format(lastSync.toLocal())}';
+                      }
+
+                      return ListTile(
+                        leading: Icon(Icons.cloud_download_outlined, color: AppColors.primary),
+                        title: Text('Course Updates', style: TextStyle(fontWeight: FontWeight.w700, color: AppColors.textPrimary)),
+                        subtitle: Text(subtitle, style: TextStyle(fontSize: 12.0, color: AppColors.textSecondary)),
+                        trailing: syncing
+                            ? const SizedBox(
+                                width: 20.0,
+                                height: 20.0,
+                                child: CircularProgressIndicator(strokeWidth: 2.0),
+                              )
+                            : Icon(Icons.refresh_rounded, color: AppColors.textMuted),
+                        onTap: syncing
+                            ? null
+                            : () async {
+                                final result = await courseProvider.refreshCourses();
+                                if (!mounted) return;
+
+                                String message;
+                                if (result.error != null) {
+                                  message = result.error!;
+                                } else if (result.newCourseCount > 0 || result.updatedBankCount > 0) {
+                                  message = 'Added ${result.newCourseCount} course(s) and updated '
+                                      '${result.updatedBankCount} question bank(s).';
+                                } else {
+                                  message = 'Courses are up to date.';
+                                }
+
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  SnackBar(content: Text(message)),
+                                );
+                              },
+                      );
                     },
                   ),
                 ],
@@ -455,20 +523,25 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   const SizedBox(height: 12.0),
                   TextButton(
                     onPressed: () {
+                      final rootContext = context;
                       showDialog(
-                        context: context,
-                        builder: (context) => AlertDialog(
+                        context: rootContext,
+                        builder: (dialogContext) => AlertDialog(
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)),
                           backgroundColor: AppColors.surface,
                           title: const Text('Reset All Data?', style: TextStyle(color: AppColors.destructive, fontWeight: FontWeight.bold)),
                           content: const Text('This action is irreversible. All offline progress will be lost.'),
                           actions: [
-                            TextButton(onPressed: () => Navigator.pop(context), child: const Text('Cancel', style: TextStyle(color: AppColors.primary))),
+                            TextButton(onPressed: () => Navigator.pop(dialogContext), child: const Text('Cancel', style: TextStyle(color: AppColors.primary))),
                             TextButton(
                               onPressed: () {
-                                Navigator.pop(context);
-                                profileProvider.resetProfile().then((_) {
-                                  Navigator.pushReplacementNamed(context, AppRoutes.splash);
+                                Navigator.pop(dialogContext);
+                                profileProvider.resetProfile().then((_) async {
+                                  // Reset clears the question cache; rebuild it
+                                  // before sending the user back to onboarding.
+                                  await _reseedCourseContent();
+                                  if (!mounted) return;
+                                  Navigator.pushReplacementNamed(rootContext, AppRoutes.splash);
                                 });
                               },
                               child: const Text('Reset', style: TextStyle(color: AppColors.destructive, fontWeight: FontWeight.bold)),

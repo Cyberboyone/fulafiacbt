@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-06T00:00:00Z",
+  "courses": [
+    {
+      "id": "bly111",
+      "code": "BLY 111",
+      "name": "General Biology I",
+      "icon": "🧬",
+      "colorHex": "#DFF5E4",
+      "mode": "100_level",
+      "file": "bly111.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "chem111",
+      "code": "CHM 111",
+      "name": "Introductory Physical Chemistry",
+      "icon": "⚗️",
+      "colorHex": "#FFF3CD",
+      "mode": "100_level",
+      "file": "chem111.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "csc111",
+      "code": "CSC 111",
+      "name": "Introduction to Computer Science",
+      "icon": "💻",
+      "colorHex": "#DCEEFF",
+      "mode": "100_level",
+      "file": "csc111.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "gst111",
+      "code": "GST 111",
+      "name": "Use of English",
+      "icon": "📘",
+      "colorHex": "#FFE8D6",
+      "mode": "100_level",
+      "file": "gst111.json",
+      "version": "1.0.2"
+    },
+    {
+      "id": "gst112",
+      "code": "GST 112",
+      "name": "Use of Library & ICT",
+      "icon": "📚",
+      "colorHex": "#EAE2FA",
+      "mode": "100_level",
+      "file": "gst112.json",
+      "version": "1.0.2"
+    },
+    {
+      "id": "gst113_1",
+      "code": "GST 113",
+      "name": "Nigeria People and Culture I",
+      "icon": "🌍",
+      "colorHex": "#DCEEFF",
+      "mode": "100_level",
+      "file": "gst113_1.json",
+      "version": "1.0.2"
+    },
+    {
+      "id": "mth111",
+      "code": "MTH 111",
+      "name": "General Mathematics I",
+      "icon": "📐",
+      "colorHex": "#FFF3CD",
+      "mode": "100_level",
+      "file": "mth111.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "phy111",
+      "code": "PHY 111",
+      "name": "General Physics I",
+      "icon": "⚡",
+      "colorHex": "#FFE8D6",
+      "mode": "100_level",
+      "file": "phy111.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bio102",
+      "code": "BIO 102",
+      "name": "General Biology II (Ecology)",
+      "icon": "🌿",
+      "colorHex": "#DFF5E4",
+      "mode": "100_level",
+      "file": "bio102.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bly121",
+      "code": "BLY 121",
+      "name": "General Biology II (Diversity)",
+      "icon": "🦋",
+      "colorHex": "#DFF5E4",
+      "mode": "100_level",
+      "file": "bly121.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bly122",
+      "code": "BLY 122",
+      "name": "General Biology II (Survey & Practical)",
+      "icon": "🔬",
+      "colorHex": "#EAE2FA",
+      "mode": "100_level",
+      "file": "bly122.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "chm102",
+      "code": "CHM 102",
+      "name": "General Chemistry II",
+      "icon": "🧪",
+      "colorHex": "#DCEEFF",
+      "mode": "100_level",
+      "file": "chm102.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "chm121",
+      "code": "CHM 121",
+      "name": "Introductory Inorganic Chemistry",
+      "icon": "⚗️",
+      "colorHex": "#FFF3CD",
+      "mode": "100_level",
+      "file": "chm121.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "chm122",
+      "code": "CHM 122",
+      "name": "Introductory Organic Chemistry",
+      "icon": "🧫",
+      "colorHex": "#EAE2FA",
+      "mode": "100_level",
+      "file": "chm122.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "gst113_2",
+      "code": "GST 113",
+      "name": "Nigeria People and Culture II",
+      "icon": "🌍",
+      "colorHex": "#FFE8D6",
+      "mode": "100_level",
+      "file": "gst113_2.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "mth121",
+      "code": "MTH 121",
+      "name": "General Mathematics II",
+      "icon": "📐",
+      "colorHex": "#FFF3CD",
+      "mode": "100_level",
+      "file": "mth121.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "phy102",
+      "code": "PHY 102",
+      "name": "Electricity & Magnetism",
+      "icon": "🧲",
+      "colorHex": "#FFE8D6",
+      "mode": "100_level",
+      "file": "phy102.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "phy104",
+      "code": "PHY 104",
+      "name": "Vibration, Waves & Optics",
+      "icon": "🌊",
+      "colorHex": "#DCEEFF",
+      "mode": "100_level",
+      "file": "phy104.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "phy121",
+      "code": "PHY 121",
+      "name": "Electricity, Magnetism & Modern Physics",
+      "icon": "🔌",
+      "colorHex": "#DFF5E4",
+      "mode": "100_level",
+      "file": "phy121.json",
+      "version": "1.0.0"
+    }
+  ]
+}
