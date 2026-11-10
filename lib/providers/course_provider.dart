@@ -1,12 +1,20 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
+
 import '../models/course.dart';
 import '../models/progress.dart';
+import '../services/course_catalog_service.dart';
 import '../services/hive_service.dart';
 
 class CourseProvider with ChangeNotifier {
   final HiveService _hiveService = HiveService();
+  final CourseCatalogService _catalogService = CourseCatalogService.instance;
 
-  final List<Course> _courses = [
+  // Last-resort offline fallback. The JSON catalog in assets/questions is the
+  // source of truth; this list is only used if the catalog cannot be read at
+  // all (for example, a broken asset bundle).
+  final List<Course> _fallbackCourses = [
     // FULafia 100 Level Courses
     Course(
       id: 'bly111',
@@ -162,12 +170,33 @@ class CourseProvider with ChangeNotifier {
     ),
   ];
 
+  List<Course> _courses = [];
+
+  bool _isRefreshing = false;
+  String? _lastSyncError;
+  DateTime? _lastSyncedAt;
+  int _lastSyncNewCourseCount = 0;
+  int _lastSyncUpdatedBankCount = 0;
+
   List<Course> get courses => _courses;
+  bool get isRefreshing => _isRefreshing;
+  String? get lastSyncError => _lastSyncError;
+  DateTime? get lastSyncedAt => _lastSyncedAt;
+  int get lastSyncNewCourseCount => _lastSyncNewCourseCount;
+  int get lastSyncUpdatedBankCount => _lastSyncUpdatedBankCount;
 
   final Map<String, CourseProgress> _progressMap = {};
 
   CourseProvider() {
+    final cached = _catalogService.loadCachedCourses();
+    _courses = (cached != null && cached.isNotEmpty)
+        ? cached
+        : List<Course>.from(_fallbackCourses);
     loadAllProgress();
+
+    // Refresh in the background: the UI is built from cached/bundled data and
+    // new courses appear as soon as the public catalog is downloaded.
+    unawaited(refreshCourses());
   }
 
   void loadAllProgress() {
@@ -175,6 +204,45 @@ class CourseProvider with ChangeNotifier {
       _progressMap[course.id] = _hiveService.getProgress(course.id);
     }
     notifyListeners();
+  }
+
+  /// Checks the public catalog for new/changed courses. Safe to call from the
+  /// Settings screen; returns a result that can be shown to the user.
+  Future<CourseSyncResult> refreshCourses() async {
+    if (_isRefreshing) {
+      return CourseSyncResult(
+        courses: _courses,
+        syncedAt: _lastSyncedAt,
+        error: 'A course update is already running.',
+      );
+    }
+
+    _isRefreshing = true;
+    _lastSyncError = null;
+    notifyListeners();
+
+    try {
+      final result = await _catalogService.sync();
+      if (result.courses.isNotEmpty) {
+        _courses = result.courses;
+        loadAllProgress();
+      }
+      _lastSyncedAt = result.syncedAt ?? _lastSyncedAt;
+      _lastSyncError = result.error;
+      _lastSyncNewCourseCount = result.newCourseCount;
+      _lastSyncUpdatedBankCount = result.updatedBankCount;
+      return result;
+    } catch (e) {
+      _lastSyncError = 'Could not check for course updates.';
+      return CourseSyncResult(
+        courses: _courses,
+        syncedAt: _lastSyncedAt,
+        error: _lastSyncError,
+      );
+    } finally {
+      _isRefreshing = false;
+      notifyListeners();
+    }
   }
 
   CourseProgress getProgressForCourse(String courseId) {
@@ -189,14 +257,13 @@ class CourseProvider with ChangeNotifier {
   }
 
   double getCompletionPercentage(String courseId) {
-    // For demo purposes and mock completeness, we'll calculate based on standard 100 questions pool.
-    // If questions are cached, we can check how many questions are in Hive.
+    // Calculate based on the cached question pool for this course.
     final cachedQuestionsCount = _hiveService.getCachedQuestions(courseId).length;
     final total = cachedQuestionsCount > 0 ? cachedQuestionsCount : 100;
-    
+
     final progress = getProgressForCourse(courseId);
     if (progress.questionsAttempted == 0) return 0.0;
-    
+
     final pct = (progress.questionsAttempted / total);
     return pct > 1.0 ? 1.0 : pct;
   }
@@ -208,7 +275,7 @@ class CourseProvider with ChangeNotifier {
     int? newExamScore,
   }) async {
     final current = getProgressForCourse(courseId);
-    
+
     int updatedAttempted = current.questionsAttempted + additionalAttempted;
     int updatedCorrect = current.correctCount + additionalCorrect;
     int updatedBestScore = current.bestScore;

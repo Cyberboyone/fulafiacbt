@@ -1,8 +1,10 @@
 import zipfile
+from pathlib import Path
 from xml.sax.saxutils import escape
 
-src = r"C:\Users\LAB\Desktop\fulafia\PRIVACY_POLICY.md"
-out = r"C:\Users\LAB\Desktop\fulafia\Fulafia_CBT_Privacy_Policy.docx"
+ROOT = Path(__file__).resolve().parents[1]
+src = ROOT / "PRIVACY_POLICY.md"
+out = ROOT / "Fulafia_CBT_Privacy_Policy.docx"
 
 with open(src, encoding="utf-8") as f:
     lines = f.read().splitlines()

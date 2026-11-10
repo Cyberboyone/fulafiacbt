@@ -1,6 +1,6 @@
 # Privacy Policy for Fulafia CBT
 
-**Effective Date:** August 13, 2026
+**Effective Date:** November 6, 2026
 
 ## Introduction
 
@@ -20,18 +20,20 @@ Fulafia CBT ("we", "our", or "us") is a computer-based test practice application
 - We do not collect sensitive personal information (payment data, government IDs, health data, precise location).
 - We do not require account registration or login.
 - We do not sell your data to third parties.
+- We do not send your locally stored profile, scores, or progress when checking for course updates.
 
 ## Third-Party Services
 
 The app integrates with the following third-party services:
 - **Google AdMob** (advertising): https://policies.google.com/privacy
 - **Firebase Analytics** (usage analytics): https://firebase.google.com/support/privacy
+- **GitHub** (public course content): the app checks a public JSON catalog on GitHub to download course lists and question banks. These requests contain only the public file URL; no account, profile, progress, or score data is sent.
 
-These providers have their own privacy policies governing the use of data collected through their SDKs.
+These providers have their own privacy policies governing the use of data collected through their SDKs or services.
 
 ## Data Storage & Security
 
-All personal learning data (scores, progress, profile) is stored locally on your device using secure local storage (Hive). We do not operate user-account servers and do not transmit this data externally.
+All personal learning data (scores, progress, profile) is stored locally on your device using secure local storage (Hive). We do not operate user-account servers and do not transmit this data externally. Public course content downloaded from GitHub is cached locally on your device so it can be studied offline.
 
 ## Children's Privacy
 

@@ -128,6 +128,40 @@ class HiveService {
     await box.put(courseId, dataList);
   }
 
+  // --- Course Catalog (public JSON, cached for offline use) ---
+  Map<String, dynamic>? getCourseCatalog() {
+    final data = Hive.box(AppConstants.downloadsBox).get(AppConstants.courseCatalogKey);
+    if (data is! Map) return null;
+    return Map<String, dynamic>.from(data);
+  }
+
+  Future<void> saveCourseCatalog(Map<String, dynamic> catalog) async {
+    await Hive.box(AppConstants.downloadsBox)
+        .put(AppConstants.courseCatalogKey, catalog);
+  }
+
+  String? getCourseContentVersion(String courseId) {
+    final value = Hive.box(AppConstants.downloadsBox)
+        .get('${AppConstants.courseVersionKeyPrefix}$courseId');
+    return value is String ? value : null;
+  }
+
+  Future<void> saveCourseContentVersion(String courseId, String version) async {
+    await Hive.box(AppConstants.downloadsBox)
+        .put('${AppConstants.courseVersionKeyPrefix}$courseId', version);
+  }
+
+  DateTime? getLastCourseSync() {
+    final value = Hive.box(AppConstants.downloadsBox).get(AppConstants.courseLastSyncKey);
+    if (value is! String) return null;
+    return DateTime.tryParse(value);
+  }
+
+  Future<void> setLastCourseSync(DateTime time) async {
+    await Hive.box(AppConstants.downloadsBox)
+        .put(AppConstants.courseLastSyncKey, time.toIso8601String());
+  }
+
   // --- Claimed Referral Codes ---
   bool isReferralCodeClaimed(String code) {
     final box = Hive.box(AppConstants.claimedCodesBox);
