@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T00:00:00Z",
+  "updatedAt": "2026-11-06T09:00:00Z",
   "courses": [
     {
       "id": "bly111",
@@ -180,7 +180,7 @@
       "colorHex": "#DCEEFF",
       "mode": "100_level",
       "file": "phy104.json",
-      "version": "1.0.0"
+      "version": "2.0.0"
     },
     {
       "id": "phy121",

@@ -1,2607 +1,2823 @@
 {
   "course_id": "phy104",
   "course_name": "Vibration, Waves & Optics",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "sources": [
+    "100level/second semester/phy104/PHY 104 complete.pdf",
+    "100level/second semester/phy104/PHY 104 LECTURE NOTE(3)_013225.pdf"
+  ],
+  "source_note": "New source-grounded practice MCQs generated from the two text-based PDFs. The image-only 'PHY 104 Questions.pdf' is not included; it needs OCR or manual transcription before its past questions can be added.",
+  "topics": [
+    "Simple Harmonic Motion",
+    "Damped, Forced & Coupled Oscillations",
+    "Wave Properties & Equations",
+    "Superposition, Interference & Diffraction",
+    "Sound Intensity & Perception",
+    "Doppler Effect, Beats & Echoes",
+    "Waves in Pipes & Resonance",
+    "Geometrical Optics",
+    "Wave Optics & Polarization"
+  ],
   "questions": [
     {
-      "id": "phy104_001",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "In simple harmonic motion, the restoring force is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_002",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_003",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_004",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "proportional to velocity",
+        "constant in magnitude",
+        "proportional to the square of displacement",
+        "proportional to displacement and directed toward the mean position"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "SHM is defined by F = -kx: the force is linear in displacement and always restores toward equilibrium.",
+      "difficulty": 1,
+      "id": "phy104_001"
     },
     {
-      "id": "phy104_005",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "The acceleration of a particle executing SHM is given by",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_006",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "a = -ωy",
+        "a = -ω²y",
+        "a = ω²y",
+        "a = -ω²v"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Differentiating y = a sin(ωt) twice gives a = -ω²y.",
+      "difficulty": 1,
+      "id": "phy104_002"
     },
     {
-      "id": "phy104_007",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "At the mean position of an SHM oscillator,",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "both energies are maximum",
+        "both energies are zero",
+        "kinetic energy is maximum and potential energy is zero",
+        "potential energy is maximum and kinetic energy is zero"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "At y = 0 the speed is greatest, so K = ½mω²a² and U = 0.",
+      "difficulty": 1,
+      "id": "phy104_003"
     },
     {
-      "id": "phy104_008",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "At an extreme position of an SHM oscillator,",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "kinetic energy is maximum and potential energy is zero",
+        "both energies are zero",
+        "the acceleration is zero",
+        "potential energy is maximum and kinetic energy is zero"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "At y = ±a the speed is zero, so U = ½mω²a² and K = 0.",
+      "difficulty": 1,
+      "id": "phy104_004"
     },
     {
-      "id": "phy104_009",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "The total mechanical energy of an SHM oscillator is proportional to",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "the square of the instantaneous velocity",
+        "the amplitude only",
+        "the displacement from equilibrium",
+        "the square of the amplitude"
       ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "E = ½mω²a², so total energy scales with a².",
+      "difficulty": 1,
+      "id": "phy104_005"
     },
     {
-      "id": "phy104_010",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "The period of a simple pendulum depends on",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "its mass and amplitude",
+        "its length and the gravitational acceleration",
+        "its amplitude only",
+        "its mass only"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "T = 2π√(l/g); mass does not appear in the ideal simple-pendulum formula.",
+      "difficulty": 1,
+      "id": "phy104_006"
     },
     {
-      "id": "phy104_011",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "For a spring-mass oscillator, increasing the attached mass",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_012",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_013",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "increases the period",
+        "doubles the frequency",
+        "leaves the period unchanged",
+        "decreases the period"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "T = 2π√(m/k), so a larger m gives a longer period.",
+      "difficulty": 1,
+      "id": "phy104_007"
     },
     {
-      "id": "phy104_014",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "For a spring-mass oscillator, increasing the spring constant",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "leaves the period unchanged",
+        "decreases the period",
+        "increases the period",
+        "makes the motion non-periodic"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "T = 2π√(m/k), so a stiffer spring gives a shorter period.",
+      "difficulty": 1,
+      "id": "phy104_008"
     },
     {
-      "id": "phy104_015",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "The phase of a vibrating particle determines its",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "amplitude only",
+        "position and direction of motion relative to the mean position",
+        "mass and spring constant",
+        "total energy only"
+      ],
+      "correct_index": 1,
+      "explanation": "Phase is the argument of the sine or cosine function and fixes the state of motion.",
+      "difficulty": 1,
+      "id": "phy104_009"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "Angular frequency ω is related to ordinary frequency f by",
+      "options": [
+        "ω = 2π/f",
+        "ω = 2πf",
+        "ω = f/2π",
+        "ω = f²"
+      ],
+      "correct_index": 1,
+      "explanation": "One cycle corresponds to 2π radians, so ω = 2πf.",
+      "difficulty": 1,
+      "id": "phy104_010"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "The SI unit of angular frequency is",
+      "options": [
+        "m s⁻¹",
+        "kg m⁻³",
+        "rad s⁻¹",
+        "N m⁻¹"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Angular frequency is measured in radians per second.",
+      "difficulty": 1,
+      "id": "phy104_011"
     },
     {
-      "id": "phy104_016",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "A non-harmonic oscillation is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "a single sine or cosine function",
+        "a motion with no restoring force",
+        "a wave that needs no medium",
+        "a combination of two or more harmonic oscillations"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The lecture notes define non-harmonic oscillation as a sum of two or more harmonic terms.",
+      "difficulty": 1,
+      "id": "phy104_012"
     },
     {
-      "id": "phy104_017",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "Damped oscillations are characterised by",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "amplitude decreasing exponentially with time",
+        "constant energy in spite of friction",
+        "frequency becoming zero immediately",
+        "amplitude increasing with time"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Damping forces such as friction remove energy, so amplitude decays exponentially.",
+      "difficulty": 1,
+      "id": "phy104_013"
     },
     {
-      "id": "phy104_018",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "Resonance occurs when",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_019",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "the driving frequency is twice the natural frequency",
+        "the damping is zero only",
+        "the driving frequency equals the natural frequency",
+        "the amplitude is zero"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "At resonance the external force matches the natural frequency and the response is largest.",
+      "difficulty": 1,
+      "id": "phy104_014"
     },
     {
-      "id": "phy104_020",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "An ideal free oscillation has",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "a continuously changing natural frequency",
+        "an external periodic driving force",
+        "constant amplitude, frequency and energy",
+        "exponentially decaying amplitude"
       ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Free oscillations proceed at the natural frequency with no energy loss in the ideal case.",
+      "difficulty": 1,
+      "id": "phy104_015"
     },
     {
-      "id": "phy104_021",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "Forced oscillations are sustained by",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "an external periodic force",
+        "the absence of any medium",
+        "total internal reflection",
+        "a polarizer"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "A forced oscillator is driven by an external periodic force.",
+      "difficulty": 1,
+      "id": "phy104_016"
     },
     {
-      "id": "phy104_022",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "Coupled oscillations involve",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_023",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "sound in a vacuum",
+        "light passing through a prism",
+        "two or more linked particles whose motions influence one another",
+        "a single isolated mass on a spring"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Coupled SHM links two or more particles, e.g. masses joined by a spring.",
+      "difficulty": 1,
+      "id": "phy104_017"
     },
     {
-      "id": "phy104_024",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "Maintained oscillations compensate energy losses by",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "making the medium a vacuum",
+        "supplying energy from an external source",
+        "increasing the damping",
+        "removing the restoring force"
+      ],
+      "correct_index": 1,
+      "explanation": "A maintained oscillator receives energy from outside to replace dissipated energy.",
+      "difficulty": 1,
+      "id": "phy104_018"
+    },
+    {
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "Normal modes are best described as",
+      "options": [
+        "the threshold of hearing",
+        "random noise in a room",
+        "a single ray of light",
+        "collective patterns of motion in a coupled system"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Normal modes are the characteristic coordinated motions of coupled oscillators.",
+      "difficulty": 2,
+      "id": "phy104_019"
     },
     {
-      "id": "phy104_025",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Damped, Forced & Coupled Oscillations",
+      "text": "The Q value of a resonant system is associated with",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "the refractive index of glass",
+        "the speed of sound in a vacuum",
+        "the beat frequency of two notes",
+        "the sharpness of its power response curve"
+      ],
+      "correct_index": 3,
+      "explanation": "The course outline links Q values with resonance and power response curves.",
+      "difficulty": 2,
+      "id": "phy104_020"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave transfers",
+      "options": [
+        "only electric charge",
+        "mass but not energy",
+        "energy without permanently displacing the medium",
+        "matter from source to receiver"
+      ],
+      "correct_index": 2,
+      "explanation": "A wave is a disturbance that carries energy while the medium oscillates about equilibrium.",
+      "difficulty": 1,
+      "id": "phy104_021"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "Mechanical waves",
+      "options": [
+        "travel fastest in a vacuum",
+        "are always transverse",
+        "do not carry energy",
+        "require a material medium for propagation"
+      ],
+      "correct_index": 3,
+      "explanation": "Water waves, sound and waves on a string need a material medium.",
+      "difficulty": 1,
+      "id": "phy104_022"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "Electromagnetic waves",
+      "options": [
+        "require air to propagate",
+        "are longitudinal only",
+        "cannot travel through a vacuum",
+        "do not require a material medium"
+      ],
+      "correct_index": 3,
+      "explanation": "Light, radio waves, X-rays and gamma rays propagate without a material medium.",
+      "difficulty": 1,
+      "id": "phy104_023"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "In a transverse wave, the vibration of the medium is",
+      "options": [
+        "absent",
+        "circular about the source",
+        "perpendicular to the direction of travel",
+        "parallel to the direction of travel"
+      ],
+      "correct_index": 2,
+      "explanation": "Transverse waves have particle motion at right angles to propagation.",
+      "difficulty": 1,
+      "id": "phy104_024"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "In a longitudinal wave, the vibration of the medium is",
+      "options": [
+        "parallel to the direction of travel",
+        "perpendicular to the direction of travel",
+        "confined to one plane only",
+        "zero"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Longitudinal waves have particle motion along the direction of propagation.",
+      "difficulty": 1,
+      "id": "phy104_025"
     },
     {
-      "id": "phy104_026",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "For a sinusoidal wave y = A sin(kx - ωt), the wave speed is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "k/ω",
+        "ω/k",
+        "Aω",
+        "2π/ω"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The phase velocity of y = A sin(kx - ωt) is v = ω/k.",
+      "difficulty": 1,
+      "id": "phy104_026"
     },
     {
-      "id": "phy104_027",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "The angular wave number k is related to wavelength λ by",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "k = 2πλ",
+        "k = 2π/λ",
+        "k = λ/2π",
+        "k = 1/λ²"
       ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "One wavelength corresponds to a phase change of 2π radians.",
+      "difficulty": 1,
+      "id": "phy104_027"
     },
     {
-      "id": "phy104_028",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "For any periodic wave, wave speed v, frequency f and wavelength λ satisfy",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "v = f²λ",
+        "v = f/λ",
+        "v = λ/f",
+        "v = fλ"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "One wavelength passes per period, so speed equals frequency times wavelength.",
+      "difficulty": 1,
+      "id": "phy104_028"
     },
     {
-      "id": "phy104_029",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "Phase velocity and group velocity",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "are always identical",
+        "apply only to sound in pipes",
+        "are both zero in a vacuum",
+        "are generally different in a dispersive medium"
+      ],
+      "correct_index": 3,
+      "explanation": "Dispersion makes the phase and group velocities differ; the course outline lists both.",
+      "difficulty": 2,
+      "id": "phy104_029"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "The wave equation in two and three dimensions generalises",
+      "options": [
+        "Snell's law",
+        "the decibel scale",
+        "the one-dimensional wave equation to higher-dimensional propagation",
+        "the lens formula"
+      ],
+      "correct_index": 2,
+      "explanation": "The outline explicitly includes 2-D and 3-D wave equations.",
+      "difficulty": 2,
+      "id": "phy104_030"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "Waves at interfaces are mainly studied in terms of",
+      "options": [
+        "chemical equilibrium",
+        "reflection, transmission, energy and power",
+        "radioactive decay",
+        "polarization by a Polaroid only"
+      ],
+      "correct_index": 1,
+      "explanation": "The course outline lists waves at interfaces together with energy and power of waves.",
+      "difficulty": 2,
+      "id": "phy104_031"
+    },
+    {
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "The principle of superposition states that the resultant displacement is",
+      "options": [
+        "the product of the individual displacements",
+        "always zero",
+        "the largest displacement only",
+        "the algebraic sum of the individual wave displacements"
+      ],
+      "correct_index": 3,
+      "explanation": "For linear waves, yR = y1 + y2 + ...",
+      "difficulty": 1,
+      "id": "phy104_032"
+    },
+    {
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Waves that obey the principle of superposition are called",
+      "options": [
+        "polarized waves",
+        "non-linear waves",
+        "stationary waves",
+        "linear waves"
+      ],
+      "correct_index": 3,
+      "explanation": "The lecture note calls waves that obey superposition linear waves.",
+      "difficulty": 1,
+      "id": "phy104_033"
+    },
+    {
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Constructive interference occurs when superposed displacements are",
+      "options": [
+        "in opposite directions",
+        "completely absent",
+        "at right angles",
+        "in the same direction"
+      ],
+      "correct_index": 3,
+      "explanation": "Same-direction displacements add to give a larger resultant.",
+      "difficulty": 1,
+      "id": "phy104_034"
+    },
+    {
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Destructive interference occurs when superposed displacements are",
+      "options": [
+        "in the same direction",
+        "parallel to the wavefront",
+        "both zero",
+        "in opposite directions"
+      ],
+      "correct_index": 3,
+      "explanation": "Opposite displacements partially or completely cancel.",
+      "difficulty": 1,
+      "id": "phy104_035"
+    },
+    {
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Diffraction is the",
+      "options": [
+        "complete absorption of a wave",
+        "bending of waves around obstacles or apertures",
+        "change of frequency at a boundary",
+        "production of polarized light"
+      ],
+      "correct_index": 1,
+      "explanation": "The lecture note defines diffraction as bending around corners of an obstacle or aperture.",
+      "difficulty": 1,
+      "id": "phy104_036"
+    },
+    {
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Diffraction becomes more pronounced when",
+      "options": [
+        "the aperture is small compared with the wavelength",
+        "the wave speed is zero",
+        "the medium is a vacuum",
+        "the aperture is very large compared with the wavelength"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "A smaller aperture relative to λ gives stronger spreading.",
+      "difficulty": 1,
+      "id": "phy104_037"
     },
     {
-      "id": "phy104_030",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Polarization is possible only for",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_031",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "all mechanical waves",
+        "sound waves in air",
+        "transverse waves",
+        "longitudinal waves"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Polarization confines vibration to one plane, which requires transverse vibration.",
+      "difficulty": 1,
+      "id": "phy104_038"
     },
     {
-      "id": "phy104_032",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Polarization of light is evidence that light is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "unable to interfere",
+        "a stream of particles only",
+        "transverse in nature",
+        "longitudinal in nature"
+      ],
+      "correct_index": 2,
+      "explanation": "Only transverse waves can be polarized, so polarized light proves transverse character.",
+      "difficulty": 1,
+      "id": "phy104_039"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "Sound waves in air are",
+      "options": [
+        "waves that need no medium",
+        "longitudinal mechanical waves",
+        "polarized light waves",
+        "transverse electromagnetic waves"
+      ],
+      "correct_index": 1,
+      "explanation": "Sound requires a medium and its particle vibration is along the propagation direction.",
+      "difficulty": 1,
+      "id": "phy104_040"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "Sound cannot propagate through",
+      "options": [
+        "a gas",
+        "a vacuum",
+        "a liquid",
+        "a solid"
+      ],
+      "correct_index": 1,
+      "explanation": "Sound is mechanical and needs a material medium.",
+      "difficulty": 1,
+      "id": "phy104_041"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "The speed of sound is generally greatest in",
+      "options": [
+        "gases",
+        "solids",
+        "liquids",
+        "a vacuum"
+      ],
+      "correct_index": 1,
+      "explanation": "The notes give roughly 6000 m/s in solids, 1480 m/s in liquids and 330-343 m/s in air.",
+      "difficulty": 1,
+      "id": "phy104_042"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "Sound intensity is defined as",
+      "options": [
+        "frequency divided by wavelength",
+        "power per unit area perpendicular to the wave",
+        "pressure divided by density",
+        "energy multiplied by time"
+      ],
+      "correct_index": 1,
+      "explanation": "I = Power/Area, with units W/m².",
+      "difficulty": 1,
+      "id": "phy104_043"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "The decibel scale is",
+      "options": [
+        "linear",
+        "quadratic",
+        "logarithmic",
+        "exponential in time"
+      ],
+      "correct_index": 2,
+      "explanation": "β = 10 log10(I/I0) is a logarithmic measure.",
+      "difficulty": 1,
+      "id": "phy104_044"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "The standard threshold of hearing intensity I0 is",
+      "options": [
+        "1 W m⁻²",
+        "10⁻¹² W m⁻²",
+        "10⁻² W m⁻²",
+        "10¹² W m⁻²"
+      ],
+      "correct_index": 1,
+      "explanation": "The notes use I0 = 10⁻¹² W/m² as the reference intensity.",
+      "difficulty": 1,
+      "id": "phy104_045"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "The pitch of a musical note mainly depends on its",
+      "options": [
+        "intensity",
+        "overtone structure",
+        "frequency",
+        "speed in the medium"
+      ],
+      "correct_index": 2,
+      "explanation": "Higher frequency gives higher pitch.",
+      "difficulty": 1,
+      "id": "phy104_046"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "The loudness of a sound mainly depends on its",
+      "options": [
+        "wavelength only",
+        "polarization",
+        "frequency only",
+        "intensity"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Loudness is the sensation associated with intensity, which scales with amplitude squared.",
+      "difficulty": 1,
+      "id": "phy104_047"
     },
     {
-      "id": "phy104_033",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "The quality or timbre of a note depends on",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "the refractive index",
+        "its speed in air",
+        "the overtones present",
+        "the critical angle"
+      ],
+      "correct_index": 2,
+      "explanation": "Quality lets the ear distinguish notes of the same pitch and loudness.",
+      "difficulty": 1,
+      "id": "phy104_048"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "The approximate audible frequency range for humans quoted in the notes is",
+      "options": [
+        "100,000 - 1,000,000 Hz",
+        "15 - 20,000 Hz",
+        "1 - 100 Hz",
+        "1 - 10 kHz only"
+      ],
+      "correct_index": 1,
+      "explanation": "The lecture note gives 15 - 20,000 Hz for human audio frequency.",
+      "difficulty": 1,
+      "id": "phy104_049"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "The Doppler effect is a change in observed frequency caused by",
+      "options": [
+        "relative motion between source and observer",
+        "the medium becoming a vacuum",
+        "polarization of the wave",
+        "a change of colour only"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Relative motion changes the apparent frequency of a wave.",
+      "difficulty": 1,
+      "id": "phy104_050"
     },
     {
-      "id": "phy104_034",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "An echo is produced by",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_035",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_036",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "refraction of sound",
+        "total internal reflection",
+        "diffraction of light",
+        "reflection of sound"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Echoes are reflected sound waves returning to the listener.",
+      "difficulty": 1,
+      "id": "phy104_051"
     },
     {
-      "id": "phy104_037",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Beats are heard when",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "a single pure tone is played",
+        "sound travels through a vacuum",
+        "two notes of slightly different frequencies sound together",
+        "light is polarized"
+      ],
+      "correct_index": 2,
+      "explanation": "Beats are periodic loudness variations from superposing close frequencies.",
+      "difficulty": 1,
+      "id": "phy104_052"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "The beat frequency of two notes f1 and f2 is",
+      "options": [
+        "(f1 + f2)/2",
+        "|f1 - f2|",
+        "f1 + f2",
+        "f1 × f2"
+      ],
+      "correct_index": 1,
+      "explanation": "The notes give fbeat = f1 - f2, i.e. the magnitude of the difference.",
+      "difficulty": 1,
+      "id": "phy104_053"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Reverberation is the persistence of sound",
+      "options": [
+        "after the source has stopped",
+        "only for ultrasonic waves",
+        "before the source starts",
+        "only in a vacuum"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The notes define reverberation as persistence of sound after the source ceases.",
+      "difficulty": 1,
+      "id": "phy104_054"
     },
     {
-      "id": "phy104_038",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "A closed pipe supports",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_039",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_040",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "only even harmonics",
+        "all harmonics equally",
+        "no harmonics",
+        "only odd harmonics"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The notes derive f0, 3f0, 5f0, ... for a closed pipe.",
+      "difficulty": 1,
+      "id": "phy104_055"
     },
     {
-      "id": "phy104_041",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "An open pipe supports",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "only the fundamental",
+        "no standing waves",
+        "all harmonics",
+        "only odd harmonics"
+      ],
+      "correct_index": 2,
+      "explanation": "The notes derive f0, 2f0, 3f0, ... for an open pipe.",
+      "difficulty": 1,
+      "id": "phy104_056"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "In a resonance tube, the end correction arises because",
+      "options": [
+        "the tuning fork changes frequency",
+        "air becomes a vacuum",
+        "the node is below the closed end",
+        "the antinode is slightly above the open end"
+      ],
+      "correct_index": 3,
+      "explanation": "The notes state that the antinode at the top does not exactly coincide with the tube opening.",
+      "difficulty": 2,
+      "id": "phy104_057"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "At the closed end of a vibrating air column there is always",
+      "options": [
+        "a displacement antinode",
+        "total internal reflection",
+        "a displacement node",
+        "a pressure node"
+      ],
+      "correct_index": 2,
+      "explanation": "Air particles cannot move at a closed end, giving a node.",
+      "difficulty": 1,
+      "id": "phy104_058"
+    },
+    {
+      "topic": "Geometrical Optics",
+      "text": "The speed of light in vacuum is approximately",
+      "options": [
+        "340 m s⁻¹",
+        "3.0 × 10⁸ m s⁻¹",
+        "3.0 × 10⁶ m s⁻¹",
+        "1.0 × 10¹² m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "The lecture note gives C ≈ 3.0 × 10⁸ m/s.",
+      "difficulty": 1,
+      "id": "phy104_059"
+    },
+    {
+      "topic": "Geometrical Optics",
+      "text": "For light, speed c, frequency f and wavelength λ satisfy",
+      "options": [
+        "c = fλ",
+        "c = f²λ",
+        "c = λ/f",
+        "c = f/λ"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The lecture note states C = fλ.",
+      "difficulty": 1,
+      "id": "phy104_060"
     },
     {
-      "id": "phy104_042",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "The law of reflection states that",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_043",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_044",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "light always bends toward the normal",
+        "frequency changes on reflection",
+        "the angle of incidence is twice the angle of reflection",
+        "the angle of incidence equals the angle of reflection"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Specular reflection has equal incident and reflected angles measured from the normal.",
+      "difficulty": 1,
+      "id": "phy104_061"
     },
     {
-      "id": "phy104_045",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Refraction occurs because light",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "changes frequency at the interface",
+        "becomes longitudinal",
+        "stops at the interface",
+        "changes speed when it enters a different medium"
+      ],
+      "correct_index": 3,
+      "explanation": "The notes describe refraction as a change in speed from one medium to another.",
+      "difficulty": 1,
+      "id": "phy104_062"
+    },
+    {
+      "topic": "Geometrical Optics",
+      "text": "Snell's law states that for a given pair of media",
+      "options": [
+        "sin i / sin r is constant",
+        "i - r is constant",
+        "sin i × sin r is constant",
+        "i + r is constant"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The second law of refraction is η = sin i / sin r.",
+      "difficulty": 1,
+      "id": "phy104_063"
     },
     {
-      "id": "phy104_046",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Total internal reflection requires light to travel",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "only through a vacuum",
+        "from a higher to a lower refractive index above the critical angle",
+        "from a lower to a higher refractive index",
+        "parallel to the normal"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Beyond the critical angle, refraction ceases and reflection becomes total.",
+      "difficulty": 2,
+      "id": "phy104_064"
     },
     {
-      "id": "phy104_047",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A convex lens is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "always plane",
+        "opaque to light",
+        "converging",
+        "diverging"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The notes describe convex lenses as converging lenses.",
+      "difficulty": 1,
+      "id": "phy104_065"
     },
     {
-      "id": "phy104_048",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A concave lens is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "always converging for real objects",
+        "a source of total internal reflection",
+        "diverging",
+        "converging"
       ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The notes describe concave lenses as diverging lenses.",
+      "difficulty": 1,
+      "id": "phy104_066"
     },
     {
-      "id": "phy104_049",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "The power of a lens is defined as",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "the reciprocal of its focal length",
+        "the ratio of image height to object height",
+        "its focal length squared",
+        "twice its focal length"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The notes give P = 1/f, with lens power in dioptres.",
+      "difficulty": 1,
+      "id": "phy104_067"
     },
     {
-      "id": "phy104_050",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Optics & Polarization",
+      "text": "Dispersion of light is the separation of colours because",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "frequency changes at a boundary",
+        "refractive index varies with wavelength",
+        "the speed of sound changes",
+        "light becomes longitudinal"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The notes attribute dispersion and chromatic aberration to wavelength-dependent refractive index.",
+      "difficulty": 2,
+      "id": "phy104_068"
     },
     {
-      "id": "phy104_051",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Optics & Polarization",
+      "text": "Huygens' principle states that every point on a wavefront acts as",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "a total reflector",
+        "a polarizer",
+        "a source of secondary wavelets",
+        "a node of zero displacement"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "The course outline lists Huygens' principle with interference and diffraction.",
+      "difficulty": 2,
+      "id": "phy104_069"
     },
     {
-      "id": "phy104_052",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Optics & Polarization",
+      "text": "Interference and diffraction of light provide evidence for",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "the particle-only nature of light",
+        "the wave nature of light",
+        "the Doppler effect",
+        "total internal reflection"
+      ],
+      "correct_index": 1,
+      "explanation": "These are classic wave phenomena listed under wave optics.",
+      "difficulty": 1,
+      "id": "phy104_070"
+    },
+    {
+      "topic": "Wave Optics & Polarization",
+      "text": "A Polaroid produces",
+      "options": [
+        "a total eclipse",
+        "sound beats",
+        "plane-polarized light",
+        "unpolarized white light only"
+      ],
+      "correct_index": 2,
+      "explanation": "The notes describe plane polarization using a Polaroid or calcite/tourmaline crystal.",
+      "difficulty": 1,
+      "id": "phy104_071"
+    },
+    {
+      "topic": "Wave Optics & Polarization",
+      "text": "The velocity of light",
+      "options": [
+        "is the same in every medium",
+        "equals the speed of sound in air",
+        "depends on the medium through which it travels",
+        "is zero in glass"
+      ],
+      "correct_index": 2,
+      "explanation": "The lecture note states that light velocity depends on the medium.",
+      "difficulty": 1,
+      "id": "phy104_072"
+    },
+    {
+      "topic": "Wave Optics & Polarization",
+      "text": "Light waves are",
+      "options": [
+        "unable to be polarized",
+        "longitudinal sound waves",
+        "mechanical and longitudinal",
+        "electromagnetic and transverse"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Light needs no medium and can be polarized, so it is transverse electromagnetic radiation.",
+      "difficulty": 1,
+      "id": "phy104_073"
     },
     {
-      "id": "phy104_053",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Optics & Polarization",
+      "text": "Scattering of light refers to",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "formation of beats",
+        "a change of radio frequency",
+        "redirection of light by particles or irregularities",
+        "complete absorption with no re-emission"
+      ],
+      "correct_index": 2,
+      "explanation": "The course outline lists scattering of light under optics.",
+      "difficulty": 2,
+      "id": "phy104_074"
+    },
+    {
+      "topic": "Wave Optics & Polarization",
+      "text": "Optical instruments form images using",
+      "options": [
+        "resonance tubes",
+        "Polaroid filters only",
+        "lenses and/or mirrors",
+        "tuning forks"
+      ],
+      "correct_index": 2,
+      "explanation": "The outline includes thin lenses and optical instruments.",
+      "difficulty": 1,
+      "id": "phy104_075"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum has length 0.25 m. Taking g = 9.8 m s⁻², its period is approximately",
+      "options": [
+        "2.007 s",
+        "1.004 s",
+        "1.254 s",
+        "0.5018 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 2π√(l/g) with l = 0.25 m and g = 9.8 m s⁻²; T ≈ 1.004 s.",
+      "difficulty": 2,
+      "id": "phy104_076"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum has length 0.49 m. Taking g = 9.8 m s⁻², its period is approximately",
+      "options": [
+        "0.7025 s",
+        "1.405 s",
+        "1.756 s",
+        "2.81 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 2π√(l/g) with l = 0.49 m and g = 9.8 m s⁻²; T ≈ 1.405 s.",
+      "difficulty": 2,
+      "id": "phy104_077"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum has length 1 m. Taking g = 9.8 m s⁻², its period is approximately",
+      "options": [
+        "1.004 s",
+        "2.509 s",
+        "2.007 s",
+        "4.014 s"
+      ],
+      "correct_index": 2,
+      "explanation": "Use T = 2π√(l/g) with l = 1 m and g = 9.8 m s⁻²; T ≈ 2.007 s.",
+      "difficulty": 2,
+      "id": "phy104_078"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum has length 1.44 m. Taking g = 9.8 m s⁻², its period is approximately",
+      "options": [
+        "4.817 s",
+        "2.409 s",
+        "3.011 s",
+        "1.204 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 2π√(l/g) with l = 1.44 m and g = 9.8 m s⁻²; T ≈ 2.409 s.",
+      "difficulty": 2,
+      "id": "phy104_079"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum of length 0.25 m oscillates with g = 9.8 m s⁻². Its frequency is approximately",
+      "options": [
+        "1.246 Hz",
+        "0.9965 Hz",
+        "0.4982 Hz",
+        "1.993 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Use f = (1/2π)√(g/l) with l = 0.25 m and g = 9.8 m s⁻²; f ≈ 0.9965 Hz.",
+      "difficulty": 2,
+      "id": "phy104_080"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum of length 0.49 m oscillates with g = 9.8 m s⁻². Its frequency is approximately",
+      "options": [
+        "0.8897 Hz",
+        "1.424 Hz",
+        "0.3559 Hz",
+        "0.7118 Hz"
+      ],
+      "correct_index": 3,
+      "explanation": "Use f = (1/2π)√(g/l) with l = 0.49 m and g = 9.8 m s⁻²; f ≈ 0.7118 Hz.",
+      "difficulty": 2,
+      "id": "phy104_081"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum of length 1 m oscillates with g = 9.8 m s⁻². Its frequency is approximately",
+      "options": [
+        "0.4982 Hz",
+        "0.2491 Hz",
+        "0.9965 Hz",
+        "0.6228 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = (1/2π)√(g/l) with l = 1 m and g = 9.8 m s⁻²; f ≈ 0.4982 Hz.",
+      "difficulty": 2,
+      "id": "phy104_082"
     },
     {
-      "id": "phy104_054",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "A simple pendulum of length 1.44 m oscillates with g = 9.8 m s⁻². Its frequency is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.519 Hz",
+        "0.4152 Hz",
+        "0.8304 Hz",
+        "0.2076 Hz"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = (1/2π)√(g/l) with l = 1.44 m and g = 9.8 m s⁻²; f ≈ 0.4152 Hz.",
+      "difficulty": 2,
+      "id": "phy104_083"
     },
     {
-      "id": "phy104_055",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "A mass of 0.2 kg hangs from a spring of constant 80 N m⁻¹. The oscillation period is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.1571 s",
+        "0.3142 s",
+        "0.6283 s",
+        "0.3927 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 2π√(m/k) with m = 0.2 kg and k = 80 N m⁻¹; T ≈ 0.3142 s.",
+      "difficulty": 2,
+      "id": "phy104_084"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A mass of 0.5 kg hangs from a spring of constant 50 N m⁻¹. The oscillation period is approximately",
+      "options": [
+        "0.3142 s",
+        "0.6283 s",
+        "1.257 s",
+        "0.7854 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 2π√(m/k) with m = 0.5 kg and k = 50 N m⁻¹; T ≈ 0.6283 s.",
+      "difficulty": 2,
+      "id": "phy104_085"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A mass of 1 kg hangs from a spring of constant 100 N m⁻¹. The oscillation period is approximately",
+      "options": [
+        "0.3142 s",
+        "1.257 s",
+        "0.6283 s",
+        "0.7854 s"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use T = 2π√(m/k) with m = 1 kg and k = 100 N m⁻¹; T ≈ 0.6283 s.",
+      "difficulty": 2,
+      "id": "phy104_086"
     },
     {
-      "id": "phy104_056",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "A mass of 2 kg hangs from a spring of constant 200 N m⁻¹. The oscillation period is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "1.257 s",
+        "0.6283 s",
+        "0.7854 s",
+        "0.3142 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 2π√(m/k) with m = 2 kg and k = 200 N m⁻¹; T ≈ 0.6283 s.",
+      "difficulty": 2,
+      "id": "phy104_087"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "For a spring-mass system with m = 0.2 kg and k = 80 N m⁻¹, the angular frequency is",
+      "options": [
+        "10 rad s⁻¹",
+        "25 rad s⁻¹",
+        "40 rad s⁻¹",
+        "20 rad s⁻¹"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use ω = √(k/m) with m = 0.2 kg and k = 80 N m⁻¹; ω ≈ 20 rad s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_088"
     },
     {
-      "id": "phy104_057",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "For a spring-mass system with m = 0.5 kg and k = 50 N m⁻¹, the angular frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "20 rad s⁻¹",
+        "5 rad s⁻¹",
+        "10 rad s⁻¹",
+        "12.5 rad s⁻¹"
+      ],
+      "correct_index": 2,
+      "explanation": "Use ω = √(k/m) with m = 0.5 kg and k = 50 N m⁻¹; ω ≈ 10 rad s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_089"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "For a spring-mass system with m = 1 kg and k = 100 N m⁻¹, the angular frequency is",
+      "options": [
+        "20 rad s⁻¹",
+        "10 rad s⁻¹",
+        "12.5 rad s⁻¹",
+        "5 rad s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use ω = √(k/m) with m = 1 kg and k = 100 N m⁻¹; ω ≈ 10 rad s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_090"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "For a spring-mass system with m = 2 kg and k = 200 N m⁻¹, the angular frequency is",
+      "options": [
+        "5 rad s⁻¹",
+        "12.5 rad s⁻¹",
+        "20 rad s⁻¹",
+        "10 rad s⁻¹"
+      ],
+      "correct_index": 3,
+      "explanation": "Use ω = √(k/m) with m = 2 kg and k = 200 N m⁻¹; ω ≈ 10 rad s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_091"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A spring-mass oscillator has m = 0.2 kg and k = 80 N m⁻¹. Its frequency is approximately",
+      "options": [
+        "6.366 Hz",
+        "1.592 Hz",
+        "3.183 Hz",
+        "3.979 Hz"
+      ],
+      "correct_index": 2,
+      "explanation": "Use f = (1/2π)√(k/m) with m = 0.2 kg and k = 80 N m⁻¹; f ≈ 3.183 Hz.",
+      "difficulty": 2,
+      "id": "phy104_092"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "A spring-mass oscillator has m = 0.5 kg and k = 50 N m⁻¹. Its frequency is approximately",
+      "options": [
+        "1.592 Hz",
+        "3.183 Hz",
+        "1.989 Hz",
+        "0.7958 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = (1/2π)√(k/m) with m = 0.5 kg and k = 50 N m⁻¹; f ≈ 1.592 Hz.",
+      "difficulty": 2,
+      "id": "phy104_093"
     },
     {
-      "id": "phy104_058",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "A spring-mass oscillator has m = 1 kg and k = 100 N m⁻¹. Its frequency is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_059",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.7958 Hz",
+        "1.989 Hz",
+        "1.592 Hz",
+        "3.183 Hz"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = (1/2π)√(k/m) with m = 1 kg and k = 100 N m⁻¹; f ≈ 1.592 Hz.",
+      "difficulty": 2,
+      "id": "phy104_094"
     },
     {
-      "id": "phy104_060",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "A spring-mass oscillator has m = 2 kg and k = 200 N m⁻¹. Its frequency is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "3.183 Hz",
+        "1.592 Hz",
+        "1.989 Hz",
+        "0.7958 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Use f = (1/2π)√(k/m) with m = 2 kg and k = 200 N m⁻¹; f ≈ 1.592 Hz.",
+      "difficulty": 2,
+      "id": "phy104_095"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has mass 0.5 kg, angular frequency 10 rad s⁻¹ and amplitude 0.1 m. Its total energy is",
+      "options": [
+        "0.3125 J",
+        "0.25 J",
+        "0.5 J",
+        "0.125 J"
+      ],
+      "correct_index": 1,
+      "explanation": "Use E = ½mω²a² with m = 0.5 kg, ω = 10 rad s⁻¹ and a = 0.1 m; E ≈ 0.25 J.",
+      "difficulty": 2,
+      "id": "phy104_096"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has mass 0.5 kg, angular frequency 10 rad s⁻¹ and amplitude 0.2 m. Its total energy is",
+      "options": [
+        "0.5 J",
+        "1 J",
+        "1.25 J",
+        "2 J"
+      ],
+      "correct_index": 1,
+      "explanation": "Use E = ½mω²a² with m = 0.5 kg, ω = 10 rad s⁻¹ and a = 0.2 m; E ≈ 1 J.",
+      "difficulty": 2,
+      "id": "phy104_097"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has mass 1 kg, angular frequency 5 rad s⁻¹ and amplitude 0.2 m. Its total energy is",
+      "options": [
+        "0.25 J",
+        "1 J",
+        "0.625 J",
+        "0.5 J"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use E = ½mω²a² with m = 1 kg, ω = 5 rad s⁻¹ and a = 0.2 m; E ≈ 0.5 J.",
+      "difficulty": 2,
+      "id": "phy104_098"
     },
     {
-      "id": "phy104_061",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has mass 2 kg, angular frequency 4 rad s⁻¹ and amplitude 0.1 m. Its total energy is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.08 J",
+        "0.2 J",
+        "0.16 J",
+        "0.32 J"
+      ],
+      "correct_index": 2,
+      "explanation": "Use E = ½mω²a² with m = 2 kg, ω = 4 rad s⁻¹ and a = 0.1 m; E ≈ 0.16 J.",
+      "difficulty": 2,
+      "id": "phy104_099"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 10 rad s⁻¹ and amplitude 0.1 m. Its maximum speed is",
+      "options": [
+        "0.5 m s⁻¹",
+        "2 m s⁻¹",
+        "1.25 m s⁻¹",
+        "1 m s⁻¹"
+      ],
+      "correct_index": 3,
+      "explanation": "Use vmax = ωa with ω = 10 rad s⁻¹ and a = 0.1 m; vmax ≈ 1 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_100"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 10 rad s⁻¹ and amplitude 0.2 m. Its maximum speed is",
+      "options": [
+        "2.5 m s⁻¹",
+        "2 m s⁻¹",
+        "1 m s⁻¹",
+        "4 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use vmax = ωa with ω = 10 rad s⁻¹ and a = 0.2 m; vmax ≈ 2 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_101"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 20 rad s⁻¹ and amplitude 0.04 m. Its maximum speed is",
+      "options": [
+        "0.8 m s⁻¹",
+        "1 m s⁻¹",
+        "0.4 m s⁻¹",
+        "1.6 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use vmax = ωa with ω = 20 rad s⁻¹ and a = 0.04 m; vmax ≈ 0.8 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_102"
     },
     {
-      "id": "phy104_062",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 5 rad s⁻¹ and amplitude 0.5 m. Its maximum speed is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_063",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_064",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "5 m s⁻¹",
+        "1.25 m s⁻¹",
+        "3.125 m s⁻¹",
+        "2.5 m s⁻¹"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use vmax = ωa with ω = 5 rad s⁻¹ and a = 0.5 m; vmax ≈ 2.5 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_103"
     },
     {
-      "id": "phy104_065",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 10 rad s⁻¹ and amplitude 0.1 m. Its maximum acceleration is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "20 m s⁻²",
+        "5 m s⁻²",
+        "12.5 m s⁻²",
+        "10 m s⁻²"
+      ],
+      "correct_index": 3,
+      "explanation": "Use amax = ω²a with ω = 10 rad s⁻¹ and a = 0.1 m; amax ≈ 10 m s⁻².",
+      "difficulty": 2,
+      "id": "phy104_104"
+    },
+    {
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 10 rad s⁻¹ and amplitude 0.2 m. Its maximum acceleration is",
+      "options": [
+        "20 m s⁻²",
+        "10 m s⁻²",
+        "25 m s⁻²",
+        "40 m s⁻²"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use amax = ω²a with ω = 10 rad s⁻¹ and a = 0.2 m; amax ≈ 20 m s⁻².",
+      "difficulty": 2,
+      "id": "phy104_105"
     },
     {
-      "id": "phy104_066",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 20 rad s⁻¹ and amplitude 0.04 m. Its maximum acceleration is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "20 m s⁻²",
+        "16 m s⁻²",
+        "8 m s⁻²",
+        "32 m s⁻²"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use amax = ω²a with ω = 20 rad s⁻¹ and a = 0.04 m; amax ≈ 16 m s⁻².",
+      "difficulty": 2,
+      "id": "phy104_106"
     },
     {
-      "id": "phy104_067",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Simple Harmonic Motion",
+      "text": "An SHM oscillator has angular frequency 5 rad s⁻¹ and amplitude 0.5 m. Its maximum acceleration is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "25 m s⁻²",
+        "15.62 m s⁻²",
+        "12.5 m s⁻²",
+        "6.25 m s⁻²"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use amax = ω²a with ω = 5 rad s⁻¹ and a = 0.5 m; amax ≈ 12.5 m s⁻².",
+      "difficulty": 2,
+      "id": "phy104_107"
     },
     {
-      "id": "phy104_068",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A sinusoidal wave has angular frequency 100 rad s⁻¹ and angular wave number 5 rad m⁻¹. Its speed is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "25 m s⁻¹",
+        "20 m s⁻¹",
+        "10 m s⁻¹",
+        "40 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = ω/k with ω = 100 rad s⁻¹ and k = 5 rad m⁻¹; v = 20 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_108"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A sinusoidal wave has angular frequency 200 rad s⁻¹ and angular wave number 10 rad m⁻¹. Its speed is",
+      "options": [
+        "10 m s⁻¹",
+        "20 m s⁻¹",
+        "40 m s⁻¹",
+        "25 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = ω/k with ω = 200 rad s⁻¹ and k = 10 rad m⁻¹; v = 20 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_109"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A sinusoidal wave has angular frequency 300 rad s⁻¹ and angular wave number 6 rad m⁻¹. Its speed is",
+      "options": [
+        "25 m s⁻¹",
+        "100 m s⁻¹",
+        "62.5 m s⁻¹",
+        "50 m s⁻¹"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = ω/k with ω = 300 rad s⁻¹ and k = 6 rad m⁻¹; v = 50 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_110"
     },
     {
-      "id": "phy104_069",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A sinusoidal wave has angular frequency 400 rad s⁻¹ and angular wave number 8 rad m⁻¹. Its speed is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "25 m s⁻¹",
+        "50 m s⁻¹",
+        "62.5 m s⁻¹",
+        "100 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = ω/k with ω = 400 rad s⁻¹ and k = 8 rad m⁻¹; v = 50 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_111"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has angular wave number k = 1 rad m⁻¹. Its wavelength is approximately",
+      "options": [
+        "7.854 m",
+        "12.57 m",
+        "3.142 m",
+        "6.283 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Use λ = 2π/k with k = 1 rad m⁻¹; λ ≈ 6.283 m.",
+      "difficulty": 2,
+      "id": "phy104_112"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has angular wave number k = 2 rad m⁻¹. Its wavelength is approximately",
+      "options": [
+        "3.927 m",
+        "3.142 m",
+        "1.571 m",
+        "6.283 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Use λ = 2π/k with k = 2 rad m⁻¹; λ ≈ 3.142 m.",
+      "difficulty": 2,
+      "id": "phy104_113"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has angular wave number k = 5 rad m⁻¹. Its wavelength is approximately",
+      "options": [
+        "0.6283 m",
+        "2.513 m",
+        "1.571 m",
+        "1.257 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Use λ = 2π/k with k = 5 rad m⁻¹; λ ≈ 1.257 m.",
+      "difficulty": 2,
+      "id": "phy104_114"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has angular wave number k = 10 rad m⁻¹. Its wavelength is approximately",
+      "options": [
+        "1.257 m",
+        "0.7854 m",
+        "0.6283 m",
+        "0.3142 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Use λ = 2π/k with k = 10 rad m⁻¹; λ ≈ 0.6283 m.",
+      "difficulty": 2,
+      "id": "phy104_115"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave of frequency 50 Hz has wavelength 2 m. Its speed is",
+      "options": [
+        "200 m s⁻¹",
+        "125 m s⁻¹",
+        "50 m s⁻¹",
+        "100 m s⁻¹"
+      ],
+      "correct_index": 3,
+      "explanation": "Use v = fλ with f = 50 Hz and λ = 2 m; v = 100 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_116"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave of frequency 100 Hz has wavelength 1.5 m. Its speed is",
+      "options": [
+        "187.5 m s⁻¹",
+        "150 m s⁻¹",
+        "75 m s⁻¹",
+        "300 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = fλ with f = 100 Hz and λ = 1.5 m; v = 150 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_117"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave of frequency 200 Hz has wavelength 0.5 m. Its speed is",
+      "options": [
+        "100 m s⁻¹",
+        "200 m s⁻¹",
+        "50 m s⁻¹",
+        "125 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = fλ with f = 200 Hz and λ = 0.5 m; v = 100 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_118"
     },
     {
-      "id": "phy104_070",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave of frequency 256 Hz has wavelength 1.35 m. Its speed is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_071",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "691.2 m s⁻¹",
+        "172.8 m s⁻¹",
+        "345.6 m s⁻¹",
+        "432 m s⁻¹"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = fλ with f = 256 Hz and λ = 1.35 m; v = 345.6 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_119"
     },
     {
-      "id": "phy104_072",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave of frequency 340 Hz has wavelength 1 m. Its speed is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "680 m s⁻¹",
+        "170 m s⁻¹",
+        "340 m s⁻¹",
+        "425 m s⁻¹"
+      ],
+      "correct_index": 2,
+      "explanation": "Use v = fλ with f = 340 Hz and λ = 1 m; v = 340 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_120"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave travels at 340 m s⁻¹ with wavelength 1 m. Its frequency is",
+      "options": [
+        "425 Hz",
+        "170 Hz",
+        "680 Hz",
+        "340 Hz"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = v/λ with v = 340 m s⁻¹ and λ = 1 m; f ≈ 340 Hz.",
+      "difficulty": 2,
+      "id": "phy104_121"
     },
     {
-      "id": "phy104_073",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave travels at 340 m s⁻¹ with wavelength 0.5 m. Its frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "850 Hz",
+        "340 Hz",
+        "1360 Hz",
+        "680 Hz"
+      ],
+      "correct_index": 3,
+      "explanation": "Use f = v/λ with v = 340 m s⁻¹ and λ = 0.5 m; f ≈ 680 Hz.",
+      "difficulty": 2,
+      "id": "phy104_122"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave travels at 340 m s⁻¹ with wavelength 2 m. Its frequency is",
+      "options": [
+        "212.5 Hz",
+        "170 Hz",
+        "85 Hz",
+        "340 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Use f = v/λ with v = 340 m s⁻¹ and λ = 2 m; f ≈ 170 Hz.",
+      "difficulty": 2,
+      "id": "phy104_123"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave travels at 1500 m s⁻¹ with wavelength 3 m. Its frequency is",
+      "options": [
+        "500 Hz",
+        "1000 Hz",
+        "625 Hz",
+        "250 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = v/λ with v = 1500 m s⁻¹ and λ = 3 m; f ≈ 500 Hz.",
+      "difficulty": 2,
+      "id": "phy104_124"
     },
     {
-      "id": "phy104_074",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave travels at 30 m s⁻¹ with wavelength 0.6 m. Its frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_075",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_076",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_077",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "50 Hz",
+        "100 Hz",
+        "62.5 Hz",
+        "25 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use f = v/λ with v = 30 m s⁻¹ and λ = 0.6 m; f ≈ 50 Hz.",
+      "difficulty": 2,
+      "id": "phy104_125"
     },
     {
-      "id": "phy104_078",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has frequency 2 Hz. Its period is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_079",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_080",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "1 s",
+        "0.25 s",
+        "0.625 s",
+        "0.5 s"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use T = 1/f with f = 2 Hz; T ≈ 0.5 s.",
+      "difficulty": 2,
+      "id": "phy104_126"
     },
     {
-      "id": "phy104_081",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has frequency 5 Hz. Its period is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.1 s",
+        "0.2 s",
+        "0.4 s",
+        "0.25 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Use T = 1/f with f = 5 Hz; T ≈ 0.2 s.",
+      "difficulty": 2,
+      "id": "phy104_127"
+    },
+    {
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has frequency 10 Hz. Its period is approximately",
+      "options": [
+        "0.1 s",
+        "0.2 s",
+        "0.05 s",
+        "0.125 s"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use T = 1/f with f = 10 Hz; T ≈ 0.1 s.",
+      "difficulty": 2,
+      "id": "phy104_128"
     },
     {
-      "id": "phy104_082",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has frequency 20 Hz. Its period is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_083",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_084",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.1 s",
+        "0.025 s",
+        "0.0625 s",
+        "0.05 s"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use T = 1/f with f = 20 Hz; T ≈ 0.05 s.",
+      "difficulty": 2,
+      "id": "phy104_129"
     },
     {
-      "id": "phy104_085",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Wave Properties & Equations",
+      "text": "A wave has frequency 50 Hz. Its period is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.02 s",
+        "0.025 s",
+        "0.04 s",
+        "0.01 s"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use T = 1/f with f = 50 Hz; T ≈ 0.02 s.",
+      "difficulty": 2,
+      "id": "phy104_130"
     },
     {
-      "id": "phy104_086",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Two equal-amplitude waves of amplitude 0.3 m superpose with phase difference 0°. The resultant amplitude is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_087",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_088",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "1.2 m",
+        "0.75 m",
+        "0.3 m",
+        "0.6 m"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use AR = 2A cos(φ/2) with A = 0.3 m and φ = 0°; AR ≈ 0.6 m.",
+      "difficulty": 2,
+      "id": "phy104_131"
     },
     {
-      "id": "phy104_089",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Two equal-amplitude waves of amplitude 0.3 m superpose with phase difference 30°. The resultant amplitude is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.5796 m",
+        "0.2898 m",
+        "1.159 m",
+        "0.7244 m"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use AR = 2A cos(φ/2) with A = 0.3 m and φ = 30°; AR ≈ 0.5796 m.",
+      "difficulty": 2,
+      "id": "phy104_132"
     },
     {
-      "id": "phy104_090",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Two equal-amplitude waves of amplitude 0.3 m superpose with phase difference 60°. The resultant amplitude is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_091",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_092",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_093",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.5196 m",
+        "0.6495 m",
+        "1.039 m",
+        "0.2598 m"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use AR = 2A cos(φ/2) with A = 0.3 m and φ = 60°; AR ≈ 0.5196 m.",
+      "difficulty": 2,
+      "id": "phy104_133"
     },
     {
-      "id": "phy104_094",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Two equal-amplitude waves of amplitude 0.3 m superpose with phase difference 90°. The resultant amplitude is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_095",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.8485 m",
+        "0.5303 m",
+        "0.4243 m",
+        "0.2121 m"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use AR = 2A cos(φ/2) with A = 0.3 m and φ = 90°; AR ≈ 0.4243 m.",
+      "difficulty": 2,
+      "id": "phy104_134"
     },
     {
-      "id": "phy104_096",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Superposition, Interference & Diffraction",
+      "text": "Two equal-amplitude waves of amplitude 0.3 m superpose with phase difference 120°. The resultant amplitude is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "0.6 m",
+        "0.15 m",
+        "0.375 m",
+        "0.3 m"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use AR = 2A cos(φ/2) with A = 0.3 m and φ = 120°; AR ≈ 0.3 m.",
+      "difficulty": 2,
+      "id": "phy104_135"
     },
     {
-      "id": "phy104_097",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Two tuning forks of frequencies 206 Hz and 194 Hz sound together. The beat frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "24 Hz",
+        "12 Hz",
+        "15 Hz",
+        "6 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Use fbeat = |f1 - f2| with f1 = 206 Hz and f2 = 194 Hz; fbeat = 12 Hz.",
+      "difficulty": 2,
+      "id": "phy104_136"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Two tuning forks of frequencies 256 Hz and 250 Hz sound together. The beat frequency is",
+      "options": [
+        "7.5 Hz",
+        "3 Hz",
+        "12 Hz",
+        "6 Hz"
+      ],
+      "correct_index": 3,
+      "explanation": "Use fbeat = |f1 - f2| with f1 = 256 Hz and f2 = 250 Hz; fbeat = 6 Hz.",
+      "difficulty": 2,
+      "id": "phy104_137"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Two tuning forks of frequencies 300 Hz and 294 Hz sound together. The beat frequency is",
+      "options": [
+        "3 Hz",
+        "6 Hz",
+        "12 Hz",
+        "7.5 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Use fbeat = |f1 - f2| with f1 = 300 Hz and f2 = 294 Hz; fbeat = 6 Hz.",
+      "difficulty": 2,
+      "id": "phy104_138"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Two tuning forks of frequencies 440 Hz and 435 Hz sound together. The beat frequency is",
+      "options": [
+        "6.25 Hz",
+        "2.5 Hz",
+        "5 Hz",
+        "10 Hz"
+      ],
+      "correct_index": 2,
+      "explanation": "Use fbeat = |f1 - f2| with f1 = 440 Hz and f2 = 435 Hz; fbeat = 5 Hz.",
+      "difficulty": 2,
+      "id": "phy104_139"
+    },
+    {
+      "topic": "Doppler Effect, Beats & Echoes",
+      "text": "Two tuning forks of frequencies 512 Hz and 500 Hz sound together. The beat frequency is",
+      "options": [
+        "12 Hz",
+        "6 Hz",
+        "15 Hz",
+        "24 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use fbeat = |f1 - f2| with f1 = 512 Hz and f2 = 500 Hz; fbeat = 12 Hz.",
+      "difficulty": 2,
+      "id": "phy104_140"
     },
     {
-      "id": "phy104_098",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound source delivers 10 W uniformly over an area of 2 m². The intensity is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "10 W m⁻²",
+        "5 W m⁻²",
+        "2.5 W m⁻²",
+        "6.25 W m⁻²"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use I = P/A with P = 10 W and A = 2 m²; I = 5 W m⁻².",
+      "difficulty": 2,
+      "id": "phy104_141"
     },
     {
-      "id": "phy104_099",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound source delivers 20 W uniformly over an area of 5 m². The intensity is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_100",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "2 W m⁻²",
+        "8 W m⁻²",
+        "5 W m⁻²",
+        "4 W m⁻²"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use I = P/A with P = 20 W and A = 5 m²; I = 4 W m⁻².",
+      "difficulty": 2,
+      "id": "phy104_142"
     },
     {
-      "id": "phy104_101",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound source delivers 50 W uniformly over an area of 10 m². The intensity is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "6.25 W m⁻²",
+        "2.5 W m⁻²",
+        "10 W m⁻²",
+        "5 W m⁻²"
+      ],
+      "correct_index": 3,
+      "explanation": "Use I = P/A with P = 50 W and A = 10 m²; I = 5 W m⁻².",
+      "difficulty": 2,
+      "id": "phy104_143"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound source delivers 100 W uniformly over an area of 4 m². The intensity is",
+      "options": [
+        "50 W m⁻²",
+        "12.5 W m⁻²",
+        "31.25 W m⁻²",
+        "25 W m⁻²"
+      ],
+      "correct_index": 3,
+      "explanation": "Use I = P/A with P = 100 W and A = 4 m²; I = 25 W m⁻².",
+      "difficulty": 2,
+      "id": "phy104_144"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound source delivers 5 W uniformly over an area of 0.5 m². The intensity is",
+      "options": [
+        "20 W m⁻²",
+        "10 W m⁻²",
+        "5 W m⁻²",
+        "12.5 W m⁻²"
+      ],
+      "correct_index": 1,
+      "explanation": "Use I = P/A with P = 5 W and A = 0.5 m²; I = 10 W m⁻².",
+      "difficulty": 2,
+      "id": "phy104_145"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound has intensity 10¹ times the threshold I0. Its level in decibels is",
+      "options": [
+        "20 dB",
+        "12.5 dB",
+        "10 dB",
+        "5 dB"
+      ],
+      "correct_index": 2,
+      "explanation": "Use β = 10 log10(I/I0); with I/I0 = 10¹, β = 10 log10(10¹) = 10 dB.",
+      "difficulty": 2,
+      "id": "phy104_146"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound has intensity 10² times the threshold I0. Its level in decibels is",
+      "options": [
+        "25 dB",
+        "40 dB",
+        "10 dB",
+        "20 dB"
+      ],
+      "correct_index": 3,
+      "explanation": "Use β = 10 log10(I/I0); with I/I0 = 10², β = 10 log10(10²) = 20 dB.",
+      "difficulty": 2,
+      "id": "phy104_147"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound has intensity 10³ times the threshold I0. Its level in decibels is",
+      "options": [
+        "30 dB",
+        "60 dB",
+        "15 dB",
+        "37.5 dB"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I/I0); with I/I0 = 10³, β = 10 log10(10³) = 30 dB.",
+      "difficulty": 2,
+      "id": "phy104_148"
     },
     {
-      "id": "phy104_102",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound has intensity 10⁴ times the threshold I0. Its level in decibels is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_103",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_104",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "50 dB",
+        "80 dB",
+        "20 dB",
+        "40 dB"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I/I0); with I/I0 = 10⁴, β = 10 log10(10⁴) = 40 dB.",
+      "difficulty": 2,
+      "id": "phy104_149"
     },
     {
-      "id": "phy104_105",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A sound has intensity 10⁵ times the threshold I0. Its level in decibels is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "50 dB",
+        "62.5 dB",
+        "25 dB",
+        "100 dB"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I/I0); with I/I0 = 10⁵, β = 10 log10(10⁵) = 50 dB.",
+      "difficulty": 2,
+      "id": "phy104_150"
     },
     {
-      "id": "phy104_106",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Two sounds differ in level by 10 dB. The ratio of their intensities is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "5",
+        "10",
+        "20",
+        "12.5"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I2/I1), so I2/I1 = 10^(β/10) = 10.",
+      "difficulty": 2,
+      "id": "phy104_151"
     },
     {
-      "id": "phy104_107",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Two sounds differ in level by 20 dB. The ratio of their intensities is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_108",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "125",
+        "200",
+        "50",
+        "100"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I2/I1), so I2/I1 = 10^(β/10) = 100.",
+      "difficulty": 2,
+      "id": "phy104_152"
     },
     {
-      "id": "phy104_109",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Two sounds differ in level by 30 dB. The ratio of their intensities is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "2000",
+        "500",
+        "1250",
+        "1000"
+      ],
+      "correct_index": 3,
+      "explanation": "Use β = 10 log10(I2/I1), so I2/I1 = 10^(β/10) = 1000.",
+      "difficulty": 2,
+      "id": "phy104_153"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "Two sounds differ in level by 40 dB. The ratio of their intensities is",
+      "options": [
+        "10000",
+        "12500",
+        "20000",
+        "5000"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I2/I1), so I2/I1 = 10^(β/10) = 10000.",
+      "difficulty": 2,
+      "id": "phy104_154"
     },
     {
-      "id": "phy104_110",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Two sounds differ in level by 50 dB. The ratio of their intensities is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_111",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "50000",
+        "200000",
+        "100000",
+        "125000"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use β = 10 log10(I2/I1), so I2/I1 = 10^(β/10) = 100000.",
+      "difficulty": 2,
+      "id": "phy104_155"
     },
     {
-      "id": "phy104_112",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Using v = 331√(1 + Tc/273), the speed of sound in air at 0 °C is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "165.5 m s⁻¹",
+        "413.8 m s⁻¹",
+        "662 m s⁻¹",
+        "331 m s⁻¹"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Substitute Tc = 0 °C into v = 331√(1 + Tc/273); v ≈ 331 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_156"
     },
     {
-      "id": "phy104_113",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Using v = 331√(1 + Tc/273), the speed of sound in air at 10 °C is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "674 m s⁻¹",
+        "337 m s⁻¹",
+        "168.5 m s⁻¹",
+        "421.3 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Substitute Tc = 10 °C into v = 331√(1 + Tc/273); v ≈ 337 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_157"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "Using v = 331√(1 + Tc/273), the speed of sound in air at 20 °C is approximately",
+      "options": [
+        "342.9 m s⁻¹",
+        "171.5 m s⁻¹",
+        "685.8 m s⁻¹",
+        "428.6 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Substitute Tc = 20 °C into v = 331√(1 + Tc/273); v ≈ 342.9 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_158"
     },
     {
-      "id": "phy104_114",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Using v = 331√(1 + Tc/273), the speed of sound in air at 27 °C is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "694 m s⁻¹",
+        "347 m s⁻¹",
+        "173.5 m s⁻¹",
+        "433.7 m s⁻¹"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Substitute Tc = 27 °C into v = 331√(1 + Tc/273); v ≈ 347 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_159"
     },
     {
-      "id": "phy104_115",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "Using v = 331√(1 + Tc/273), the speed of sound in air at 40 °C is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_116",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_117",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "354.4 m s⁻¹",
+        "443 m s⁻¹",
+        "708.8 m s⁻¹",
+        "177.2 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Substitute Tc = 40 °C into v = 331√(1 + Tc/273); v ≈ 354.4 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_160"
     },
     {
-      "id": "phy104_118",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A solid has Young modulus 7e+10 N m⁻² and density 2700 kg m⁻³. The speed of sound in it is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_119",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_120",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "1.018e+04 m s⁻¹",
+        "2546 m s⁻¹",
+        "6365 m s⁻¹",
+        "5092 m s⁻¹"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = √(E/ρ) with E = 7e+10 N m⁻² and ρ = 2700 kg m⁻³; v ≈ 5092 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_161"
     },
     {
-      "id": "phy104_121",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A solid has Young modulus 2e+11 N m⁻² and density 7800 kg m⁻³. The speed of sound in it is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "6330 m s⁻¹",
+        "2532 m s⁻¹",
+        "5064 m s⁻¹",
+        "1.013e+04 m s⁻¹"
+      ],
+      "correct_index": 2,
+      "explanation": "Use v = √(E/ρ) with E = 2e+11 N m⁻² and ρ = 7800 kg m⁻³; v ≈ 5064 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_162"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A solid has Young modulus 1.6e+10 N m⁻² and density 2000 kg m⁻³. The speed of sound in it is approximately",
+      "options": [
+        "5657 m s⁻¹",
+        "2828 m s⁻¹",
+        "1414 m s⁻¹",
+        "3536 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = √(E/ρ) with E = 1.6e+10 N m⁻² and ρ = 2000 kg m⁻³; v ≈ 2828 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_163"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A solid has Young modulus 9e+10 N m⁻² and density 9000 kg m⁻³. The speed of sound in it is approximately",
+      "options": [
+        "3953 m s⁻¹",
+        "6325 m s⁻¹",
+        "3162 m s⁻¹",
+        "1581 m s⁻¹"
+      ],
+      "correct_index": 2,
+      "explanation": "Use v = √(E/ρ) with E = 9e+10 N m⁻² and ρ = 9000 kg m⁻³; v ≈ 3162 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_164"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A solid has Young modulus 4e+10 N m⁻² and density 4000 kg m⁻³. The speed of sound in it is approximately",
+      "options": [
+        "3162 m s⁻¹",
+        "3953 m s⁻¹",
+        "6325 m s⁻¹",
+        "1581 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = √(E/ρ) with E = 4e+10 N m⁻² and ρ = 4000 kg m⁻³; v ≈ 3162 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_165"
     },
     {
-      "id": "phy104_122",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A liquid has bulk modulus 2.19e+09 N m⁻² and density 1000 kg m⁻³. The speed of sound in it is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_123",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "2960 m s⁻¹",
+        "1850 m s⁻¹",
+        "1480 m s⁻¹",
+        "739.9 m s⁻¹"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = √(B/ρ) with B = 2.19e+09 N m⁻² and ρ = 1000 kg m⁻³; v ≈ 1480 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_166"
     },
     {
-      "id": "phy104_124",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A liquid has bulk modulus 2e+09 N m⁻² and density 800 kg m⁻³. The speed of sound in it is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "1976 m s⁻¹",
+        "1581 m s⁻¹",
+        "3162 m s⁻¹",
+        "790.6 m s⁻¹"
       ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Use v = √(B/ρ) with B = 2e+09 N m⁻² and ρ = 800 kg m⁻³; v ≈ 1581 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_167"
     },
     {
-      "id": "phy104_125",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Sound Intensity & Perception",
+      "text": "A liquid has bulk modulus 1.5e+09 N m⁻² and density 750 kg m⁻³. The speed of sound in it is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "707.1 m s⁻¹",
+        "1768 m s⁻¹",
+        "1414 m s⁻¹",
+        "2828 m s⁻¹"
+      ],
+      "correct_index": 2,
+      "explanation": "Use v = √(B/ρ) with B = 1.5e+09 N m⁻² and ρ = 750 kg m⁻³; v ≈ 1414 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_168"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A liquid has bulk modulus 3e+09 N m⁻² and density 1200 kg m⁻³. The speed of sound in it is approximately",
+      "options": [
+        "1976 m s⁻¹",
+        "1581 m s⁻¹",
+        "790.6 m s⁻¹",
+        "3162 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = √(B/ρ) with B = 3e+09 N m⁻² and ρ = 1200 kg m⁻³; v ≈ 1581 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_169"
+    },
+    {
+      "topic": "Sound Intensity & Perception",
+      "text": "A liquid has bulk modulus 1e+09 N m⁻² and density 500 kg m⁻³. The speed of sound in it is approximately",
+      "options": [
+        "707.1 m s⁻¹",
+        "1414 m s⁻¹",
+        "1768 m s⁻¹",
+        "2828 m s⁻¹"
+      ],
+      "correct_index": 1,
+      "explanation": "Use v = √(B/ρ) with B = 1e+09 N m⁻² and ρ = 500 kg m⁻³; v ≈ 1414 m s⁻¹.",
+      "difficulty": 3,
+      "id": "phy104_170"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "An open pipe of length 0.5 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
+      "options": [
+        "170 Hz",
+        "680 Hz",
+        "340 Hz",
+        "425 Hz"
+      ],
+      "correct_index": 2,
+      "explanation": "For an open pipe use f0 = v/(2l) with v = 340 m s⁻¹ and l = 0.5 m; f0 ≈ 340 Hz.",
+      "difficulty": 2,
+      "id": "phy104_171"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "An open pipe of length 1 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
+      "options": [
+        "85 Hz",
+        "170 Hz",
+        "212.5 Hz",
+        "340 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "For an open pipe use f0 = v/(2l) with v = 340 m s⁻¹ and l = 1 m; f0 ≈ 170 Hz.",
+      "difficulty": 2,
+      "id": "phy104_172"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "An open pipe of length 0.25 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
+      "options": [
+        "680 Hz",
+        "1360 Hz",
+        "340 Hz",
+        "850 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "For an open pipe use f0 = v/(2l) with v = 340 m s⁻¹ and l = 0.25 m; f0 ≈ 680 Hz.",
+      "difficulty": 2,
+      "id": "phy104_173"
     },
     {
-      "id": "phy104_126",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "An open pipe of length 2 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_127",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_128",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_129",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "85 Hz",
+        "170 Hz",
+        "106.2 Hz",
+        "42.5 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "For an open pipe use f0 = v/(2l) with v = 340 m s⁻¹ and l = 2 m; f0 ≈ 85 Hz.",
+      "difficulty": 2,
+      "id": "phy104_174"
     },
     {
-      "id": "phy104_130",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "An open pipe of length 0.8 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_131",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_132",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_133",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "212.5 Hz",
+        "265.6 Hz",
+        "106.2 Hz",
+        "425 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "For an open pipe use f0 = v/(2l) with v = 340 m s⁻¹ and l = 0.8 m; f0 ≈ 212.5 Hz.",
+      "difficulty": 2,
+      "id": "phy104_175"
     },
     {
-      "id": "phy104_134",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "A closed pipe of length 0.5 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_135",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_136",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "340 Hz",
+        "212.5 Hz",
+        "85 Hz",
+        "170 Hz"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "For a closed pipe use f0 = v/(4l) with v = 340 m s⁻¹ and l = 0.5 m; f0 ≈ 170 Hz.",
+      "difficulty": 2,
+      "id": "phy104_176"
     },
     {
-      "id": "phy104_137",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "A closed pipe of length 1 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "42.5 Hz",
+        "85 Hz",
+        "170 Hz",
+        "106.2 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "For a closed pipe use f0 = v/(4l) with v = 340 m s⁻¹ and l = 1 m; f0 ≈ 85 Hz.",
+      "difficulty": 2,
+      "id": "phy104_177"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "A closed pipe of length 0.25 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
+      "options": [
+        "170 Hz",
+        "425 Hz",
+        "680 Hz",
+        "340 Hz"
+      ],
+      "correct_index": 3,
+      "explanation": "For a closed pipe use f0 = v/(4l) with v = 340 m s⁻¹ and l = 0.25 m; f0 ≈ 340 Hz.",
+      "difficulty": 2,
+      "id": "phy104_178"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "A closed pipe of length 2 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
+      "options": [
+        "42.5 Hz",
+        "53.12 Hz",
+        "21.25 Hz",
+        "85 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "For a closed pipe use f0 = v/(4l) with v = 340 m s⁻¹ and l = 2 m; f0 ≈ 42.5 Hz.",
+      "difficulty": 2,
+      "id": "phy104_179"
     },
     {
-      "id": "phy104_138",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "A closed pipe of length 0.8 m carries sound at 340 m s⁻¹. Its fundamental frequency is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_139",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_140",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_141",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "106.2 Hz",
+        "132.8 Hz",
+        "212.5 Hz",
+        "53.12 Hz"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "For a closed pipe use f0 = v/(4l) with v = 340 m s⁻¹ and l = 0.8 m; f0 ≈ 106.2 Hz.",
+      "difficulty": 2,
+      "id": "phy104_180"
     },
     {
-      "id": "phy104_142",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "In a resonance tube, successive resonances occur at 0.325 m and 1 m with a fork of 256 Hz. The speed of sound is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_143",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_144",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "172.8 m s⁻¹",
+        "691.2 m s⁻¹",
+        "432 m s⁻¹",
+        "345.6 m s⁻¹"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = 2f(l2 - l1) with f = 256 Hz, l1 = 0.325 m and l2 = 1 m; v ≈ 345.6 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_181"
     },
     {
-      "id": "phy104_145",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "In a resonance tube, successive resonances occur at 0.3 m and 0.95 m with a fork of 256 Hz. The speed of sound is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "416 m s⁻¹",
+        "166.4 m s⁻¹",
+        "332.8 m s⁻¹",
+        "665.6 m s⁻¹"
+      ],
+      "correct_index": 2,
+      "explanation": "Use v = 2f(l2 - l1) with f = 256 Hz, l1 = 0.3 m and l2 = 0.95 m; v ≈ 332.8 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_182"
+    },
+    {
+      "topic": "Waves in Pipes & Resonance",
+      "text": "In a resonance tube, successive resonances occur at 0.28 m and 0.85 m with a fork of 300 Hz. The speed of sound is",
+      "options": [
+        "342 m s⁻¹",
+        "684 m s⁻¹",
+        "427.5 m s⁻¹",
+        "171 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = 2f(l2 - l1) with f = 300 Hz, l1 = 0.28 m and l2 = 0.85 m; v ≈ 342 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_183"
     },
     {
-      "id": "phy104_146",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "In a resonance tube, successive resonances occur at 0.2 m and 0.62 m with a fork of 400 Hz. The speed of sound is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_147",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "168 m s⁻¹",
+        "420 m s⁻¹",
+        "336 m s⁻¹",
+        "672 m s⁻¹"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = 2f(l2 - l1) with f = 400 Hz, l1 = 0.2 m and l2 = 0.62 m; v ≈ 336 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_184"
     },
     {
-      "id": "phy104_148",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Waves in Pipes & Resonance",
+      "text": "In a resonance tube, successive resonances occur at 0.16 m and 0.49 m with a fork of 512 Hz. The speed of sound is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_149",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "337.9 m s⁻¹",
+        "169 m s⁻¹",
+        "422.4 m s⁻¹",
+        "675.8 m s⁻¹"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use v = 2f(l2 - l1) with f = 512 Hz, l1 = 0.16 m and l2 = 0.49 m; v ≈ 337.9 m s⁻¹.",
+      "difficulty": 2,
+      "id": "phy104_185"
     },
     {
-      "id": "phy104_150",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light passes from air into a medium of refractive index 1.5 with incidence angle 30°. Using η = sin i / sin r, the refraction angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_151",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_152",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_153",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "19.47°",
+        "38.94°",
+        "9.736°",
+        "24.34°"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Rearrange Snell's law to r = arcsin(sin i / η) with i = 30° and η = 1.5; r ≈ 19.47°.",
+      "difficulty": 3,
+      "id": "phy104_186"
     },
     {
-      "id": "phy104_154",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light passes from air into a medium of refractive index 1.5 with incidence angle 45°. Using η = sin i / sin r, the refraction angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_155",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_156",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_157",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "28.13°",
+        "35.16°",
+        "14.06°",
+        "56.25°"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Rearrange Snell's law to r = arcsin(sin i / η) with i = 45° and η = 1.5; r ≈ 28.13°.",
+      "difficulty": 3,
+      "id": "phy104_187"
     },
     {
-      "id": "phy104_158",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light passes from air into a medium of refractive index 1.5 with incidence angle 60°. Using η = sin i / sin r, the refraction angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_159",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "70.53°",
+        "17.63°",
+        "35.26°",
+        "44.08°"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Rearrange Snell's law to r = arcsin(sin i / η) with i = 60° and η = 1.5; r ≈ 35.26°.",
+      "difficulty": 3,
+      "id": "phy104_188"
     },
     {
-      "id": "phy104_160",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light passes from air into a medium of refractive index 1.33 with incidence angle 30°. Using η = sin i / sin r, the refraction angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_161",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "22.08°",
+        "11.04°",
+        "27.6°",
+        "44.16°"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Rearrange Snell's law to r = arcsin(sin i / η) with i = 30° and η = 1.33; r ≈ 22.08°.",
+      "difficulty": 3,
+      "id": "phy104_189"
     },
     {
-      "id": "phy104_162",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light passes from air into a medium of refractive index 1.33 with incidence angle 45°. Using η = sin i / sin r, the refraction angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "16.06°",
+        "32.12°",
+        "40.15°",
+        "64.24°"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Rearrange Snell's law to r = arcsin(sin i / η) with i = 45° and η = 1.33; r ≈ 32.12°.",
+      "difficulty": 3,
+      "id": "phy104_190"
     },
     {
-      "id": "phy104_163",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A lens has focal length 0.25 m. Its power is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_164",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "2 D",
+        "5 D",
+        "8 D",
+        "4 D"
       ],
       "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use P = 1/f with f = 0.25 m; P = 4 D dioptres.",
+      "difficulty": 2,
+      "id": "phy104_191"
     },
     {
-      "id": "phy104_165",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A lens has focal length 0.5 m. Its power is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "2 D",
+        "4 D",
+        "1 D",
+        "2.5 D"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use P = 1/f with f = 0.5 m; P = 2 D dioptres.",
+      "difficulty": 2,
+      "id": "phy104_192"
     },
     {
-      "id": "phy104_166",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A lens has focal length 0.2 m. Its power is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_167",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_168",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_169",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "5 D",
+        "6.25 D",
+        "2.5 D",
+        "10 D"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use P = 1/f with f = 0.2 m; P = 5 D dioptres.",
+      "difficulty": 2,
+      "id": "phy104_193"
     },
     {
-      "id": "phy104_170",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A lens has focal length 0.1 m. Its power is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_171",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_172",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_173",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "10 D",
+        "12.5 D",
+        "20 D",
+        "5 D"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use P = 1/f with f = 0.1 m; P = 10 D dioptres.",
+      "difficulty": 2,
+      "id": "phy104_194"
     },
     {
-      "id": "phy104_174",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "A lens has focal length 0.4 m. Its power is",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "5 D",
+        "2.5 D",
+        "3.125 D",
+        "1.25 D"
       ],
       "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use P = 1/f with f = 0.4 m; P = 2.5 D dioptres.",
+      "difficulty": 2,
+      "id": "phy104_195"
     },
     {
-      "id": "phy104_175",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light travels from a medium of refractive index 1.5 into one of index 1. The critical angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "52.26°",
+        "41.81°",
+        "20.91°",
+        "83.62°"
+      ],
+      "correct_index": 1,
+      "explanation": "Use sin θc = n2/n1 with n1 = 1.5 and n2 = 1; θc ≈ 41.81°.",
+      "difficulty": 3,
+      "id": "phy104_196"
+    },
+    {
+      "topic": "Geometrical Optics",
+      "text": "Light travels from a medium of refractive index 1.33 into one of index 1. The critical angle is approximately",
+      "options": [
+        "97.51°",
+        "24.38°",
+        "48.75°",
+        "60.94°"
       ],
       "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use sin θc = n2/n1 with n1 = 1.33 and n2 = 1; θc ≈ 48.75°.",
+      "difficulty": 3,
+      "id": "phy104_197"
     },
     {
-      "id": "phy104_176",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light travels from a medium of refractive index 2 into one of index 1. The critical angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "15°",
+        "30°",
+        "37.5°",
+        "60°"
       ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Use sin θc = n2/n1 with n1 = 2 and n2 = 1; θc ≈ 30°.",
+      "difficulty": 3,
+      "id": "phy104_198"
     },
     {
-      "id": "phy104_177",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light travels from a medium of refractive index 1.6 into one of index 1. The critical angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "38.68°",
+        "19.34°",
+        "48.35°",
+        "77.36°"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use sin θc = n2/n1 with n1 = 1.6 and n2 = 1; θc ≈ 38.68°.",
+      "difficulty": 3,
+      "id": "phy104_199"
     },
     {
-      "id": "phy104_178",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
+      "topic": "Geometrical Optics",
+      "text": "Light travels from a medium of refractive index 1.8 into one of index 1. The critical angle is approximately",
       "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_179",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_180",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_181",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
+        "33.75°",
+        "16.87°",
+        "67.5°",
+        "42.19°"
       ],
       "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_182",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_183",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_184",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_185",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_186",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_187",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_188",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_189",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_190",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_191",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_192",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_193",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_194",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_195",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_196",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_197",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_198",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_199",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
-    },
-    {
-      "id": "phy104_200",
-      "text": "In Vibration, Waves & Optics, which of the following is correct?",
-      "options": [
-        "Vibration, Waves & Optics concept A",
-        "Vibration, Waves & Optics concept B",
-        "Vibration, Waves & Optics concept C",
-        "Vibration, Waves & Optics concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on vibration, waves & optics material.",
-      "difficulty": 1
+      "explanation": "Use sin θc = n2/n1 with n1 = 1.8 and n2 = 1; θc ≈ 33.75°.",
+      "difficulty": 3,
+      "id": "phy104_200"
     }
   ]
 }
