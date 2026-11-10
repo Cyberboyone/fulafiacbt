@@ -74,3 +74,6 @@ wording before writing the JSON.
 No keystore, signing configuration, GitHub Actions secret, or Play Console
 upload is involved. This is a public JSON content update plus a local authoring
 script.
+
+For the other 12 rebuilt placeholder banks, see
+`docs/QUESTION_BANK_REBUILD.md`.

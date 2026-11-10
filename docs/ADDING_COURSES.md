@@ -131,6 +131,12 @@ Also bump the top-level `updatedAt`. The app re-downloads only that course's
 bank. If a download fails, the old cached questions stay available and the
 update is retried on the next sync.
 
+Optional `topics` (bank level) and `topic` (question level) fields are
+forward-compatible metadata. The current quiz UI does not display or filter by
+them, so adding them needs no Dart or release change. See
+`docs/QUESTION_BANK_REBUILD.md` for the bulk authoring scripts and their
+source-material conventions.
+
 ## Remove a course
 
 Delete its entry from `courses.json` and bump `updatedAt`. Its cached questions

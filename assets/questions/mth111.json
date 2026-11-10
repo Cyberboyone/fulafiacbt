@@ -1,2607 +1,2824 @@
 {
   "course_id": "mth111",
   "course_name": "General Mathematics I",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "sources": [
+    "100level/first semester/mth111/M111 ASSIGNMENT.pdf",
+    "100level/first semester/mth111/MTH 111 Exercises.pdf",
+    "100level/first semester/mth111/MTH 111 General Mathematics I.pdf",
+    "100level/first semester/mth111/MTH 111 New Lecture Notes-1-1-1.docx",
+    "100level/first semester/mth111/Share MTH 101 TRICKS by OTOP CONSULT-1.pdf",
+    "100level/first semester/mth111/Share MTH 111 2021 PQ.docx"
+  ],
+  "source_note": "Source-grounded practice MCQs generated from text-bearing PDFs, DOCX and PPTX course files bundled in the repository. Image-only PDFs were skipped and no OCR was performed. Existing real questions were reused where available. Question-level topic tags are metadata; the current quiz UI does not filter by them yet.",
+  "topics": [
+    "Sets & Logic",
+    "Relations & Functions",
+    "Matrices & Vectors",
+    "Complex Numbers",
+    "Polynomials & Sequences",
+    "Trigonometry & Calculus Basics"
+  ],
   "questions": [
     {
-      "id": "mth111_001",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which of the following correctly defines a set?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_002",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "A line segment",
+        "A well-defined collection of objects",
+        "A single number",
+        "An unordered list of all numbers"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A set is a well-defined collection of objects called elements or members.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_001"
     },
     {
-      "id": "mth111_003",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The symbol ∈ is read as:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "is equal to",
+        "is a subset of",
+        "is an element of",
+        "is greater than"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "x ∈ A means x is an element (member) of the set A.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_002"
     },
     {
-      "id": "mth111_004",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If y is not a member of set A, we write:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "y ⊂ A",
+        "y ∈ A",
+        "y = A",
+        "y ∉ A"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The symbol ∉ means 'is not an element of'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_003"
     },
     {
-      "id": "mth111_005",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The objects that belong to a set are called its:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Elements",
+        "Diagrams",
+        "Unions",
+        "Laws"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Every object in a set is called an element or member of the set.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_004"
     },
     {
-      "id": "mth111_006",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Sets are usually denoted by:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_007",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_008",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_009",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Capital letters",
+        "Lowercase letters",
+        "Dots",
+        "Numbers"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Upper case letters such as A, B, C are used to denote sets.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_005"
     },
     {
-      "id": "mth111_010",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The roster (listing) method describes a set by:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Stating a property of its members",
+        "Listing its members in braces",
+        "Drawing a circle",
+        "Counting its elements"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The roster method lists the members inside braces, e.g. {1, 2, 3}.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_006"
     },
     {
-      "id": "mth111_011",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Using set-builder notation, the set of vowels is written as:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{a, e, i, o, u}",
+        "{x : x is a letter}",
+        "{x : x is a vowel}",
+        "{vowels}"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Set-builder notation describes the set by a rule: {x : x is a vowel}.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_007"
     },
     {
-      "id": "mth111_012",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The months of the year that begin with the letter A are:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_013",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{April, August}",
+        "{January, June}",
+        "{March, May}",
+        "{April, May}"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Only April and August begin with the letter A.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_008"
     },
     {
-      "id": "mth111_014",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "A set that contains no element is called the:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_015",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_016",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Universal set",
+        "Power set",
+        "Finite set",
+        "Empty (null) set"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The empty or null set has no elements and is denoted by ∅ or { }.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_009"
     },
     {
-      "id": "mth111_017",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The empty set is denoted by:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "U",
+        "N",
+        "∅ or { }",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "The null set is written ∅ or as a pair of braces { }.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_010"
+    },
+    {
+      "text": "A set with exactly one element is called a:",
+      "options": [
+        "Singleton set",
+        "Null set",
+        "Universal set",
+        "Family of sets"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A singleton (unit) set contains exactly one element, e.g. {2}.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_011"
     },
     {
-      "id": "mth111_018",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The set {February} is an example of a:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_019",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_020",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_021",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Singleton set",
+        "Null set",
+        "Power set",
+        "Infinite set"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "It contains exactly one element, so it is a singleton set.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_012"
     },
     {
-      "id": "mth111_022",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The set A = {1, 2, 3, 4, 5, 6} is a:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Infinite set",
+        "Finite set",
+        "Null set",
+        "Singleton set"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The set has 6 elements, so it is a finite set.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_013"
     },
     {
-      "id": "mth111_023",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The set X = {1, 2, 3, ...} is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_024",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_025",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Infinite",
+        "Finite",
+        "Empty",
+        "Singleton"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The three dots show the pattern continues without end.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_014"
     },
     {
-      "id": "mth111_026",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The cardinality n(A) of a set A means:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_027",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "The sum of its elements",
+        "The largest element",
+        "The number of elements in A",
+        "The power set of A"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "n(A) is the cardinal number, i.e. the number of elements in A.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_015"
     },
     {
-      "id": "mth111_028",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If A = {2, 4, 6}, then n(A) = ?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "2",
+        "6",
+        "4",
+        "3"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "n(A) = 3 because the set contains three elements.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_016"
     },
     {
-      "id": "mth111_029",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The cardinality of {a, b, c, d, e} is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "5",
+        "4",
+        "6",
+        "3"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The set has five elements.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_017"
     },
     {
-      "id": "mth111_030",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If every element of B is also an element of A, then B is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_031",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_032",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_033",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "A subset of A",
+        "Disjoint from A",
+        "The complement of A",
+        "Larger than A"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "B ⊆ A means every element of B is also in A.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_018"
     },
     {
-      "id": "mth111_034",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "A proper subset of A:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Contains all elements of A",
+        "Contains some but not all elements of A",
+        "Contains elements outside A",
+        "Is always empty"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A proper subset is not equal to A; A has at least one extra element.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_019"
     },
     {
-      "id": "mth111_035",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which of these is a subset of A = {1, 2, 3, 4}?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{5, 6}",
+        "{1, 3}",
+        "{1, 5}",
+        "{0, 2}"
       ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Every element of {1, 3} belongs to A.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_020"
     },
     {
-      "id": "mth111_036",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Every set is a subset of:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_037",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Itself",
+        "The empty set only",
+        "No other set",
+        "Only the universal set"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Every set is a subset of itself.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_021"
     },
     {
-      "id": "mth111_038",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The empty set is a subset of:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_039",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "No set",
+        "Only infinite sets",
+        "Every set",
+        "Only itself"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The empty set is a subset of every set.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_022"
     },
     {
-      "id": "mth111_040",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Two sets A and B are equal if:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "They have the same number of elements",
+        "They share at least one element",
+        "They are both subsets of U",
+        "They have exactly the same elements"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A = B when they contain exactly the same elements.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_023"
     },
     {
-      "id": "mth111_041",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The sets A = {1, 2, 3} and B = {3, 2, 1} are:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Disjoint",
+        "Equal",
+        "Complementary",
+        "Infinite"
+      ],
+      "correct_index": 1,
+      "explanation": "The order of elements does not matter, so A = B.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_024"
+    },
+    {
+      "text": "Sets that can be put into one-to-one correspondence are called:",
+      "options": [
+        "Null sets",
+        "Universal sets",
+        "Equivalent sets",
+        "Singleton sets"
+      ],
+      "correct_index": 2,
+      "explanation": "Equivalent sets match element for element in a one-to-one correspondence.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_025"
+    },
+    {
+      "text": "The sets A = {2, 4, 6} and B = {a, b, c} are:",
+      "options": [
+        "Equal",
+        "Equivalent but not equal",
+        "Identical",
+        "Empty"
+      ],
+      "correct_index": 1,
+      "explanation": "Both have 3 elements (equivalent) but different elements (not equal).",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_026"
+    },
+    {
+      "text": "The family of all subsets of a set A is called the:",
+      "options": [
+        "Power set of A",
+        "Universal set of A",
+        "Complement of A",
+        "Union of A"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The power set collects every subset of A.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_027"
     },
     {
-      "id": "mth111_042",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The power set of {x, y} is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_043",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{{x}, {y}}",
+        "{x, y, ∅}",
+        "{∅, {x}, {y}, {x, y}}",
+        "{∅, {x, y}}"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Its 2^2 = 4 subsets are ∅, {x}, {y} and {x, y}.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_028"
     },
     {
-      "id": "mth111_044",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If a set X has 3 elements, its power set has:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "3 elements",
+        "6 elements",
+        "9 elements",
+        "8 elements"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The power set of an n-element set has 2^n elements; 2^3 = 8.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_029"
     },
     {
-      "id": "mth111_045",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The set of all elements under consideration is the:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Null set",
+        "Universal set",
+        "Power set",
+        "Singleton set"
+      ],
+      "correct_index": 1,
+      "explanation": "The universal set U contains every element under consideration.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_030"
+    },
+    {
+      "text": "The union A ∪ B contains:",
+      "options": [
+        "Only elements in both sets",
+        "Only elements in A",
+        "Elements in A or B or both",
+        "Elements in neither set"
+      ],
+      "correct_index": 2,
+      "explanation": "A ∪ B = {x : x ∈ A or x ∈ B}.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_031"
+    },
+    {
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B = ?",
+      "options": [
+        "{1, 2, 3, 4, 5}",
+        "{3}",
+        "{1, 2}",
+        "{4, 5}"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The union collects all elements of both sets without repetition.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_032"
     },
     {
-      "id": "mth111_046",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The intersection A ∩ B contains:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "All elements of either set",
+        "Only elements in both A and B",
+        "Elements in A only",
+        "Elements of U only"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A ∩ B = {x : x ∈ A and x ∈ B}.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_033"
     },
     {
-      "id": "mth111_047",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B = ?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{1, 2, 3, 4, 5}",
+        "{1, 2}",
+        "{3}",
+        "{4, 5}"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The only element in both sets is 3.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_034"
     },
     {
-      "id": "mth111_048",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Two sets with no element in common are called:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_049",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Disjoint sets",
+        "Equivalent sets",
+        "Equal sets",
+        "Overlapping sets"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Disjoint sets satisfy A ∩ B = ∅.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_035"
     },
     {
-      "id": "mth111_050",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The sets {1, 3, 5} and {2, 4, 6} are:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Equal",
+        "Disjoint",
+        "Complementary",
+        "Unions"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "They share no element, so they are disjoint.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_036"
     },
     {
-      "id": "mth111_051",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If U = {1, 2, 3, 4, 5} and A = {1, 2}, then A' = ?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{1, 2}",
+        "{3, 4, 5}",
+        "{1, 2, 3, 4, 5}",
+        "∅"
+      ],
+      "correct_index": 1,
+      "explanation": "A' contains the elements of U that are not in A: {3, 4, 5}.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_037"
+    },
+    {
+      "text": "The complement of a set A contains:",
+      "options": [
+        "All elements of A",
+        "Elements in A ∩ U",
+        "All elements of U not in A",
+        "Only prime numbers"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A' = {x : x ∈ U and x ∉ A}.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_038"
     },
     {
-      "id": "mth111_052",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "De Morgan's law states that (A ∪ B)' = ?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "A' ∪ B'",
+        "A ∩ B",
+        "A' ∩ B'",
+        "A ∪ B"
+      ],
+      "correct_index": 2,
+      "explanation": "The complement of a union is the intersection of the complements.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_039"
+    },
+    {
+      "text": "The difference A − B is the set of elements:",
+      "options": [
+        "In B but not in A",
+        "In both A and B",
+        "In neither set",
+        "In A but not in B"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A − B = {x : x ∈ A and x ∉ B}.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_040"
     },
     {
-      "id": "mth111_053",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "If A = {1, 2, 3, 4} and B = {3, 4, 5}, then A − B = ?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{1, 2}",
+        "{3, 4}",
+        "{5}",
+        "{1, 2, 5}"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Remove the elements of B from A to get {1, 2}.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_041"
     },
     {
-      "id": "mth111_054",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The symmetric difference A Δ B is defined as:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "A ∪ B",
+        "(A − B) ∪ (B − A)",
+        "A ∩ B",
+        "A − B"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "A Δ B = (A − B) ∪ (B − A).",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_042"
     },
     {
-      "id": "mth111_055",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The natural numbers are:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "{0, 1, 2, 3, ...}",
+        "{1, 2, 3, ...}",
+        "{..., −2, −1, 0, 1, 2, ...}",
+        "{0}"
       ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "N = {1, 2, 3, ...} is the set of natural (counting) numbers.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_043"
     },
     {
-      "id": "mth111_056",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The set of integers is denoted by the symbol:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_057",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Z",
+        "N",
+        "Q",
+        "R"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Z (from the German 'Zahlen') denotes the integers.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_044"
     },
     {
-      "id": "mth111_058",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which of the following is an even number?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_059",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_060",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "3",
+        "5",
+        "7",
+        "8"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "8 is divisible by 2 without a remainder.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_045"
     },
     {
-      "id": "mth111_061",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which of the following is a prime number?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "11",
+        "9",
+        "12",
+        "15"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "11 is divisible only by 1 and itself.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_046"
     },
     {
-      "id": "mth111_062",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "A composite number is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_063",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_064",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_065",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "A natural number greater than 1 that is not prime",
+        "A number divisible only by 1 and itself",
+        "A negative number",
+        "A number smaller than 1"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Composite numbers have other factors besides 1 and themselves.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_047"
     },
     {
-      "id": "mth111_066",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Written as a product of prime factors, 30 = ?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "2 × 15",
+        "2 × 3 × 5",
+        "3 × 10",
+        "5 × 6"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "30 = 2 × 3 × 5 in prime factors.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_048"
     },
     {
-      "id": "mth111_067",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The greatest common divisor (GCD) of 36 and 54 is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_068",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_069",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "18",
+        "2",
+        "6",
+        "9"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "The common prime factors give 2 × 3 × 3 = 18.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_049"
     },
     {
-      "id": "mth111_070",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "A rational number can be written as p/q where:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_071",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_072",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_073",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "p and q are integers and q ≠ 0",
+        "p and q are integers and q = 0",
+        "p is any real number",
+        "q is always 1"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Q = {p/q : p, q ∈ Z, q ≠ 0}.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_050"
     },
     {
-      "id": "mth111_074",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which of the following is a rational number?",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_075",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_076",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "√2",
+        "π",
+        "√3",
+        "1/2"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "1/2 is a ratio of integers, so it is rational.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_051"
     },
     {
-      "id": "mth111_077",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The number √2 is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Rational",
+        "An integer",
+        "Irrational",
+        "A natural number"
+      ],
+      "correct_index": 2,
+      "explanation": "√2 cannot be written as a fraction, so it is irrational.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_052"
+    },
+    {
+      "text": "The number π (pi) is:",
+      "options": [
+        "Irrational",
+        "Rational",
+        "An integer",
+        "A whole number"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "π has a non-terminating, non-repeating decimal, so it is irrational.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_053"
     },
     {
-      "id": "mth111_078",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The set of real numbers R is the union of:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_079",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Integers and fractions only",
+        "Even and odd numbers",
+        "Rational and irrational numbers",
+        "Prime and composite numbers"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "R = Q ∪ Q' (rationals and irrationals).",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_054"
     },
     {
-      "id": "mth111_080",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "On the number line, a number to the right of another number is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Less than it",
+        "Equal to it",
+        "Unrelated to it",
+        "Greater than it"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Numbers increase as we move to the right on the number line.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_055"
     },
     {
-      "id": "mth111_081",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The additive identity of the real numbers is:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "1",
+        "0",
+        "−1",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "a + 0 = 0 + a = a.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_056"
+    },
+    {
+      "text": "The multiplicative identity of the real numbers is:",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "−1"
+      ],
+      "correct_index": 2,
+      "explanation": "a × 1 = 1 × a = a.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_057"
+    },
+    {
+      "text": "The multiplicative inverse of a (a ≠ 0) is:",
+      "options": [
+        "−a",
+        "1/a",
+        "a²",
+        "0"
+      ],
+      "correct_index": 1,
+      "explanation": "a × (1/a) = 1.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_058"
+    },
+    {
+      "text": "The property a(b + c) = ab + ac is called the:",
+      "options": [
+        "Commutative property",
+        "Associative property",
+        "Distributive property",
+        "Identity property"
+      ],
+      "correct_index": 2,
+      "explanation": "Multiplication distributes over addition.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_059"
+    },
+    {
+      "text": "The statement 2 + 3 = 3 + 2 illustrates the:",
+      "options": [
+        "Distributive property",
+        "Commutative property of addition",
+        "Associative property",
+        "Closure property"
+      ],
+      "correct_index": 1,
+      "explanation": "a + b = b + a is the commutative law of addition.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_060"
+    },
+    {
+      "text": "The value of 3² is:",
+      "options": [
+        "6",
+        "9",
+        "27",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "3² = 3 × 3 = 9.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_061"
+    },
+    {
+      "text": "The value of 2³ is:",
+      "options": [
+        "6",
+        "9",
+        "4",
+        "8"
+      ],
+      "correct_index": 3,
+      "explanation": "2³ = 2 × 2 × 2 = 8.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_062"
+    },
+    {
+      "text": "√36 is equal to:",
+      "options": [
+        "6",
+        "18",
+        "9",
+        "12"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "6 × 6 = 36, so √36 = 6.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_063"
     },
     {
-      "id": "mth111_082",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "The interval (a, b), where a < x < b, is called:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_083",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "A closed interval",
+        "A half-open interval",
+        "An open interval",
+        "A null interval"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "An open interval excludes its endpoints.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_064"
     },
     {
-      "id": "mth111_084",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "A proof by mathematical induction has two steps, namely the:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "Start step and finish step",
+        "Basis step and inductive step",
+        "First step and second step",
+        "Proof step and answer step"
+      ],
+      "correct_index": 1,
+      "explanation": "We prove P(1) (basis) and that P(k) implies P(k + 1) (inductive step).",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_065"
+    },
+    {
+      "text": "In the basis step of induction we prove that:",
+      "options": [
+        "P(n) is true for all n",
+        "P(k + 1) is true",
+        "P(1) is true",
+        "P(n) is false"
+      ],
+      "correct_index": 2,
+      "explanation": "The basis step establishes that P(1) is true.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_066"
+    },
+    {
+      "text": "Mathematical induction is used to prove statements about:",
+      "options": [
+        "Matrices",
+        "Complex numbers",
+        "Sets only",
+        "Positive integers (natural numbers)"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "Induction works on propositions P(n) for positive integers n.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_067"
     },
     {
-      "id": "mth111_085",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "In the inductive step, assuming P(k) is true, we must show that:",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "P(k − 1) is true",
+        "P(2k) is true",
+        "P(k + 1) is true",
+        "P(1) is true"
+      ],
+      "correct_index": 2,
+      "explanation": "The inductive step proves that P(k) implies P(k + 1).",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_068"
+    },
+    {
+      "text": "By induction, 1 + 2 + 3 + ... + n equals:",
+      "options": [
+        "n²",
+        "n(n + 1)/2",
+        "n(n − 1)/2",
+        "2n"
+      ],
+      "correct_index": 1,
+      "explanation": "The formula for the sum of the first n integers is n(n + 1)/2.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_069"
+    },
+    {
+      "text": "The value of 0! (zero factorial) is:",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "2"
+      ],
+      "correct_index": 1,
+      "explanation": "By convention, 0! = 1.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_070"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"______ MEASURE OF AN ANGLE When a line is pivoted at and rotates from its initial position to , the angle is the measure of the rotation of .\"",
+      "options": [
+        "matrix",
+        "modulus",
+        "universal set",
+        "trigonometry"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: TRIGONOMETRY MEASURE OF AN ANGLE When a line is pivoted at and rotates from its initial position to , the angle is the measure of the rotation of . The missing term is 'trigonometry'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_071"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"is twice the third term find the ______ between the first term and the common difference and prove that the 8th term is 3 times the second term.\"",
+      "options": [
+        "function",
+        "relation",
+        "inverse",
+        "matrix"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 Exercises.pdf: is twice the third term find the relation between the first term and the common difference and prove that the 8th term is 3 times the second term. The missing term is 'relation'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_072"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"6 Complex Numbers 6.1 Learning Objectives Examine properties of complex numbers and discuss di⁄erent ways of representing Discuss ______s theorem and the roots of complex numbers them.\"",
+      "options": [
+        "geometric progression",
+        "equivalence",
+        "De Moivre",
+        "matrix"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: 6 Complex Numbers 6.1 Learning Objectives Examine properties of complex numbers and discuss di⁄erent ways of representing Discuss De Moivres theorem and the roots of complex numbers them. The missing term is 'De Moivre'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_073"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The remainder upon division of the ______ 8𝑥3 − 2𝑥2 − 3𝑥 + 2 by 4x-3 is?\"",
+      "options": [
+        "permutation",
+        "universal set",
+        "polynomial",
+        "mapping"
+      ],
+      "correct_index": 2,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The remainder upon division of the polynomial 8𝑥3 − 2𝑥2 − 3𝑥 + 2 by 4x-3 is? The missing term is 'polynomial'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_074"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ measure is employed almost exclusively in advanced mathematics and in many branches of science and engineering.\"",
+      "options": [
+        "geometric progression",
+        "radian",
+        "scalar",
+        "quadratic equation"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: The radian measure is employed almost exclusively in advanced mathematics and in many branches of science and engineering. The missing term is 'radian'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_075"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"A ______ is the angle subtended at the centre of a circle, by an arc equal in length to the radius of the circle.\"",
+      "options": [
+        "sequence",
+        "radian",
+        "empty set",
+        "derivative"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: A radian is the angle subtended at the centre of a circle, by an arc equal in length to the radius of the circle. The missing term is 'radian'.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_076"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The method used above for solving the ______ is called the method of factorization.\"",
+      "options": [
+        "function",
+        "determinant",
+        "quadratic equation",
+        "binomial theorem"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The method used above for solving the quadratic equation is called the method of factorization. The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_077"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"(2) Suppose that A and B are two sets then their union and ______ can respectively be display by the shaded V enn diagrams shown below.\"",
+      "options": [
+        "domain",
+        "intersection",
+        "complex number",
+        "polynomial"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: (2) Suppose that A and B are two sets then their union and intersection can respectively be display by the shaded V enn diagrams shown below. The missing term is 'intersection'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_078"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Identify a ______ (GP) and nd the sum of n terms, or the sum to in nity of any GP.\"",
+      "options": [
+        "discriminant",
+        "geometric progression",
+        "real part",
+        "power set"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Identify a Geometric Progression (GP) and nd the sum of n terms, or the sum to in nity of any GP. The missing term is 'geometric progression'.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_079"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The line representing is in the first quadrant, so the principal ______ of is positive and acute.\"",
+      "options": [
+        "set",
+        "dot product",
+        "radian",
+        "argument"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The line representing is in the first quadrant, so the principal argument of is positive and acute. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_080"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"(5) The complement Ac of a set A with reference to a ______ U can be represented by the V enn diagram below.\"",
+      "options": [
+        "universal set",
+        "permutation",
+        "exponential",
+        "tangent"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: (5) The complement Ac of a set A with reference to a universal set U can be represented by the V enn diagram below. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_081"
     },
     {
-      "id": "mth111_086",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"(iii) jz1 + z2j jz1j + jz2j: This is called the triangular ______.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "function",
+        "inequality",
+        "complex number",
+        "scalar"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: (iii) jz1 + z2j jz1j + jz2j: This is called the triangular inequality. The missing term is 'inequality'.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_082"
     },
     {
-      "id": "mth111_087",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Expand expressions using the ______ for positive, negative and fractional indices.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_088",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_089",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "binomial theorem",
+        "union",
+        "cosine",
+        "matrix"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Expand expressions using the binomial theorem for positive, negative and fractional indices. The missing term is 'binomial theorem'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_083"
     },
     {
-      "id": "mth111_090",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The double inequality is actuallya ______ of two inequalities and , where satisfies both inequalities at the same time.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_091",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_092",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_093",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "combination",
+        "differentiation",
+        "cross product",
+        "argument"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The double inequality is actuallya combination of two inequalities and , where satisfies both inequalities at the same time. The missing term is 'combination'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_084"
     },
     {
-      "id": "mth111_094",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Enter the ______ by pressing 8 followed by ALPHA then x then – 2 then ALPHA x then – 3 then ALPHA x then + 2 and then + IV.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "binary operation",
+        "polynomial",
+        "permutation",
+        "exponential"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: Enter the polynomial by pressing 8 followed by ALPHA then x then – 2 then ALPHA x then – 3 then ALPHA x then + 2 and then + IV. The missing term is 'polynomial'.",
+      "difficulty": 2,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_085"
     },
     {
-      "id": "mth111_095",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Examples: Sequence Common difference 3,5,7, 9, …2 6,2, -2, -6, …- 4 7, 5½, 4, 2½, …- 1½ 2 To Find the nth Term of an ______ (A.P).\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_096",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_097",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "arithmetic progression",
+        "scalar",
+        "matrix",
+        "inverse"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Examples: Sequence Common difference 3,5,7, 9, …2 6,2, -2, -6, …- 4 7, 5½, 4, 2½, …- 1½ 2 To Find the nth Term of an Arithmetic Progression (A.P). The missing term is 'arithmetic progression'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_086"
     },
     {
-      "id": "mth111_098",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Suppose that A; B, C and D are subsets of the ______ U .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "union",
+        "universal set",
+        "geometric progression",
+        "vector"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Suppose that A; B, C and D are subsets of the universal set U . The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_087"
     },
     {
-      "id": "mth111_099",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"QR: ) sin 0 = 0 jQRj = 0 ; and thus cos90 = 0 ; since the sine of an angle is always equal to the cosine of its ______: Similarly, cos0 = QR QR = 1 (since !\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_100",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "combination",
+        "series",
+        "domain",
+        "complement"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: QR: ) sin 0 = 0 jQRj = 0 ; and thus cos90 = 0 ; since the sine of an angle is always equal to the cosine of its complement: Similarly, cos0 = QR QR = 1 (since ! The missing term is 'complement'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_088"
     },
     {
-      "id": "mth111_101",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"But the position of is unique and corresponds to only one value in the range This value is called the principal ______ and is normally written as Arg .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "tangent",
+        "mapping",
+        "matrix",
+        "argument"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: But the position of is unique and corresponds to only one value in the range This value is called the principal Argument and is normally written as Arg . The missing term is 'argument'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_089"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"5 set X = fAll students taking MTH 111 g is a ______ of the set Y = fAll FULafia studentsg:In of any given set.\"",
+      "options": [
+        "power set",
+        "relation",
+        "scalar",
+        "subset"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: 5 set X = fAll students taking MTH 111 g is a subset of the set Y = fAll FULafia studentsg:In of any given set. The missing term is 'subset'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_090"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"f;g is a set with one element ( the ______ ), and is therefore non empty.\"",
+      "options": [
+        "relation",
+        "empty set",
+        "radian",
+        "integral"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: f;g is a set with one element ( the empty set ), and is therefore non empty. The missing term is 'empty set'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_091"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ 3𝑥2 − 7𝑥 − 6 divides 𝑥 − 3 to give which of these (a) 3𝑥 + 3 (b)3𝑥 + 4 (c)3𝑥 + 2 (d) 2𝑥 + 3 3.\"",
+      "options": [
+        "sine",
+        "transpose",
+        "series",
+        "polynomial"
+      ],
+      "correct_index": 3,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The polynomial 3𝑥2 − 7𝑥 − 6 divides 𝑥 − 3 to give which of these (a) 3𝑥 + 3 (b)3𝑥 + 4 (c)3𝑥 + 2 (d) 2𝑥 + 3 3. The missing term is 'polynomial'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_092"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Press = Example 3: Find the inverse and ______ of A 3 −3 4 2 −3 4 0 −1 1 Steps I.\"",
+      "options": [
+        "transpose",
+        "continuity",
+        "relation",
+        "modulus"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: Press = Example 3: Find the inverse and transpose of A 3 −3 4 2 −3 4 0 −1 1 Steps I. The missing term is 'transpose'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_093"
     },
     {
-      "id": "mth111_102",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"NOTE: (i) and (ii) above can be put together as a condition for the ______ to have real roots, i.e., if , the equation has real roots.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_103",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "transpose",
+        "mapping",
+        "quadratic equation",
+        "Cartesian product"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: NOTE: (i) and (ii) above can be put together as a condition for the quadratic equation to have real roots, i.e., if , the equation has real roots. The missing term is 'quadratic equation'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_094"
     },
     {
-      "id": "mth111_104",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"(2)The shape of the graph of ______ from is repeated for each further complete revolution.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "derivative",
+        "empty set",
+        "sine",
+        "relation"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: (2)The shape of the graph of sine from is repeated for each further complete revolution. The missing term is 'sine'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_095"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In like manner, the ______ of two sets and denoted by , is the set containing elements that belong to both and .\"",
+      "options": [
+        "series",
+        "exponential",
+        "intersection",
+        "vector"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: In like manner, the intersection of two sets and denoted by , is the set containing elements that belong to both and . The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_096"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In this quadrant and in ∆, we can see that the cosine ratio is positive while sine and ______ are both negative.\"",
+      "options": [
+        "inequality",
+        "complement",
+        "tangent",
+        "discriminant"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: In this quadrant and in ∆, we can see that the cosine ratio is positive while sine and tangent are both negative. The missing term is 'tangent'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_097"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In fact, the ______ is the largest set in a particular situation.\"",
+      "options": [
+        "trigonometry",
+        "imaginary part",
+        "transpose",
+        "universal set"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: In fact, the universal set is the largest set in a particular situation. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_098"
     },
     {
-      "id": "mth111_105",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"It is used to determine the nature of roots of the ______.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "subset",
+        "combination",
+        "quadratic equation",
+        "polynomial"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: It is used to determine the nature of roots of the quadratic equation. The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_099"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Let (r; ) be the polar coordinates of a point (x; y) corresponding to the ______ z = x + iy.\"",
+      "options": [
+        "universal set",
+        "complex number",
+        "cross product",
+        "limit"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Let (r; ) be the polar coordinates of a point (x; y) corresponding to the complex number z = x + iy. The missing term is 'complex number'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_100"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"5.4 The Trigonometric Ratios Introduction ______ has been introduced before as a branch of mathematics that deals with the study of the relationships between the sides and the angles of a triangle.\"",
+      "options": [
+        "trigonometry",
+        "permutation",
+        "intersection",
+        "argument"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: 5.4 The Trigonometric Ratios Introduction Trigonometry has been introduced before as a branch of mathematics that deals with the study of the relationships between the sides and the angles of a triangle. The missing term is 'trigonometry'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_101"
     },
     {
-      "id": "mth111_106",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Definition (Symmetric Difference of Sets) Let and be any two sets.The symmetric difference of and is the ______ of with .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "universal set",
+        "union",
+        "radian",
+        "subset"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Definition (Symmetric Difference of Sets) Let and be any two sets.The symmetric difference of and is the union of with . The missing term is 'union'.",
+      "difficulty": 2,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_102"
     },
     {
-      "id": "mth111_107",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Next we assume an element this time on the right hand side and show that it is also in the left hand side, i.e., the right hand side is a ______ of the left hand side.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "universal set",
+        "vector",
+        "subset",
+        "binary operation"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Next we assume an element this time on the right hand side and show that it is also in the left hand side, i.e., the right hand side is a subset of the left hand side. The missing term is 'subset'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_103"
     },
     {
-      "id": "mth111_108",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"9 + 27:9 27h + 2:(92 18h + h2) = 0 ;or 9 + 27:9 27h + 2:92 36h + 2h2 = 0 2h2 63h + 414 = 0 is the required ______ for h: Exercise 11 1.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_109",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "quadratic equation",
+        "binary operation",
+        "binomial theorem",
+        "derivative"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: 9 + 27:9 27h + 2:(92 18h + h2) = 0 ;or 9 + 27:9 27h + 2:92 36h + 2h2 = 0 2h2 63h + 414 = 0 is the required quadratic equation for h: Exercise 11 1. The missing term is 'quadratic equation'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_104"
     },
     {
-      "id": "mth111_110",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Definition: A sequence which is such that the common difference between two consecutive terms is a constant is called an ______.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_111",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_112",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "radian",
+        "differentiation",
+        "binomial theorem",
+        "arithmetic progression"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Definition: A sequence which is such that the common difference between two consecutive terms is a constant is called an arithmetic progression. The missing term is 'arithmetic progression'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_105"
     },
     {
-      "id": "mth111_113",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"x 2 (A \\ B) [ (A \\ C) Arbitrary choice ) x 2 (A \\ B) or x 2 (A \\ C) de nition of union ) x 2 A and x 2 B or x 2 A and x 2 C de nition of ______ ) x 2 A and x 2 B or x 2 C de nition of union ) x 2 A and x 2 (B [ C).\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "inequality",
+        "power set",
+        "probability",
+        "intersection"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: x 2 (A \\ B) [ (A \\ C) Arbitrary choice ) x 2 (A \\ B) or x 2 (A \\ C) de nition of union ) x 2 A and x 2 B or x 2 A and x 2 C de nition of intersection ) x 2 A and x 2 B or x 2 C de nition of union ) x 2 A and x 2 (B [ C). The missing term is 'intersection'.",
+      "difficulty": 3,
+      "topic": "Complex Numbers",
+      "id": "mth111_106"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Revisit the relationship between degree and ______ measure of an angle and do some conversions.\"",
+      "options": [
+        "combination",
+        "real part",
+        "radian",
+        "matrix"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Revisit the relationship between degree and radian measure of an angle and do some conversions. The missing term is 'radian'.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_107"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The function has period T , if T is the smallest value for which the ______ holds.\"",
+      "options": [
+        "complex number",
+        "equivalence",
+        "intersection",
+        "relation"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: The function has period T , if T is the smallest value for which the relation holds. The missing term is 'relation'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_108"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"One way to describe the elements of the ______ is to take \"the set of traders who live on the moon\".\"",
+      "options": [
+        "Cartesian product",
+        "sequence",
+        "imaginary part",
+        "empty set"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: One way to describe the elements of the empty set is to take \"the set of traders who live on the moon\". The missing term is 'empty set'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_109"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In the case of (v), union distributes over ______ and vise versa.\"",
+      "options": [
+        "series",
+        "subset",
+        "De Moivre",
+        "intersection"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: In the case of (v), union distributes over intersection and vise versa. The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_110"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Use ______s theorem to establish trigonometric identities and explore the complex roots of numbers.\"",
+      "options": [
+        "vector",
+        "set",
+        "De Moivre",
+        "domain"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Use De Moivres theorem to establish trigonometric identities and explore the complex roots of numbers. The missing term is 'De Moivre'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_111"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Examples: Sequence common ratio 2,6,18, 54, …3 4,2,1, 1/2, …½ 9, -27, 81, -243,…-3 – ¼, ½, -1, 2, …-2 To Find the nth Term of a ______.\"",
+      "options": [
+        "tangent",
+        "geometric progression",
+        "relation",
+        "empty set"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Examples: Sequence common ratio 2,6,18, 54, …3 4,2,1, 1/2, …½ 9, -27, 81, -243,…-3 – ¼, ½, -1, 2, …-2 To Find the nth Term of a Geometric Progression. The missing term is 'geometric progression'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_112"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ of sets A and B, written as A u B Is the set of elements that appear in either A OR B 6.\"",
+      "options": [
+        "polynomial",
+        "union",
+        "modulus",
+        "range"
+      ],
+      "correct_index": 1,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The union of sets A and B, written as A u B Is the set of elements that appear in either A OR B 6. The missing term is 'union'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_113"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Note: The natural numbers set is a ______ of the whole numbers i.e.\"",
+      "options": [
+        "tangent",
+        "radian",
+        "subset",
+        "Cartesian product"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Note: The natural numbers set is a subset of the whole numbers i.e. The missing term is 'subset'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_114"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"is the real part of the number denoted by while is the ______ of and is denoted .\"",
+      "options": [
+        "imaginary part",
+        "Cartesian product",
+        "union",
+        "binary operation"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: is the real part of the number denoted by while is the imaginary part of and is denoted . The missing term is 'imaginary part'.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_115"
     },
     {
-      "id": "mth111_114",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The line representing is in the second quadrant, so its principal ______ is positive and obtuse.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_115",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_116",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_117",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "argument",
+        "inverse",
+        "matrix",
+        "sequence"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The line representing is in the second quadrant, so its principal argument is positive and obtuse. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_116"
     },
     {
-      "id": "mth111_118",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Identify an ______ (AP) and nd the sum of n terms of any AP.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_119",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_120",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "mapping",
+        "binary operation",
+        "range",
+        "arithmetic progression"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Identify an Arithmetic Progression (AP) and nd the sum of n terms of any AP. The missing term is 'arithmetic progression'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_117"
     },
     {
-      "id": "mth111_121",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"4.5.1 The Remainder Theorem If P (x) is a ______ in x; then the remainder when P (x) is divided by (x b) is P (b).\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "polynomial",
+        "intersection",
+        "empty set",
+        "scalar"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: 4.5.1 The Remainder Theorem If P (x) is a polynomial in x; then the remainder when P (x) is divided by (x b) is P (b). The missing term is 'polynomial'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_118"
     },
     {
-      "id": "mth111_122",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Properties of the above graphs (1)The sine and cosine graphs are both continuous but the ______ is not.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_123",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_124",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "determinant",
+        "subset",
+        "differentiation",
+        "tangent"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Properties of the above graphs (1)The sine and cosine graphs are both continuous but the tangent is not. The missing term is 'tangent'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_119"
     },
     {
-      "id": "mth111_125",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ graph is also periodic with period and has the same shape with that of sine.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "cosine",
+        "logarithm",
+        "range",
+        "continuity"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The cosine graph is also periodic with period and has the same shape with that of sine. The missing term is 'cosine'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_120"
     },
     {
-      "id": "mth111_126",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Hence a typical GP takes the following form: a; ar; ar2; :::; arn1:Consequently the nth term of a GP is given by un = l = arn1: Example 3.9 : The third term of a ______ is 10, and the sixth term is 80.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_127",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_128",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_129",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "geometric progression",
+        "quadratic equation",
+        "power set",
+        "series"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Hence a typical GP takes the following form: a; ar; ar2; :::; arn1:Consequently the nth term of a GP is given by un = l = arn1: Example 3.9 : The third term of a Geometric Progression is 10, and the sixth term is 80. The missing term is 'geometric progression'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_121"
     },
     {
-      "id": "mth111_130",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Establish the fundamental trigonometric identities, study multiple angles, the sine and ______ rules and then discuss the factor formulae.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "arithmetic progression",
+        "cosine",
+        "imaginary part",
+        "radian"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Establish the fundamental trigonometric identities, study multiple angles, the sine and cosine rules and then discuss the factor formulae. The missing term is 'cosine'.",
+      "difficulty": 2,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_122"
     },
     {
-      "id": "mth111_131",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"2 Mathematical induction and ______ 2.1 Learning Objectives In this module: W e introduce the principle of mathematical induction and consolidate its use as a method of proof.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "De Moivre",
+        "function",
+        "binomial theorem",
+        "vector"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: 2 Mathematical induction and Binomial theorem 2.1 Learning Objectives In this module: W e introduce the principle of mathematical induction and consolidate its use as a method of proof. The missing term is 'binomial theorem'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_123"
     },
     {
-      "id": "mth111_132",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The line representing lie in the third quadrant, so its principal ______ is negative and obtuse.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "exponential",
+        "sequence",
+        "argument",
+        "arithmetic progression"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The line representing lie in the third quadrant, so its principal argument is negative and obtuse. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_124"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Let P (x) be a ______ in x; Q(x) be the quotient when P (x) is divided by (x b) and R be the remainder.\"",
+      "options": [
+        "power set",
+        "matrix",
+        "cosine",
+        "polynomial"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Let P (x) be a polynomial in x; Q(x) be the quotient when P (x) is divided by (x b) and R be the remainder. The missing term is 'polynomial'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_125"
     },
     {
-      "id": "mth111_133",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"= (A [ B) \\ [(A0 [ B0) [ (A \\ B)] By de nition of ______ = [(A [ B) \\ U ] \\ [((A0 [ B0) \\ U ) [ (A \\ B)] By the de nition of intersection.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "imaginary part",
+        "cosine",
+        "scalar",
+        "universal set"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: = (A [ B) \\ [(A0 [ B0) [ (A \\ B)] By de nition of universal set = [(A [ B) \\ U ] \\ [((A0 [ B0) \\ U ) [ (A \\ B)] By the de nition of intersection. The missing term is 'universal set'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_126"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Find the value of the constant k for which the ______ x4 + x3 + kx2 + 5x 10 has (x + 2) as a factor.\"",
+      "options": [
+        "binary operation",
+        "polynomial",
+        "transpose",
+        "limit"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Find the value of the constant k for which the polynomial x4 + x3 + kx2 + 5x 10 has (x + 2) as a factor. The missing term is 'polynomial'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_127"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"If there is at least one element of that is not in , we say that is a proper ______ of or is a super set of (written as ).\"",
+      "options": [
+        "subset",
+        "function",
+        "binomial theorem",
+        "logarithm"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: If there is at least one element of that is not in , we say that is a proper subset of or is a super set of (written as ). The missing term is 'subset'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_128"
     },
     {
-      "id": "mth111_134",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"So in finding the ______ of , we use arctan together with the quadrant diagram.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_135",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_136",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_137",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "argument",
+        "universal set",
+        "intersection",
+        "combination"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: So in finding the argument of , we use arctan together with the quadrant diagram. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_129"
     },
     {
-      "id": "mth111_138",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"LAWS OF SETS Laws of Union and ______ Let and be the universal and empty sets respectively and and let be any three sets.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_139",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "dot product",
+        "sine",
+        "intersection",
+        "set"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: LAWS OF SETS Laws of Union and Intersection Let and be the universal and empty sets respectively and and let be any three sets. The missing term is 'intersection'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_130"
     },
     {
-      "id": "mth111_140",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"For example, Examples: (i) Find the modulus and ______ of in the form .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "imaginary part",
+        "argument",
+        "trigonometry",
+        "universal set"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: For example, Examples: (i) Find the modulus and argument of in the form . The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_131"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Find the roots of the ______ 2𝑥3 + 5𝑥2 − 14𝑥 − 8 = 0 Result: 𝑥1 = −3 [=] 𝑥2 = 3 [=] 𝑥3 = 1 3.\"",
+      "options": [
+        "complex number",
+        "cross product",
+        "quadratic equation",
+        "binary operation"
+      ],
+      "correct_index": 2,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: Find the roots of the quadratic equation 2𝑥3 + 5𝑥2 − 14𝑥 − 8 = 0 Result: 𝑥1 = −3 [=] 𝑥2 = 3 [=] 𝑥3 = 1 3. The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_132"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"(14) The portion of the curve satis ed by the ______ (portion below the x-axis) are for x between 3 and 5 .\"",
+      "options": [
+        "binomial theorem",
+        "modulus",
+        "quadratic equation",
+        "inequality"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: (14) The portion of the curve satis ed by the inequality (portion below the x-axis) are for x between 3 and 5 . The missing term is 'inequality'.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_133"
     },
     {
-      "id": "mth111_141",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Proof: T ake log2 3: The ______ we present is one by contradiction ( reductio ad absurdum).\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "scalar",
+        "argument",
+        "intersection",
+        "mapping"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Proof: T ake log2 3: The argument we present is one by contradiction ( reductio ad absurdum). The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_134"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"It is important to note that there is only one ______ but it can be described in many di⁄ erent ways.\"",
+      "options": [
+        "Cartesian product",
+        "empty set",
+        "real part",
+        "Venn diagram"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: It is important to note that there is only one empty set but it can be described in many di⁄ erent ways. The missing term is 'empty set'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_135"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Thus, if a ______ has the form for some then or equivalently, ) = 0.\"",
+      "options": [
+        "geometric progression",
+        "quadratic equation",
+        "dot product",
+        "relation"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Thus, if a quadratic equation has the form for some then or equivalently, ) = 0. The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_136"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"THE ______ Expansion of Algebraic Expressions You are already familiar with the expansion of .\"",
+      "options": [
+        "permutation",
+        "binomial theorem",
+        "binary operation",
+        "determinant"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: THE BINOMIAL THEOREM Expansion of Algebraic Expressions You are already familiar with the expansion of . The missing term is 'binomial theorem'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_137"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Example: Find the exact value of using the ______.\"",
+      "options": [
+        "limit",
+        "binomial theorem",
+        "root",
+        "permutation"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Example: Find the exact value of using the binomial theorem. The missing term is 'binomial theorem'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_138"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The 6th term of an ______ is 12 and the 30 th term is 180 find A.\"",
+      "options": [
+        "modulus",
+        "cross product",
+        "limit",
+        "arithmetic progression"
+      ],
+      "correct_index": 3,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The 6th term of an arithmetic progression is 12 and the 30 th term is 180 find A. The missing term is 'arithmetic progression'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_139"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Relations are introduced as subsets of a ______ and the domain, range and inverse of a relation de ned and explored.\"",
+      "options": [
+        "integral",
+        "exponential",
+        "Cartesian product",
+        "scalar"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Relations are introduced as subsets of a Cartesian product and the domain, range and inverse of a relation de ned and explored. The missing term is 'Cartesian product'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_140"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In this section, we introduce the concept of ______ and examine the relationship between degrees and radians.\"",
+      "options": [
+        "Cartesian product",
+        "matrix",
+        "radian",
+        "domain"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: In this section, we introduce the concept of radian and examine the relationship between degrees and radians. The missing term is 'radian'.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_141"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"= QUADRATIC EQUATIONS Introduction A ______ is an equation of the form , where are real numbers with .\"",
+      "options": [
+        "quadratic equation",
+        "subset",
+        "real part",
+        "modulus"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: = QUADRATIC EQUATIONS Introduction A quadratic equation is an equation of the form , where are real numbers with . The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_142"
     },
     {
-      "id": "mth111_142",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"A ______ has first trem 64 and sum to infinity 256.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_143",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_144",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_145",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "geometric progression",
+        "relation",
+        "inverse",
+        "arithmetic progression"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From M111 ASSIGNMENT.pdf: A geometric progression has first trem 64 and sum to infinity 256. The missing term is 'geometric progression'.",
+      "difficulty": 1,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_143"
     },
     {
-      "id": "mth111_146",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"In ∆, the ______ ratio is positive while the sine and cosine ratio are negative respectively.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_147",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_148",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_149",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "tangent",
+        "modulus",
+        "dot product",
+        "logarithm"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: In ∆, the tangent ratio is positive while the sine and cosine ratio are negative respectively. The missing term is 'tangent'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_144"
     },
     {
-      "id": "mth111_150",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Therefore the range of values satis ed by the ______ is 3 < x < 5 Analytic method Again, this can be solved analytically by observing that if (x 3)(x 5) < 0 then x 3 and x 5 must have di⁄ erent signs.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_151",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "permutation",
+        "arithmetic progression",
+        "inequality",
+        "Cartesian product"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Therefore the range of values satis ed by the inequality is 3 < x < 5 Analytic method Again, this can be solved analytically by observing that if (x 3)(x 5) < 0 then x 3 and x 5 must have di⁄ erent signs. The missing term is 'inequality'.",
+      "difficulty": 2,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_145"
     },
     {
-      "id": "mth111_152",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The sum of n terms of a GP is easily obtained by the following ______.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "tangent",
+        "probability",
+        "argument",
+        "modulus"
       ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: The sum of n terms of a GP is easily obtained by the following argument. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_146"
     },
     {
-      "id": "mth111_153",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"= [(A [ B) \\ (B [ B0] \\ [((A0 \\ B0) \\ (A [ A0)) [ (A \\ B)] de nition of ______ = [(A \\ B0) [ B] \\ [((A \\ B 0 ) [ A0) [ (A \\ B)] By the distributive law.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "universal set",
+        "argument",
+        "power set",
+        "Cartesian product"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: = [(A [ B) \\ (B [ B0] \\ [((A0 \\ B0) \\ (A [ A0)) [ (A \\ B)] de nition of universal set = [(A \\ B0) [ B] \\ [((A \\ B 0 ) [ A0) [ (A \\ B)] By the distributive law. The missing term is 'universal set'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_147"
     },
     {
-      "id": "mth111_154",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"For example, if we have that and , then an appropriate ______ will be the set of natural numbers.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "equivalence",
+        "universal set",
+        "derivative",
+        "tangent"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: For example, if we have that and , then an appropriate universal set will be the set of natural numbers. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_148"
     },
     {
-      "id": "mth111_155",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The possible range of sine and cosine are but that of ______ is unlimited.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_156",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "arithmetic progression",
+        "subset",
+        "range",
+        "tangent"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The possible range of sine and cosine are but that of tangent is unlimited. The missing term is 'tangent'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_149"
     },
     {
-      "id": "mth111_157",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"1 ______ = For example: and CURCULAR FUNCTIONS There correspond six trigonometric ratios for any acute angle , each defined by making reference to the right angled triangle containing .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "modulus",
+        "domain",
+        "radian",
+        "real part"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: 1 radian = For example: and CURCULAR FUNCTIONS There correspond six trigonometric ratios for any acute angle , each defined by making reference to the right angled triangle containing . The missing term is 'radian'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_150"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"1.4.4 Representation of Sets with V enn diagrams One important way of visualizing the relationship between subsets and the corresponding ______ is by V enn diagram.\"",
+      "options": [
+        "quadratic equation",
+        "imaginary part",
+        "scalar",
+        "universal set"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: 1.4.4 Representation of Sets with V enn diagrams One important way of visualizing the relationship between subsets and the corresponding universal set is by V enn diagram. The missing term is 'universal set'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_151"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"jz1 + z2j2 (jz1j + jz2j)2 Taking the square root of both sides to obtain the moduli (nonnegative), we have the result: jz1 + z2j jz1j + jz2j: We can generalise the triangular ______ to any nite number of terms.\"",
+      "options": [
+        "inequality",
+        "polynomial",
+        "probability",
+        "complement"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: jz1 + z2j2 (jz1j + jz2j)2 Taking the square root of both sides to obtain the moduli (nonnegative), we have the result: jz1 + z2j jz1j + jz2j: We can generalise the triangular inequality to any nite number of terms. The missing term is 'inequality'.",
+      "difficulty": 2,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_152"
     },
     {
-      "id": "mth111_158",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"We can combine DeMoivre’s theorem and ______ to express in terms of .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_159",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_160",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_161",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "binomial theorem",
+        "complex number",
+        "logarithm",
+        "arithmetic progression"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: We can combine DeMoivre’s theorem and Binomial theorem to express in terms of . The missing term is 'binomial theorem'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_153"
     },
     {
-      "id": "mth111_162",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"If we consider the set of negative integers B = f1; 2; 3; :::g and the set of positive integers, C = f1; 2; 3; :::g, then a suitable ______ is the set of integers, U = f:::; 3; 2; 1; 0; 1; 2; 3; :::g.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_163",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_164",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_165",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "universal set",
+        "real part",
+        "scalar",
+        "imaginary part"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: If we consider the set of negative integers B = f1; 2; 3; :::g and the set of positive integers, C = f1; 2; 3; :::g, then a suitable universal set is the set of integers, U = f:::; 3; 2; 1; 0; 1; 2; 3; :::g. The missing term is 'universal set'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_154"
     },
     {
-      "id": "mth111_166",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"F or the second result, we show as follows: A [ B = (A [ B) \\ U By de nition of intersection ( where U is the ______ ).\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "root",
+        "universal set",
+        "Venn diagram",
+        "trigonometry"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: F or the second result, we show as follows: A [ B = (A [ B) \\ U By de nition of intersection ( where U is the universal set ). The missing term is 'universal set'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_155"
     },
     {
-      "id": "mth111_167",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"For (ii) and (iii),the union and ______ are both commutative and associative.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_168",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "radian",
+        "union",
+        "real part",
+        "intersection"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: For (ii) and (iii),the union and intersection are both commutative and associative. The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_156"
     },
     {
-      "id": "mth111_169",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"It is often useful to be able to obtain information about the roots of the ______ without actually solving it.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "tangent",
+        "quadratic equation",
+        "union",
+        "Venn diagram"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: It is often useful to be able to obtain information about the roots of the quadratic equation without actually solving it. The missing term is 'quadratic equation'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_157"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Find the ______ of boys who offered (i) French or German but not Spanish (ii) French and German but not Spanish.\"",
+      "options": [
+        "equivalence",
+        "polynomial",
+        "exponential",
+        "probability"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 Exercises.pdf: Find the probability of boys who offered (i) French or German but not Spanish (ii) French and German but not Spanish. The missing term is 'probability'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_158"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Example 3.1 : If the third term of an ______ is 10 and the seventh term is 34.\"",
+      "options": [
+        "arithmetic progression",
+        "complement",
+        "Venn diagram",
+        "binomial theorem"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Example 3.1 : If the third term of an Arithmetic Progression is 10 and the seventh term is 34. The missing term is 'arithmetic progression'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_159"
     },
     {
-      "id": "mth111_170",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Theorem 1 Thus for any subsets A; B;and C of some ______ U , 1.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_171",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_172",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "root",
+        "intersection",
+        "exponential",
+        "universal set"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Theorem 1 Thus for any subsets A; B;and C of some universal set U , 1. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_160"
     },
     {
-      "id": "mth111_173",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"HINTS; choose option 3 if you have a ______ (X 2) and option 4 if you have a cubic equation (X3).\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "scalar",
+        "sine",
+        "permutation",
+        "quadratic equation"
+      ],
+      "correct_index": 3,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: HINTS; choose option 3 if you have a quadratic equation (X 2) and option 4 if you have a cubic equation (X3). The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_161"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Union and ______ of Sets: The union of two sets and denoted by is the set containing all the elements of or or both.\"",
+      "options": [
+        "intersection",
+        "equivalence",
+        "empty set",
+        "trigonometry"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Union and Intersection of Sets: The union of two sets and denoted by is the set containing all the elements of or or both. The missing term is 'intersection'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_162"
     },
     {
-      "id": "mth111_174",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"If an arc of a circle is drawn so that it is equal in length with the radius of the circle, then the angle subtended at the centre of the circle is called one ______ ().\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_175",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_176",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_177",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "radian",
+        "De Moivre",
+        "relation",
+        "continuity"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: If an arc of a circle is drawn so that it is equal in length with the radius of the circle, then the angle subtended at the centre of the circle is called one radian (). The missing term is 'radian'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_163"
     },
     {
-      "id": "mth111_178",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"If < and <1 are singled-valued, we say that < is a one-to-one ______.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_179",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_180",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_181",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "relation",
+        "logarithm",
+        "geometric progression",
+        "arithmetic progression"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: If < and <1 are singled-valued, we say that < is a one-to-one relation. The missing term is 'relation'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_164"
     },
     {
-      "id": "mth111_182",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"We end the module with discussions on the Arithmetic mean, the Geometric mean and the Sum to in nity of a ______.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_183",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_184",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_185",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "geometric progression",
+        "union",
+        "combination",
+        "real part"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: We end the module with discussions on the Arithmetic mean, the Geometric mean and the Sum to in nity of a geometric progression. The missing term is 'geometric progression'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_165"
     },
     {
-      "id": "mth111_186",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Form a ______ whose roots are: (i) 𝛼 + 1 and 𝛽 + 1 (ii) 1 𝛼 and 1 𝛽 (iii) 𝛼+1 𝛽+ 1 and 𝛽+ 1 𝛼+1 (6) For what value(s) of 𝑝 will the equation 4𝑥2 = 2𝑝𝑥 + 25 have equal roots.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "cross product",
+        "quadratic equation",
+        "argument",
+        "binomial theorem"
       ],
       "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 Exercises.pdf: Form a quadratic equation whose roots are: (i) 𝛼 + 1 and 𝛽 + 1 (ii) 1 𝛼 and 1 𝛽 (iii) 𝛼+1 𝛽+ 1 and 𝛽+ 1 𝛼+1 (6) For what value(s) of 𝑝 will the equation 4𝑥2 = 2𝑝𝑥 + 25 have equal roots. The missing term is 'quadratic equation'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_166"
     },
     {
-      "id": "mth111_187",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The option ‘3’ is used for solving quadratic equations and option ‘4’ is for Cubic Equations thus the option 3 and 4 are the ______ modes.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_188",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_189",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "polynomial",
+        "discriminant",
+        "imaginary part",
+        "quadratic equation"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The option ‘3’ is used for solving quadratic equations and option ‘4’ is for Cubic Equations thus the option 3 and 4 are the polynomial modes. The missing term is 'polynomial'.",
+      "difficulty": 2,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_167"
     },
     {
-      "id": "mth111_190",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"AABAB A AB AB BA C BA C (i) (ii) (iii) B A C B A C AB AB (iv) (v) (vi) Number of Elements in a Two Set Problem Given two subsets and of the ______ , with , then If , then .\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_191",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_192",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "continuity",
+        "range",
+        "Venn diagram",
+        "universal set"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: AABAB A AB AB BA C BA C (i) (ii) (iii) B A C B A C AB AB (iv) (v) (vi) Number of Elements in a Two Set Problem Given two subsets and of the universal set , with , then If , then . The missing term is 'universal set'.",
+      "difficulty": 2,
+      "topic": "Relations & Functions",
+      "id": "mth111_168"
     },
     {
-      "id": "mth111_193",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"The general equation of ______ is given as 𝑎𝑥2+𝑏𝑥+𝑐=0.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "trigonometry",
+        "permutation",
+        "quadratic equation",
+        "integral"
+      ],
+      "correct_index": 2,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The general equation of quadratic equation is given as 𝑎𝑥2+𝑏𝑥+𝑐=0. The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_169"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Note that these statements about the ______ is not true for the principal value.\"",
+      "options": [
+        "argument",
+        "complex number",
+        "determinant",
+        "integral"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Note that these statements about the argument is not true for the principal value. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_170"
     },
     {
-      "id": "mth111_194",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"De nition 4.3: The Discriminant: Given any ______ ax2 + bx + c = 0, the quantity D = b2 4ac is called the discriminant of the equation.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_195",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "sequence",
+        "inequality",
+        "quadratic equation",
+        "tangent"
       ],
       "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: De nition 4.3: The Discriminant: Given any quadratic equation ax2 + bx + c = 0, the quantity D = b2 4ac is called the discriminant of the equation. The missing term is 'quadratic equation'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_171"
     },
     {
-      "id": "mth111_196",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"Establish the identity by induction: 1 1:3 + 1 2:4 + ::: + 1 n(n + 2) = 3 4 2n + 3 2(n + 1)(n + 2) f orn 2 2.5 ______ Introduction Expansion of expressions of the form (a + x)n where n = 1 ; 2; 3; ::.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_197",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "binomial theorem",
+        "vector",
+        "continuity",
+        "probability"
       ],
       "correct_index": 0,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: Establish the identity by induction: 1 1:3 + 1 2:4 + ::: + 1 n(n + 2) = 3 4 2n + 3 2(n + 1)(n + 2) f orn 2 2.5 Binomial theorem Introduction Expansion of expressions of the form (a + x)n where n = 1 ; 2; 3; ::. The missing term is 'binomial theorem'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_172"
     },
     {
-      "id": "mth111_198",
-      "text": "In General Mathematics I, which of the following is correct?",
+      "text": "Which term correctly completes this statement from the course notes? \"T ransitive if x<y and y<z implies that x<z for all x; y; z 2 A: De nition 1.20: For any set A; an ______ relation < on A is a relation < A A satisfying (1), (2) and (3) above.\"",
       "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 1,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_199",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
-      ],
-      "correct_index": 2,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
-    },
-    {
-      "id": "mth111_200",
-      "text": "In General Mathematics I, which of the following is correct?",
-      "options": [
-        "General Mathematics I concept A",
-        "General Mathematics I concept B",
-        "General Mathematics I concept C",
-        "General Mathematics I concept D"
+        "binary operation",
+        "root",
+        "Cartesian product",
+        "equivalence"
       ],
       "correct_index": 3,
-      "explanation": "Based on general mathematics i material.",
-      "difficulty": 1
+      "explanation": "From MTH 111 General Mathematics I.pdf: T ransitive if x<y and y<z implies that x<z for all x; y; z 2 A: De nition 1.20: For any set A; an equivalence relation < on A is a relation < A A satisfying (1), (2) and (3) above. The missing term is 'equivalence'.",
+      "difficulty": 2,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_173"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ denoted as A n B is the set of elements common to both A and B 5.\"",
+      "options": [
+        "intersection",
+        "combination",
+        "equivalence",
+        "range"
+      ],
+      "correct_index": 0,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: The intersection denoted as A n B is the set of elements common to both A and B 5. The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_174"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Eliminating a, we have r3 = 8 ) r = 2 :Hence 4a = 10 ) a = 10 4 = 2 1 2 : 42 De nition 3.8: Geomtric Series: A Geometric series is de ned as the sum of the terms of a ______.\"",
+      "options": [
+        "scalar",
+        "mapping",
+        "geometric progression",
+        "exponential"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Eliminating a, we have r3 = 8 ) r = 2 :Hence 4a = 10 ) a = 10 4 = 2 1 2 : 42 De nition 3.8: Geomtric Series: A Geometric series is de ned as the sum of the terms of a Geometric Progression. The missing term is 'geometric progression'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_175"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"This ______ contains all the elements that are under consideration.\"",
+      "options": [
+        "De Moivre",
+        "sequence",
+        "differentiation",
+        "universal set"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: This universal set contains all the elements that are under consideration. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_176"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"(Identity laws) (Distributive laws) Remarks: In (i), the union/______ of with is .\"",
+      "options": [
+        "intersection",
+        "cosine",
+        "continuity",
+        "Cartesian product"
+      ],
+      "correct_index": 0,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: (Identity laws) (Distributive laws) Remarks: In (i), the union/intersection of with is . The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_177"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The numbers and both have an ______ arctan but different angles because they lie in different quadrants.\"",
+      "options": [
+        "sequence",
+        "series",
+        "argument",
+        "domain"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The numbers and both have an argument arctan but different angles because they lie in different quadrants. The missing term is 'argument'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_178"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Represent the information on a ______ and find how many boys are there altogether.\"",
+      "options": [
+        "limit",
+        "differentiation",
+        "Venn diagram",
+        "complex number"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 Exercises.pdf: Represent the information on a Venn diagram and find how many boys are there altogether. The missing term is 'Venn diagram'.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_179"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In ∆, using the signs of the coordinates as shown, we have that the sine ratio is positive while the cosine and ______ ratios are negative respectively.\"",
+      "options": [
+        "cross product",
+        "union",
+        "Venn diagram",
+        "tangent"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: In ∆, using the signs of the coordinates as shown, we have that the sine ratio is positive while the cosine and tangent ratios are negative respectively. The missing term is 'tangent'.",
+      "difficulty": 2,
+      "topic": "Complex Numbers",
+      "id": "mth111_180"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"In nite sequences have domain N or any in nite ______ of N that is equivalent to N .\"",
+      "options": [
+        "power set",
+        "dot product",
+        "real part",
+        "subset"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: In nite sequences have domain N or any in nite subset of N that is equivalent to N . The missing term is 'subset'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_181"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Which of these is a factor of the ______ 2𝑥2 − 7𝑥 − 4 (a) 𝑥 − 4 (b) 2𝑥 − 2 (c)3𝑥 − 1 (d) 𝑥 − 3 4.\"",
+      "options": [
+        "polynomial",
+        "permutation",
+        "integral",
+        "derivative"
+      ],
+      "correct_index": 0,
+      "explanation": "From Share MTH 101 TRICKS by OTOP CONSULT-1.pdf: Which of these is a factor of the polynomial 2𝑥2 − 7𝑥 − 4 (a) 𝑥 − 4 (b) 2𝑥 − 2 (c)3𝑥 − 1 (d) 𝑥 − 3 4. The missing term is 'polynomial'.",
+      "difficulty": 1,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_182"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ ratio is positive in the first and third quadrants.\"",
+      "options": [
+        "cross product",
+        "De Moivre",
+        "tangent",
+        "trigonometry"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The tangent ratio is positive in the first and third quadrants. The missing term is 'tangent'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_183"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"If A and B are subsets of the ______ U; show that (i) A [ (A \\ B) = A; (ii) A \\ (A [ B) = A: 6.\"",
+      "options": [
+        "binomial theorem",
+        "imaginary part",
+        "determinant",
+        "universal set"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: If A and B are subsets of the universal set U; show that (i) A [ (A \\ B) = A; (ii) A \\ (A [ B) = A: 6. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_184"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Example: Give that are the roots of, form a ______ whose roots are .\"",
+      "options": [
+        "relation",
+        "sine",
+        "quadratic equation",
+        "derivative"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Example: Give that are the roots of, form a quadratic equation whose roots are . The missing term is 'quadratic equation'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_185"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Union is called a ______ as it combines 2 sets at a time to give a third set.\"",
+      "options": [
+        "function",
+        "complement",
+        "cosine",
+        "binary operation"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Union is called a binary operation as it combines 2 sets at a time to give a third set. The missing term is 'binary operation'.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_186"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Law (iv) presents to us and as the identity elements for union while and are the identity elements for ______.\"",
+      "options": [
+        "union",
+        "intersection",
+        "De Moivre",
+        "subset"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Law (iv) presents to us and as the identity elements for union while and are the identity elements for intersection. The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_187"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"(ii) For multiplication: Each real number , except 0, has a unique multiplicative ______ represented by , which has the property that 5.Commutative property: (i) For addition:,for all .\"",
+      "options": [
+        "combination",
+        "inverse",
+        "De Moivre",
+        "complex number"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: (ii) For multiplication: Each real number , except 0, has a unique multiplicative inverse represented by , which has the property that 5.Commutative property: (i) For addition:,for all . The missing term is 'inverse'.",
+      "difficulty": 2,
+      "topic": "Matrices & Vectors",
+      "id": "mth111_188"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Definition:A ______ is an ordered arrangement of a set of objects, taking either some or all at a time.\"",
+      "options": [
+        "permutation",
+        "scalar",
+        "binary operation",
+        "sine"
+      ],
+      "correct_index": 0,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Definition:A permutation is an ordered arrangement of a set of objects, taking either some or all at a time. The missing term is 'permutation'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_189"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"THE NUMBER SYSTEM INTRODUCTION This chapter treats number system, mathematical induction, the theory of quadratic equations and ______.\"",
+      "options": [
+        "binomial theorem",
+        "derivative",
+        "power set",
+        "sine"
+      ],
+      "correct_index": 0,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: THE NUMBER SYSTEM INTRODUCTION This chapter treats number system, mathematical induction, the theory of quadratic equations and binomial theorem. The missing term is 'binomial theorem'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_190"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"COMBINATORIAL ANALYSIS ______ Sometimes, we are faced with problems of arrangement like the arrangement of books in different orders on a bookshelf in a library.\"",
+      "options": [
+        "power set",
+        "domain",
+        "matrix",
+        "permutation"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: COMBINATORIAL ANALYSIS Permutation Sometimes, we are faced with problems of arrangement like the arrangement of books in different orders on a bookshelf in a library. The missing term is 'permutation'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_191"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"For example, if , then will be an ______ because it is impossible to be admitted in the department of mathematics or the university at large without O’Level result.\"",
+      "options": [
+        "subset",
+        "empty set",
+        "exponential",
+        "imaginary part"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: For example, if , then will be an empty set because it is impossible to be admitted in the department of mathematics or the university at large without O’Level result. The missing term is 'empty set'.",
+      "difficulty": 2,
+      "topic": "Sets & Logic",
+      "id": "mth111_192"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The ______ is usually presented by a rectangle and subsets by circles drawn in the rectangles.\"",
+      "options": [
+        "dot product",
+        "complex number",
+        "universal set",
+        "relation"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: The universal set is usually presented by a rectangle and subsets by circles drawn in the rectangles. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_193"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Thus the set A = f2; 3g can be viewed from the perspective that its ______ U is given by U = f1; 2; 3; :::g.\"",
+      "options": [
+        "Venn diagram",
+        "relation",
+        "cosine",
+        "universal set"
+      ],
+      "correct_index": 3,
+      "explanation": "From MTH 111 General Mathematics I.pdf: Thus the set A = f2; 3g can be viewed from the perspective that its universal set U is given by U = f1; 2; 3; :::g. The missing term is 'universal set'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_194"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"A \\ (B \\ C) = ( A \\ B)\\ C Associativity law for ______.\"",
+      "options": [
+        "continuity",
+        "intersection",
+        "equivalence",
+        "matrix"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: A \\ (B \\ C) = ( A \\ B)\\ C Associativity law for intersection. The missing term is 'intersection'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_195"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The range of values of x that satis es the quadratic ______ (x 2)(2x+1)>0 can be found graphically as follows.\"",
+      "options": [
+        "limit",
+        "range",
+        "inequality",
+        "transpose"
+      ],
+      "correct_index": 2,
+      "explanation": "From MTH 111 General Mathematics I.pdf: The range of values of x that satis es the quadratic inequality (x 2)(2x+1)>0 can be found graphically as follows. The missing term is 'inequality'.",
+      "difficulty": 1,
+      "topic": "Trigonometry & Calculus Basics",
+      "id": "mth111_196"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"Two types of sequences usually discussed are the ______ (A.P) and Geometric Progression (G.P).\"",
+      "options": [
+        "arithmetic progression",
+        "relation",
+        "imaginary part",
+        "trigonometry"
+      ],
+      "correct_index": 0,
+      "explanation": "From MTH 111 New Lecture Notes-1-1-1.docx: Two types of sequences usually discussed are the Arithmetic Progression (A.P) and Geometric Progression (G.P). The missing term is 'arithmetic progression'.",
+      "difficulty": 1,
+      "topic": "Complex Numbers",
+      "id": "mth111_197"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"The two statements above together form the ______ for (1 + x)n.\"",
+      "options": [
+        "binomial theorem",
+        "argument",
+        "limit",
+        "radian"
+      ],
+      "correct_index": 0,
+      "explanation": "From MTH 111 General Mathematics I.pdf: The two statements above together form the binomial theorem for (1 + x)n. The missing term is 'binomial theorem'.",
+      "difficulty": 1,
+      "topic": "Sets & Logic",
+      "id": "mth111_198"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"If the fifth term of a ______ is 2 27, and the eight term is 2 729, find the first term, the common ratio and sum to infinity of the G.P.\"",
+      "options": [
+        "Cartesian product",
+        "geometric progression",
+        "tangent",
+        "intersection"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 Exercises.pdf: If the fifth term of a Geometric Progression is 2 27, and the eight term is 2 729, find the first term, the common ratio and sum to infinity of the G.P. The missing term is 'geometric progression'.",
+      "difficulty": 2,
+      "topic": "Polynomials & Sequences",
+      "id": "mth111_199"
+    },
+    {
+      "text": "Which term correctly completes this statement from the course notes? \"X is a proper ______ of Y as there are FULafia students not reading MTH 111.\"",
+      "options": [
+        "series",
+        "subset",
+        "limit",
+        "union"
+      ],
+      "correct_index": 1,
+      "explanation": "From MTH 111 General Mathematics I.pdf: X is a proper subset of Y as there are FULafia students not reading MTH 111. The missing term is 'subset'.",
+      "difficulty": 1,
+      "topic": "Relations & Functions",
+      "id": "mth111_200"
     }
   ]
 }
